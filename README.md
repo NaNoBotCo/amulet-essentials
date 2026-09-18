@@ -120,5 +120,9 @@ Stdlib Python for the pipeline; the vector and vision tools want the `.venv`.
 
 ## Licence
 
-Records CC BY 4.0. Pictures carry their own licences, stated per file and beside each
+Records CC BY-SA 4.0. Pictures carry their own licences, stated per file and beside each
 one on the site. Code MIT.
+
+**Commercial licence.** If share-alike doesn't fit your use — a corpus, a
+product, a model — a commercial licence is available.
+[Open an issue](https://github.com/NaNoBotCo/amulet-essentials/issues) and say what you need.
