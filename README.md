@@ -12,7 +12,7 @@ One JSON record per kind. The emic term leads; English glosses it.
 | | |
 |---|---|
 | kinds | 82, plus 6 the vault declines to place |
-| pictures | 774 across 61 kinds, 356 MB, each with a licence sidecar |
+| pictures | 683 published across 61 kinds, each with a licence sidecar; 774 harvested |
 | licences | CC BY-SA 291 · public domain 102 · CC0 97 · CC BY 128 · FAL 3 |
 | sources | 163 |
 | priced listings read | 15,300 |
