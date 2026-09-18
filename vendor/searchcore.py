@@ -683,8 +683,7 @@ class Thesaurus:
 # Putting it together
 # ---------------------------------------------------------------------------
 
-# What a match cost. Reported to the reader in these words, so a near-spelling
-# hit is never passed off as an exact one.
+# What a match cost. Reported to the reader in these words.
 TIER_EXACT = "exact"
 TIER_THESAURUS = "thesaurus"
 TIER_LOOSE = "loose"
@@ -929,7 +928,7 @@ class SearchCore:
         Not an optimisation so much as the difference between a working search
         and a broken one. Computing a phonetic key per word per document per
         query means 12,353 listings × their words × every keystroke, and the
-        first honest measurement of this took minutes per query set. These sites
+        first measurement of this took minutes per query set. These sites
         are read on phones on satellite connections, so the document side is
         prepared when the index loads and never again; only the query, which is
         a handful of words, is analysed per search.
@@ -946,8 +945,8 @@ class SearchCore:
 
         Two numbers come back and both are needed. `score` orders results.
         `tier` is what the page TELLS the reader — the worst tier any term had
-        to fall back to, because that is the honest description of the match as
-        a whole, not the best one.
+        to fall back to, because that describes the match as a whole rather than
+        its best term.
         """
         if not an.terms:
             return None
@@ -1209,8 +1208,8 @@ class Index:
         # documents matching some are a fallback — offered only when there is no
         # answer. Returning them mixed together also made the count lie:
         # ร้านกาแฟนิมมาน reported 2,247 finds, being every café in the directory
-        # plus everything else on that road, when the honest number was the
-        # handful that are both.
+        # plus everything else on that road, when the answer was the handful
+        # that are both.
         whole = [r for r in out if r[3] >= 1.0]
         if whole:
             out = whole
