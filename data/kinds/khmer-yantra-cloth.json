@@ -1,0 +1,602 @@
+{
+ "schema": 1,
+ "id": "khmer-yantra-cloth",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ผ้ายันต์เขมร",
+  "roman": "yoan (Khmer yantra cloth)",
+  "en": "Khmer yantra cloth",
+  "aliases": {
+   "th": [
+    "ผ้ายันต์ขอม",
+    "ยันต์เขมร",
+    "ผ้าขาวม้ายันต์"
+   ],
+   "roman": [
+    "yan khmer",
+    "yantra khmer",
+    "pha yan khmer",
+    "krama yoan"
+   ],
+   "en": [
+    "Cambodian yantra cloth",
+    "Khmer yant",
+    "yantra krama"
+   ]
+  },
+  "other_scripts": {
+   "km": "យ័ន្ត"
+  }
+ },
+ "region": [
+  "kh"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "kan_phi"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "ผ้าสี่เหลี่ยม พื้นแดง ดำ หรือขาว เขียนหรือพิมพ์ยันต์ตัวขอมและรูป แขวนขื่อบ้าน พับพก หรือคาดตัว",
+  "shape_en": "A square or rectangle of red, black or white cloth drawn or printed with grids, figures and Khom letters; hung from a house beam, folded into a pocket, or worn by fighters. A plain krama is a garment; a yantra cloth is a separately drawn object, and 'yantra krama' sold to visitors is a modern trade form.",
+  "size_mm": null,
+  "wearable_th": "แขวน พับพก หรือพันตัว",
+  "wearable_en": "Hung, folded and carried, or wrapped on the body",
+  "obverse_th": "ยันต์ตาราง อักขระ และรูป (เช่น เหวัชระ นกคุ่ม)",
+  "obverse_en": "Grid yantra, letters and figures — Hevajra yantra and the rain-quail motif are recorded for Khmer cloths",
+  "reverse_th": "เรียบ",
+  "reverse_en": "Plain",
+  "notes_en": "The krama itself carries no yantra in either the English or the Khmer Wikipedia article on it; the sacred cloth is a different object that may be tied on like one."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์เหวัชระ",
+   "en": "Hevajra yantra — Khmer esoteric iconography inherited from the Angkor period"
+  },
+  {
+   "th": "นกคุ่ม (rain quail)",
+   "en": "rain-quail motif recorded as typical of Khmer yantra cloths"
+  },
+  {
+   "th": "อักขระขอมและตารางเลข",
+   "en": "Khom letters and numbered grids"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ครูขแมร์ อาจารย์ และพระ",
+  "maker_en": "Kru khmer, achar and monks of the yogavacara line",
+  "era_th": "ประเพณีต่อเนื่องจากยุคพระนคร ไม่ระบุปี",
+  "era_en": "Undated; yantra practice in Cambodia is traced to the Khmer Empire around the ninth century, and the cloth form is documented into the present",
+  "place_th": "กัมพูชา",
+  "place_en": "Cambodia",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "พื้นผ้าแดง ดำ หรือขาว จารึกอักขระและรูปทรงเรขาคณิต",
+   "en": "Red, black or white ground carrying Buddhist esoteric inscriptions and geometric designs",
+   "source": "s:en-wiki-yantra-cloth",
+   "tier": "cited"
+  },
+  {
+   "th": "ผ้าเขมรมักมีรูปนกคุ่ม และใช้ยกขึ้นขื่อบ้านเป็นพิธีขึ้นบ้าน",
+   "en": "Khmer versions often carry the rain-quail motif and are raised on a house beam as the blessing of the house; Thai versions lean to Nang Kwak and monk portraits",
+   "source": "s:en-wiki-yantra-cloth",
+   "tier": "cited"
+  },
+  {
+   "th": "อักขระเป็นตัวขอม/มูล ใช้ยันต์บนผ้า กระดาษ และทองเหลืองทั้งในกัมพูชาและไทย",
+   "en": "Letters are the Khom / Mul hand that Cambodia and Thailand both use for yantra on cloth, paper and brass; the hand alone will not settle which side of the border made it",
+   "source": "s:en-wiki-khmer-script",
+   "tier": "cited"
+  },
+  {
+   "th": "นักสู้โบกาตอร์ผูกเชือกไหมน้ำเงินแดง (สังวาลย์เดย์) ที่ศีรษะและต้นแขน เชื่อว่าเสกเพิ่มกำลัง",
+   "en": "Bokator fighters tie blue and red silk cords (sangvar day) at head and biceps once believed enchanted for strength; the cloth worn into the ring is the same protective idea on a garment",
+   "source": "s:en-wiki-bokator",
+   "tier": "cited"
+  },
+  {
+   "th": "ของที่ผลิตโรงงานไม่ผ่านพิธีมีมาก — ใบเดียวกันอาจเป็นของเสกหรือของพิมพ์",
+   "en": "Factory-printed cloths without the rite are common; the same design can be a consecrated object or a souvenir, and the cloth will not tell you which",
+   "source": "s:en-wiki-yantra-cloth",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ชั้นเดียวกัน รูปเดียวกัน ต่างที่ลวดลาย (นกคุ่ม เหวัชระ) และครูผู้สร้าง",
+   "tell_en": "Same class and form as the Thai pha yan; the Khmer cloth is told by motif (rain quail, Hevajra yantra) and by the maker's lineage, not by the script, which is shared."
+  },
+  {
+   "id": "khmer-katha",
+   "tell_th": "กถาเป็นหลอดโลหะม้วน · ผ้ายันต์เป็นผ้าแผ่น",
+   "tell_en": "The katha is a rolled metal tube; this is a flat cloth. Same class, different form."
+  },
+  {
+   "id": "suea-yan",
+   "tell_th": "เสื้อยันต์เป็นเสื้อสวมทั้งตัว · ผ้ายันต์เขมรเป็นผืนแขวนหรือพัน",
+   "tell_en": "A yantra shirt is a stitched garment worn over the torso; the Khmer cloth is an unstitched square hung or wrapped."
+  },
+  {
+   "id": "lao-yan",
+   "tell_th": "ยันต์ลาวเขียนตัวธรรม · ผ้ายันต์เขมรเขียนตัวขอม",
+   "tell_en": "Lao yantra is in round Tham letters; the Khmer cloth in Khom. Look at the script before the design."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Krama",
+   "Category:Tattoos in Cambodia"
+  ],
+  "commons_files": [
+   "File:Hevajrayantra.webp",
+   "File:Cambodia1.jpg",
+   "File:Shower tattoo - 20120210.jpg",
+   "File:Man with Krama.jpg"
+  ],
+  "wanted_en": "Hevajrayantra.webp (CC0) is a drawn Cambodian Hevajra yantra released by a Cambodian yogi's student — the design, not a cloth. The two tattoo photographs show the same yantra practice on skin; Man with Krama shows the plain garment for contrast. Needed: a Khmer yantra cloth flat, one tied on a house beam, and a fighter's cloth in wear."
+ },
+ "images": [
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-hevajrayantra-30558c.webp",
+   "source": "commons",
+   "title": "File:Hevajrayantra.webp",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hevajrayantra.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=162757596",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "The original distributor of this image is Gavin Symahanou",
+   "credit": "This image was originally distributed the public by Gavin Symahanou with the expressed permission of a Cambodian yogi. Gavin's website is esoterictheravada.org",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Cambodian Hevajra Yantra",
+   "sha256": "fa5e8e1ec12c88b871bf5efeb928aff0554e48ff83b04536663f770e536fa764",
+   "width": 676,
+   "height": 960,
+   "primary": true
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-market-woman-in-camodia-with-krama-95ea4d.jpg",
+   "source": "commons",
+   "title": "File:Market Woman in Camodia with Krama.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Market_Woman_in_Camodia_with_Krama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2197584",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Thomas Schoch",
+   "credit": "own work at http://www.retas.de/thomas/travel/cambodia2006/index.html",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Market woman with Krama in Kampong Thom, Cambodia",
+   "sha256": "93b2d9738652dc3d1d7c224696fc38310004bfa9dcbebee7cbb497b674033679",
+   "width": 1329,
+   "height": 1817
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-the-palm-juice-man-kraing-tbong-01-06-b85f0f.jpg",
+   "source": "commons",
+   "title": "File:The Palm Juice Man Kraing Tbong 01 06.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Palm_Juice_Man_Kraing_Tbong_01_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2587252",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Brett Matthews",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Many villagers are adept at shimmying up palm trees; they drink the juice and make palm sugar & wine.  Takeo Province",
+   "sha256": "767510937c0b6751e178ac71001a5e8a4b05423e9ac38e91a69f4921e55d2eb8",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-cambodiaricefarming1-9ff1d3.jpg",
+   "source": "commons",
+   "title": "File:Cambodiaricefarming1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Cambodiaricefarming1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5386052",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "International Rice Research Institute",
+   "credit": "Originally uploaded to Flickr as 35ps_00304.jpg",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Rice farming in Cambodia",
+   "sha256": "086638adb27660f0998c32ded1a5a7f80517dffd4ce6487f8aede4e8e36aa1a3",
+   "width": 3216,
+   "height": 2136
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-market-woman-kep-12ac77.jpg",
+   "source": "commons",
+   "title": "File:Market woman kep.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Market_woman_kep.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7301921",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Adam Jones Adam63",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — A market woman talks on her cell phone in Kep, Cambodia. May 2009.",
+   "sha256": "65d0ead5a12886835e723e90afb0911d5f963b4f780d14a7929db94526ba6816",
+   "width": 2304,
+   "height": 3072
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-khmer-rouge-clothing-5dd8f4.jpg",
+   "source": "commons",
+   "title": "File:Khmer rouge clothing.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Khmer_rouge_clothing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=10943648",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Toony",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Khmer rouge clothing, photography taken at the museum of w:Choeung Ek (august 2009)",
+   "sha256": "0f05f4e93a26f9cb8ee97130f3ea8d1b8d448c18513ee7dc62d4de29975ea9ba",
+   "width": 1271,
+   "height": 1627
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-cambodia1-44d76c.jpg",
+   "source": "commons",
+   "title": "File:Cambodia1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cambodia1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18277331",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Majmunka",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — In Cambodia. January 2012.",
+   "sha256": "42da48bcb5d896d53fc5aa9a6787d61e78a751b4046867aacc23cd11fbb26032",
+   "width": 2056,
+   "height": 3648
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-arn-chorn-pond9811a821-f2b1-4a1f-a11b-9b-726066.jpg",
+   "source": "commons",
+   "title": "File:Arn Chorn-Pond9811A821-F2B1-4A1F-A11B-9B5F61555963 mw800 s.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Arn_Chorn-Pond9811A821-F2B1-4A1F-A11B-9B5F61555963_mw800_s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=19654388",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Irwin Loy, VOA",
+   "credit": "VOA, http://www.voanews.com/content/khmer-rouge-labor-camp-survivor-learns-to-cry/1120633.html",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Arn Chorn-Pond, a Khmer Rouge survivor and co-founder of Cambodian Living Arts (VOA/Irwin Loy)",
+   "sha256": "c249b7d47bff64f4fe5d90509ea2d70229a106922eafa6eef132eeed1e1e203a",
+   "width": 800,
+   "height": 532
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-fermiers-avec-un-krama-49a42e.jpg",
+   "source": "commons",
+   "title": "File:Fermiers avec un krama.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Fermiers_avec_un_krama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=22493774",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Krama Krama",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Farmer and his son wearing krama scarves in the vicinity of Siem Reap.",
+   "sha256": "26847d8528c5f5cf4dce409297e299a2a266292a5a823b0ddc8c0e833ed0bf5f",
+   "width": 1000,
+   "height": 1401
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-shower-tattoo-20120210-66f0bb.jpg",
+   "source": "commons",
+   "title": "File:Shower tattoo - 20120210.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Shower_tattoo_-_20120210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=22562689",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "peter klashorst",
+   "credit": "Flickr: [1]",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — A tattoed Cambodian woman having a shower.",
+   "sha256": "c130ad67f9fcd6993ca662ea497a143d9a1dbbfc412e4e53900a793c969f195b",
+   "width": 3456,
+   "height": 5184
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-usmc-100510-m-2727g-009-ae5671.jpg",
+   "source": "commons",
+   "title": "File:USMC-100510-M-2727G-009.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/USMC-100510-M-2727G-009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23015118",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "This image was released by the United States Marine Corps with the ID 100510-M-2727G-009 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Petty Officer 3rd Class Clyde Fisher, a hospital corpsman with 3rd Medical Battalion, Combat Logistics Regiment 35, 3rd",
+   "sha256": "8111c537a46154cfdba3220f4e6d7147e4ed545bb1f639aee422f671012b097d",
+   "width": 1200,
+   "height": 1800
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-usmc-100510-m-2727g-007-8e52dc.jpg",
+   "source": "commons",
+   "title": "File:USMC-100510-M-2727G-007.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/USMC-100510-M-2727G-007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23015247",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "This image was released by the United States Marine Corps with the ID 100510-M-2727G-007 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — More than 2,000 citizens of Kampong Chhnang Province attend the Cambodia Interoperability Program 2010 closing ceremony",
+   "sha256": "129fb1a67879bd79dd8d089717390db0a73d9c1fba585b57ac22eb322900015c",
+   "width": 1200,
+   "height": 1800
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-usmc-100510-m-2727g-006-eded28.jpg",
+   "source": "commons",
+   "title": "File:USMC-100510-M-2727G-006.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/USMC-100510-M-2727G-006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23015600",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "This image was released by the United States Marine Corps with the ID 100510-M-2727G-006 (next).\nThis tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing.\n\n\nالعربية ∙ বাংলা ∙ \nBahasa Indonesia ∙ \nBahaso Jambi ∙ \nDeutsch ∙ Deutsch (Sie-Form) ∙ English ∙ español ∙ euskara ∙ فارسی ∙ français ∙ italiano ∙ 日本語 ∙ 한국어 ∙ македонски ∙ മലയാളം ∙ Plattdüütsch ∙ Nederlands ∙ polski ∙ پښتو ∙ português ∙ русский ∙ slovenščina ∙ svenska ∙ Türkçe ∙ українська ∙ 简体中文 ∙ 繁體中文 ∙ +/−",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — A Cambodian woman brings her grandson to see doctors May 10 at the Friendship Clinic in Kampong Chhnang Province during",
+   "sha256": "49565fa15edface27729d52f20981deb8703a6ae3a40b0d5a81fff09610808a9",
+   "width": 1200,
+   "height": 1800
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-vietnam-cambodia-3336808085-eea93f.jpg",
+   "source": "commons",
+   "title": "File:Vietnam & Cambodia (3336808085).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Vietnam_%26_Cambodia_%283336808085%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24817457",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Christopher Michel",
+   "credit": "Vietnam & Cambodia",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Vietnam & Cambodia",
+   "sha256": "43ccfad5cc666fc019e40afab688bdb069b1a27614b75351db98619e362abb34",
+   "width": 1280,
+   "height": 919
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-vietnam-cambodia-3337638552-a332c2.jpg",
+   "source": "commons",
+   "title": "File:Vietnam & Cambodia (3337638552).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Vietnam_%26_Cambodia_%283337638552%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24817460",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Christopher Michel",
+   "credit": "Vietnam & Cambodia",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Vietnam & Cambodia",
+   "sha256": "36b89a7e22801302aaf32a6a0b61126d2b15b488a2271f9b3ab3c3991bf4af03",
+   "width": 1280,
+   "height": 1039
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-krama-baseth-ou-krama-thleah-2e833d.jpg",
+   "source": "commons",
+   "title": "File:Krama Baseth ou krama Thleah.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Krama_Baseth_ou_krama_Thleah.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38174379",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Krama khmer",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Un krama unique au Cambodge de par ses dimensions et son rouge obtenu à partir de la plante \"Thleah\"",
+   "sha256": "8945350b49075e1443846af142f7e61eedf0af3e4799b21be4b1be0ba7620c92",
+   "width": 1022,
+   "height": 1755
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-red-and-white-krama-cropped-6a95ec.jpg",
+   "source": "commons",
+   "title": "File:Red and white krama (cropped).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Red_and_white_krama_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147131017",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Toony",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Khmer rouge clothing, photography taken at the museum of w:Choeung Ek (august 2009)",
+   "sha256": "cadbe26f94f7482876898678125de3ff7fa60b12a6cec8af035e7d0d60c3e0f8",
+   "width": 376,
+   "height": 601
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-krama-170810.jpg",
+   "source": "commons",
+   "title": "File:Krama - お土産に買ったクロマー（マフラー）.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Krama_-_%E3%81%8A%E5%9C%9F%E7%94%A3%E3%81%AB%E8%B2%B7%E3%81%A3%E3%81%9F%E3%82%AF%E3%83%AD%E3%83%9E%E3%83%BC%EF%BC%88%E3%83%9E%E3%83%95%E3%83%A9%E3%83%BC%EF%BC%89.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=157752142",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Ik T",
+   "credit": "https://www.flickr.com/photos/monchan/3241188990/",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Krama, a traditional Cambodian garment, folded up on a yellow background",
+   "sha256": "4d2b0eeff50cc7992a46128153c467406993353a6d222fb0d40d3d64739c746d",
+   "width": 3264,
+   "height": 2448
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-cambodian-woman-with-krama-around-neck-0f7ed3.jpg",
+   "source": "commons",
+   "title": "File:Cambodian woman with krama around neck.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cambodian_woman_with_krama_around_neck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=157752174",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "missmei",
+   "credit": "https://www.flickr.com/photos/missmei/5595383388/",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Cambodian woman with a krama, a traditional Cambodian garment, around her neck",
+   "sha256": "63ed1d9c336c2af0603bcfb5af44b5f5ddf822373bbc3b9f72b96bf11d8c4207",
+   "width": 695,
+   "height": 970
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-man-with-krama-a6fae9.jpg",
+   "source": "commons",
+   "title": "File:Man with Krama.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Man_with_Krama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=157752202",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Benjamin Thomas",
+   "credit": "https://www.flickr.com/photos/23927132@N05/2951026305/",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — Cambodian man with a krama around his neck",
+   "sha256": "20d55ce1713a7221c13632babfa3fccabca9f7541f92b60862db39f44fffdafc",
+   "width": 1976,
+   "height": 2766
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-shower-tattoo-20120210-cropped-2c4f53.jpg",
+   "source": "commons",
+   "title": "File:Shower tattoo - 20120210 (cropped).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Shower_tattoo_-_20120210_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=192253906",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "peter klashorst",
+   "credit": "Flickr: [1]",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — A tattoed Cambodian woman having a shower.",
+   "sha256": "b1c2578cbecc62d5fef0684b1b15f0bba490775046b4e6646ac7f37e65f65d52",
+   "width": 3221,
+   "height": 4754
+  },
+  {
+   "file": "khmer-yantra-cloth/khmer-yantra-cloth-shower-tattoo-20120210-cropped-ii-81a997.jpg",
+   "source": "commons",
+   "title": "File:Shower tattoo - 20120210 (cropped)II.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Shower_tattoo_-_20120210_%28cropped%29II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=192254182",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "peter klashorst",
+   "credit": "Flickr: [1]",
+   "view": "other",
+   "alt_th": "ผ้ายันต์เขมร",
+   "alt_en": "Khmer yantra cloth — A tattoed Cambodian woman having a shower.",
+   "sha256": "f23d6650289142cb244fe14fdd4cb8e8dc5f1ee7faa18938039d1502e9421821",
+   "width": 3248,
+   "height": 4090
+  }
+ ],
+ "text": {
+  "what_th": "ผ้าเขียนยันต์ตัวขอมของเขมร แขวนขื่อบ้าน พับพก หรือคาดตัวนักสู้ พลังอยู่ที่อักขระและพิธี ไม่มีผู้อยู่",
+  "what_en": "A cloth drawn with Khom-letter yantra in the Cambodian tradition — hung from the house beam, folded into a pocket, or tied on a fighter. Power lives in the inscription and the rite; nobody is home.",
+  "story_th": "ในเขมร ยันต์ (យ័ន្ត) คือลายที่เขียนบนผ้าขาวหรือกระดาษ ผูกกับสายวัชรยานเก่าของพระนคร เช่นยันต์เหวัชระ วิกิพีเดียบันทึกว่าผ้ายันต์เขมรมักมีรูปนกคุ่ม และการยกผ้าขึ้นขื่อเป็นพิธีขึ้นบ้าน นักสู้โบกาตอร์ผูกผ้าและเชือกเสกก่อนขึ้นชก ผู้เขียนคือครูขแมร์และอาจารย์ ส่วนผ้าพิมพ์โรงงานที่ไม่ผ่านพิธีก็มีมาก",
+  "story_en": "The Khmer Wikipedia article defines a yoan (យ័ន្ត) as a design drawn on white cloth or paper, and the Cambodian Hevajra yantra shows the Angkor-period esoteric layer still inside it. The English article on yantra cloth records the Khmer habits — a rain-quail motif, and raising the cloth to the house beam as the blessing that makes a house a home — and fighters in bokator go in wrapped in cloth and enchanted cords. Achar and kru khmer draw and bless them; factory-printed cloths without the rite circulate alongside. The gatha written on the cloth is the same Pali formula that goes into a katha tube or onto the skin.",
+  "keeping_th": "ไม่มีผู้อยู่ แขวนที่สูง ไม่เหยียบ ไม่ต้องเซ่น",
+  "keeping_en": "Impersonal: hung high, never stepped over, nothing fed. The keeper owes respect to the letters, not to an occupant."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:km-wiki-yantra",
+  "s:en-wiki-yantra-cloth",
+  "s:en-wiki-khmer-script",
+  "s:en-wiki-yantra-tattooing",
+  "s:en-wiki-bokator",
+  "s:en-wiki-krama",
+  "s:km-wiki-krama",
+  "s:en-wiki-achar-khmer",
+  "s:en-wiki-southern-esoteric-buddhism",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-yantra-cloth"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.notes_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-krama",
+    "note": "and s:km-wiki-krama; neither mentions yantra"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "'yantra krama' as a trade form is the model's reading of the market, unverified"
+   },
+   "names.aliases": {
+    "tier": "inference"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:en-wiki-yantra-tattooing",
+    "note": "ninth-century Khmer Empire origin claim is that article's"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with ผ้ายันต์เขมร on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

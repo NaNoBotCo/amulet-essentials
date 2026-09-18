@@ -1,0 +1,1932 @@
+{
+ "schema": 1,
+ "built": "2026-09-02",
+ "question": "how cash value is assigned to Thai / SE Asian amulets",
+ "answer_10_lines": [
+  "1. Genuine or fake is decided first; a fake prices at retail whatever it copies.",
+  "2. Then the NAME: maker monk, temple, model — 10^2 to 10^6 between lineages.",
+  "3. Then the issue and year: first issue and deep years carry 10-100x within a name.",
+  "4. Then the mould (พิมพ์นิยม) and the mintage: 2-10x and up to 1,000x.",
+  "5. Then the metal tier of the same die: gold 25-133x copper — a rank, not bullion.",
+  "6. Then condition: 2-7x between champion and repaired.",
+  "7. Hype and narrative set the cycle: Jatukham ฿49 → ฿40M → collapse.",
+  "8. Certificates (฿500-750) and contests convert opinion to liquidity; premium unnumbered.",
+  "9. Blessedness is priced through the blesser's name, never through the rite.",
+  "10. Geography prices the buyer's circuit, not the object; evidence thin. Retail (our corpus) sees none of this: median ฿129."
+ ],
+ "factors": [
+  {
+   "key": "authenticity",
+   "th": "ความแท้ (พระแท้ / พระเก๊)",
+   "en": "authenticity",
+   "rank": 1,
+   "weight": 100,
+   "weight_basis": "gate: every Thai source lists it first; a fake of any lineage clears at retail-tier money",
+   "mechanism": "Genuine-or-not is decided before any other factor is priced. A พระเก๊ of a ฿10M model is a ฿100-500 object.",
+   "measured_by": [
+    "เนื้อ (body/material aging)",
+    "พิมพ์ (mould match)",
+    "ตำหนิ (die flaws)",
+    "ผิว/ความเก่า (surface age)",
+    "บัตรรับรอง / ใบเซอร์ (association card)",
+    "เซียนตาถึง (expert eye)"
+   ],
+   "price_effect": "binary; genuine vs fake ~1,000x to 1,000,000x (฿100-500 fake vs ฿100k-฿150M genuine)",
+   "multiplier_low": 1000,
+   "multiplier_high": 1000000,
+   "evidence": [
+    {
+     "source": "thairath2690639",
+     "note": "authenticity = mould + material + aging; only then a price"
+    },
+    {
+     "source": "postjung",
+     "note": "ความแท้ named first of five criteria"
+    },
+    {
+     "source": "samakomphra_fee",
+     "note": "association card ฿750/piece; ฿100 kept + ฿600 refunded if no result"
+    },
+    {
+     "source": "pantipamulet_fee",
+     "note": "club card ฿500; ฿200 kept + ฿300 refunded if ไม่แท้"
+    }
+   ],
+   "tier_relevance": [
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "lineage_maker",
+   "th": "สกุลพระ / เกจิ / วัด (ผู้สร้าง)",
+   "en": "lineage: maker monk, temple, named model",
+   "rank": 2,
+   "weight": 95,
+   "weight_basis": "ThaiPublica factor 1; Thairath leads with สกุลพระ; SCMP/Nation: 'most prized were made by venerated monks'",
+   "mechanism": "Price is attached to a NAME (Somdej To / Wat Rakhang; LP Thuat; LP Koon), not to the object's form. Tambiah: charisma objectified. Blessedness is priced through the blesser's name.",
+   "measured_by": [
+    "ทำเนียบรุ่น (issue register)",
+    "reference books / นิตยสาร",
+    "ตลาด/สนาม consensus",
+    "monk's reputation trajectory"
+   ],
+   "price_effect": "10^2 to 10^6 between lineages of identical form; a monk scandal can zero it",
+   "multiplier_low": 100,
+   "multiplier_high": 1000000,
+   "evidence": [
+    {
+     "source": "thaipublica2018",
+     "note": "ความนิยมของสกุลพระ = factor 1; reputation collapse makes pieces unsellable"
+    },
+    {
+     "source": "thairath2596840",
+     "note": "Somdej Wat Rakhang หมื่น-แสน entry; Pidta LP Iam สิบล้าน; Phra Khong ร้อย→หมื่นปลาย-แสน"
+    },
+    {
+     "source": "komchadluek189475",
+     "note": "Somdej Wat Rakhang พิมพ์ใหญ่ ฿80-150M"
+    },
+    {
+     "source": "tambiah1984",
+     "note": "cult of amulets = transmission of the saint's charisma"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "issue_age",
+   "th": "รุ่น / ปี / ความเก่า (รุ่นแรก)",
+   "en": "issue and age; first issue premium",
+   "rank": 3,
+   "weight": 85,
+   "weight_basis": "ThaiPublica factor 3; Thairath 'ปีลึก'; whole Thairath รุ่นแรก series",
+   "mechanism": "Within one maker, the first issue and the deepest year carry the premium: the monk's full craft, later issues dilute supply.",
+   "measured_by": [
+    "ปี พ.ศ. on piece or register",
+    "รุ่นแรก / รุ่นสอง numbering",
+    "ทำเนียบรุ่น"
+   ],
+   "price_effect": "10x-100x within one monk: LP Koon 2512 first ~฿1M vs 2536 issues ฿10k-300k; Kruba Srivichai 2482 ฿500k-1M",
+   "multiplier_low": 10,
+   "multiplier_high": 100,
+   "evidence": [
+    {
+     "source": "ennxo_koon",
+     "note": "2512 first issue hundreds of thousands to ~฿1M; 2536 issues tens-hundreds of thousands"
+    },
+    {
+     "source": "posttoday2015",
+     "note": "LP Koon 2536 half-body ฿100-300k; lower-half ฿40-100k"
+    },
+    {
+     "source": "thairath_rian",
+     "note": "LP Klan 2469 first issue หลักสิบล้าน; LP Thuat 2500 หลักล้าน; LP Kuai 2504 หลักล้าน"
+    },
+    {
+     "source": "watkositaram",
+     "note": "why รุ่น 1: full craft, reputation at stake, sold-out scarcity"
+    },
+    {
+     "source": "regaliathai",
+     "note": "Kruba Srivichai 2482 ฿500k-1M"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "mould_block",
+   "th": "พิมพ์ / บล็อก (พิมพ์นิยม vs พิมพ์รอง)",
+   "en": "mould and die variant; the favoured mould",
+   "rank": 4,
+   "weight": 75,
+   "weight_basis": "ThaiPublica factor 2; Thairath 'บล็อกนิยม'; postjung criterion 3",
+   "mechanism": "Same issue, different mould: the trade ranks moulds (พิมพ์ใหญ่ > พิมพ์รอง) and prices the favoured one many times higher.",
+   "measured_by": [
+    "พิมพ์ name in register",
+    "ตำหนิ (die flaws)",
+    "บล็อกแรก / บล็อกสอง"
+   ],
+   "price_effect": "2x-10x+: Phra Nang Phaya large moulds สิบล้าน vs small ~฿1M; Somdej พิมพ์ใหญ่ tops all",
+   "multiplier_low": 2,
+   "multiplier_high": 10,
+   "evidence": [
+    {
+     "source": "thairath1794359",
+     "note": "Nang Phaya large 10s of millions, small ~฿1M"
+    },
+    {
+     "source": "thairath2596840",
+     "note": "พิมพ์นิยมเบอร์ต้นองค์สภาพงาม priced above พิมพ์รอง"
+    },
+    {
+     "source": "thaipublica2018",
+     "note": "block variations and distinctive flaws raise value"
+    }
+   ],
+   "tier_relevance": [
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "rarity_mintage",
+   "th": "ความหายาก / จำนวนสร้าง",
+   "en": "rarity, mintage, survivors",
+   "rank": 5,
+   "weight": 75,
+   "weight_basis": "every source; explicit mintage numbers in aagold, Pong Suphan",
+   "mechanism": "Known mintage and surviving count. Kru finds with many pieces price 'เบา'; sub-20 mintages price in tens of millions.",
+   "measured_by": [
+    "จำนวนสร้าง (mintage) in register",
+    "จำนวนกรุ / how many stupa finds",
+    "sold-out status"
+   ],
+   "price_effect": "Sothorn 2460 gold <20 pcs ฿15-20M; Phra Khong 'found in 3 kru' = ราคาเบา; 2500 gold 2,500 pcs vs lead in thousands",
+   "multiplier_low": 10,
+   "multiplier_high": 1000,
+   "evidence": [
+    {
+     "source": "aagold",
+     "note": "Sothorn 2460 gold <20 coins ฿15-20M; LP Iam 2467 gold ฿32M"
+    },
+    {
+     "source": "thairath2596840",
+     "note": "3 kru = light price; 'starting to be rare' = price should move"
+    },
+    {
+     "source": "thairath2824820",
+     "note": "2500 centennial: 2,500 gold pieces vs lead in the thousands of baht"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "material_tier",
+   "th": "เนื้อ (ทองคำ > เงิน > นวโลหะ > ทองแดง; เนื้อบน/กลาง/ล่าง)",
+   "en": "material tier within a run",
+   "rank": 6,
+   "weight": 70,
+   "weight_basis": "two independent numeric ladders (Post Today 2015; Pantip) agree on order",
+   "mechanism": "One die, several metals in descending quantity: gold is the smallest mintage and the top tier. Priced as a rank, not as bullion — the gold coin is worth ~200x its metal.",
+   "measured_by": [
+    "เนื้อ named in register",
+    "เนื้อบน/กลาง/ล่าง",
+    "mintage per metal"
+   ],
+   "price_effect": "LP Koon 2519: gold ฿10M / silver ฿2M / nawa ฿1M / copper ฿400k = 25:5:2.5:1. Pantip example 40k/2.5k/1k/300 = 133:8:3:1",
+   "multiplier_low": 25,
+   "multiplier_high": 133,
+   "ladder_lp_koon_2519_thb": {
+    "gold": 10000000,
+    "silver": 2000000,
+    "nawaloha": 1000000,
+    "copper": 400000
+   },
+   "ladder_pantip_thb": {
+    "gold": 40000,
+    "silver": 2500,
+    "nawaloha": 1000,
+    "copper": 300
+   },
+   "evidence": [
+    {
+     "source": "posttoday2015",
+     "note": "2519 เหรียญสร้างบารมี: ทองคำ 10M, เงิน 2M, นวโลหะ 1M, ทองแดง 400k"
+    },
+    {
+     "source": "pantip40849828",
+     "note": "เนื้อบน = gold/silver/nawa; ladder 40,000 / 2,500 / 1,000 / 300"
+    },
+    {
+     "source": "catalogdb",
+     "note": "retail: named gold median ฿198 vs brass ฿69 — gold is a plating/frame word at this tier"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "condition",
+   "th": "สภาพ (สวยแชมป์ / องค์ครู vs สภาพใช้ / หัก / ซ่อม)",
+   "en": "condition",
+   "rank": 7,
+   "weight": 65,
+   "weight_basis": "Thairath 'ความสวย' first item; regaliathai gives a 2x range; Somdej repaired vs intact",
+   "mechanism": "Surface, sharpness, wear, breaks, repairs. Champion-grade (แชมป์) and teacher-grade (องค์ครู) pieces sit at the top of every model.",
+   "measured_by": [
+    "สวย/คม (sharpness)",
+    "ผิว (surface)",
+    "หัก/ซ่อม (break/repair)",
+    "competition award tier"
+   ],
+   "price_effect": "2x (Kruba 2482 ฿500k-1M) to 4-7x (Somdej repaired crack >฿20M vs ฿80-150M intact)",
+   "multiplier_low": 2,
+   "multiplier_high": 7,
+   "evidence": [
+    {
+     "source": "regaliathai",
+     "note": "Kruba Srivichai 2482 ฿500k-1M 'depending on condition'"
+    },
+    {
+     "source": "thairath2690639",
+     "note": "large-mould Somdej with repaired crack sold >฿20M"
+    },
+    {
+     "source": "thairath2751666",
+     "note": "Phra Rot champion piece: latest ฿13M"
+    }
+   ],
+   "tier_relevance": [
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "hype_cycle",
+   "th": "กระแส / ความนิยม / เรื่องเล่า (ติดดอย)",
+   "en": "hype, narrative, demand cycle",
+   "rank": 8,
+   "weight": 60,
+   "weight_basis": "Jatukham is the documented bubble; ThaiPublica names ติดดอย; TCIJ documents the pump",
+   "mechanism": "Story + media + dealer stockpiling drive new issues; cycles reverse. A monk's fall or a fad's end takes 60-100% off.",
+   "measured_by": [
+    "press/magazine coverage",
+    "auction volume",
+    "temple queue length",
+    "economic cycle"
+   ],
+   "price_effect": "Jatukham 1987 medal ฿49 → ฿40M then collapse; Khun Phaen ฿500k → ฿200k (-60%); TCIJ pump ฿100 → ฿250-300 → dump",
+   "multiplier_low": 0.4,
+   "multiplier_high": 800000,
+   "evidence": [
+    {
+     "source": "meritmessenger",
+     "note": "2006-07 Jatukham bubble; buyers borrowing to flip"
+    },
+    {
+     "source": "wiki_jatukham",
+     "note": "FPO: ฿22bn circulation, 0.1-0.2% GDP; 1987 medal ฿49 → ฿40M+"
+    },
+    {
+     "source": "thaipublica2018",
+     "note": "Khun Phaen ~฿500k → ฿200k after downturn; scandal → unsellable"
+    },
+    {
+     "source": "tcij2014",
+     "note": "pump ladder ฿100 → 110-120 → 150-200 → 250-300 → dump; ads = 60-70% of production cost"
+    },
+    {
+     "source": "kitiarsa2012",
+     "note": "Jatukham and LP Khun as prosperity-religion commodification"
+    }
+   ],
+   "tier_relevance": [
+    "retail",
+    "temple",
+    "dealer",
+    "sian"
+   ],
+   "confidence": "high"
+  },
+  {
+   "key": "certification_contest",
+   "th": "บัตรรับรอง / ใบเซอร์ / งานประกวด (องค์แชมป์)",
+   "en": "association certificate and competition awards",
+   "rank": 9,
+   "weight": 50,
+   "weight_basis": "ThaiPublica factor 4; Thairath lists awards; fee schedule known, premium not quantified",
+   "mechanism": "A card from สมาคมผู้นิยมพระเครื่องพระบูชาไทย, G-Pra or a club, and a competition placing, convert an opinion into a saleable fact. Effect is liquidity and a premium the sources do not number.",
+   "measured_by": [
+    "card issuer + card number",
+    "contest placing (ที่ 1/2/3, แชมป์)",
+    "year of contest"
+   ],
+   "price_effect": "premium unquantified in sources; cost ฿500-750 per card; champion status = 'a major nest' for collectors",
+   "fee_thb": {
+    "association": 750,
+    "club": 500,
+    "refund_if_fake_association": 600,
+    "refund_if_fake_club": 300
+   },
+   "evidence": [
+    {
+     "source": "samakomphra_fee",
+     "note": "฿750 per piece"
+    },
+    {
+     "source": "pantipamulet_fee",
+     "note": "฿500 per piece; ฿200 kept if fake"
+    },
+    {
+     "source": "thairath2751666",
+     "note": "10 champion pieces 2566; championship elevates status"
+    },
+    {
+     "source": "thaipublica2018",
+     "note": "certifications = factor 4"
+    },
+    {
+     "source": "gpra_fee",
+     "note": "G-Pra listing credits ฿10-500 for 100-3,000 posts"
+    }
+   ],
+   "tier_relevance": [
+    "dealer",
+    "sian",
+    "investment"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "key": "provenance_owner",
+   "th": "ประวัติการครอบครอง / องค์ครู",
+   "en": "ownership history; named 'teacher' pieces",
+   "rank": 10,
+   "weight": 40,
+   "weight_basis": "postjung criterion 5; Thairath names ขุนศรี, หลวงพุฒ, เอื้อ pieces",
+   "mechanism": "Top pieces carry names (องค์ขุนศรี, องค์เอื้อ). Prior owners and publication history are part of the object.",
+   "measured_by": [
+    "named piece in books/magazines",
+    "previous owner (collector, general, tycoon)",
+    "publication record"
+   ],
+   "price_effect": "only at the top: ฿200M offer refused for องค์เอื้อ; ordinary pieces unaffected",
+   "multiplier_low": 1,
+   "multiplier_high": 3,
+   "evidence": [
+    {
+     "source": "thairath2690639",
+     "note": "องค์เอื้อ: ฿200M offer refused"
+    },
+    {
+     "source": "postjung",
+     "note": "ประวัติการครอบครอง in the five criteria"
+    },
+    {
+     "source": "scmp2019",
+     "note": "'sometimes who wore it in the past' enters negotiation"
+    }
+   ],
+   "tier_relevance": [
+    "sian",
+    "investment"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "key": "marks_serial",
+   "th": "รอยจาร / ตอกโค้ด / หมายเลข (เบอร์สวย)",
+   "en": "monk's inscription, code stamp, serial number",
+   "rank": 11,
+   "weight": 30,
+   "weight_basis": "ThaiPublica factors 5-6; ENNXO notes codes on 2536-37 issues",
+   "mechanism": "Hand inscription by the monk, and a code/serial, authenticate and individualise. Low serials and lucky numbers carry a premium.",
+   "measured_by": [
+    "โค้ด present",
+    "หมายเลข",
+    "จาร by hand"
+   ],
+   "price_effect": "named as a factor; no numeric premium found in sources",
+   "multiplier_low": 1,
+   "multiplier_high": 2,
+   "evidence": [
+    {
+     "source": "thaipublica2018",
+     "note": "attractive serials and monk's marks add value"
+    },
+    {
+     "source": "ennxo_koon",
+     "note": "2537 and 2536 issues 'stamped with codes and serial numbers'"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "dealer",
+    "sian"
+   ],
+   "confidence": "low"
+  },
+  {
+   "key": "consecration",
+   "th": "พิธีปลุกเสก / พุทธาภิเษก (ความขลัง)",
+   "en": "consecration rite; 'blessedness'",
+   "rank": 12,
+   "weight": 25,
+   "weight_basis": "TCIJ prices it as a cost input; no source prices the rite independently of the name",
+   "mechanism": "For a new issue the rite is a production cost and a marketing line. Resale prices the BLESSER'S NAME (factor 2), not the size of the rite. A 100-monk mass consecration still clears at ฿100-300.",
+   "measured_by": [
+    "who sat (เกจิ list)",
+    "ceremony count",
+    "publicity"
+   ],
+   "price_effect": "cost ฿30-50k per famous monk per day; no independent resale multiplier found",
+   "cost_thb_per_monk_day_low": 30000,
+   "cost_thb_per_monk_day_high": 50000,
+   "evidence": [
+    {
+     "source": "tcij2014",
+     "note": "฿30-50k per distinguished monk per day; ads 60-70% of cost; temple margin 10-15%"
+    },
+    {
+     "source": "catalogdb",
+     "note": "listings claiming ปลุกเสก: median ฿129 = corpus median"
+    }
+   ],
+   "tier_relevance": [
+    "temple",
+    "retail"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "key": "geography_demand",
+   "th": "ภูมิภาค / ตลาดปลายทาง (ท่าพระจันทร์ · จีน · สิงคโปร์ · มาเลเซีย)",
+   "en": "geography of the buyer, not of the object",
+   "rank": 13,
+   "weight": 20,
+   "weight_basis": "Nation 2024, SCMP 2019 document overseas demand; no source gives a regional price differential",
+   "mechanism": "Price is set on the Bangkok/สนามพระ circuit and online boards; Lanna or Southern pieces price on their own collector circuits. Overseas Chinese demand lifts specific names (LP Thuat, LP Koon, Kuman Thong). Kasikorn's ฿17-23bn excludes exports.",
+   "measured_by": [
+    "which circuit lists it",
+    "tourist/export share",
+    "HK/SG shop presence"
+   ],
+   "price_effect": "unquantified; Hong Kong shops since 2008-09; Cecilia Cheung HK$150k purchase",
+   "evidence": [
+    {
+     "source": "nation2024",
+     "note": "HK shops 2008-09; Chinese tourists a substantial share; Douyin sales"
+    },
+    {
+     "source": "scmp2019",
+     "note": "US$1.25bn/yr; Tha Prachan trader quoted"
+    },
+    {
+     "source": "komchadluek217635",
+     "note": "dealer reputation, not location, decides the sale"
+    },
+    {
+     "source": "academia_sg",
+     "note": "Chinese-Singaporean commoditisation paper (title only)"
+    }
+   ],
+   "tier_relevance": [
+    "retail",
+    "dealer",
+    "sian"
+   ],
+   "confidence": "low"
+  },
+  {
+   "key": "box_frame",
+   "th": "กล่องเดิม / เลี่ยม / กรอบทอง",
+   "en": "original box; framing",
+   "rank": 14,
+   "weight": 10,
+   "weight_basis": "retail-only lift in own corpus; no trade source counts framing as value",
+   "mechanism": "Original box supports authenticity of new issues. A gold frame adds the frame's gold, not the amulet's value.",
+   "measured_by": [
+    "กล่องเดิม present",
+    "frame metal weight"
+   ],
+   "price_effect": "corpus: กล่องเดิม median ฿230 vs ฿129 all (1.8x); เลี่ยม/กรอบทอง median ฿129 (1.0x)",
+   "multiplier_low": 1.0,
+   "multiplier_high": 1.8,
+   "evidence": [
+    {
+     "source": "catalogdb",
+     "note": "กล่องเดิม n=93 median 230; เลี่ยม/กรอบทอง n=998 median 129"
+    }
+   ],
+   "tier_relevance": [
+    "retail",
+    "temple"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "tiers": [
+  {
+   "key": "retail",
+   "th": "แผงพระ / ร้านออนไลน์ (ของขลังตลาดนัด)",
+   "en": "charm stall, Lazada/Shopee",
+   "thb_low": 39,
+   "thb_high": 500,
+   "thb_median": 129,
+   "governed_by": [
+    "material cost",
+    "frame",
+    "novelty/current fad",
+    "no authenticity adjudication"
+   ],
+   "evidence": [
+    "catalogdb"
+   ],
+   "note": "own corpus: median ฿129, IQR ฿69-259, p90 ฿500, mean ฿638"
+  },
+  {
+   "key": "temple",
+   "th": "เปิดจอง / ทำบุญเช่าจากวัด",
+   "en": "temple release",
+   "thb_low": 100,
+   "thb_high": 3000,
+   "thb_gold_low": 30000,
+   "thb_gold_high": 200000,
+   "governed_by": [
+    "production cost (mould ฿4-7k; monk-day ฿30-50k)",
+    "temple margin 10-15%",
+    "advertising 60-70% of cost",
+    "metal tier"
+   ],
+   "evidence": [
+    "tcij2014",
+    "thairath2824820"
+   ],
+   "note": "TCIJ example release ฿100; Jatukham 1987 ฿49; gold versions priced off bullion plus premium"
+  },
+  {
+   "key": "dealer",
+   "th": "สนามพระ / ท่าพระจันทร์ / ร้านรับเช่า",
+   "en": "dealer and market circuit",
+   "thb_low": 1000,
+   "thb_high": 500000,
+   "governed_by": [
+    "เซียน eye (ตำหนิ, เนื้อ, พิมพ์)",
+    "negotiation, no list price",
+    "dealer reputation"
+   ],
+   "evidence": [
+    "komchadluek217635",
+    "thaipublica2018"
+   ],
+   "note": "'หลักร้อยถึงหลักล้าน'; prices are asking prices, clearing by negotiation"
+  },
+  {
+   "key": "sian",
+   "th": "เซียน / ประมูล / งานประกวด",
+   "en": "expert, auction board, competition",
+   "thb_low": 10000,
+   "thb_high": 10000000,
+   "governed_by": [
+    "certificate (฿500-750)",
+    "contest placing",
+    "auction board rules (G-Pra guarantee)",
+    "publication"
+   ],
+   "evidence": [
+    "gpra_fee",
+    "samakomphra_fee",
+    "thairath2751666"
+   ],
+   "note": "G-Pra: 100% authenticity guarantee; listing credits ฿10-500"
+  },
+  {
+   "key": "investment",
+   "th": "เบญจภาคี / องค์ครู / องค์แชมป์",
+   "en": "investment grade",
+   "thb_low": 10000000,
+   "thb_high": 150000000,
+   "thb_offer_max": 200000000,
+   "governed_by": [
+    "named piece + provenance",
+    "private treaty",
+    "tycoon demand",
+    "laundering concern (Bangkok Post 2025)"
+   ],
+   "evidence": [
+    "komchadluek189475",
+    "thairath2690639",
+    "thairath1794359",
+    "bkkpost2025"
+   ],
+   "note": "Somdej Wat Rakhang พิมพ์ใหญ่ ฿80-150M; Phra Phong Suphan ฿40-50M; Phra Rot ฿12-13M+"
+  }
+ ],
+ "myths": [
+  {
+   "th": "ราคาทองคำในเนื้อ",
+   "en": "bullion content sets price",
+   "why": "LP Koon 2519 gold ฿10M vs ~฿50k of metal; gold is a rank marker (เนื้อบน), not a commodity",
+   "source": "posttoday2015"
+  },
+  {
+   "th": "พิธีใหญ่ = แพง",
+   "en": "a bigger consecration sets price",
+   "why": "rite is a cost input (฿30-50k/monk-day); resale prices the name; corpus ปลุกเสก median = corpus median",
+   "source": "tcij2014"
+  },
+  {
+   "th": "เลี่ยมทอง เพิ่มมูลค่าพระ",
+   "en": "a gold frame raises the amulet's value",
+   "why": "adds the frame's gold only; corpus เลี่ยม median = all median",
+   "source": "catalogdb"
+  },
+  {
+   "th": "ยิ่งเก่ายิ่งแพง",
+   "en": "age alone",
+   "why": "Phra Khong is old and 'เบา'; small Nang Phaya ~฿1M vs large 10s M; lineage and mould outrank age",
+   "source": "thairath2596840"
+  },
+  {
+   "th": "ราคาตั้ง = ราคาตลาด",
+   "en": "asking price is market price",
+   "why": "no index; 'satisfaction of buyer and seller'; asking vs clearing unseen in listings",
+   "source": "thaipublica2018"
+  },
+  {
+   "th": "ความขลังวัดได้",
+   "en": "'blessedness' is a measurable input",
+   "why": "no source prices power; the trade prices attribution (who, when, which mould)",
+   "source": "tambiah1984"
+  },
+  {
+   "th": "ภูมิภาคกำเนิดตั้งราคา",
+   "en": "region of origin sets a price band",
+   "why": "no regional differential found; the circuit and the name price it — evidence thin",
+   "source": "komchadluek217635"
+  },
+  {
+   "th": "ประมูลสูง = ราคาจริง",
+   "en": "an auction high is a clearing price",
+   "why": "Bangkok Post 2025: ring bidding to launder; treat outlier hammers as unverified",
+   "source": "bkkpost2025"
+  }
+ ],
+ "corpus_findings": [
+  "15,295 priced Lazada listings (brief said 13,020; DB has grown). Median ฿129, IQR ฿69-259, p90 ฿500, mean ฿638, max ฿1500059. Retail tier only; the sian tier is invisible here.",
+  "Material words barely move retail price: gold-named ฿198, copper ฿199, powder ฿190, clay ฿150, chin ฿149, herb ฿147, nawaloha ฿100, brass ฿69. Gold at this tier is plating or frame.",
+  "Only silver-as-body (เนื้อเงิน, n=37) shows a real lift: median ฿259, p75 ฿700 — bullion showing through at the bottom of the market.",
+  "Trade vocabulary lifts asking price ~1.5x: รุ่นแรก ฿198, แท้ ฿197, ปี 25xx ฿199, กล่องเดิม ฿230, หายาก ฿289. Certificate words appear in 3 of 15,295 listings — the retail tier does not certify.",
+  "Named monk (หลวงพ่อ/ปู่/ตา, n=3,323) median ฿159 and named temple ฿159: the name is claimed on a quarter of listings but is worth ~฿30 here.",
+  "Jatukham median ฿250 (1.9x) — the 2007 bubble's residue still prices above the floor at retail."
+ ],
+ "chart_ready": {
+  "factor_weights": [
+   {
+    "key": "authenticity",
+    "label_th": "ความแท้ (พระแท้ / พระเก๊)",
+    "label_en": "authenticity",
+    "rank": 1,
+    "weight": 100,
+    "confidence": "high",
+    "multiplier_low": 1000,
+    "multiplier_high": 1000000,
+    "evidence_count": 4,
+    "basis": "gate: every Thai source lists it first; a fake of any lineage clears at retail-tier money"
+   },
+   {
+    "key": "lineage_maker",
+    "label_th": "สกุลพระ / เกจิ / วัด (ผู้สร้าง)",
+    "label_en": "lineage: maker monk, temple, named model",
+    "rank": 2,
+    "weight": 95,
+    "confidence": "high",
+    "multiplier_low": 100,
+    "multiplier_high": 1000000,
+    "evidence_count": 4,
+    "basis": "ThaiPublica factor 1; Thairath leads with สกุลพระ; SCMP/Nation: 'most prized were made by venerated monks'"
+   },
+   {
+    "key": "issue_age",
+    "label_th": "รุ่น / ปี / ความเก่า (รุ่นแรก)",
+    "label_en": "issue and age; first issue premium",
+    "rank": 3,
+    "weight": 85,
+    "confidence": "high",
+    "multiplier_low": 10,
+    "multiplier_high": 100,
+    "evidence_count": 5,
+    "basis": "ThaiPublica factor 3; Thairath 'ปีลึก'; whole Thairath รุ่นแรก series"
+   },
+   {
+    "key": "mould_block",
+    "label_th": "พิมพ์ / บล็อก (พิมพ์นิยม vs พิมพ์รอง)",
+    "label_en": "mould and die variant; the favoured mould",
+    "rank": 4,
+    "weight": 75,
+    "confidence": "high",
+    "multiplier_low": 2,
+    "multiplier_high": 10,
+    "evidence_count": 3,
+    "basis": "ThaiPublica factor 2; Thairath 'บล็อกนิยม'; postjung criterion 3"
+   },
+   {
+    "key": "rarity_mintage",
+    "label_th": "ความหายาก / จำนวนสร้าง",
+    "label_en": "rarity, mintage, survivors",
+    "rank": 5,
+    "weight": 75,
+    "confidence": "high",
+    "multiplier_low": 10,
+    "multiplier_high": 1000,
+    "evidence_count": 3,
+    "basis": "every source; explicit mintage numbers in aagold, Pong Suphan"
+   },
+   {
+    "key": "material_tier",
+    "label_th": "เนื้อ (ทองคำ > เงิน > นวโลหะ > ทองแดง; เนื้อบน/กลาง/ล่าง)",
+    "label_en": "material tier within a run",
+    "rank": 6,
+    "weight": 70,
+    "confidence": "high",
+    "multiplier_low": 25,
+    "multiplier_high": 133,
+    "evidence_count": 3,
+    "basis": "two independent numeric ladders (Post Today 2015; Pantip) agree on order"
+   },
+   {
+    "key": "condition",
+    "label_th": "สภาพ (สวยแชมป์ / องค์ครู vs สภาพใช้ / หัก / ซ่อม)",
+    "label_en": "condition",
+    "rank": 7,
+    "weight": 65,
+    "confidence": "high",
+    "multiplier_low": 2,
+    "multiplier_high": 7,
+    "evidence_count": 3,
+    "basis": "Thairath 'ความสวย' first item; regaliathai gives a 2x range; Somdej repaired vs intact"
+   },
+   {
+    "key": "hype_cycle",
+    "label_th": "กระแส / ความนิยม / เรื่องเล่า (ติดดอย)",
+    "label_en": "hype, narrative, demand cycle",
+    "rank": 8,
+    "weight": 60,
+    "confidence": "high",
+    "multiplier_low": 0.4,
+    "multiplier_high": 800000,
+    "evidence_count": 5,
+    "basis": "Jatukham is the documented bubble; ThaiPublica names ติดดอย; TCIJ documents the pump"
+   },
+   {
+    "key": "certification_contest",
+    "label_th": "บัตรรับรอง / ใบเซอร์ / งานประกวด (องค์แชมป์)",
+    "label_en": "association certificate and competition awards",
+    "rank": 9,
+    "weight": 50,
+    "confidence": "medium",
+    "multiplier_low": null,
+    "multiplier_high": null,
+    "evidence_count": 5,
+    "basis": "ThaiPublica factor 4; Thairath lists awards; fee schedule known, premium not quantified"
+   },
+   {
+    "key": "provenance_owner",
+    "label_th": "ประวัติการครอบครอง / องค์ครู",
+    "label_en": "ownership history; named 'teacher' pieces",
+    "rank": 10,
+    "weight": 40,
+    "confidence": "medium",
+    "multiplier_low": 1,
+    "multiplier_high": 3,
+    "evidence_count": 3,
+    "basis": "postjung criterion 5; Thairath names ขุนศรี, หลวงพุฒ, เอื้อ pieces"
+   },
+   {
+    "key": "marks_serial",
+    "label_th": "รอยจาร / ตอกโค้ด / หมายเลข (เบอร์สวย)",
+    "label_en": "monk's inscription, code stamp, serial number",
+    "rank": 11,
+    "weight": 30,
+    "confidence": "low",
+    "multiplier_low": 1,
+    "multiplier_high": 2,
+    "evidence_count": 2,
+    "basis": "ThaiPublica factors 5-6; ENNXO notes codes on 2536-37 issues"
+   },
+   {
+    "key": "consecration",
+    "label_th": "พิธีปลุกเสก / พุทธาภิเษก (ความขลัง)",
+    "label_en": "consecration rite; 'blessedness'",
+    "rank": 12,
+    "weight": 25,
+    "confidence": "medium",
+    "multiplier_low": null,
+    "multiplier_high": null,
+    "evidence_count": 2,
+    "basis": "TCIJ prices it as a cost input; no source prices the rite independently of the name"
+   },
+   {
+    "key": "geography_demand",
+    "label_th": "ภูมิภาค / ตลาดปลายทาง (ท่าพระจันทร์ · จีน · สิงคโปร์ · มาเลเซีย)",
+    "label_en": "geography of the buyer, not of the object",
+    "rank": 13,
+    "weight": 20,
+    "confidence": "low",
+    "multiplier_low": null,
+    "multiplier_high": null,
+    "evidence_count": 4,
+    "basis": "Nation 2024, SCMP 2019 document overseas demand; no source gives a regional price differential"
+   },
+   {
+    "key": "box_frame",
+    "label_th": "กล่องเดิม / เลี่ยม / กรอบทอง",
+    "label_en": "original box; framing",
+    "rank": 14,
+    "weight": 10,
+    "confidence": "medium",
+    "multiplier_low": 1.0,
+    "multiplier_high": 1.8,
+    "evidence_count": 1,
+    "basis": "retail-only lift in own corpus; no trade source counts framing as value"
+   }
+  ],
+  "tier_ladder_thb": [
+   {
+    "key": "retail",
+    "label_th": "แผงพระ / ร้านออนไลน์ (ของขลังตลาดนัด)",
+    "label_en": "charm stall, Lazada/Shopee",
+    "low": 39,
+    "high": 500
+   },
+   {
+    "key": "temple",
+    "label_th": "เปิดจอง / ทำบุญเช่าจากวัด",
+    "label_en": "temple release",
+    "low": 100,
+    "high": 3000
+   },
+   {
+    "key": "dealer",
+    "label_th": "สนามพระ / ท่าพระจันทร์ / ร้านรับเช่า",
+    "label_en": "dealer and market circuit",
+    "low": 1000,
+    "high": 500000
+   },
+   {
+    "key": "sian",
+    "label_th": "เซียน / ประมูล / งานประกวด",
+    "label_en": "expert, auction board, competition",
+    "low": 10000,
+    "high": 10000000
+   },
+   {
+    "key": "investment",
+    "label_th": "เบญจภาคี / องค์ครู / องค์แชมป์",
+    "label_en": "investment grade",
+    "low": 10000000,
+    "high": 150000000
+   }
+  ],
+  "material_ladder_same_die": [
+   {
+    "label_th": "ทองคำ",
+    "label_en": "gold",
+    "lp_koon_2519_thb": 10000000,
+    "pantip_thb": 40000,
+    "ratio_to_copper_koon": 25,
+    "ratio_to_copper_pantip": 133
+   },
+   {
+    "label_th": "เงิน",
+    "label_en": "silver",
+    "lp_koon_2519_thb": 2000000,
+    "pantip_thb": 2500,
+    "ratio_to_copper_koon": 5,
+    "ratio_to_copper_pantip": 8.3
+   },
+   {
+    "label_th": "นวโลหะ",
+    "label_en": "nine-metal",
+    "lp_koon_2519_thb": 1000000,
+    "pantip_thb": 1000,
+    "ratio_to_copper_koon": 2.5,
+    "ratio_to_copper_pantip": 3.3
+   },
+   {
+    "label_th": "ทองแดง",
+    "label_en": "copper",
+    "lp_koon_2519_thb": 400000,
+    "pantip_thb": 300,
+    "ratio_to_copper_koon": 1,
+    "ratio_to_copper_pantip": 1
+   }
+  ],
+  "record_prices_thb": [
+   {
+    "label": "พระสมเด็จวัดระฆัง พิมพ์ใหญ่",
+    "low": 80000000,
+    "high": 150000000,
+    "source": "komchadluek189475"
+   },
+   {
+    "label": "องค์เอื้อ (offer refused)",
+    "low": 200000000,
+    "high": 200000000,
+    "source": "thairath2690639"
+   },
+   {
+    "label": "พระผงสุพรรณ",
+    "low": 40000000,
+    "high": 50000000,
+    "source": "thairath1794359"
+   },
+   {
+    "label": "เหรียญหลวงปู่เอี่ยม 2467 ทองคำ",
+    "low": 32000000,
+    "high": 32000000,
+    "source": "aagold"
+   },
+   {
+    "label": "เหรียญโสธร 2460 ทองคำ (<20 pcs)",
+    "low": 15000000,
+    "high": 20000000,
+    "source": "aagold"
+   },
+   {
+    "label": "พระรอด องค์แชมป์ 2566",
+    "low": 13000000,
+    "high": 13000000,
+    "source": "thairath2751666"
+   },
+   {
+    "label": "เหรียญหลวงพ่อคูณ 2519 ทองคำ",
+    "low": 10000000,
+    "high": 10000000,
+    "source": "posttoday2015"
+   },
+   {
+    "label": "Jatukham 1987 medal (peak)",
+    "low": 40000000,
+    "high": 40000000,
+    "source": "wiki_jatukham"
+   },
+   {
+    "label": "เหรียญครูบาศรีวิชัย 2482",
+    "low": 500000,
+    "high": 1000000,
+    "source": "regaliathai"
+   },
+   {
+    "label": "พระสมเด็จ 1975 asking",
+    "low": 120,
+    "high": 120,
+    "source": "thairath1794359"
+   }
+  ],
+  "market_size_thb": [
+   {
+    "label": "Kasikorn 2007",
+    "value": 40000000000,
+    "source": "tcij2014"
+   },
+   {
+    "label": "Jatukham circulation 2007 (FPO)",
+    "value": 22000000000,
+    "source": "wiki_jatukham"
+   },
+   {
+    "label": "Kasikorn 2019 (domestic only)",
+    "low": 17000000000,
+    "high": 23000000000,
+    "source": "nation2024"
+   },
+   {
+    "label": "SCMP 2019 (US$1.25bn)",
+    "value": 40000000000,
+    "source": "scmp2019"
+   }
+  ],
+  "certificate_fees_thb": [
+   {
+    "label": "สมาคมผู้นิยมพระเครื่องพระบูชาไทย",
+    "fee": 750,
+    "kept_if_no_result": 100
+   },
+   {
+    "label": "ชมรมพระเครื่องพันธุ์ทิพย์บางกะปิ",
+    "fee": 500,
+    "kept_if_fake": 200
+   },
+   {
+    "label": "G-Pra listing credit (100 posts)",
+    "fee": 10
+   },
+   {
+    "label": "G-Pra listing credit (3,000 posts)",
+    "fee": 500
+   }
+  ],
+  "corpus_all": {
+   "label": "all listings",
+   "n": 15295,
+   "median": 129.0,
+   "p25": 69.0,
+   "p75": 259.0,
+   "p90": 500.0,
+   "mean": 638.0
+  },
+  "corpus_by_material": [
+   {
+    "n": 95,
+    "median": 198.0,
+    "p25": 86.0,
+    "p75": 289.0,
+    "p90": 399.0,
+    "mean": 526.0,
+    "label_th": "เนื้อทองคำ / ทองคำ",
+    "label_en": "gold (named)",
+    "ratio_to_all_median": 1.53
+   },
+   {
+    "n": 37,
+    "median": 259.0,
+    "p25": 99.0,
+    "p75": 700.0,
+    "p90": 1199.0,
+    "mean": 1069.0,
+    "label_th": "เนื้อเงิน",
+    "label_en": "silver (nuea ngoen)",
+    "ratio_to_all_median": 2.01
+   },
+   {
+    "n": 27,
+    "median": 100.0,
+    "p25": 89.0,
+    "p75": 169.0,
+    "p90": 189.0,
+    "mean": 151.0,
+    "label_th": "นวโลหะ",
+    "label_en": "nine-metal alloy",
+    "ratio_to_all_median": 0.78
+   },
+   {
+    "n": 148,
+    "median": 199.0,
+    "p25": 89.0,
+    "p75": 300.0,
+    "p90": 449.0,
+    "mean": 243.0,
+    "label_th": "ทองแดง",
+    "label_en": "copper",
+    "ratio_to_all_median": 1.54
+   },
+   {
+    "n": 473,
+    "median": 69.0,
+    "p25": 59.0,
+    "p75": 129.0,
+    "p90": 199.0,
+    "mean": 140.0,
+    "label_th": "ทองเหลือง",
+    "label_en": "brass",
+    "ratio_to_all_median": 0.53
+   },
+   {
+    "n": 821,
+    "median": 190.0,
+    "p25": 99.0,
+    "p75": 322.0,
+    "p90": 600.0,
+    "mean": 867.0,
+    "label_th": "ผง",
+    "label_en": "sacred powder",
+    "ratio_to_all_median": 1.47
+   },
+   {
+    "n": 185,
+    "median": 150.0,
+    "p25": 89.0,
+    "p75": 299.0,
+    "p90": 550.0,
+    "mean": 313.0,
+    "label_th": "ดิน",
+    "label_en": "clay",
+    "ratio_to_all_median": 1.16
+   },
+   {
+    "n": 131,
+    "median": 149.0,
+    "p25": 95.0,
+    "p75": 240.0,
+    "p90": 399.0,
+    "mean": 2972.0,
+    "label_th": "ชิน",
+    "label_en": "tin-lead",
+    "ratio_to_all_median": 1.16
+   },
+   {
+    "n": 342,
+    "median": 147.0,
+    "p25": 80.0,
+    "p75": 250.0,
+    "p90": 399.0,
+    "mean": 232.0,
+    "label_th": "ว่าน",
+    "label_en": "herb paste",
+    "ratio_to_all_median": 1.14
+   },
+   {
+    "n": 117,
+    "median": 169.0,
+    "p25": 89.0,
+    "p75": 300.0,
+    "p90": 496.0,
+    "mean": 232.0,
+    "label_th": "ตะกั่ว",
+    "label_en": "lead",
+    "ratio_to_all_median": 1.31
+   },
+   {
+    "n": 235,
+    "median": 129.0,
+    "p25": 85.0,
+    "p75": 169.0,
+    "p90": 257.0,
+    "mean": 161.0,
+    "label_th": "ไมครอน / ชุบ",
+    "label_en": "plated",
+    "ratio_to_all_median": 1.0
+   },
+   {
+    "n": 15,
+    "median": 250.0,
+    "p25": 129.0,
+    "p75": 300.0,
+    "p90": 319.0,
+    "mean": 269.0,
+    "label_th": "อัลปาก้า",
+    "label_en": "alpaca",
+    "ratio_to_all_median": 1.94
+   }
+  ],
+  "corpus_by_keyword": [
+   {
+    "n": 191,
+    "median": 198.0,
+    "p25": 89.0,
+    "p75": 400.0,
+    "p90": 659.0,
+    "mean": 731.0,
+    "label_th": "รุ่นแรก",
+    "label_en": "first issue",
+    "ratio_to_all_median": 1.53
+   },
+   {
+    "n": 962,
+    "median": 197.0,
+    "p25": 89.0,
+    "p75": 490.0,
+    "p90": 999.0,
+    "mean": 681.0,
+    "label_th": "แท้",
+    "label_en": "'genuine' claimed",
+    "ratio_to_all_median": 1.53
+   },
+   {
+    "n": 3,
+    "median": 590.0,
+    "p25": 45.0,
+    "p75": 590.0,
+    "p90": 590.0,
+    "mean": 1545.0,
+    "label_th": "ใบเซอร์ / ใบรับรอง / มีบัตร",
+    "label_en": "certificate claimed",
+    "ratio_to_all_median": 4.57
+   },
+   {
+    "n": 3323,
+    "median": 159.0,
+    "p25": 89.0,
+    "p75": 329.0,
+    "p90": 600.0,
+    "mean": 632.0,
+    "label_th": "หลวงพ่อ / หลวงปู่ / หลวงตา",
+    "label_en": "named monk",
+    "ratio_to_all_median": 1.23
+   },
+   {
+    "n": 3384,
+    "median": 159.0,
+    "p25": 89.0,
+    "p75": 300.0,
+    "p90": 600.0,
+    "mean": 534.0,
+    "label_th": "วัด",
+    "label_en": "temple named",
+    "ratio_to_all_median": 1.23
+   },
+   {
+    "n": 948,
+    "median": 150.0,
+    "p25": 89.0,
+    "p75": 250.0,
+    "p90": 419.0,
+    "mean": 248.0,
+    "label_th": "กรุ",
+    "label_en": "kru (stupa find)",
+    "ratio_to_all_median": 1.16
+   },
+   {
+    "n": 1186,
+    "median": 199.0,
+    "p25": 108.0,
+    "p75": 400.0,
+    "p90": 880.0,
+    "mean": 1061.0,
+    "label_th": "ปี 25xx",
+    "label_en": "year stated",
+    "ratio_to_all_median": 1.54
+   },
+   {
+    "n": 557,
+    "median": 149.0,
+    "p25": 89.0,
+    "p75": 251.0,
+    "p90": 500.0,
+    "mean": 967.0,
+    "label_th": "พิมพ์",
+    "label_en": "mould named",
+    "ratio_to_all_median": 1.16
+   },
+   {
+    "n": 93,
+    "median": 230.0,
+    "p25": 99.0,
+    "p75": 350.0,
+    "p90": 680.0,
+    "mean": 339.0,
+    "label_th": "กล่องเดิม",
+    "label_en": "original box",
+    "ratio_to_all_median": 1.78
+   },
+   {
+    "n": 998,
+    "median": 129.0,
+    "p25": 89.0,
+    "p75": 189.0,
+    "p90": 299.0,
+    "mean": 190.0,
+    "label_th": "เลี่ยม / กรอบทอง",
+    "label_en": "framed / gold case",
+    "ratio_to_all_median": 1.0
+   },
+   {
+    "n": 557,
+    "median": 129.0,
+    "p25": 69.0,
+    "p75": 199.0,
+    "p90": 459.0,
+    "mean": 230.0,
+    "label_th": "ปลุกเสก",
+    "label_en": "consecrated (claimed)",
+    "ratio_to_all_median": 1.0
+   },
+   {
+    "n": 101,
+    "median": 289.0,
+    "p25": 169.0,
+    "p75": 599.0,
+    "p90": 1250.0,
+    "mean": 762.0,
+    "label_th": "หายาก",
+    "label_en": "rare (claimed)",
+    "ratio_to_all_median": 2.24
+   },
+   {
+    "n": 285,
+    "median": 250.0,
+    "p25": 175.0,
+    "p75": 400.0,
+    "p90": 598.0,
+    "mean": 349.0,
+    "label_th": "จตุคาม",
+    "label_en": "Jatukham",
+    "ratio_to_all_median": 1.94
+   },
+   {
+    "n": 400,
+    "median": 147.0,
+    "p25": 84.0,
+    "p75": 250.0,
+    "p90": 399.0,
+    "mean": 220.0,
+    "label_th": "สมเด็จ",
+    "label_en": "Somdej",
+    "ratio_to_all_median": 1.14
+   },
+   {
+    "n": 834,
+    "median": 120.0,
+    "p25": 79.0,
+    "p75": 199.0,
+    "p90": 350.0,
+    "mean": 181.0,
+    "label_th": "เหรียญ",
+    "label_en": "struck medal",
+    "ratio_to_all_median": 0.93
+   },
+   {
+    "n": 729,
+    "median": 159.0,
+    "p25": 89.0,
+    "p75": 260.0,
+    "p90": 449.0,
+    "mean": 239.0,
+    "label_th": "ตะกรุด",
+    "label_en": "takrut",
+    "ratio_to_all_median": 1.23
+   }
+  ],
+  "corpus_by_class": [
+   {
+    "key": "hun_phayon",
+    "label_th": "หุ่นพยนต์",
+    "kinds": 2,
+    "median_of_kind_medians": 189.0,
+    "min": 79.0,
+    "max": 299.0
+   },
+   {
+    "key": "khong_thammachat",
+    "label_th": "เครื่องรางธรรมชาติ",
+    "kinds": 6,
+    "median_of_kind_medians": 184.0,
+    "min": 90.0,
+    "max": 300.0
+   },
+   {
+    "key": "yantra_wattu",
+    "label_th": "วัตถุมงคล (ยันต์)",
+    "kinds": 17,
+    "median_of_kind_medians": 169.0,
+    "min": 56.0,
+    "max": 440.0
+   },
+   {
+    "key": "kuman",
+    "label_th": "กุมารทอง",
+    "kinds": 1,
+    "median_of_kind_medians": 159.0,
+    "min": 159.0,
+    "max": 159.0
+   },
+   {
+    "key": "thep_thewada",
+    "label_th": "เทพ / เทวดา",
+    "kinds": 11,
+    "median_of_kind_medians": 129.0,
+    "min": 82.0,
+    "max": 272.0
+   },
+   {
+    "key": "phra_khrueang",
+    "label_th": "พระเครื่อง",
+    "kinds": 21,
+    "median_of_kind_medians": 121.0,
+    "min": 57.0,
+    "max": 339.0
+   },
+   {
+    "key": "unassigned",
+    "label_th": "ยังไม่ชี้ขาด",
+    "kinds": 6,
+    "median_of_kind_medians": 102.0,
+    "min": 79.0,
+    "max": 149.0
+   }
+  ],
+  "corpus_by_kind_top": [
+   {
+    "id": "luk-sakot",
+    "label_th": "ลูกสะกด",
+    "label_en": "Luk sakot (lead subduing beads)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 4,
+    "median": 440.0,
+    "p25": 259.0,
+    "p75": 608.37
+   },
+   {
+    "id": "mit-mo",
+    "label_th": "มีดหมอ",
+    "label_en": "Mit mo (ritual knife)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 194,
+    "median": 357.0,
+    "p25": 89.0,
+    "p75": 3550.0
+   },
+   {
+    "id": "phra-hu-yan",
+    "label_th": "พระหูยาน",
+    "label_en": "Phra Hu Yan (Lopburi long-eared tablet)",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 2,
+    "median": 339.0,
+    "p25": 219.0,
+    "p75": 459.0
+   },
+   {
+    "id": "luk-om",
+    "label_th": "ลูกอม",
+    "label_en": "Luk om (mouth-held charm ball)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 104,
+    "median": 300.0,
+    "p25": 59.0,
+    "p75": 899.0
+   },
+   {
+    "id": "chan-mak",
+    "label_th": "ฉันหมาก",
+    "label_en": "Chan mak (a monk's chewed betel quid)",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 270,
+    "median": 299.0,
+    "p25": 89.0,
+    "p75": 1000.0
+   },
+   {
+    "id": "hun-phayon",
+    "label_th": "หุ่นพยนต์",
+    "label_en": "Hun Payon (animated effigy)",
+    "cls": "hun_phayon",
+    "resident": "animated",
+    "n": 349,
+    "median": 299.0,
+    "p25": 89.0,
+    "p75": 650.0
+   },
+   {
+    "id": "phra-phong-bai-lan",
+    "label_th": "พระผงใบลาน",
+    "label_en": "Palm-leaf-ash tablet",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 20,
+    "median": 299.0,
+    "p25": 86.04,
+    "p75": 599.0
+   },
+   {
+    "id": "waen-phirot",
+    "label_th": "แหวนพิรอด",
+    "label_en": "Phirot ring (plaited yantra ring)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 62,
+    "median": 289.0,
+    "p25": 64.94,
+    "p75": 799.0
+   },
+   {
+    "id": "chingchok-song-hang",
+    "label_th": "จิ้งจกสองหาง",
+    "label_en": "Two-tailed gecko",
+    "cls": "khong_thammachat",
+    "resident": "none",
+    "n": 2,
+    "median": 279.0,
+    "p25": 199.0,
+    "p75": 359.0
+   },
+   {
+    "id": "nang-kwak",
+    "label_th": "นางกวัก",
+    "label_en": "Nang Kwak (the beckoning lady)",
+    "cls": "thep_thewada",
+    "resident": "deva",
+    "n": 436,
+    "median": 272.0,
+    "p25": 75.0,
+    "p75": 1350.0
+   },
+   {
+    "id": "suea-yan",
+    "label_th": "เสื้อยันต์",
+    "label_en": "Suea yan (yantra shirt)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 10,
+    "median": 259.0,
+    "p25": 155.0,
+    "p75": 299.0
+   },
+   {
+    "id": "jatukham",
+    "label_th": "จตุคามรามเทพ",
+    "label_en": "Jatukham Rammathep",
+    "cls": "thep_thewada",
+    "resident": "deva",
+    "n": 285,
+    "median": 250.0,
+    "p25": 100.0,
+    "p75": 599.0
+   }
+  ],
+  "corpus_by_kind_bottom": [
+   {
+    "id": "lek-lai",
+    "label_th": "เหล็กไหล",
+    "label_en": "Lek lai (living iron)",
+    "cls": "khong_thammachat",
+    "resident": "none",
+    "n": 34,
+    "median": 90.0,
+    "p25": 66.86,
+    "p75": 229.0
+   },
+   {
+    "id": "phra-phikkhanet",
+    "label_th": "พระพิฆเนศ",
+    "label_en": "Ganesha pendant",
+    "cls": "thep_thewada",
+    "resident": "deva",
+    "n": 101,
+    "median": 89.0,
+    "p25": 29.0,
+    "p75": 259.0
+   },
+   {
+    "id": "phra-siwali",
+    "label_th": "พระสีวลี",
+    "label_en": "Phra Siwali (the never-hungry monk)",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 39,
+    "median": 89.0,
+    "p25": 12.0,
+    "p75": 399.0
+   },
+   {
+    "id": "rian-kechi",
+    "label_th": "เหรียญพระเกจิ",
+    "label_en": "monk medallion",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 161,
+    "median": 89.0,
+    "p25": 49.0,
+    "p75": 249.0
+   },
+   {
+    "id": "phaya-nak",
+    "label_th": "พญานาค",
+    "label_en": "Naga pendant",
+    "cls": "thep_thewada",
+    "resident": "deva",
+    "n": 66,
+    "median": 82.0,
+    "p25": 29.0,
+    "p75": 290.0
+   },
+   {
+    "id": "ai-khai",
+    "label_th": "ไอ้ไข่",
+    "label_en": "Ai Khai (the temple boy of Wat Chedi)",
+    "cls": null,
+    "resident": null,
+    "n": 408,
+    "median": 79.0,
+    "p25": 29.0,
+    "p75": 259.0
+   },
+   {
+    "id": "wua-thanu",
+    "label_th": "วัวธนู",
+    "label_en": "Wua thanu (guardian bull)",
+    "cls": "hun_phayon",
+    "resident": "animated",
+    "n": 1,
+    "median": 79.0,
+    "p25": 79.0,
+    "p75": 79.0
+   },
+   {
+    "id": "fu-talisman",
+    "label_th": "ยันต์ฮู้จีน",
+    "label_en": "Taoist paper talisman (fu)",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 8,
+    "median": 64.0,
+    "p25": 15.0,
+    "p75": 1200.0
+   },
+   {
+    "id": "phat-ban-menh",
+    "label_th": "พระพุทธเจ้าประจำปีนักษัตรจีน",
+    "label_en": "Birth-year guardian Buddha pendant",
+    "cls": "phra_khrueang",
+    "resident": "none",
+    "n": 2,
+    "median": 57.0,
+    "p25": 43.26,
+    "p75": 70.0
+   },
+   {
+    "id": "bat-quai",
+    "label_th": "กระจกยันต์แปดทิศ",
+    "label_en": "Bagua mirror",
+    "cls": "yantra_wattu",
+    "resident": "none",
+    "n": 2,
+    "median": 56.0,
+    "p25": 55.0,
+    "p75": 56.0
+   }
+  ]
+ },
+ "sources": [
+  {
+   "id": "thaipublica2018",
+   "title": "ไตรรงค์ บุตรากาศ, พระเครื่องเรื่องไม่เล็ก (จบ): พระเครื่องก็มีติดดอย, ThaiPublica, 19 Mar 2018",
+   "url": "https://thaipublica.org/2018/03/trirong04/",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "thairath2596840",
+   "title": "ชี้เป้า พระเครื่อง ราคาดี ที่มีแนวโน้มจะเป็นพระดีราคาแพง, Thairath, 8 Jan 2023",
+   "url": "https://www.thairath.co.th/lifestyle/amulet/2596840",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "postjung",
+   "title": "พระเครื่องแพงที่สุดในไทย ทำไมเบญจภาคีถึงถูกประเมินหลักสิบล้าน, Postjung board",
+   "url": "https://board.postjung.com/1690188",
+   "lang": "th",
+   "kind": "forum"
+  },
+  {
+   "id": "thairath2690639",
+   "title": "สมเด็จวัดระฆังองค์ร้อยล้านบาทมีจริงหรือไม่, Thairath, 2 May 2023",
+   "url": "https://www.thairath.co.th/horoscope/belief/2690639",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "komchadluek189475",
+   "title": "สมเด็จวัดระฆังพิมพ์ใหญ่ราคาองค์ละ 80-150 ล้านบาท, Komchadluek, 4 Aug 2014",
+   "url": "https://www.komchadluek.net/amulet/189475",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "tcij2014",
+   "title": "ปลุกกระแส-สร้างราคา 'พระเครื่องใหม่' บนเส้นทางธุรกิจศรัทธามูลค่า 4 หมื่นล้าน, TCIJ, 20 Mar 2014",
+   "url": "https://www.tcijthai.com/news/2014/20/scoop/4016",
+   "lang": "th",
+   "kind": "investigative"
+  },
+  {
+   "id": "posttoday2015",
+   "title": "'พระเครื่องพุ่ง' ที่สุด...เหรียญทองคำ 10 ล้าน, Post Today, 17 May 2015",
+   "url": "https://www.posttoday.com/politics/365279",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "pantip40849828",
+   "title": "เนื้อบน เนื้อกลาง เนื้อล่าง คืออะไร, Pantip",
+   "url": "https://pantip.com/topic/40849828",
+   "lang": "th",
+   "kind": "forum"
+  },
+  {
+   "id": "aagold",
+   "title": "10 อันดับสุดยอดเหรียญพระเครื่องเนื้อทองคำ (ตอนที่ 1), ห้างทอง เอเอ เยาวราช",
+   "url": "https://www.aagold-th.com/article/1034/",
+   "lang": "th",
+   "kind": "trade"
+  },
+  {
+   "id": "ennxo_koon",
+   "title": "เหรียญหลวงพ่อคูณ วัดบ้านไร่ ราคาแพงที่สุด, ENNXO",
+   "url": "https://www.ennxo.com/amulet/knowledge/the-most-expensive-luang-phor-koon-amulets",
+   "lang": "th",
+   "kind": "trade"
+  },
+  {
+   "id": "thairath1794359",
+   "title": "5 สุดยอดพระเครื่องแห่งยุค ผ่านกาลเวลายิ่งทวีมูลค่า, Thairath, 18 Mar 2020",
+   "url": "https://www.thairath.co.th/money/economics/thai_economics/1794359",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "thairath2751666",
+   "title": "10 พระเครื่อง องค์แชมป์ 2566, Thairath",
+   "url": "https://www.thairath.co.th/lifestyle/amulet/2751666",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "thairath_rian",
+   "title": "เหรียญรุ่นแรก series (หลวงพ่อกลั่น 2469 หลักสิบล้าน; หลวงปู่ทวด 2500 หลักล้าน; หลวงพ่อกวย 2504 หลักล้าน), Thairath 2024-25",
+   "url": "https://www.thairath.co.th/lifestyle/amulet/2824697",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "watkositaram",
+   "title": "ทำไมต้องรุ่น 1 ด้วย, Wat Kositaram forum",
+   "url": "http://www.watkositaram.com/forum/index.php?topic=3550.10",
+   "lang": "th",
+   "kind": "forum"
+  },
+  {
+   "id": "samakomphra_fee",
+   "title": "สมาคมผู้นิยมพระเครื่องพระบูชาไทย: อัตราค่าบำรุงออกบัตรรับรอง (search snippet; site refuses fetch)",
+   "url": "https://www.samakomphra.com/",
+   "lang": "th",
+   "kind": "association"
+  },
+  {
+   "id": "pantipamulet_fee",
+   "title": "ชมรมพระเครื่องพันธุ์ทิพย์บางกะปิ: กติกาการออกใบรับรองพระแท้ (search snippet)",
+   "url": "https://www.pantipamulet.com/ce-card/",
+   "lang": "th",
+   "kind": "association"
+  },
+  {
+   "id": "gpra_fee",
+   "title": "G-Pra.com ค่าธรรมเนียมประมูล 2568",
+   "url": "https://www.g-pra.com/Fee/Auc_fee_2568.php",
+   "lang": "th",
+   "kind": "auction"
+  },
+  {
+   "id": "komchadluek217635",
+   "title": "ตลาดพระเครื่องท่าพระจันทร์รอวันเป็นตำนาน, Komchadluek, 28 Nov 2015",
+   "url": "https://www.komchadluek.net/amulet/217635",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "thebusinessplus",
+   "title": "ทำไมพระเครื่องไทยถึงขายราคาเป็นล้าน, The Business Plus, 17 Apr 2025",
+   "url": "https://www.thebusinessplus.com/thai-amulet-1/",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "thairath2824820",
+   "title": "ป๋อง สุพรรณ ชี้เป้าพระเครื่องราคาดี ปี 2568, Thairath",
+   "url": "https://www.thairath.co.th/lifestyle/amulet/2824820",
+   "lang": "th",
+   "kind": "press"
+  },
+  {
+   "id": "nation2024",
+   "title": "Amulets: Thai soft power, exported as far as China, The Nation, 21 Apr 2024",
+   "url": "https://www.nationthailand.com/thailand/economy/40037417",
+   "lang": "en",
+   "kind": "press"
+  },
+  {
+   "id": "scmp2019",
+   "title": "World's biggest amulet market, SCMP, 20 May 2019",
+   "url": "https://www.scmp.com/lifestyle/arts-culture/article/3010625/worlds-biggest-amulet-market-why-thais-wear-so-many-good",
+   "lang": "en",
+   "kind": "press"
+  },
+  {
+   "id": "bkkpost2025",
+   "title": "Amulet boom draws capital concerns (money-laundering bidding rings), Bangkok Post (paywalled; search snippet only)",
+   "url": "https://www.bangkokpost.com/thailand/general/3292319/amulet-boom-draws-capital-concerns",
+   "lang": "en",
+   "kind": "press"
+  },
+  {
+   "id": "regaliathai",
+   "title": "Thai Amulets: Value and Economy, regaliathai.com, 20 Oct 2020 (Kruba Srivichai 2482: ฿500k-1M by condition)",
+   "url": "https://www.regaliathai.com/Articles/2020/10/20/thai-amulets-value-and-economy/",
+   "lang": "en",
+   "kind": "dealer"
+  },
+  {
+   "id": "oldthaiamulets",
+   "title": "Thai Amulet Prices Explained, oldthaiamulets.com (dealer)",
+   "url": "https://oldthaiamulets.com/thai-amulet-prices-explained/",
+   "lang": "en",
+   "kind": "dealer"
+  },
+  {
+   "id": "meritmessenger",
+   "title": "Jatukam Ramathep: the amulet that caused a nationwide frenzy",
+   "url": "https://www.meritmessenger.com/en/articles/jatukam-ramathep-amulet-craze-story",
+   "lang": "en",
+   "kind": "press"
+  },
+  {
+   "id": "wiki_jatukham",
+   "title": "Jatukham Rammathep, Wikipedia (FPO estimate ฿22bn circulation 2007)",
+   "url": "https://en.wikipedia.org/wiki/Jatukham_Rammathep",
+   "lang": "en",
+   "kind": "reference"
+  },
+  {
+   "id": "tambiah1984",
+   "title": "Tambiah, S.J. (1984) The Buddhist Saints of the Forest and the Cult of Amulets, CUP — ch.14 'The cult of images and amulets' (charisma objectified; sacralisation by transfer)",
+   "url": "https://www.cambridge.org/core/books/abs/buddhist-saints-of-the-forest-and-the-cult-of-amulets/cult-of-images-and-amulets/0262B8E40B022A5E1FEA1C725C4DC11E",
+   "lang": "en",
+   "kind": "academic"
+  },
+  {
+   "id": "kitiarsa2012",
+   "title": "Pattana Kitiarsa (2012) Mediums, Monks, and Amulets: Thai Popular Buddhism Today, Silkworm — Jatukham craze, LP Khun cult of wealth, 'prosperity religion'",
+   "url": "https://silkwormbooks.com/products/mediums-monks-and-amulets",
+   "lang": "en",
+   "kind": "academic"
+  },
+  {
+   "id": "asianreview2024",
+   "title": "Asian Review 37(1) 2024 pp.1-28, 'Thailand Magic Amulets and Their...' (PDF unreadable by fetch; cited by title)",
+   "url": "https://so01.tci-thaijo.org/index.php/arv/article/download/263625/177549/1085654",
+   "lang": "en",
+   "kind": "academic"
+  },
+  {
+   "id": "academia_sg",
+   "title": "Globalizing Thai amulets: the Chinese-Singaporean role in commoditizing objects of faith (academia.edu; fetch refused)",
+   "url": "https://www.academia.edu/123504543/",
+   "lang": "en",
+   "kind": "academic"
+  },
+  {
+   "id": "catalogdb",
+   "title": "catalog.db, 15,295 Lazada TH amulet listings (method=commerce, THB), read-only",
+   "url": "manuscript-crawler/crawler/catalog.db",
+   "lang": "th",
+   "kind": "own_corpus"
+  }
+ ]
+}

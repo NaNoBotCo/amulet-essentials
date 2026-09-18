@@ -1,0 +1,254 @@
+{
+ "schema": 1,
+ "id": "dat-lone",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ลูกแก้วธาตุ",
+  "roman": "dat-lone",
+  "en": "Dat-lone (weikza alchemical ball)",
+  "aliases": {
+   "th": [
+    "ดั๊ตโลน",
+    "ลูกธาตุพม่า",
+    "เหล็กไหลพม่า"
+   ],
+   "roman": [
+    "dat lone",
+    "datlone",
+    "dhat lone",
+    "pyada lone"
+   ],
+   "en": [
+    "alchemical ball",
+    "weizza ball",
+    "Burmese philosopher's stone"
+   ]
+  },
+  "other_scripts": {
+   "my": "ဓာတ်လုံး"
+  }
+ },
+ "region": [
+  "mm"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "bead",
+  "shape_th": "ลูกกลมเล็ก ผิวมัน โลหะสีเข้ม ทำจากปรอทหรือเหล็กที่ผ่านการหุงตามวิชา",
+  "shape_en": "A small polished ball of dark metal, made by firing mercury (pyada path) or iron (than path) through the alchemical stages. Held in the hand, carried in a pouch or cased.",
+  "size_mm": null,
+  "wearable_th": "พกในถุงหรือตลับ ไม่ค่อยห้อยคอ",
+  "wearable_en": "Carried in a pouch or case rather than hung at the neck; size and finish vary by maker",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The Burmese Wikipedia article at ဓာတ်လုံး treats the term as the philosopher's stone of Western alchemy and gives ပြဒါးရှင်လုံး (living-mercury ball) as a synonym; the weikza usage is the same word applied to the adept's own product."
+ },
+ "iconography": [],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "วิชชาสายปรอทและสายเหล็ก",
+  "maker_en": "Weikza of the mercury (pyada) and iron (than) paths",
+  "era_th": "ไม่ระบุ",
+  "era_en": "Undated; the weikza movement as now known is placed in the Konbaung period",
+  "place_th": "พม่า",
+  "place_en": "Myanmar",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นลูกกลมขัดมัน ไม่ใช่ก้อนแร่ดิบจากถ้ำ",
+   "en": "A worked, polished ball rather than a rough fragment; the object was made, not found",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ไม่มีอักขระ ไม่มีรูป",
+   "en": "No inscription and no figure — unlike a takrut or a Buddha, its claim rests on the material alone",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "สายเหล็กติดแม่เหล็ก สายปรอทไม่ติด",
+   "en": "An iron-path ball answers a magnet; a mercury-path ball does not. The magnet separates the two paths and exposes a plated substitute",
+   "source": "s:tradition",
+   "tier": "inference"
+  },
+  {
+   "th": "หนัก เย็น ไม่ยืดเมื่อโดนไฟ — ต่างจากเหล็กไหลที่เล่ากันว่ายืดได้",
+   "en": "Dense and cold, and it does not stretch under flame; the Thai lek lai story is of a metal that softens and draws like thread when heated with honey",
+   "source": "s:th-wiki-lek-lai",
+   "tier": "cited"
+  },
+  {
+   "th": "ตลาดไทยไม่มีคำเรียกตายตัว ของที่ขายว่า 'เหล็กไหลพม่า' ต้องถามว่าทำหรือขุด",
+   "en": "Thai listings have no fixed word for it; anything sold as 'Burmese lek lai' should be asked whether it was made or dug, because that is the whole difference",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "lek-lai",
+   "tell_th": "เหล็กไหลเป็นของธรรมชาติที่ไปเอามาจากถ้ำด้วยพิธี พลังอยู่ในตัวมันเอง · ดั๊ตโลนเป็นของที่วิชชาหุงขึ้นจากปรอทหรือเหล็ก พลังมาจากการทำ ทั้งสองไม่มีผู้อยู่และไม่ต้องเลี้ยง",
+   "tell_en": "Lek lai is a natural metal fetched from a cave by rite; its power is held to be inherent, and the Thai class calls it a natural talisman. A dat-lone is made: a weikza fires mercury or iron up through the stages until the ball is finished, so the power is in the work. Same look in the hand — a dark lustrous lump — opposite provenance question. Both have nobody home. Ask 'found or fired?' in either direction."
+  },
+  {
+   "id": "luk-om",
+   "tell_th": "ลูกอมเป็นผงหรือขี้ผึ้งปั้นกลม เบาและอ่อน · ดั๊ตโลนเป็นโลหะหนัก",
+   "tell_en": "A Thai luk om is a ball of pressed powder or wax, light and soft; a dat-lone is dense metal."
+  },
+  {
+   "id": "mustika",
+   "tell_th": "มุสติกาเป็นหินหรือไข่มุกที่พบในสัตว์หรือพืช ถือเป็นของธรรมชาติ · ดั๊ตโลนเป็นของที่ทำ",
+   "tell_en": "A Malay-Indonesian mustika is a stone or pearl found inside an animal or plant, a natural object; a dat-lone is manufactured metal."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งในกะลามะพร้าว ไม่ใช่โลหะ",
+   "tell_en": "A khot kala is a concretion found in a coconut shell, not metal, and not made."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Weizzas"
+  ],
+  "commons_files": [
+   "File:Burmese Weizzas.jpg",
+   "File:Weizzas, Taunggyi pagoda.JPG",
+   "File:Famous Yogis and Wizirds from Myanmar.JPG"
+  ],
+  "wanted_en": "No free photograph of a dat-lone itself exists on Commons as of 2026-09-02; the files listed show the weikza shrine context only. Needed: one ball in the palm for scale, and a magnet test frame."
+ },
+ "images": [
+  {
+   "file": "dat-lone/dat-lone-burmese-weizzas-453b93.jpg",
+   "source": "commons",
+   "title": "File:Burmese Weizzas.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Burmese_Weizzas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=72214358",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Emily Khine",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ลูกแก้วธาตุ",
+   "alt_en": "Dat-lone (weikza alchemical ball) — Famous Weizzas from Myanmar",
+   "sha256": "f352dd88d6956cc32d42091e32ac22cbaf9e78b2f84cfb02ccf17c425609e439",
+   "width": 3993,
+   "height": 2504,
+   "primary": true
+  },
+  {
+   "file": "dat-lone/dat-lone-weizzas-taunggyi-pagoda-75697d.jpg",
+   "source": "commons",
+   "title": "File:Weizzas, Taunggyi pagoda.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Weizzas%2C_Taunggyi_pagoda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11340616",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hintha",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ลูกแก้วธาตุ",
+   "alt_en": "Dat-lone (weikza alchemical ball) — Weizzas (wizards) shrine at a pagoda in Taunggyi",
+   "sha256": "5e076cab0e951c7edd6491df9fcaa6b357ea616a2299cb2a37974ce2cd0fd13b",
+   "width": 989,
+   "height": 1319
+  },
+  {
+   "file": "dat-lone/dat-lone-famous-yogis-and-wizirds-from-myanmar-f602d4.jpg",
+   "source": "commons",
+   "title": "File:Famous Yogis and Wizirds from Myanmar.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Famous_Yogis_and_Wizirds_from_Myanmar.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=39768471",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Lionslayer",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ลูกแก้วธาตุ",
+   "alt_en": "Dat-lone (weikza alchemical ball) — Famous Yogis and Wizards from Myanmar",
+   "sha256": "1bc676c37f85754345f88fca0f807472ea2d3dc36424df5df542995818777dce",
+   "width": 2000,
+   "height": 440
+  }
+ ],
+ "text": {
+  "what_th": "ลูกกลมโลหะที่วิชชาพม่าหุงขึ้นจากปรอทหรือเหล็ก เชื่อกันว่าเมื่อสำเร็จจะให้คงกระพัน อายุยืน และเป็นบันไดสู่ความเป็นวิชชา เป็นคู่เทียบของเหล็กไหลไทย แต่เหล็กไหลเป็นของที่ไปเอามา ส่วนดั๊ตโลนเป็นของที่ทำขึ้น",
+  "what_en": "The alchemical ball of the Burmese weikza tradition: mercury or iron fired through the stages until it is held to be finished. Carried for invulnerability and long life, and for the adept a step toward becoming a weikza. The Burmese counterpart of Thai lek lai — but lek lai is fetched from a cave and a dat-lone is made in a fire.",
+  "story_th": "สายปรอท (ปยะดา) ศึกษาการแปรธาตุเพื่อทำทองและเงินจากโลหะสามัญ ลูกที่หุงสำเร็จคือดั๊ตโลน เล่ากันว่าผู้ที่สำเร็จจะกลืนหรือถือลูกนี้ไว้ และไม่ตายอย่างคนธรรมดา รอพระศรีอาริย์ ชาวพม่าจำนวนมากถือว่าโบโบอองและโบมินกองยังอยู่",
+  "story_en": "The mercury-path weikza study transmutation, producing gold and silver from common metals; the finished ball is the dat-lone. The tradition holds that the accomplished adept keeps or swallows the ball and does not die as others do, but withdraws to wait for Maitreya — which is how many Burmese speak of Bo Bo Aung and Bo Min Gaung today. Six paths are named in the Burmese article: mercury, iron, medicine, in, mantra and the spirit-infused blade.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง หมวดไทยยังไม่มีที่ให้ — ไม่ใช่ของธรรมชาติ ไม่ใช่ยันต์ ไม่ใช่พระ",
+  "keeping_en": "Nobody home and nothing owed. The Thai class vocabulary leaves it unplaced: not a natural talisman (it is made), not a yantra object (no inscription), not a Buddha image. That refusal is the record."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-weikza",
+  "s:en-wiki-bo-bo-aung",
+  "s:my-wiki-weizzadhara",
+  "s:th-wiki-lek-lai",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "names.other_scripts": {
+    "tier": "cited",
+    "source": "s:my-wiki-weizzadhara"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:en-wiki-weikza"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-weikza",
+    "note": "transmutation and paths cited; swallowing and waiting for Maitreya from en-wiki Bo Bo Aung and tradition"
+   },
+   "confusable_with": {
+    "tier": "cited",
+    "source": "s:th-wiki-lek-lai",
+    "note": "lek lai harvest story cited; dat-lone side tradition"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "no Thai listing title carries ลูกแก้วธาตุ, ดั๊ตโลน or เหล็กไหลพม่า"
+   },
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "null: vocabulary refuses; see keeping_en"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

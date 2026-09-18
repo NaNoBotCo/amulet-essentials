@@ -1,0 +1,448 @@
+{
+ "schema": 1,
+ "id": "thao-wessuwan",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ท้าวเวสสุวรรณ",
+  "roman": "thao wetsuwan",
+  "en": "Thao Wessuwan (guardian-king of the yaksha)",
+  "aliases": {
+   "th": [
+    "ท้าวเวสวัณ",
+    "ท้าวกุเวร",
+    "พระไพศรพณ์",
+    "ท้าวเวสสุวัณ"
+   ],
+   "roman": [
+    "thao wessuwan",
+    "thao wetsawan",
+    "thao kuwen",
+    "wessuwan"
+   ],
+   "en": [
+    "Vessavana",
+    "Vaisravana",
+    "Kubera",
+    "guardian of the north"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "kan_phi",
+   "khum_khrong",
+   "kha_khai"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_din"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปยักษ์ยืนถือกระบอง — ตั้งแต่รูปหล่อตั้งบูชาจนถึงจี้ห้อยคอและแผ่นยันต์ติดประตู",
+  "shape_en": "A standing yaksha figure holding a club, scaled from gate statue to shelf figure to neck pendant; also cut as a flat gate-plaque or yantra",
+  "size_mm": null,
+  "wearable_th": "จี้ห้อยคอ หรือตั้งบูชาที่ประตูบ้าน ร้านค้า",
+  "wearable_en": "Worn as a pendant, or set at a gate, door or shop front; the same duty at every scale",
+  "obverse_th": "ยักษ์ยืนกางขา สองมือกุมกระบองตั้งตรงหน้า",
+  "obverse_en": "The yaksha stands wide-legged, both hands on a club planted upright before him",
+  "reverse_th": "มักลงยันต์หรือชื่อวัด รุ่น",
+  "reverse_en": "Usually a yantra, or the temple and run that issued it",
+  "notes_en": "Materials in the current retail market run to resin and plated alloy for statues and silver or brass for pendants; the vault key lists metal and earth."
+ },
+ "iconography": [
+  {
+   "th": "ยักษ์ถือกระบอง",
+   "en": "a yaksha holding a club (ตะบอง / กระบอง)"
+  },
+  {
+   "th": "ยืนกางขาบนฐาน",
+   "en": "wide-legged stance on a base"
+  },
+  {
+   "th": "มงกุฎยอดแหลม เขี้ยว",
+   "en": "pointed crown and fangs of the giant-type (ยักษ์) face"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "รูปเคารพเก่าแก่ในพุทธศาสนา กระแสบูชาเป็นวัตถุมงคลแรงขึ้นมากตั้งแต่ราว พ.ศ. ๒๕๖๕",
+  "era_en": "An old Buddhist guardian figure; as a mass-market amulet the surge dates to about 2022, when the large statue at Wat Chulamani, Samut Songkhram, became a phenomenon",
+  "place_th": "ทั่วประเทศ กระแสล่าสุดจากสมุทรสงคราม",
+  "place_en": "Nationwide; the recent wave centres on Samut Songkhram",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปยักษ์ ไม่ใช่องค์พระ ไม่ใช่พระเกจิ — เทพที่บูชา ไม่ใช่ผีที่เลี้ยง",
+   "en": "A yaksha figure, never a Buddha or a monk: a venerated deva, not a raised spirit",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "กระบองคือเครื่องหมายประจำตัว ถ้าไม่มีกระบองให้สงสัยว่าเป็นยักษ์ตนอื่น",
+   "en": "The club is the identifying attribute; a giant without one is likely another yaksha (a temple gate-guardian, a Ramakien figure)",
+   "source": "s:th-wiki-thao-wessuwan",
+   "tier": "cited"
+  },
+  {
+   "th": "ทิศเหนือ เจ้าแห่งยักษ์ หนึ่งในจาตุมหาราช — ตราของอัยการไทย",
+   "en": "Guardian of the north and lord of the yaksha, one of the Four Great Kings; the same figure is the emblem of the Thai public prosecutors, so an official seal is not an amulet",
+   "source": "s:th-wiki-thao-wessuwan",
+   "tier": "cited"
+  },
+  {
+   "th": "ของเก่าคือแผ่นยันต์แขวนเปลเด็ก ของใหม่คือรูปหล่อและจี้",
+   "en": "The older form is a yantra or image hung at a child's cradle to keep spirits off the infant; the cast statue and pendant are the modern trade form",
+   "source": "s:th-wiki-thao-wessuwan",
+   "tier": "cited"
+  },
+  {
+   "th": "ตลาดปัจจุบันเป็นเรซิ่น ทองเหลืองชุบ เงิน — หมวดที่โตเร็วที่สุดหมวดหนึ่ง",
+   "en": "Current listings are resin, plated brass and silver, one of the fastest-growing categories in the market; volume says nothing about any one piece",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phaya-khrut",
+   "tell_th": "เวสสุวรรณเป็นยักษ์ยืนถือกระบอง · ครุฑเป็นครึ่งคนครึ่งนกกางปีก ทั้งคู่เป็นเทพที่บูชา",
+   "tell_en": "Wessuwan is a standing giant with a club; the garuda is a winged man-bird. Same class (deva, veneration), different body — count the wings."
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามเป็นเหรียญกลมใหญ่ เทพนั่งกลางวงราหูหรือนักษัตร · เวสสุวรรณเป็นรูปยักษ์ยืนเต็มตัว",
+   "tell_en": "Jatukham is a large round disc with a seated deva ringed by Rahu heads or zodiac animals; Wessuwan is a full standing yaksha figure, rarely a disc."
+  },
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เป็นรูปคนถืออาวุธที่ถูกปลุกให้ทำงานและต้องเซ่น · เวสสุวรรณเป็นเทพ บูชาด้วยความเคารพ ไม่เลี้ยง",
+   "tell_en": "A hun phayon is an armed man-figure animated to serve and fed daily; Wessuwan is a deva shown as a giant, owed respect and offerings, never a meal-a-day."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือรูปพระเกจิ ครองจีวร · เวสสุวรรณเป็นยักษ์สวมมงกุฎ",
+   "tell_en": "A rup lo casts a monk in robes; Wessuwan is a crowned, fanged giant. Both are cast metal, so the face decides."
+  }
+ ],
+ "market": {
+  "search": [
+   "เวสสุวรรณ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Vaiśravaṇa in Thailand"
+  ],
+  "commons_files": [
+   "File:Wat Suthat วัดสุทัศน์ - ท้าวเวสสุวรรณ.jpg",
+   "File:ท้าวเวชสุวรรณ..jpg",
+   "File:19-metre-tall statue of Thao Wessuwan.jpg",
+   "File:Thao Wessuwan Natbiluu image.jpg",
+   "File:Guardian of Phra Meru Mas of Bhumibol Adulyadej - Vessavana (left side).jpg"
+  ],
+  "wanted_en": "Commons has temple statues only. Needed: a worn pendant obverse and reverse, and a shelf figure beside a gate plaque at matched scale"
+ },
+ "images": [
+  {
+   "file": "thao-wessuwan/thao-wessuwan-wat-suthat-2f5017.jpg",
+   "source": "commons",
+   "title": "File:Wat Suthat วัดสุทัศน์ - ท้าวเวสสุวรรณ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wat_Suthat_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C_-_%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%AA%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=114652402",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Vaisrvana , Wat Suthat",
+   "sha256": "19837bd47846c428e076bcffb17579f6e7519f5bcd00faf2e51456844d06948b",
+   "width": 1924,
+   "height": 2565,
+   "primary": true
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-wat-phrathat-doi-suthep-13-aac741.jpg",
+   "source": "commons",
+   "title": "File:Wat Phrathat Doi Suthep 13.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Wat_Phrathat_Doi_Suthep_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=28121871",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Kittipong khunnen",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "bc4b03b08725d496ae9c88d5ebb4ad0e7eb3bcab5ab18c8fa0c937f3e780ed04",
+   "width": 2667,
+   "height": 4000
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-9-6f1259.jpg",
+   "source": "commons",
+   "title": "File:วัดจุฬามณี อ.อัมพวา จ.สมุทรสงคราม (9).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%B8%E0%B8%AC%E0%B8%B2%E0%B8%A1%E0%B8%93%E0%B8%B5_%E0%B8%AD.%E0%B8%AD%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B8%B2_%E0%B8%88.%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%A1_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51116734",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "93418f0352767b2ff92d606b7ff514566418df89f44491877c6e6446422b3319",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-guardian-of-phra-meru-mas-of-bhumibol-ad-a9f4c3.jpg",
+   "source": "commons",
+   "title": "File:Guardian of Phra Meru Mas of Bhumibol Adulyadej - Vessavana (right side).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Guardian_of_Phra_Meru_Mas_of_Bhumibol_Adulyadej_-_Vessavana_%28right_side%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64233813",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Xiengyod~commonswiki",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — ประติมากรรมรูปพระเวสสุวัณ จตุโลกบาลประจำทิศเหนือ มองจากด้านขวา ติดตั้งที่ฐานชาลาชั้นที่ 1 ขององค์พระเมรุมาศสำหรับพระราชพ",
+   "sha256": "8f7184224f13d80426505283ef0959e933e6d66d374df0e387c2d0bbcbd333e7",
+   "width": 3600,
+   "height": 4800
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-guardian-of-phra-meru-mas-of-bhumibol-ad-ba4917.jpg",
+   "source": "commons",
+   "title": "File:Guardian of Phra Meru Mas of Bhumibol Adulyadej - Vessavana (left side).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Guardian_of_Phra_Meru_Mas_of_Bhumibol_Adulyadej_-_Vessavana_%28left_side%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64233815",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Xiengyod~commonswiki",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — The image that appears here cannot be photographed from the front of the sculpture. Because the committee for organizing",
+   "sha256": "efa72e5f5e1ca37c62dc68a1640b6cbdbfd1c5f986a3a4564ab67f3aee3fbb3b",
+   "width": 3600,
+   "height": 4800
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-img-8981-royal-crematorium-king-rama9-ph-70dd38.jpg",
+   "source": "commons",
+   "title": "File:IMG 8981 Royal Crematorium King Rama9 Photographed by Trisorn Triboon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/IMG_8981_Royal_Crematorium_King_Rama9_Photographed_by_Trisorn_Triboon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=71444028",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Trisorn Triboon",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Royal Crematorium King Rama9 of Thailand.",
+   "sha256": "c8609dbbcf8575216dd123b07e88429acd5b77e91f396ee3f1974d923f14a21c",
+   "width": 4752,
+   "height": 3168
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-royal-crematorium-exhibition-of-king-ram-170b44.jpg",
+   "source": "commons",
+   "title": "File:Royal Crematorium Exhibition of King Rama 9 of Thailand Photographed by Trisorn Triboon (11).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Royal_Crematorium_Exhibition_of_King_Rama_9_of_Thailand_Photographed_by_Trisorn_Triboon_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=74311246",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Tris T7",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Royal Crematorium King Bhumibol Adulyadej of Thailand",
+   "sha256": "e96f6cb22cf0b76ae04cfa6b89204ff29131658fc7dee5c8d246e1ef0c33a8d3",
+   "width": 2304,
+   "height": 3456
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-royal-crematorium-exhibition-of-king-ram-012da3.jpg",
+   "source": "commons",
+   "title": "File:Royal Crematorium Exhibition of King Rama 9 of Thailand Photographed by Trisorn Triboon (12).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Royal_Crematorium_Exhibition_of_King_Rama_9_of_Thailand_Photographed_by_Trisorn_Triboon_%2812%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=74311248",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Tris T7",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Royal Crematorium King Bhumibol Adulyadej of Thailand",
+   "sha256": "816daf70150ad31d31b8bffbb13ceca3ea3ee679a6e44d7767efe29e3fc361bb",
+   "width": 2304,
+   "height": 3456
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-jpg-f2f926.jpg",
+   "source": "commons",
+   "title": "File:ท้าวเวชสุวรรณ..jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=85812139",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kritmong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — ท้าวเวชสุวรรณ",
+   "sha256": "792a7384880954c18df3270a47bd6a4eba310ea9361c3b9db7e5d9742dc29d00",
+   "width": 2448,
+   "height": 3264
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-19-metre-tall-statue-of-thao-wessuwan-0a302d.jpg",
+   "source": "commons",
+   "title": "File:19-metre-tall statue of Thao Wessuwan.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/19-metre-tall_statue_of_Thao_Wessuwan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=167923373",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "ManoiCMU",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — 19-metre-tall statue of Thao Wessuwan at Doi Kham which is claimed to be the largest of its kind in the world.",
+   "sha256": "beba0cff985ea4a54f83cacea81a85a39a5c14e02d3ecd39bd5ee30da68ab0a7",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-four-heavenly-kings-in-wat-bhoman-khunar-4e50dd.jpg",
+   "source": "commons",
+   "title": "File:Four Heavenly Kings in Wat Bhoman Khunaram Temple (2025) - img 08.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Four_Heavenly_Kings_in_Wat_Bhoman_Khunaram_Temple_%282025%29_-_img_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=171455049",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Kubera in the Hall of Four Heavenly Kings, Wat Bhoman Khunaram, Bangkok",
+   "sha256": "58f52f67d80cce2965e674e9631240017a7bcccfe9273322ad8d574a052f80e6",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-four-heavenly-kings-in-wat-bhoman-khunar-0f765f.jpg",
+   "source": "commons",
+   "title": "File:Four Heavenly Kings in Wat Bhoman Khunaram Temple (2025) - img 07.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Four_Heavenly_Kings_in_Wat_Bhoman_Khunaram_Temple_%282025%29_-_img_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=171455050",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Kubera in the Hall of Four Heavenly Kings, Wat Bhoman Khunaram, Bangkok",
+   "sha256": "21104f662129589359c3efd3399c8adb3b83d1cfc3a62bdc71d583a844616454",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "thao-wessuwan/thao-wessuwan-thao-wessuwan-natbiluu-image-f9ed15.jpg",
+   "source": "commons",
+   "title": "File:Thao Wessuwan Natbiluu image.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Thao_Wessuwan_Natbiluu_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=178835171",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Myanmar Wik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ท้าวเวสสุวรรณ",
+   "alt_en": "Thao Wessuwan (guardian-king of the yaksha) — Thao Wessuwan Image",
+   "sha256": "16d69f1b99b73587dfcbbfba864a8484965342a099f413110e4efa464edeb1dd",
+   "width": 764,
+   "height": 1028
+  }
+ ],
+ "text": {
+  "what_th": "ท้าวเวสสุวรรณ ราชาแห่งยักษ์ ผู้รักษาทิศเหนือ มือกุมกระบอง — รูปหล่อ จี้ และแผ่นติดประตู เป็นเทพที่บูชาผ่านวัตถุ ถวายเครื่องสักการะและความเคารพ ไม่ใช่ผีที่ต้องเลี้ยงข้าว",
+  "what_en": "The northern guardian-king of the yaksha, club in hand — statue, pendant and gate-plaque. A deva venerated through the object: offerings and respect, not meals.",
+  "story_th": "เป็นหนึ่งในจาตุมหาราช เจ้าแห่งยักษ์และผู้รักษาทิศเหนือ ตามความเชื่อเก่าของไทย แขวนยันต์หรือรูปท้าวเวสสุวรรณไว้ที่เปลเด็กกันภูตผีรบกวน ปัจจุบันตั้งเป็นรูปเคารพหน้าบ้านหน้าร้าน กันคุณไสยและรักษาทรัพย์ กระแสบูชาแรงขึ้นมากหลังรูปองค์ใหญ่ที่วัดจุฬามณี สมุทรสงคราม ราว พ.ศ. ๒๕๖๕",
+  "story_en": "One of the Four Great Kings, lord of the yaksha and guardian of the north. The older Thai use is a yantra or small image hung at a baby's cradle so no spirit troubles the child; the modern one is a figure at the door of a house or shop, keeping ghosts and black magic off the threshold and guarding what is stored inside. The trade form took off around 2022 after the large statue at Wat Chulamani in Samut Songkhram drew crowds, and the same duty now sells at every scale from garden statue to silver pendant. His image is also the emblem of the Thai public prosecutors, which tells you how he is read: an enforcer, not a benefactor.",
+  "keeping_th": "มีเทพสถิตในความหมายของการบูชา ถวายดอกไม้ ธูปเทียน น้ำ ด้วยความเคารพ ไม่ต้องเลี้ยงข้าว วางลงได้ ควรถามประวัติผู้บูชาเดิมบ้าง",
+  "keeping_en": "Someone is home, at the deva tier: owed veneration — flowers, incense, water, respect — not feeding. Can be set down; worth asking who venerated it before you, but not a spirit with a history that bites."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:th-wiki-thao-wessuwan",
+  "s:en-wiki-vessavana",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-thao-wessuwan",
+    "note": "cradle yantra, prosecutors' emblem, Wat Chulamani 2022 (en.wiki)"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-vessavana"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:amulet-reference"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "names.aliases": {
+    "tier": "cited",
+    "source": "s:th-wiki-thao-wessuwan"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,8 @@
+build/
+images_store/
+images_excluded/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.venv/

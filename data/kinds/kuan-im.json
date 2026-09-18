@@ -1,0 +1,285 @@
+{
+ "schema": 1,
+ "id": "kuan-im",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "เจ้าแม่กวนอิม",
+  "roman": "kuan im",
+  "en": "Guanyin pendant",
+  "aliases": {
+   "th": [
+    "กวนอิม",
+    "พระโพธิสัตว์กวนอิม",
+    "พระอวโลกิเตศวร"
+   ],
+   "roman": [
+    "kuan yin",
+    "guan yin",
+    "chao mae kuan im"
+   ],
+   "en": [
+    "Kuan Yin",
+    "Avalokitesvara",
+    "Goddess of Mercy"
+   ]
+  },
+  "other_scripts": {
+   "zh": "觀音"
+  }
+ },
+ "region": [
+  "th",
+  "diaspora"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "metta_maha_niyom",
+   "khum_khrong",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_loha",
+   "nuea_phong",
+   "ngoen"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "จี้หยกหรือหินแกะ รูปหล่อ หรือเหรียญ องค์หญิงชุดขาวยืนหรือนั่ง",
+  "shape_en": "Carved jade or stone pendant, cast figure, or medallion: a white-robed female figure standing or seated on a lotus",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอด้วยเชือกหรือสร้อย นิยมหยกในหมู่คนไทยเชื้อสายจีน",
+  "wearable_en": "Worn at the neck on a cord or chain; jade is the classic body among Thai-Chinese families and is not on the material axis",
+  "obverse_th": "กวนอิมถือแจกันน้ำทิพย์และกิ่งหลิว หรือปางพันกร",
+  "obverse_en": "Guanyin holding the vase of pure water and a willow branch; or the thousand-armed form",
+  "reverse_th": "เรียบ หรือยันต์ หรืออักษรจีน",
+  "reverse_en": "Plain, a yantra, or Chinese characters",
+  "notes_en": "Jade, the commonest pendant body, has no key in materials.md; the material axis lists metal and powder forms only."
+ },
+ "iconography": [
+  {
+   "th": "ชุดขาว",
+   "en": "white robe"
+  },
+  {
+   "th": "แจกันน้ำทิพย์ กิ่งหลิว",
+   "en": "vase of pure water, willow branch"
+  },
+  {
+   "th": "ดอกบัว",
+   "en": "lotus seat"
+  },
+  {
+   "th": "ปางพันกร",
+   "en": "thousand-armed form"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ศาลเจ้าจีนและวัดพุทธหลายแห่ง",
+  "maker_en": "Chinese shrines and Buddhist wats alike; no single maker",
+  "era_th": "",
+  "era_en": "Avalokitesvara became female in East Asia by about the twelfth century; the Thai cult is Thai-Chinese and Mahayana in origin",
+  "place_th": "ชุมชนไทยเชื้อสายจีน เยาวราชและทั่วประเทศ",
+  "place_en": "Thai-Chinese communities, Yaowarat and nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปหญิงชุดขาว ถือแจกันและกิ่งหลิว — ไม่ใช่นางกวัก ไม่ใช่พระพุทธรูป",
+   "en": "A white-robed woman with vase and willow: not a beckoning Nang Kwak, not a Buddha",
+   "source": "s:en-wiki-guanyin",
+   "tier": "cited"
+  },
+  {
+   "th": "ปางพันกร: แขนแผ่เป็นวงรอบองค์",
+   "en": "Thousand-armed form reads as a fan of arms round the figure",
+   "source": "s:en-wiki-guanyin",
+   "tier": "cited"
+  },
+  {
+   "th": "จี้หยกแกะ: เย็นในมือ โปร่งแสงที่ขอบ ไม่ใช่วัตถุปลุกเสกในความหมายพระเครื่องเสมอไป",
+   "en": "Carved jade pendants are cool in the hand and translucent at the edge; many are never consecrated at a wat at all, which is a class note, not a flaw",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ผู้บูชามักถือศีลกินเจ งดเนื้อวัว",
+   "en": "Devotees commonly keep vegetarian days and abstain from beef; a keeper asking about diet is a tell for the cult, not the object",
+   "source": "s:th-wiki-kuan-im",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักนั่งพับเพียบยกมือกวัก แต่งไทย · กวนอิมชุดขาวถือแจกัน",
+   "tell_en": "Nang Kwak kneels in Thai dress with one hand beckoning; Guanyin stands or sits in a white robe with a vase. Both deva-tier."
+  },
+  {
+   "id": "phra-phrom",
+   "tell_th": "พระพรหมสี่หน้า · กวนอิมหน้าเดียว รูปหญิง",
+   "tell_en": "Brahma has four faces; Guanyin one, and female"
+  },
+  {
+   "id": "phra-siwali",
+   "tell_th": "พระสีวลีเป็นพระภิกษุถือกลดและบาตร",
+   "tell_en": "Sivali is a monk with umbrella and bowl, class phra_khrueang; Guanyin is a bodhisattva in lay white"
+  }
+ ],
+ "market": {
+  "search": [
+   "กวนอิม"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Thousand-Armed Guanyin 1.jpg",
+   "File:เจ้าแม่กวนอิมหยกขาว White Jade Kwannon.jpg",
+   "File:เจ้าแม่กวนอิม วัดพระแก้ว Kwannon at Wat Phra Kaew.jpg",
+   "File:Yaowarat Guanyin Shrine - 2017-05-12 (013).jpg",
+   "File:Guanyin - Wat Kok Mai Daeng.jpg"
+  ],
+  "wanted_en": "The thousand-armed carved-stone pendant is the one free photo of the object itself; the rest are Thai shrine statues. Needed: a plain jade Guanyin pendant front and back, and a Thai wat-issued Guanyin medallion."
+ },
+ "text": {
+  "what_th": "จี้หรือรูปเจ้าแม่กวนอิม พระโพธิสัตว์อวโลกิเตศวรในร่างหญิงชุดขาว เทพแห่งความเมตตาของคนไทยเชื้อสายจีน นิยมทำเป็นหยกแกะ",
+  "what_en": "A pendant or small image of Guanyin, Avalokitesvara in her white-robed female form, the compassion figure of Thai-Chinese households. The classic body is carved jade, worn on a cord.",
+  "story_th": "อวโลกิเตศวรเป็นชายในอินเดีย กลายเป็นหญิงในจีนและรวมกับตำนานเจ้าหญิงเมี่ยวซ่าน คนไทยเชื้อสายจีนบูชาเป็นเจ้าแม่ ถือศีลกินเจ งดเนื้อวัว มีองค์ใหญ่ที่วัดยานนาวาและวัดห้วยปลากั้ง คนพกจี้หยกกันมาก่อนจะมีเหรียญวัดออกตาม",
+  "story_en": "Avalokitesvara was male in India and became female in China, merged with the legend of Princess Miaoshan. Thai-Chinese families venerate her as Chao Mae, keep vegetarian days and skip beef; big images stand at Wat Yannawa and Wat Huai Pla Kang. Jade pendants were worn long before Thai wats began issuing Guanyin medallions.",
+  "keeping_th": "บูชาด้วยดอกไม้ น้ำ และการถือศีล ไม่ต้องเลี้ยง ไม่ใช่ผี",
+  "keeping_en": "Kept by veneration: flowers, water, precepts kept on her days. Not fed, not a ghost. The vault class is deva-tier though she is a bodhisattva; the keeping is the same."
+ },
+ "sources": [
+  "s:th-wiki-kuan-im",
+  "s:en-wiki-guanyin",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "iconography": {
+    "tier": "cited",
+    "source": "s:en-wiki-guanyin"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-kuan-im",
+    "note": "with s:en-wiki-guanyin; the last sentence is tradition"
+   },
+   "axes.class": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "bodhisattva placed in the deva-tier class because the keeping matches; a knower may split it"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "kuan-im/kuan-im-thousand-armed-guanyin-1-dc0940.jpg",
+   "source": "commons",
+   "title": "File:Thousand-Armed Guanyin 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Thousand-Armed_Guanyin_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=66414619",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thayne Tuason",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เจ้าแม่กวนอิม",
+   "alt_en": "Guanyin pendant — Thousand-Armed Guanyin pendant, carved and dyed stone. 33mm width, 40mm length, 8mm tall",
+   "sha256": "f2e8e7485942b816fd10f98df199f3e1f64f4c06bfd0aec7ded93b9780e87880",
+   "width": 2173,
+   "height": 2589,
+   "primary": true
+  },
+  {
+   "file": "kuan-im/kuan-im-white-jade-kwannon-c34d83.jpg",
+   "source": "commons",
+   "title": "File:เจ้าแม่กวนอิมหยกขาว White Jade Kwannon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%A1%E0%B8%AB%E0%B8%A2%E0%B8%81%E0%B8%82%E0%B8%B2%E0%B8%A7_White_Jade_Kwannon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35525150",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เจ้าแม่กวนอิม",
+   "alt_en": "Guanyin pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "c8cd073818d3d4aa4a8b9fb33fa2ab919229837bcd30a7c9711d9cc1f86bb696",
+   "width": 720,
+   "height": 960
+  },
+  {
+   "file": "kuan-im/kuan-im-kwannon-at-wat-phra-kaew-c70538.jpg",
+   "source": "commons",
+   "title": "File:เจ้าแม่กวนอิม วัดพระแก้ว Kwannon at Wat Phra Kaew.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B4%E0%B8%A1_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7_Kwannon_at_Wat_Phra_Kaew.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35535268",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เจ้าแม่กวนอิม",
+   "alt_en": "Guanyin pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "26286243c73b98a2635c11b6d828d0d9f1221ffc71cdaecf9eb48b0ab8215ef4",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "kuan-im/kuan-im-yaowarat-guanyin-shrine-2017-05-12-013-fc1979.jpg",
+   "source": "commons",
+   "title": "File:Yaowarat Guanyin Shrine - 2017-05-12 (013).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Yaowarat_Guanyin_Shrine_-_2017-05-12_%28013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58877333",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เจ้าแม่กวนอิม",
+   "alt_en": "Guanyin pendant — Guanyin Shrine and Thian Fa Foundation Office, Samphanthawong District, Bangkok, Thailand.",
+   "sha256": "da9951ef36d1efac21dd90830c0d66585d7eff1283887f760c4435b7adb6b735",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "kuan-im/kuan-im-guanyin-wat-kok-mai-daeng-94b1af.jpg",
+   "source": "commons",
+   "title": "File:Guanyin - Wat Kok Mai Daeng.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Guanyin_-_Wat_Kok_Mai_Daeng.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=142261065",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "SietsL",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เจ้าแม่กวนอิม",
+   "alt_en": "Guanyin pendant — Statue Guanyin of Wat Kok Mai Daeng, Ding Thong subdistrict, Wang Thong district, Phitsanulok province",
+   "sha256": "5a574302e4d3951c9d599a8acfbcac26c8fa42487c40bef917bb09fdca3cd478",
+   "width": 2898,
+   "height": 3864
+  }
+ ]
+}

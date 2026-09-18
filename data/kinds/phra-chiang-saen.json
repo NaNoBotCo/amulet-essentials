@@ -1,0 +1,364 @@
+{
+ "schema": 1,
+ "id": "phra-chiang-saen",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระเชียงแสน",
+  "roman": "phra chiang saen",
+  "en": "Chiang Saen (Lanna) bronze Buddha",
+  "aliases": {
+   "th": [
+    "พระสิงห์",
+    "เชียงแสนสิงห์หนึ่ง",
+    "เชียงแสนสิงห์สอง",
+    "พระพุทธรูปศิลปะล้านนา"
+   ],
+   "roman": [
+    "phra singh",
+    "chiang saen sing nueng",
+    "chiangsaen"
+   ],
+   "en": [
+    "Chiengsen Buddha",
+    "Lanna Buddha image",
+    "Singha-style Buddha"
+   ]
+  }
+ },
+ "region": [
+  "th-north"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "samrit",
+   "nuea_loha",
+   "thongdaeng"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "พระพุทธรูปหล่อสำริดแบบล้านนา ตั้งแต่องค์บูชาถึงองค์จ้อยขนาดห้อยคอ",
+  "shape_en": "Cast bronze Buddha in the Lanna manner, from shrine images down to 'ong choi' pieces small enough to wear",
+  "size_mm": null,
+  "wearable_th": "องค์เล็กเลี่ยมห้อยคอ องค์ใหญ่ตั้งบูชา",
+  "wearable_en": "Small ones framed at the neck; larger ones on the altar",
+  "obverse_th": "พระพุทธรูปนั่ง สมาธิหรือมารวิชัย",
+  "obverse_en": "Seated Buddha, in meditation or touching the earth",
+  "reverse_th": "หลังเรียบ ฐานกลวงหรือตัน บางองค์มีรอยกรุ",
+  "reverse_en": "Plain back; base hollow or solid; cache pieces carry crust",
+  "notes_en": "The name covers a style, not one wat or run; commercial pieces titled 'พระเชียงแสน' range from cache bronzes to modern copies."
+ },
+ "iconography": [
+  {
+   "th": "สิงห์หนึ่ง: ขัดสมาธิเพชร พระพักตร์กลม เกตุมาลาดอกบัวตูม พระวรกายอวบ ชายสังฆาฏิสั้นเหนือพระถัน",
+   "en": "Sing 1: vajrasana with both soles up, round face, lotus-bud ushnisha, plump body, short robe flap ending above the nipple"
+  },
+  {
+   "th": "สิงห์สอง: ขัดสมาธิราบ พระพักตร์รูปไข่ เกตุมาลาเปลว ชายสังฆาฏิยาวจรดพระนาภี อิทธิพลสุโขทัย",
+   "en": "Sing 2: legs folded flat, oval face, flame ushnisha, robe flap to the navel, Sukhothai influence"
+  },
+  {
+   "th": "สิงห์สาม: ยุคปลาย ใกล้สุโขทัย",
+   "en": "Sing 3: late, close to Sukhothai"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ช่างหล่อล้านนา ไม่ระบุ",
+  "maker_en": "Lanna bronze casters, unnamed",
+  "era_th": "ศิลปะล้านนา ราวพุทธศตวรรษที่ 19–24",
+  "era_en": "Lanna art, roughly the 13th to 18th centuries CE (Buddhist centuries 19–24)",
+  "place_th": "เชียงแสน เชียงใหม่ และเมืองล้านนา",
+  "place_en": "Chiang Saen, Chiang Mai and the Lanna towns; the name comes from the art centre before Mangrai moved to Chiang Mai",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ท่านั่ง: สมาธิเพชรเห็นฝ่าพระบาททั้งสอง = สิงห์หนึ่ง · สมาธิราบ = สิงห์สอง",
+   "en": "Seat: both soles showing (vajrasana) reads Sing 1; legs folded flat reads Sing 2",
+   "source": "s:th-wiki-lanna-art",
+   "tier": "cited"
+  },
+  {
+   "th": "เกตุมาลา: บัวตูม = สิงห์หนึ่ง · เปลว = สิงห์สอง/สาม",
+   "en": "Ushnisha: lotus bud for Sing 1, flame for Sing 2 and 3",
+   "source": "s:th-wiki-lanna-art",
+   "tier": "cited"
+  },
+  {
+   "th": "ชายสังฆาฏิ: สั้นเหนือพระถัน = สิงห์หนึ่ง · ยาวถึงพระนาภี = สิงห์สอง",
+   "en": "Robe flap: short above the nipple for Sing 1, down to the navel for Sing 2",
+   "source": "s:th-wiki-lanna-art",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อสำริด: สำริดแก่ทอง สำริดนาก สัมฤทธิ์ดำ — ผิวและสนิมตามอายุ",
+   "en": "Bronze bodies the trade names gold-rich, nak-toned and black; patina and pitting are the age signal on cast metal",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  },
+  {
+   "th": "พระพุทธสิหิงค์เป็นต้นแบบของคำว่า “สิงห์” ในการเรียกแบบ",
+   "en": "The word 'Sing' in the style names points to the Phra Sihing image and its Chiang Mai copy, not to a lion on the piece",
+   "source": "s:th-wiki-phra-sihing",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือรูปพระเกจิ ไม่ใช่พระพุทธรูป",
+   "tell_en": "A rup lo is a cast monk portrait; a Chiang Saen is a cast Buddha. Both phra_khrueang."
+  },
+  {
+   "id": "phra-kring",
+   "tell_th": "พระกริ่งเป็นพระพุทธรูปเล็กมีเม็ดกริ่ง แบบจีน-ทิเบต",
+   "tell_en": "A phra kring is a small Buddha with a rattle inside in a Sino-Tibetan manner; a Chiang Saen is Lanna style, no rattle"
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุส่วนมากเป็นพระพิมพ์ดินหรือชิน · พระเชียงแสนกรุเป็นสำริดหล่อ",
+   "tell_en": "Most cache finds are pressed earth or chin tablets; a cache Chiang Saen is a cast bronze figure"
+  },
+  {
+   "id": "phra-khong",
+   "tell_th": "พระคงเป็นพระพิมพ์ดินเผาลำพูน · พระเชียงแสนเป็นสำริดหล่อ",
+   "tell_en": "A พระคง is a Lamphun fired-earth tablet; a Chiang Saen is cast bronze. Both Lanna, both nobody-home."
+  }
+ ],
+ "market": {
+  "search": [
+   "พระเชียงแสน",
+   "เชียงแสนสิงห์"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:พระเชียงแสน สิงห์ ๑.jpg",
+   "File:พระเชียงแสน ยุคต้น.jpg",
+   "File:พระเชียงแสน (ยุคกลาง).jpg",
+   "File:พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "File:ด้านหลัง พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "File:พระเชียงแสน เนื้สำริดนาก.jpg",
+   "File:พระเชียงแสน สิงห์ ลังกาวงศ์.jpg",
+   "File:พระเชียงแสน สัมฤทธิ์์เดช (สัมฤทธิ์ดำ).jpg",
+   "File:พระเชียงแสน สิงห์๑ (ลังกา).jpg"
+  ],
+  "wanted_en": "Commons has obverse and reverse of cache pieces. Still wanted: a Sing 1 beside a Sing 2 at matched scale, and an ong-choi pendant in the hand."
+ },
+ "text": {
+  "what_th": "พระพุทธรูปสำริดแบบล้านนาที่วงการเรียกรวมว่าพระเชียงแสน แบ่งเป็นสิงห์หนึ่ง สิงห์สอง สิงห์สาม ตามหน้า เกตุ และชายจีวร มีทั้งองค์บูชาและองค์จ้อยห้อยคอ",
+  "what_en": "Lanna bronze Buddhas the trade groups as พระเชียงแสน, sorted into Sing 1, 2 and 3 by face, ushnisha and robe flap; from altar images down to wearable 'ong choi' pieces.",
+  "story_th": "ศิลปะล้านนาเริ่มที่เชียงแสนก่อนพญามังรายย้ายมาเชียงใหม่ ชื่อจึงติดมา สิงห์หนึ่งพระพักตร์กลม เกตุบัวตูม ขัดสมาธิเพชร สิงห์สองรับอิทธิพลสุโขทัย เกตุเปลว ชายจีวรยาว คำว่าสิงห์มาจากพระพุทธสิหิงค์ที่วัดพระสิงห์เชียงใหม่",
+  "story_en": "Lanna art centred on Chiang Saen before Mangrai moved to Chiang Mai, and the name stayed on the bronzes. Sing 1 has a round face, lotus-bud ushnisha and both soles up; Sing 2 takes Sukhothai's flame ushnisha and long robe flap; Sing 3 is the late style. 'Sing' refers to the Phra Sihing image whose Chiang Mai copy sits at Wat Phra Singh. Small casts and cache pieces enter the amulet trade under the same name.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง คำถามคือแท้ อายุ และราคา",
+  "keeping_en": "Nobody home, nothing owed. The provenance question is age, authenticity and price."
+ },
+ "sources": [
+  "s:th-wiki-lanna-art",
+  "s:th-wiki-phra-sihing",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:commons-amulets-th",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-lanna-art"
+  },
+  "fields": {
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "form": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-febe0b.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์ ๑.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C_%E0%B9%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55019056",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — พระเชียงแสน สิงห์๑ กรุเชียงแสน ขนาด ๑ นิ้ว",
+   "sha256": "336c0f3c8c31cd4c78378dd5cacf16ee55c14d9bb623f61fff833324c1464ca2",
+   "width": 3120,
+   "height": 4160,
+   "primary": true
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-451d32.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน ยุคต้น.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%95%E0%B9%89%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55031536",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — พระเชียงแสน สิงห์ เนื้อแก่ทองคำ (หรือเรียกเนื้อทองคำ) อยู่ในยุคแรกๆของเชียงแสน พุทธลักษณะ คล้ายพระอู่ทอง (น่าจะสร้างในยุ",
+   "sha256": "4abde7c96e23087f9ece14e8cefc04a6d038517d319910bab6ad7441404bfd39",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-d969b3.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน เนื้สำริดนาก.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B4%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55031584",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — พระเชียงแสน สิงห์ ๑ เนื้อสำริดนาก (สำริดจำปา) กรุยังไม่ทราบแน่ชัด",
+   "sha256": "ef6d79610a044dd7dc810b5237944b413cffcd1683b6d5684616c051295a3d5a",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-596dc3.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55040607",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — พระเชียงแสน สิงห์๑ กรุเชียงแสน",
+   "sha256": "dfa3fa37f6c19dd5e985c3ff8803cc0b1d1d2b4abb7b20a1a5f5a1c275364d30",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-7023aa.jpg",
+   "source": "commons",
+   "title": "File:ด้านหลัง พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55075618",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — ประวัติความเป็นมาของเมืองเชียงแสน มีบันทึกไว้ในตำนานพงศาวดารหลายฉบับหลายสำนวน แต่เนื้อเรื่องส่วนใหญ่จะเป็นเค้าโครงเดียวก",
+   "sha256": "dbff535bcecb00f6f51413137ebf630f1e17349085c07718db5341105721a430",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-6fd726.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน (ยุคกลาง).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%28%E0%B8%A2%E0%B8%B8%E0%B8%84%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55084008",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — ประวัติความเป็นมาของเมืองเชียงแสน มีบันทึกไว้ในตำนานพงศาวดารหลายฉบับหลายสำนวน แต่เนื้อเรื่องส่วนใหญ่จะเป็นเค้าโครงเดียวก",
+   "sha256": "61457c7c4d4e5d91d5b60355b5944680b854c2005210b21eba7e9b3e59df56dc",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-16a0e7.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สัมฤทธิ์์เดช (สัมฤทธิ์ดำ).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B9%8C%E0%B9%80%E0%B8%94%E0%B8%8A_%28%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C%E0%B8%94%E0%B8%B3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55032306",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — พระสิงห์๑ เชียงแสน กรุวัดป่ายาง แตกกรุปี ๒๕๕๓ เนื้อสัมฤทธิ์ดำ",
+   "sha256": "8ae8c6e3b6e8ee76f9bbf49cd9ee2692a5f61e4b48d15e33939ead561cc46c62",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-87731a.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์๑ (ลังกา).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%28%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55197431",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — ประวัติพระเชียงแสนลังกาวงศ์\n.... พระพุทธรูปศิลปะเชียงแสนลังกาวงศ์ มีต้นกำเนิดการสร้างขึ้นใน อาณาจักรเชียงแสน ซึ่งเป็นอาณ",
+   "sha256": "ba5275fbf36a605eeff85dbfc47e78d97d7188ab388799e2f7d5349b4b872e5e",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-chiang-saen/phra-chiang-saen-jpg-3f1228.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์ ลังกาวงศ์.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C_%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55239983",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเชียงแสน",
+   "alt_en": "Chiang Saen (Lanna) bronze Buddha — Phra Chiang Saen Style",
+   "sha256": "0abf3239e0ff26d6b60d94816d7af02c3bd975ff9f3dbc54ddb368c54b11372e",
+   "width": 3120,
+   "height": 4160
+  }
+ ]
+}

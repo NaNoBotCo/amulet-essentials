@@ -1,0 +1,277 @@
+{
+ "schema": 1,
+ "id": "pla-taphian",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ปลาตะเพียน",
+  "roman": "pla taphian",
+  "en": "Pla taphian (carp charm)",
+  "aliases": {
+   "th": [
+    "ปลาตะเพียนเงินปลาตะเพียนทอง",
+    "ปลาตะเพียนสาน",
+    "ตะเพียนทอง"
+   ],
+   "roman": [
+    "pla tapian",
+    "pla ta pian",
+    "taphian thong"
+   ],
+   "en": [
+    "silver-and-gold carp",
+    "woven palm-leaf fish",
+    "barb-fish charm"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "kha_khai",
+   "chok_lap",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "thongdaeng",
+   "ngoen",
+   "thongkham",
+   "naak"
+  ],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "แผ่นทองแดง เงิน ทองคำ หรือนาก แผ่บาง ตัดเป็นรูปปลาตะเพียนคู่ ตัวผู้ตัวเมีย ลงยันต์ แขวนบูชา หรือปลาสานใบลานแขวนเหนือเปล",
+  "shape_en": "A pair of fish, male and female, cut from thin copper, silver, gold or nak sheet and inscribed, hung up rather than worn — or, in the older craft, fish woven from palm-leaf strips and hung as a mobile over a cradle",
+  "size_mm": null,
+  "wearable_th": "แขวนไว้ที่ร้านหรือบ้าน ไม่ห้อยคอ",
+  "wearable_en": "Hung in the shop or house; not worn. The market also frames small metal fish as pendants.",
+  "obverse_th": "ยันต์อักขระในตัวปลา ตัว อิ อุ และ นะ ตามบท",
+  "obverse_en": "Khom syllables inside the fish body — i, u and a central na per verse",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Two objects share the name: the inscribed metal fish of the treatise and the woven palm-leaf mobile of Ayutthaya craft. The metal one is this class; the woven one is a cradle charm with no inscription."
+ },
+ "iconography": [
+  {
+   "th": "ปลาตะเพียนคู่ ตัวผู้ตัวเมีย",
+   "en": "a male-and-female pair of carp"
+  },
+  {
+   "th": "ยันต์สี่เหลี่ยมมีข้าวหลามตัด มุมสวัสดิกะ",
+   "en": "square yantra enclosing a diamond, swastikas in the corners, for the silver-and-gold pair"
+  },
+  {
+   "th": "ปลาสานใบลานล้อมแม่ปลา ๙ ๑๒ หรือ ๑๕ ตัว",
+   "en": "woven mobile: 9, 12 or 15 small fish around one mother fish"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ตำราไม่ระบุปี ปลาสานใบลานปรากฏในคำให้การพรรณนาภูมิสถานพระนครศรีอยุธยาว่าขายที่ตลาดต้น",
+  "era_en": "Undated treatise. English Wikipedia places the woven form in Ayutthaya, citing the Description of the Topography of Ayutthaya's mention of woven pla taphian sold on Ton Market street",
+  "place_th": "อยุธยาและภาคกลาง",
+  "place_en": "Ayutthaya and Central Thailand",
+  "first_attested": "Woven form: Description of the Topography of Ayutthaya (Ayutthaya-period text) per English Wikipedia; date of the document not verified here"
+ },
+ "diagnostics": [
+  {
+   "th": "โลหะแผ่นบางตัดเป็นรูปปลา ไม่ใช่หล่อหนา",
+   "en": "Flat sheet metal cut to a fish outline, not a thick casting",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มาเป็นคู่ ตัวผู้ตัวเมีย เงินและทอง",
+   "en": "Comes as a pair — male and female, or one 'silver' and one 'gold'",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มีอักขระในตัวปลา ปลาสานใบลานไม่มี",
+   "en": "Syllables inside the body mark the inscribed kind; the woven palm-leaf fish carries none",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ทำไว้แขวน ไม่มีห่วงห้อยคอในตำรา",
+   "en": "Made to hang; the treatise gives it no pendant loop",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุด ๓ ดอกค้าขายลงยันต์ปลาแล้วม้วน ปลาตะเพียนตัดเป็นรูปปลาแบน",
+   "tell_en": "The trade takrut in the same treatise inscribes the same fish yantra and rolls it; the pla taphian stays flat and fish-shaped."
+  },
+  {
+   "id": "phaya-tao-ruean",
+   "tell_th": "เต่าเรือนเป็นสัตว์ค้าขายอีกชนิด หล่อหนา ห้อยคอ ปลาตะเพียนแผ่นบาง แขวน",
+   "tell_en": "The house-turtle is the other trade animal: a thick cast pendant, where the fish is thin sheet made to hang."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นเทพที่บูชา ปลาตะเพียนเป็นแผ่นลงยันต์ แต่ตำราให้เสกข้าวเลี้ยงทุกวัน",
+   "tell_en": "Nang Kwak is a deva venerated with offerings; the fish is an inscribed sheet — though the treatise does feed it consecrated rice daily, which blurs the line this record keeps."
+  }
+ ],
+ "market": {
+  "search": [
+   "ปลาตะเพียน"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Pla taphian"
+  ],
+  "commons_files": [
+   "File:Ayutthaya Palm-Leave Fish Weaving Group 1.jpg",
+   "File:Ayutthaya Palm-Leave Fish Weaving Group 2.jpg"
+  ],
+  "wanted_en": "Free files show only the woven palm-leaf craft. Needed: an inscribed metal pair flat, syllables legible, and one hanging in a shop."
+ },
+ "images": [
+  {
+   "file": "pla-taphian/pla-taphian-ayutthaya-palm-leave-fish-weaving-group-e93434.jpg",
+   "source": "commons",
+   "title": "File:Ayutthaya Palm-Leave Fish Weaving Group 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ayutthaya_Palm-Leave_Fish_Weaving_Group_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38176557",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "ปลาตะเพียน",
+   "alt_en": "Pla taphian (carp charm) — The group is located in PhuKhao Thong sub-district, Phra Nakorn Si Ayutthaya district. It was founded by a group of hous",
+   "sha256": "2313a07871fa1989ea73d564dd1a3eba691cb5dc5f05c3acc5a8cd1f20fd63fc",
+   "width": 3140,
+   "height": 2090,
+   "primary": true
+  },
+  {
+   "file": "pla-taphian/pla-taphian-ayutthaya-palm-leave-fish-weaving-group-bcfb60.jpg",
+   "source": "commons",
+   "title": "File:Ayutthaya Palm-Leave Fish Weaving Group 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Ayutthaya_Palm-Leave_Fish_Weaving_Group_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38176556",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "ปลาตะเพียน",
+   "alt_en": "Pla taphian (carp charm) — The group is located in PhuKhao Thong sub-district, Phra Nakorn Si Ayutthaya district. It was founded by a group of hous",
+   "sha256": "df3aa74cbe84182660b2736a0601d5f3eeec75e9bcd518d7f87e1e11859d93d6",
+   "width": 933,
+   "height": 626
+  },
+  {
+   "file": "pla-taphian/pla-taphian-ayutthaya-studies-institute-1-9cc10b.jpg",
+   "source": "commons",
+   "title": "File:Ayutthaya Studies Institute 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ayutthaya_Studies_Institute_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38176674",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "ปลาตะเพียน",
+   "alt_en": "Pla taphian (carp charm) — Located in Pratu Chaisubdistrict, PhraNakhon SiAyutthaya district, the Ayutthaya Studies Institute, PhraNakhon SiAyuttha",
+   "sha256": "8efba825d3c048d3d456f7b11d3802396e4ddbfa35feee6f4daaae0b2e38b853",
+   "width": 1665,
+   "height": 2503
+  },
+  {
+   "file": "pla-taphian/pla-taphian-pla-taphian-ayutthaya-studies-institute-ffbcd0.jpg",
+   "source": "commons",
+   "title": "File:Pla taphian, Ayutthaya Studies Institute.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pla_taphian%2C_Ayutthaya_Studies_Institute.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=85993935",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "ปลาตะเพียน",
+   "alt_en": "Pla taphian (carp charm) — Located in Pratu Chaisubdistrict, PhraNakhon SiAyutthaya district, the Ayutthaya Studies Institute, PhraNakhon SiAyuttha",
+   "sha256": "97ccd8dbe2fa8b50411029083b5592c6dc09acbf13e3ad056a84e1d739e1e92d",
+   "width": 648,
+   "height": 962
+  }
+ ],
+ "text": {
+  "what_th": "ปลาตะเพียนคู่ตัดจากแผ่นโลหะบางลงยันต์ แขวนบูชาให้ซื้อง่ายขายดี ชื่อเดียวกับปลาสานใบลานที่แขวนเหนือเปลเด็กในงานฝีมืออยุธยา",
+  "what_en": "A pair of carp cut from thin metal sheet and inscribed, hung up so that buying is easy and selling brisk — sharing its name with the woven palm-leaf fish mobile hung over Ayutthaya cradles.",
+  "story_th": "ตำราให้แผ่ทองแดงหรือเงินให้บาง ตัดเป็นรูปปลาตะเพียน สมมติตัวหนึ่งเป็นเงินตัวหนึ่งเป็นทอง ลงตัว อิ อุ และ นะ ด้วยบทเมตตามหาลาภ ชมวดละจบ อีกตำรับใช้ทองคำ นาก เงิน หรือทองแดง ทำสองตัวคู่ตัวผู้ตัวเมีย ตั้งเครื่องบูชาครู เทียนหนัก ๑ บาท เทียนธรรมดา ๕ เล่ม ดอกไม้ขาว ๕ ดอก แล้วแขวนไว้บูชา มีคาถาบูชาปลา และคาถาเสกข้าวให้ปลากินทุกวัน",
+  "story_en": "The treatise beats copper or silver thin, cuts it into a carp, names one fish silver and one gold, and inscribes the syllables i, u and a central na with three metta-and-gain verses, one recitation per blowing. A second recipe allows gold, nak, silver or copper, makes the pair male and female, and sets out offerings for the teacher — a one-baht candle, five ordinary candles, five white flowers — before hanging them up. Two further kathas follow: one to worship the fish, one to consecrate rice fed to the fish every day. English Wikipedia's woven fish is a different object with the same name: palm-leaf strips woven into a mobile of nine, twelve or fifteen fish round a mother fish, hung over cradles in Ayutthaya and Thonburi.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยงตามหมวด แต่ตำราให้เสกข้าวให้ปลากินทุกวัน",
+  "keeping_en": "Nobody home by class, nothing owed — with the treatise's own wrinkle: it feeds the fish consecrated rice daily. Read that as the trade's courtesy to a luck-object, not as a resident; a knower may rule otherwise."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:ms6983",
+  "s:en-wiki-pla-taphian",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 4246–4277 (printed pp. 122–123)"
+  },
+  "fields": {
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "inscribed object; the daily rice-feeding is noted, not weighed"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-pla-taphian"
+   },
+   "origin.first_attested": {
+    "tier": "cited",
+    "source": "s:en-wiki-pla-taphian"
+   },
+   "iconography": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "woven-mobile counts: s:en-wiki-pla-taphian"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "inference"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term is this record's, not holding_key's"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

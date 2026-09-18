@@ -1,0 +1,312 @@
+{
+ "schema": 1,
+ "id": "kuman-thong",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "กุมารทอง",
+  "roman": "kuman thong",
+  "en": "Kuman Thong (raised child-spirit)",
+  "aliases": {
+   "th": [
+    "กุมาร",
+    "พรายกุมาร",
+    "ลูกเทพ"
+   ],
+   "roman": [
+    "kuman tong",
+    "guman thong",
+    "kumanthong",
+    "phrai kuman"
+   ],
+   "en": [
+    "golden boy",
+    "golden child",
+    "spirit-child effigy"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "kuman",
+  "functions": [
+   "kha_khai",
+   "khum_khrong",
+   "chok_lap",
+   "maha_saneh"
+  ],
+  "materials": [
+   "nuea_din",
+   "nuea_loha"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปเด็กชายทั้งตัว มักนุ่งโจงกระเบน ไว้จุก นั่งหรือยืน ตั้งแต่ขนาดพกพาถึงตั้งหิ้ง",
+  "shape_en": "A whole child figure, usually a boy in a chong kraben with a topknot, seated or standing; from pocket size to shrine size. Modern bodies are clay, wood, resin or cast metal.",
+  "size_mm": null,
+  "wearable_th": "ส่วนใหญ่ตั้งบูชาในบ้านหรือร้าน มีแบบพกพาและล็อกเก็ตด้วย",
+  "wearable_en": "Mostly kept on a house or shop shrine; pocket figures and lockets exist",
+  "obverse_th": "รูปเด็กทั้งตัว บางองค์ลงรักปิดทอง",
+  "obverse_en": "A full child figure; some are lacquered and gilded, which is where the name comes from",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The treatise form is lacquered and gilded whole; the modern figure is a made effigy into which a spirit is invited. The historical necromantic form (ms 6983, pp. 84–86) is recorded here as ethnography, never as instruction."
+ },
+ "iconography": [
+  {
+   "th": "เด็กชายไว้จุก นุ่งโจงกระเบน",
+   "en": "a boy with a topknot in a chong kraben"
+  },
+  {
+   "th": "ลงรักปิดทองทั้งตัว",
+   "en": "lacquer and gold leaf over the whole body"
+  },
+  {
+   "th": "ท่านั่งพนมมือ หรือถือถุงเงิน",
+   "en": "seated with palms together, or holding a money bag (modern retail)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983; modern figures are temple issues by many makers",
+  "era_th": "ปรากฏในเสภาขุนช้างขุนแผน (พิมพ์ครั้งแรก พ.ศ. ๒๔๑๕ ฉบับมาตรฐาน ๒๔๖๐–๒๔๖๑)",
+  "era_en": "Already in the Khun Chang Khun Phaen epic (first printed 1872; Prince Damrong's standard edition 1917–18); the practice is older than the print",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นรูปเด็ก ไม่ใช่องค์พระ ไม่ใช่รูปผู้ใหญ่ถืออาวุธ",
+   "en": "It is a child figure — never a Buddha image, never an armed adult (that is a hun phayon)",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้ลงรักปิดทองทั้งตัว — ผิวดำมันใต้ทองคำเปลว",
+   "en": "The treatise lacquers and gilds the whole body: a dark lacquer skin under gold leaf is the type mark and the reason for the name",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "รูปแบบสมัยใหม่ปั้นดิน แกะไม้ หรือหล่อโลหะ นุ่งโจงกระเบน",
+   "en": "Modern bodies are moulded clay, carved wood or cast metal, dressed as a Thai boy in a chong kraben",
+   "source": "s:th-wiki-kuman-thong",
+   "tier": "cited"
+  },
+  {
+   "th": "มักมีช่องบรรจุมวลสารที่ฐานหรือหลัง",
+   "en": "Look for a sealed cavity at the base or back where the filling sits; what went in is the provenance question",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ถ้ามีน้ำแดง ขนม ของเล่นวางหน้าองค์ แสดงว่าเป็นของที่ถูกเลี้ยง",
+   "en": "Red drink, sweets and toys set before it mark a fed object; a kept-and-fed child figure is a kuman, not a phra khrueang",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "กุมารทองเป็นเด็ก เลี้ยงอย่างลูก · หุ่นพยนต์เป็นผู้ใหญ่ถืออาวุธ ปลุกให้ทำงาน",
+   "tell_en": "A kuman is a child figure raised as family; a hun phayon is an armed adult effigy animated to serve. Both are fed, but one is a named child and the other a compelled animation."
+  },
+  {
+   "id": "khun-phaen",
+   "tell_th": "ขุนแผนเป็นพระพิมพ์องค์พระในซุ้ม เลี้ยงแบบพระเครื่อง แม้มวลสารอาจมีพรายกุมาร",
+   "tell_en": "A khun phaen is a pressed Buddha tablet kept like any amulet even when its material carries prai-kuman powder; a kuman thong is a child figure you feed."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นหญิงกวักมือ เป็นเทพที่บูชา ไม่ใช่ผีเด็กที่เลี้ยง",
+   "tell_en": "Nang Kwak is a beckoning woman venerated as a deva; a kuman is a bound child-spirit fed as family"
+  }
+ ],
+ "market": {
+  "search": [
+   "กุมารทอง",
+   "กุมาร"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Kuman Thong"
+  ],
+  "commons_files": [
+   "File:Kuman Thong.jpg",
+   "File:Kuman thong-ratchaburi53.JPG",
+   "File:Tailandia, amuleti del bebé d'oro kumanthong, 1990-2000 ca.jpg",
+   "File:ตุ๊กตาลูกเทพ.jpg"
+  ],
+  "wanted_en": "A modern temple figure whole and in its shrine with the red-drink offering, and a detail of the base cavity. The Ayutthaya reproduction (Kuman Thong.jpg) and the Ratchaburi shrine group cover the first two."
+ },
+ "images": [
+  {
+   "file": "kuman-thong/kuman-thong-kuman-thong-f2e22b.jpg",
+   "source": "commons",
+   "title": "File:Kuman Thong.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Kuman_Thong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=30448412",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Greg Field",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กุมารทอง",
+   "alt_en": "Kuman Thong (raised child-spirit) — A reproduction Kuman Thong sold as a collection for Thai Belief collectors, at the Buddhist temple at Ayutthaya, Thailan",
+   "sha256": "8c7c8424b560376523ed967ee6382af09e90449d2603aea911bf3d523e6ceeeb",
+   "width": 905,
+   "height": 699,
+   "primary": true
+  },
+  {
+   "file": "kuman-thong/kuman-thong-201312301132c-michelle-von-b-rlin-sukhot-d2112a.jpg",
+   "source": "commons",
+   "title": "File:201312301132c (Michelle von Bärlin) Sukhothai Rat Satthatham.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/201312301132c_%28Michelle_von_B%C3%A4rlin%29_Sukhothai_Rat_Satthatham.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=30950388",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Michelle von Bärlin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กุมารทอง",
+   "alt_en": "Kuman Thong (raised child-spirit) — Bereich mit vielen Gesiterhäuschen am Wat Rat Satthatham im Amphoe Mueang Sukhothai",
+   "sha256": "79c1567c4d4186f483845577b56bafb4947f1a2e76259168825f88cf71612050",
+   "width": 3087,
+   "height": 2379
+  },
+  {
+   "file": "kuman-thong/kuman-thong-kuman-thong-ratchaburi53-e776b8.jpg",
+   "source": "commons",
+   "title": "File:Kuman thong-ratchaburi53.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kuman_thong-ratchaburi53.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=39735042",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Xufanc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กุมารทอง",
+   "alt_en": "Kuman Thong (raised child-spirit) — Kuman Thong figures at a shrine in Ratchaburi Province",
+   "sha256": "1c92dd8a0692c3be2fdaa69634209ee5dac7a07715a9bc8150ab3164cdf83f4f",
+   "width": 636,
+   "height": 847
+  },
+  {
+   "file": "kuman-thong/kuman-thong-tailandia-amuleti-del-beb-d-oro-kumantho-815bb8.jpg",
+   "source": "commons",
+   "title": "File:Tailandia, amuleti del bebé d'oro kumanthong, 1990-2000 ca.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tailandia%2C_amuleti_del_beb%C3%A9_d%27oro_kumanthong%2C_1990-2000_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54861211",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Sailko",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กุมารทอง",
+   "alt_en": "Kuman Thong (raised child-spirit) — Asian art in the Musée du quai Branly",
+   "sha256": "5e2b56e5fb176b4d94ba824c0d5adf0d364f90cf736a140b00773fa31976bb29",
+   "width": 1516,
+   "height": 2024
+  },
+  {
+   "file": "kuman-thong/kuman-thong-jpg-2f73e5.jpg",
+   "source": "commons",
+   "title": "File:ตุ๊กตาลูกเทพ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%E0%B8%95%E0%B8%B8%E0%B9%8A%E0%B8%81%E0%B8%95%E0%B8%B2%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%9E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=46658546",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Siamwebthai",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กุมารทอง",
+   "alt_en": "Kuman Thong (raised child-spirit) — ลูกเทพจะนำมาซึ่งโชคลาภ เงินทอง",
+   "sha256": "ab41f738b4ac186f3c07fa183b408ec78c9adaf651fd9010150eeaf3cd66219e",
+   "width": 960,
+   "height": 1280
+  }
+ ],
+ "text": {
+  "what_th": "รูปเด็กที่ไม่ใช่รูปแทน แต่เป็นบ้าน — วิญญาณเด็กถูกผูกไว้แล้วเลี้ยงอย่างลูก ให้น้ำแดง ข้าว ของเล่น ตั้งชื่อ พูดด้วย ขอให้ช่วย ตำรา ๖๙๘๓ บันทึกวิธีสร้างแบบโบราณไว้เต็ม ในฐานะบันทึกประเพณี",
+  "what_en": "A child figure that is not a depiction but a home: a bound child-spirit, raised as family — fed sweet red drink and rice, named, spoken to, asked for help. The corpus holds the historical making in full, framed as ethnography, at manuscript 6983.",
+  "story_th": "ในเสภาขุนช้างขุนแผน ขุนแผนย่างศพลูกในครรภ์ของนางบัวคลี่จนแห้งแล้วเลี้ยงเป็นกุมารทอง ตำรา ๖๙๘๓ (หน้า ๘๔–๘๖) เล่าวิธีเดียวกัน: หาผีตายทั้งกลม เซ่นกุ้งพล่าปลายำ ตั้งมณฑลสายสิญจน์ ๗ ชั้นในโบสถ์ ย่างบนคานไม้ชัยพฤกษ์ให้แห้งก่อนอรุณ แล้วลงรักปิดทอง ให้ข้าวทุกวัน ปลุกก่อนกิน ผูกด้วยคาถาเมื่อเก็บ ปัจจุบันสร้างเป็นรูปปั้นแล้วอัญเชิญวิญญาณ",
+  "story_en": "In the Khun Chang Khun Phaen epic the hero cuts the stillborn son from his murdered wife Bua Khli and dries the body over a fire at a temple; the spirit becomes his scout and defender. Manuscript 6983 (pp. 84–86) records the same making as a recipe: seek the ghost of a mother who died with child, best on a Saturday or Tuesday; propitiate with spicy shrimp and fish salad; consecrate the knife; carry the child to the ordination hall, set a seven-turn sai sin enclosure under a white canopy hung with eight yantras; roast the body on a chaiyaphruek frame by night until dry before dawn; lacquer and gild it. Thereafter rice every day, woken and called before it eats, sent out with one katha and closed with another when put away. Thai Wikipedia says the old method gave way to moulded clay, wood or metal figures into which a spirit is invited, and that from 2015 the luk thep doll is the newest form.",
+  "keeping_th": "ต้องเลี้ยง: ข้าว น้ำแดง ของเล่น ตั้งชื่อ พูดด้วย ถ้าละเลยจะซนหรือไปจากบ้าน ประวัติของผู้เลี้ยงเดิมติดมาด้วย",
+  "keeping_en": "Feeding. Rice, red drink and toys; a name; conversation. Neglect is the failure mode — a hungry, ignored kuman turns mischievous or leaves. Who raised it and what it was taught travels with it, so the history is the first question, not the price."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:en-wiki-kuman-thong",
+  "s:th-wiki-kuman-thong",
+  "s:en-wiki-khun-chang-khun-phaen",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "trade, warding disease and danger, fetching a desired woman — pp. 84–86"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 3238–3312 (printed pp. 84–86); epic episode: s:en-wiki-khun-chang-khun-phaen; modern forms: s:th-wiki-kuman-thong"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-kuman-thong"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-khun-chang-khun-phaen"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

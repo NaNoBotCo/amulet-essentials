@@ -1,0 +1,383 @@
+{
+ "schema": 1,
+ "id": "phra-bang-pendant",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระบาง",
+  "roman": "pha bang",
+  "en": "Phra Bang pendant (copies of the Lao palladium)",
+  "aliases": {
+   "th": [
+    "พระบางจำลอง",
+    "พระบางหลวงพระบาง",
+    "จี้พระบาง",
+    "พระบางพุทธลาวัณย์"
+   ],
+   "roman": [
+    "phra bang",
+    "prabang",
+    "pha bang chamlong",
+    "Phra Bang Buddhalavarna"
+   ],
+   "en": [
+    "Phra Bang replica",
+    "Pha Bang amulet",
+    "Luang Prabang Buddha pendant"
+   ]
+  },
+  "other_scripts": {
+   "lo": "ພະບາງ",
+   "km": "ព្រះបាង"
+  }
+ },
+ "region": [
+  "la",
+  "th-isan"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong"
+  ],
+  "materials": [
+   "samrit",
+   "thonglueang",
+   "nuea_loha",
+   "thongkham"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "พระยืนยกสองพระหัตถ์เสมอกัน ฝ่าพระหัตถ์ออก (ปางห้ามสมุทร/ประทานอภัย) บนฐาน หล่อย่อส่วนใส่ตลับหรือกรอบ",
+  "shape_en": "A standing Buddha with both hands raised level, palms outward — the Lao 'dispelling fear' form, Thai ปางห้ามสมุทร — on a base, cast at pendant scale and framed or cased.",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในกรอบ",
+  "wearable_en": "Worn framed at the neck; larger copies stand on altars",
+  "obverse_th": "องค์พระบางย่อส่วน",
+  "obverse_en": "The Phra Bang in miniature",
+  "reverse_th": "ชื่อวัดหรือรุ่น ถ้ามี",
+  "reverse_en": "Temple or issue name when present",
+  "notes_en": "Sources disagree on the original's size — 83 cm (en, fr) against 1.14 m and 52 kg (th, lo, km) — so no pendant proportion is fixed; a copy follows whichever model its caster used."
+ },
+ "iconography": [
+  {
+   "th": "ยกสองพระหัตถ์ ฝ่าพระหัตถ์ออก นิ้วเสมอกัน",
+   "en": "both hands raised, palms forward, fingers level"
+  },
+  {
+   "th": "พระพักตร์สี่เหลี่ยม ติ่งพระกรรณคล้ายปีก พระเนตรเรียว พระนาสิกแบนเล็กน้อย",
+   "en": "square face, wing-shaped ear lobes, narrow eyes, slightly flat nose"
+  },
+  {
+   "th": "พระเกตุมาลาใหญ่ เรียบ",
+   "en": "large smooth ushnisha without the Lanna lotus-bud finial"
+  },
+  {
+   "th": "จีวรห่มเห็นขอบสบง",
+   "en": "robe draped with the lower garment's edge showing"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "หอพระบาง วังหลวง หลวงพระบาง (ต้นแบบ)",
+  "wat_en": "Haw Pha Bang in the Royal Palace grounds, Luang Prabang, houses the original; copies are issued by Lao and Thai temples",
+  "maker_th": "ตำนานว่าหล่อที่ลังกา · นักวิชาการว่าศิลปะขอมปลายศตวรรษที่ 12–ต้น 13",
+  "maker_en": "Legend: cast in Ceylon; scholars read it as Khmer work of the late twelfth to early thirteenth century",
+  "era_th": "ถึงล้านช้าง ค.ศ. 1359 (พ.ศ. 1901–1902) · เวียงจันทน์ 1705 · กรุงเทพฯ 1778–1782 และ 1828–1867 · หอพระบาง 2013",
+  "era_en": "Reached Lan Xang in 1359 as the Khmer king's gift to Fa Ngum; to Vientiane 1705; taken to Bangkok 1778 and returned 1782, taken again 1828 and returned 1867 under Rama IV; moved into the Haw Pha Bang in 2013",
+  "place_th": "หลวงพระบาง",
+  "place_en": "Luang Prabang, which is named after it",
+  "first_attested": "1359 — arrival in Lan Xang per English Wikipedia (Thai Wikipedia: BE 1901–1902)"
+ },
+ "diagnostics": [
+  {
+   "th": "ยืน ยกสองพระหัตถ์ ฝ่าพระหัตถ์ออก — ท่านี้คือพระบาง",
+   "en": "Standing, both palms forward: the gesture is the identity; a single raised hand is another image",
+   "source": "s:en-wiki-phra-bang",
+   "tier": "cited"
+  },
+  {
+   "th": "พระพักตร์สี่เหลี่ยม ติ่งหูปีก เกตุมาลาใหญ่เรียบ ขอบสบงเห็น",
+   "en": "Square face, wing-shaped ear lobes, a large smooth ushnisha, the lower garment's edge visible under the robe",
+   "source": "s:th-wiki-phra-bang",
+   "tier": "cited"
+  },
+  {
+   "th": "ต้นแบบเป็นโลหะผสม 'ทอง' (สำริด-ทอง-เงิน) ส่วนจี้เป็นทองเหลืองหรือชุบ — สีจึงไม่ใช่หลักฐาน",
+   "en": "The original is 'thong', a bronze-gold-silver alloy the Thai and Khmer articles call ninety percent gold; pendants are brass or plated, so colour proves nothing",
+   "source": "s:en-wiki-phra-bang",
+   "tier": "cited"
+  },
+  {
+   "th": "ขนาดต้นแบบไม่ตรงกันในแหล่งข้อมูล (83 ซม. vs 1.14 ม.) สัดส่วนจี้จึงต่างกันตามต้นแบบที่ช่างใช้",
+   "en": "Sources disagree on the original's height; pendant proportions vary with the model the caster copied, and a mismatch is not a fault",
+   "source": "s:th-wiki-phra-bang",
+   "tier": "cited"
+  },
+  {
+   "th": "วัดไทยก็มีพระบางจำลอง เช่น วัดไตรภูมิ นครพนม และวัดพระเหลา อำนาจเจริญ — จี้ไทยและลาวจึงปนกัน",
+   "en": "Thai temples hold their own Phra Bang replicas (Wat Trilokanat, Nakhon Phanom; Wat Phra Lao, Amnat Charoen), so Thai and Lao issues share the market and the reverse lettering is what places them",
+   "source": "s:th-wiki-phra-bang",
+   "tier": "cited"
+  },
+  {
+   "th": "จี้ทุกชิ้นเป็นของหล่อใหม่ ไม่มีชิ้นใดเก่า — คำว่า พระบาง ไม่ปรากฏในชื่อสินค้าลาซาด้าไทยเลย",
+   "en": "Every pendant is a modern cast; nothing about one is old. No Lazada TH listing title in catalog.db carries พระบาง",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "lao-phra-khrueang",
+   "tell_th": "พระเครื่องลาวทั่วไปมีหลายปาง · พระบางคือยืนยกสองมือเท่านั้น",
+   "tell_en": "A Lao temple amulet may show any Lan Xang type; a Phra Bang pendant is only the standing two-palms-forward figure."
+  },
+  {
+   "id": "phra-chiang-saen",
+   "tell_th": "พระเชียงแสนนั่ง เกตุดอกบัวตูม · พระบางยืน เกตุเรียบ",
+   "tell_en": "Chiang Saen figures sit and carry the lotus-bud finial; the Phra Bang stands with a smooth ushnisha."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือพระเกจิ · พระบางคือพระพุทธรูปเฉพาะองค์",
+   "tell_en": "A rup lo is a cast monk; this is a copy of one named Buddha image."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Phra Bang",
+   "Category:Replicas of Phra Bang"
+  ],
+  "commons_files": [
+   "File:Phra Bang Budhhalawan.jpg",
+   "File:Bangkok Vesak - 2017-05-07 (026).jpg",
+   "File:Bangkok Vesak - 2017-05-07 (027).jpg",
+   "File:Bangkok Vesak - 2017-05-07 (028).jpg",
+   "File:Le geste de labsence de crainte du Bouddha (Vat Phra Kèo, Vientiane) (4303883080).jpg",
+   "File:Luang-Prabang Laos Wat-Haw-Pha-Bang-01.jpg"
+  ],
+  "wanted_en": "Phra Bang Budhhalawan.jpg (public domain) shows the image itself; the three Bangkok Vesak 2017 files (CC0) show a full-size replica; the Vat Phra Keo file shows the same gesture on a Vientiane bronze; the last is the Haw Pha Bang. Needed: a pendant in its frame, obverse and reverse, beside a ruler."
+ },
+ "images": [
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-phra-bang-budhhalawan-77f211.jpg",
+   "source": "commons",
+   "title": "File:Phra Bang Budhhalawan.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Phra_Bang_Budhhalawan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73298490",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Tmd",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — Phra Bang Budhhalawan , palladium of Lan Xang and namesake of Luang Prabang, Laos. The Phra Bang is regarded as the most",
+   "sha256": "77263ea3a6dda30bee2f4e9b408070034db8450ace8eac9b97432b8d779acdae",
+   "width": 800,
+   "height": 1062,
+   "primary": true
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-le-geste-de-labsence-de-crainte-du-boudd-28bd15.jpg",
+   "source": "commons",
+   "title": "File:Le geste de labsence de crainte du Bouddha (Vat Phra Kèo, Vientiane) (4303883080).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Le_geste_de_labsence_de_crainte_du_Bouddha_%28Vat_Phra_K%C3%A8o%2C_Vientiane%29_%284303883080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24671777",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "credit": "Le geste de l'absence de crainte du Bouddha (Vat Phra Kèo, Vientiane)",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — Ce geste du Bouddha est celui de l'absence de crainte (Abhaya-Mudrā). C'est la position du Phra Bang, la statue Palladiu",
+   "sha256": "6fa664001e7a5cec02f4afa567a0450ec19c613873d57170e693f848f72e6b24",
+   "width": 632,
+   "height": 832
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-luang-prabang-laos-wat-haw-pha-bang-01-beed58.jpg",
+   "source": "commons",
+   "title": "File:Luang-Prabang Laos Wat-Haw-Pha-Bang-01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Luang-Prabang_Laos_Wat-Haw-Pha-Bang-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42216300",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "CEphoto, Uwe Aranas",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — Luang Prabang, Laos: The Pagoda Haw Pha Bang on the royal palace compound of Luang-Prabang. It's purpose is to give shel",
+   "sha256": "51d8d8fb92a2de7c9290751c3cf816ba07b43e8d658a68db938f3f7d0d957bb6",
+   "width": 3317,
+   "height": 2488
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-bangkok-vesak-2017-05-07-025-2780e2.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Vesak - 2017-05-07 (025).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bangkok_Vesak_-_2017-05-07_%28025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58872892",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — * Annual Vesak Event at Indoor Stadium Huamark in Bangkok, Thailand\nReplica of the Phra Bang of Luang Prabang",
+   "sha256": "7bb858cf0ac555ccd4461f17a6b037b006a07492c7858654d7f98574f83ca11e",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-bangkok-vesak-2017-05-07-026-0a48e6.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Vesak - 2017-05-07 (026).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bangkok_Vesak_-_2017-05-07_%28026%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58872893",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — * Annual Vesak Event at Indoor Stadium Huamark in Bangkok, Thailand\nReplica of the Phra Bang of Luang Prabang",
+   "sha256": "ecc33766ae96ac991ceab501f5ed4b3555d3755a8502ff3fadb0063da86e0e26",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-bangkok-vesak-2017-05-07-027-56926e.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Vesak - 2017-05-07 (027).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bangkok_Vesak_-_2017-05-07_%28027%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58872894",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — * Annual Vesak Event at Indoor Stadium Huamark in Bangkok, Thailand\nReplica of the Phra Bang of Luang Prabang",
+   "sha256": "6cf25d51809aecc4247b2c70dea2a04b15103275b646187d44d2afb97f6d41ea",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-bangkok-vesak-2017-05-07-028-eb6d29.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Vesak - 2017-05-07 (028).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bangkok_Vesak_-_2017-05-07_%28028%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58872895",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — * Annual Vesak Event at Indoor Stadium Huamark in Bangkok, Thailand\nReplica of the Phra Bang of Luang Prabang",
+   "sha256": "9a69b0f1735786ce4b3f17e84526cda8d3b8431c7970456a5e5cad40b8e5aa0e",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phra-bang-pendant/phra-bang-pendant-bangkok-vesak-2017-05-07-029-34c536.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Vesak - 2017-05-07 (029).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Bangkok_Vesak_-_2017-05-07_%28029%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58872896",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระบาง",
+   "alt_en": "Phra Bang pendant (copies of the Lao palladium) — * Annual Vesak Event at Indoor Stadium Huamark in Bangkok, Thailand\nReplica of the Phra Bang of Luang Prabang",
+   "sha256": "44e1d95751601f53d10226d046e3e941f4f0f78e25a6ad6ec8327f8b7bc77f5a",
+   "width": 3024,
+   "height": 4032
+  }
+ ],
+ "text": {
+  "what_th": "จี้และรูปหล่อย่อส่วนของพระบาง พระพุทธรูปคู่บ้านคู่เมืองลาวที่หลวงพระบางได้ชื่อมาจาก ยืนยกสองพระหัตถ์ ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "Pendants and miniature casts of the Phra Bang, the standing two-palms-forward Buddha that is the palladium of Laos and gave Luang Prabang its name. Nobody home, nothing owed.",
+  "story_th": "ตำนานว่าหล่อที่ลังกา นักวิชาการว่าเป็นศิลปะขอมปลายศตวรรษที่ 12 กษัตริย์ขอมพระราชทานแก่พระเจ้าฟ้างุ้มใน ค.ศ. 1359 เพื่อรับรองราชอำนาจล้านช้าง องค์พระเป็นโลหะผสมสำริด ทอง เงิน ย้ายไปเวียงจันทน์ 1705 ถูกสยามนำไปกรุงเทพฯ สองครั้ง (1778 และ 1828) และคืนครั้งสุดท้ายในรัชกาลที่ 4 ปี 1867 ปัจจุบันประดิษฐานที่หอพระบางในวังหลวง (ย้ายเข้า 2013) และทุกปีใหม่ลาววันที่สามแห่ไปสรงน้ำที่วัดใหม่ วิกิพีเดียฝรั่งเศสว่าองค์จริงเก็บในห้องนิรภัย องค์ที่ตั้งแสดงเป็นองค์จำลอง",
+  "story_en": "Legend casts it in Ceylon; scholars read Khmer work of the late twelfth century. The Khmer king gave it to his son-in-law Fa Ngum in 1359 to legitimise Lan Xang, and the city was renamed for it. It is 'thong', an alloy of bronze, gold and silver, in the fear-dispelling gesture with both palms forward. It went to Vientiane in 1705, was carried to Bangkok by Siamese armies in 1778 and again in 1828, and came home for good in 1867 under Rama IV; since 2013 it stands in the Haw Pha Bang on the palace grounds and is carried on the third day of Lao New Year to Wat Mai for bathing. The French Wikipedia adds that a copy is what the museum displays while the original sits in a vault, with rumours placing it elsewhere — so even in Luang Prabang the pilgrim venerates a copy, which is what every pendant is.",
+  "keeping_th": "ไม่มีผู้อยู่ บูชาตามปกติ สรงน้ำได้ในวันปีใหม่ตามอย่างองค์ต้นแบบ",
+  "keeping_en": "Impersonal: ordinary veneration. Bathing it at New Year echoes what Luang Prabang does with the original."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-phra-bang",
+  "s:th-wiki-phra-bang",
+  "s:lo-wiki-pha-bang",
+  "s:km-wiki-preah-bang",
+  "s:lo-wiki-haw-pha-bang",
+  "s:fr-wiki-palais-royal-luang-prabang",
+  "s:fr-wiki-luang-prabang",
+  "s:en-wiki-lan-xang",
+  "s:en-wiki-luang-prabang",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-phra-bang"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "the pendant as a market object is the model's reading; the gesture is cited"
+   },
+   "form.reverse_en": {
+    "tier": "inference"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-bang"
+   },
+   "origin.maker_en": {
+    "tier": "cited",
+    "source": "s:km-wiki-preah-bang",
+    "note": "dating; en gives 'later Khmer artistic origin'"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-phra-bang",
+    "note": "Thai and Lao articles give different intermediate dates (BE 2043 / 1512 / 1560 for the move to Xieng Thong); the English sequence is used"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-phra-bang",
+    "note": "with s:fr-wiki-palais-royal-luang-prabang and s:fr-wiki-luang-prabang for the vault and copy claims"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with พระบาง on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,316 @@
+{
+ "schema": 1,
+ "id": "fu-talisman",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ยันต์ฮู้จีน",
+  "roman": "fu",
+  "en": "Taoist paper talisman (fu)",
+  "aliases": {
+   "th": [
+    "ฮู้",
+    "ฮู้จีน",
+    "ยันต์จีน",
+    "ยันต์กระดาษจีน",
+    "ยันต์เซียนจีน"
+   ],
+   "roman": [
+    "fulu",
+    "hu",
+    "hu-a",
+    "phù",
+    "phù lục"
+   ],
+   "en": [
+    "fulu",
+    "Chinese paper charm",
+    "Daoist talisman"
+   ]
+  },
+  "other_scripts": {
+   "zh": "符 · 符籙",
+   "vi": "phù lục · bùa"
+  }
+ },
+ "region": [
+  "diaspora",
+  "th",
+  "my",
+  "sg"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "กระดาษเหลืองแผ่นยาวแนวตั้ง เขียนหมึกแดง (ชาด) หรือดำ ประทับตราแดง",
+  "shape_en": "A tall narrow strip of yellow paper written top to bottom in cinnabar-red or black ink and stamped with a red seal; printed versions are sold at shrines",
+  "size_mm": null,
+  "wearable_th": "พับพกติดตัว ติดเหนือประตู หรือเผาละลายน้ำดื่ม",
+  "wearable_en": "Folded and carried, pasted above a door, or burned and the ash stirred into water that is drunk; three uses, one object",
+  "obverse_th": "หัวยันต์ (三清 สามขีด) ตัวยันต์ ท้ายยันต์ และตรา",
+  "obverse_en": "Header (three ticks for the Three Pure Ones), body, foot, and seal",
+  "reverse_th": "เปล่า",
+  "reverse_en": "Plain",
+  "notes_en": "Thai listing titles call it ยันต์ฮู้จีน / ยันต์กระดาษ / ยันต์เซียนจีน and say พกติดตัว ติดบ้าน (carry, or post at home)."
+ },
+ "iconography": [
+  {
+   "th": "สามขีดบนหัวยันต์แทนสามบริสุทธิ์",
+   "en": "Three ticks at the head for the Three Pure Ones (三清)"
+  },
+  {
+   "th": "อักษรคำสั่ง 敕令 'บัญชา'",
+   "en": "The command formula 敕令 near the top on many types"
+  },
+  {
+   "th": "อักษรซ้อนและเส้นยันต์ที่อ่านไม่ได้",
+   "en": "Stacked characters and asemic strokes in the body"
+  },
+  {
+   "th": "ตราแดงของสำนักหรือศาลเจ้า",
+   "en": "Red seal of the shrine or lineage"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ดาวสือ (道士) หรือหมอพิธี (法師) และศาลเจ้าจีน",
+  "maker_en": "Daoist priests (daoshi) and ritual masters (fashi); in Southeast Asia also spirit mediums and shrine counters",
+  "era_th": "ฮู้สมัยฮั่นมีบนไม้ไผ่จารึก ประเพณีสืบมา",
+  "era_en": "Han-dynasty fu survive on bamboo slips; the practice is continuous",
+  "place_th": "จีน แพร่ตามชุมชนจีนในไทย มาเลเซีย สิงคโปร์ เวียดนาม",
+  "place_en": "China, carried by Chinese communities into Thailand, Malaysia, Singapore and Vietnam",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "กระดาษเหลือง หมึกแดงชาดหรือดำ",
+   "en": "Yellow paper, cinnabar-red or black ink; the colours are the first read",
+   "source": "s:zh-wiki-fulu",
+   "tier": "cited"
+  },
+  {
+   "th": "สามส่วน: หัว (สามขีด) ตัว ท้าย พร้อมตรา",
+   "en": "Three parts, header with three ticks, body, foot, plus a seal impression; a sheet missing the seal is unfinished by the tradition's own account",
+   "source": "s:zh-wiki-fulu",
+   "tier": "cited"
+  },
+  {
+   "th": "ใช้สามทาง: ติด พก หรือเผาละลายน้ำ",
+   "en": "Three uses: pasted, carried, or burned into 符水 talisman water; the type name (平安符, 鎮宅符, 護身符, 五雷符) says which",
+   "source": "s:zh-wiki-fulu",
+   "tier": "cited"
+  },
+  {
+   "th": "อักษรผิดรูป ยืดยาว ซ้อนกัน อ่านไม่ออกโดยตั้งใจ",
+   "en": "Irregular strokes that stretch or stack characters and mix in non-characters; deliberately unreadable to the uninitiated",
+   "source": "s:en-wiki-fulu",
+   "tier": "cited"
+  },
+  {
+   "th": "ในไทยขายเป็น 'ยันต์ฮู้จีน' พกติดตัว ติดบ้าน และมีฮู้ผ้าลายเทพ",
+   "en": "Thai retail sells it as ยันต์ฮู้จีน for carrying or posting at home, and also a cloth version printed with a deity (ฮู้ยันต์ผ้า); the cloth form is a Thai-market crossover with ผ้ายันต์",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ฮู้จากร่างทรงในเทศกาลกินเจมักเขียนสด บางทีด้วยเลือด — ความเชื่อในวงการ ยังไม่ตรวจ",
+   "en": "Fu issued by spirit mediums at the Nine Emperor / vegetarian festival are said to be written in trance, sometimes with the medium's blood. The trade holds this; not verified against a source here",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "bua",
+   "tell_th": "bùa คือกรอบเวียดนาม รวมถุงผ้าและของโลหะ ฮู้คือแผ่นกระดาษเต๋าเอง",
+   "tell_en": "Bùa is the Vietnamese word around the same paper, extended to cloth pouches and metal; the fu is the Taoist yellow strip itself."
+  },
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ไทยเป็นผ้า อักษรขอม ยันต์ตาราง ฮู้เป็นกระดาษเหลืองอักษรจีน",
+   "tell_en": "Thai yantra cloth is cloth, in Khom script, in grids; the fu is yellow paper in stretched Chinese script. Thai shops now sell a cloth ฮู้ that sits between the two."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดม้วนโลหะ ฮู้พับกระดาษ",
+   "tell_en": "A takrut is rolled metal; a fu is folded paper. Both carried, both impersonal."
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ยันต์เขมรเป็นผ้าอักษรขอม",
+   "tell_en": "Khmer yantra is cloth in Khmer script; the fu is paper in Chinese."
+  }
+ ],
+ "market": {
+  "search": [
+   "ฮู้",
+   "ยันต์จีน"
+  ],
+  "excludes": [
+   "ฮู้ด"
+  ],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Fulu from Chao Pho Suea Shrine in Bangkok, March 2023.jpg",
+   "File:道教符.jpg",
+   "File:深坑集順廟的肅符兼平安符.jpg",
+   "File:ZhongHe GuangJi Temple 2018 廣濟宮門符.jpg",
+   "File:A Taoist magic writing on a bulletin board of Hsinchu City God Temple.jpg",
+   "File:Chinese Fulu talisman han dynasty 乌程汉简浙江出土.jpg"
+  ],
+  "wanted_en": "A single sheet flat and straight on, with header ticks, body and seal all legible, from a Thai or Malaysian shrine; and one pasted over a shophouse door. Category:Fulu is empty on Commons as of 2026-09-02."
+ },
+ "text": {
+  "what_th": "กระดาษเหลืองเขียนหมึกแดงหรือดำเป็นอักษรคำสั่งและเส้นยันต์ตามแบบเต๋า ประทับตรา ใช้ติดบ้าน พกติดตัว หรือเผาละลายน้ำดื่ม ศาลเจ้าจีนในไทย มาเลเซีย สิงคโปร์ออกให้ ไทยเรียกยันต์ฮู้จีน พลังอยู่ที่อักษรและตรา ไม่มีผู้สถิต",
+  "what_en": "The Taoist paper talisman: a yellow strip written in red or black with commands to spirits and asemic strokes, sealed, and then pasted over a door, carried folded, or burned into water and drunk. Chinese shrines in Thailand, Malaysia and Singapore issue them; Thai retail calls them ยันต์ฮู้จีน. Power in the writing and the seal, nobody home.",
+  "story_th": "ผู้เขียนคือดาวสือหรือหมอพิธีที่ได้รับสืบทอดวิชา อักษรตั้งใจให้อ่านไม่ออก มีหัว ตัว ท้าย และตรา ประเภทบอกหน้าที่ — ผิงอันฮู้ ปกป้อง เจิ้นไจ๋ฮู้ ตรึงบ้าน อู่เหลยฮู้ ห้าอสนี ในไทยศาลเจ้าขายฉบับพิมพ์ และร้านออนไลน์ขายในชื่อยันต์ฮู้จีน 'ผ่านพิธีอธิษฐานจิตแล้ว พกติดตัว ติดบ้าน'",
+  "story_en": "A daoshi or fashi who has received the craft writes it, and the writing is meant to be unreadable: instructions to deities, exorcistic signs, occasionally a recipe. The type names the job: 平安符 for safety, 鎮宅符 to settle a house, 護身符 to guard the body, 五雷符 the five thunders. Han-dynasty examples survive on bamboo. In Bangkok the Chao Pho Suea shrine sells printed sheets; online, Thai sellers list ยันต์ฮู้จีน as already blessed, to carry or post at home, and a cloth version printed with Nezha.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง หมดอายุหรือขาดให้เผา ไม่ทิ้งถัง",
+  "keeping_en": "Nobody home, nothing owed. When it has done its year or is torn it is burned, not binned, which the trade holds and the record does not verify. A fu that a medium wrote for a named person is still impersonal in class; the personalisation is in the writing, not in a resident."
+ },
+ "sources": [
+  "s:zh-wiki-fulu",
+  "s:en-wiki-fulu",
+  "s:vi-wiki-phu-luc",
+  "s:catalog-db",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:zh-wiki-fulu"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "note": "yantra_wattu by analogy; the vault's members are Thai"
+   },
+   "names.th": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "Lazada titles: ยันต์ฮู้จีน ยันต์กระดาษ ยันต์เซียนจีน; ฮู้ยันต์ผ้า"
+   },
+   "origin.maker_en": {
+    "tier": "cited",
+    "source": "s:zh-wiki-fulu",
+    "note": "Southeast Asian mediums and shrine counters: tradition"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "8 titles on ฮู้ and 1 on ยันต์จีน as of 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": false,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "fu-talisman/fu-talisman-fulu-from-chao-pho-suea-shrine-in-bangko-a88fa6.jpg",
+   "source": "commons",
+   "title": "File:Fulu from Chao Pho Suea Shrine in Bangkok, March 2023.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Fulu_from_Chao_Pho_Suea_Shrine_in_Bangkok%2C_March_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=133835109",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "HMGiovanniV",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ฮู้จีน",
+   "alt_en": "Taoist paper talisman (fu) — ​曼谷四枋厂古庙售卖的符箓",
+   "sha256": "3a04f38f9fc07c5a779b273fcb23b093841f282c442d6f2818dae4adcf0f3ef8",
+   "width": 4032,
+   "height": 2268,
+   "primary": true
+  },
+  {
+   "file": "fu-talisman/fu-talisman-jpg-dc3bab.jpg",
+   "source": "commons",
+   "title": "File:道教符.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E9%81%93%E6%95%99%E7%AC%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7901081",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mkckim",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ฮู้จีน",
+   "alt_en": "Taoist paper talisman (fu) — ​道教符",
+   "sha256": "305b550d860a27eba462fae7074e0090ba49cb9cce42a7bd0bfebebfb46f86b1",
+   "width": 795,
+   "height": 1621
+  },
+  {
+   "file": "fu-talisman/fu-talisman-zhonghe-guangji-temple-2018-f86130.jpg",
+   "source": "commons",
+   "title": "File:ZhongHe GuangJi Temple 2018 廣濟宮門符.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/ZhongHe_GuangJi_Temple_2018_%E5%BB%A3%E6%BF%9F%E5%AE%AE%E9%96%80%E7%AC%A6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=69524929",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Taiwankengo",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ฮู้จีน",
+   "alt_en": "Taoist paper talisman (fu) — ​ZhongHe GuangJi Temple   2018 廣濟宮門符",
+   "sha256": "bdf82950b4b7bd7ed2c0b4ae586da868826588352b6dd03eac8f0847b9f266de",
+   "width": 3264,
+   "height": 4896
+  },
+  {
+   "file": "fu-talisman/fu-talisman-a-taoist-magic-writing-on-a-bulletin-boa-04c20f.jpg",
+   "source": "commons",
+   "title": "File:A Taoist magic writing on a bulletin board of Hsinchu City God Temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/A_Taoist_magic_writing_on_a_bulletin_board_of_Hsinchu_City_God_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=101261192",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Nomad112",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ฮู้จีน",
+   "alt_en": "Taoist paper talisman (fu) — ​新竹都城隍廟廟口公布欄上香條",
+   "sha256": "c628bbfe5dc745f5d6c57c56aed026f4f812260b507ab4ce533877a5fbd790ea",
+   "width": 3632,
+   "height": 5456
+  },
+  {
+   "file": "fu-talisman/fu-talisman-chinese-fulu-talisman-han-dynasty-884575.jpg",
+   "source": "commons",
+   "title": "File:Chinese Fulu talisman han dynasty 乌程汉简浙江出土.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Chinese_Fulu_talisman_han_dynasty_%E4%B9%8C%E7%A8%8B%E6%B1%89%E7%AE%80%E6%B5%99%E6%B1%9F%E5%87%BA%E5%9C%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=139244364",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Unknown authorUnknown author",
+   "credit": "http://wwj.zj.gov.cn/art/2023/5/19/art_1639083_59057140.html",
+   "view": "other",
+   "alt_th": "ยันต์ฮู้จีน",
+   "alt_en": "Taoist paper talisman (fu) — Chinese \"Fulu\" talisman from the Han dynasty, part of the Wucheng Bamboo-slips, found in Zhejiang",
+   "sha256": "3f526efaecf60239ee1b1d6be35d27ed817336ed9088a2f7a008c792f1f73ba7",
+   "width": 707,
+   "height": 960
+  }
+ ]
+}

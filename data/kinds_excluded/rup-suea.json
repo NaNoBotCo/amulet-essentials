@@ -1,0 +1,215 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "rup-suea",
+ "names": {
+  "th": "รูปเสือ",
+  "roman": "rup suea",
+  "en": "Carved tiger figure",
+  "aliases": {
+   "th": [
+    "เสือแกะ",
+    "เขี้ยวเสือแกะ",
+    "เสือหลวงพ่อปาน",
+    "เสือผก",
+    "เสือนั่งแท่น",
+    "เสือเผ่น"
+   ],
+   "roman": [
+    "suea kae",
+    "seua",
+    "tiger amulet"
+   ],
+   "en": [
+    "tiger carving",
+    "tiger-fang carving",
+    "Luang Pho Pan tiger"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "maha_saneh",
+   "metta_maha_niyom",
+   "kambang",
+   "sakot"
+  ],
+  "materials": [],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปเสือตัวเล็กแกะจากเขี้ยว ไม้ งา เขา หรือหล่อโลหะ สามท่าตามตำรา: เสือผก (หมอบ) เสือนั่งแท่น เสือเผ่น ลงอักขระตามตัว",
+  "shape_en": "A small tiger carved in the round — from a fang in the treatise and the Wat Bang Hia tradition, and in the trade also from wood, bone, horn or cast metal — in one of three postures the treatise draws: crouching (เสือผก), seated on a plinth, or leaping. Letters are inscribed on the body.",
+  "size_mm": null,
+  "wearable_th": "ตำราให้อมในปาก ห่อผ้าโพกหัว หรือใส่ตลับสีผึ้ง ปัจจุบันเลี่ยมห้อยคอ",
+  "wearable_en": "The treatise puts it in the mouth, in the head-cloth, or in a wax box; today it is cased and worn",
+  "obverse_th": "ตัวเสือทั้งตัว จารอักขระตามหน้าผาก หัว คอ หลัง หาง ขาทั้งสี่ และฐาน",
+  "obverse_en": "The whole animal; the treatise assigns a syllable each to forehead, head, neck, back, tail, the four feet and the base",
+  "reverse_th": "ฐานมักจารยันต์หรือ มะอะอุ",
+  "reverse_en": "The underside usually carries a yantra or the syllables ma-a-u",
+  "notes_en": "Dharma boundary: this record describes the carved figure as an object type. Real tiger parts are regulated; the trade is mostly substitutes and this catalogue does not price or place fangs. The vault puts the raw fang (เขี้ยว) in khong_thammachat; the CARVED and inscribed figure takes its power from the syllables and the waking chant, so it sits here in yantra_wattu — the making settles the class, as with a takrut."
+ },
+ "iconography": [
+  {
+   "th": "เสือผก / เสือนั่งแท่น / เสือเผ่น",
+   "en": "crouching, seated-on-plinth, or leaping tiger (treatise diagram)"
+  },
+  {
+   "th": "อักขระ พุท ธะ สัง มิ ที่ตาซ้าย ตาขวา หน้า หลัง",
+   "en": "phut-tha-sang-mi at left eye, right eye, front and back (แบบที่ ๕)"
+  },
+  {
+   "th": "ยันต์กอหญ้า (สายหลวงพ่อปาน)",
+   "en": "the 'grass-clump' yantra associated with the Wat Bang Hia line (th.wikipedia เลขยันต์)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดมงคลโคธาวาส (วัดบางเหี้ย) คลองด่าน สมุทรปราการ",
+  "wat_en": "Wat Mongkhon Khothawat (Wat Bang Hia), Khlong Dan, Samut Prakan — the best-known line",
+  "maker_th": "หลวงพ่อปาน (พระครูพิพัฒนิโรธกิจ) พ.ศ. ๒๓๖๘–๒๔๕๓; ตำรา ๖๙๘๓ ให้เจ็ดแบบ",
+  "maker_en": "Luang Pho Pan (Phra Khru Phiphat Nirotkit), B.E. 2368–2453 per th.wikipedia, whose carved fang tigers made the type famous; ms 6983 gives seven carving recipes without a maker",
+  "era_th": "ร.๔–ร.๕ สำหรับสายวัดบางเหี้ย ตำราไม่ระบุปี",
+  "era_en": "Late 19th century for the Wat Bang Hia pieces; the treatise is undated and older in practice",
+  "place_th": "ภาคกลาง",
+  "place_en": "Central Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ท่าเสือเป็นหนึ่งในสาม: ผก นั่งแท่น เผ่น",
+   "en": "Posture is one of the treatise's three: crouching, seated on a plinth, leaping",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มีอักขระจารตามตัวและใต้ฐาน — เสือเกลี้ยงคือของประดับ",
+   "en": "Letters incised on the body and under the base; a smooth uninscribed tiger is an ornament, not this",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "วิกิพีเดียว่าเสือหลวงพ่อปานฝีมือหยาบ ขนาดเล็กใหญ่ไม่เท่ากัน — ของประณีตเกินไปให้สงสัย",
+   "en": "th.wikipedia calls the Wat Bang Hia carving crude and the sizes uneven; a finely finished piece is at least not that line",
+   "source": "s:th-wiki-luang-pho-pan-bang-hia",
+   "tier": "cited"
+  },
+  {
+   "th": "วัสดุ: เขี้ยวมีโพรงรากและลายเนื้อโค้ง ไม้เห็นเสี้ยน งาเห็นลายตาข่าย โลหะเห็นตะเข็บหล่อ",
+   "en": "Material by loupe: a fang has a root cavity and curved dentine grain, wood shows fibre, ivory a cross-hatch, metal a casting seam",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้แช่น้ำมันหอม — ของเก่าจริงมักมันซึมและมีกลิ่น",
+   "en": "The treatise steeps it in scented oil; long-kept pieces are oil-darkened",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "khiao-suea",
+   "tell_th": "เขี้ยวเสือคือเขี้ยวทั้งอันเลี่ยมหรือแกะเบา รูปเสือคือแกะเป็นตัวเสือ ลงอักขระ",
+   "tell_en": "Khiao suea is the fang itself, capped or lightly worked, a natural talisman; rup suea is a fang (or wood or metal) carved into a tiger and inscribed — a consecrated figure. The vault puts the first in khong_thammachat; this one takes its class from the making."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือพระเกจิหล่อโลหะ ไม่ใช่สัตว์",
+   "tell_en": "A rup lo is a cast image of a monk; a cast tiger is an animal figure and belongs here."
+  },
+  {
+   "id": "hun-phayon",
+   "tell_th": "ตำราปลุกเสือด้วยคาถาปลุกเหมือนหุ่นพยนต์ แต่เสือไม่ต้องเซ่นเลี้ยง วิกิพีเดียเล่าเรื่องเสกด้วยเนื้อหมูเป็นตำนาน",
+   "tell_en": "The treatise wakes the tiger with a 'wake, wake' chant like a hun phayon, but nobody feeds it; the pork-in-the-consecration story on th.wikipedia is legend of the rite, not upkeep."
+  }
+ ],
+ "market": {
+  "search": [
+   "เสือแกะ",
+   "เขี้ยวเสือแกะ",
+   "รูปเสือ"
+  ],
+  "excludes": [
+   "เสือดาว",
+   "เสือโคร่งของเล่น",
+   "ตุ๊กตาเสือ"
+  ],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph of a carved tiger charm found on Wikimedia Commons as of 2026-09-02 (searches: tiger amulet, เขี้ยวเสือ, Luang Pho Pan; File:วัดมงคลโคธาวาส.jpg shows the temple only). Needed: the three postures side by side, the incised syllables on a body, and the base."
+ },
+ "images": [],
+ "text": {
+  "what_th": "รูปเสือตัวเล็กแกะจากเขี้ยว ไม้ งา หรือหล่อโลหะ ลงอักขระตามตัวแล้วปลุกเสก ตำราให้อมไป มีอำนาจตบะเมื่อเข้าหาผู้ใหญ่ ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ของสายหลวงพ่อปานวัดบางเหี้ยเป็นที่รู้จักที่สุด",
+  "what_en": "A small tiger carved from a fang, wood, bone or metal, inscribed with syllables and woken by chant; the treatise has it held in the mouth for authority before the powerful. Nobody home. The Wat Bang Hia line of Luang Pho Pan is the famous one.",
+  "story_th": "ตำราให้เจ็ดแบบ ล้วนเริ่มด้วย 'เอาเขี้ยวเสือมาแกะเป็นรูปเสือ' — ผก นั่งแท่น หรือเผ่น แช่น้ำมันหอม ลงอักขระ: อะ หน้าผาก สัง หัว วิ คอ สุ หลัง โล หาง ปุ สะ พุ ภะ สี่ตีน มะอะอุ ที่ฐาน แบบที่ ๕ ให้ใช้เขี้ยวเสือที่กินคนแล้ว เสก ๑๐๘ คาบในป่าช้า ปลุกด้วยคาถา 'อมปลุกปลุก' ที่ปลุกทั้งพระภูมิ ฤๅษี เทวดา ผ้าประเจียด และเหล็กไหล ใช้: เอาเสืออมในปากเป็นประเจียดเมื่อเข้าหาขุนนาง ใส่เมี่ยงอมให้เจรจามีอำนาจ ใส่ตลับสีผึ้งเป็นราชเสน่ห์ เอาน้ำมันที่แช่ทาตัวให้คนเกรง ขอดชายผ้าดำโพกหัวเดินกลางคืนไม่มีใครเห็น วิกิพีเดียว่าหลวงพ่อปานวัดบางเหี้ยแกะเสือจากเขี้ยว ฝีมือหยาบ เล็กใหญ่ไม่เท่ากัน ราคาสมัยนั้น ๑ บาท ถึง ๓–๖ บาทเมื่อแย่งกัน",
+  "story_en": "Seven treatise recipes, each opening 'take a tiger's fang and carve it into a tiger' — crouching, seated on a plinth, or leaping — then steep it in scented oil and inscribe it: a on the forehead, sang on the head, wi on the neck, su on the back, lo on the tail, one syllable to each foot, ma-a-u on the base. The fifth wants the fang of a man-eater and 108 chants in a cremation ground; the waking chant is the 'om pluk pluk' that rouses guardian spirits, hermits, devas, prachiat cloths and leklai alike. Uses are all social: hold the tiger in the mouth 'as a prachiat' before a lord, put it in the betel quid to speak with authority, in the wax box for royal favour, rub the steeping oil on to be feared, or knot it in a black head-cloth to walk unseen at night. th.wikipedia's account of Luang Pho Pan of Wat Bang Hia matches the object — fang tigers, crudely carved, uneven in size, a baht each and three to six when contested — and adds the legend that the consecration used pork, into which the tiger leapt.",
+  "keeping_th": "ไม่ต้องเลี้ยง เก็บอย่างของขลัง ตำราแช่น้ำมันหอมและเสกก่อนใช้ ๗ ที",
+  "keeping_en": "Nothing to feed. The treatise re-chants it seven times before each use and keeps it in scented oil; today it is kept like any consecrated figure. If the piece is a real fang, the law on tiger parts applies to moving it, and this record does not help with that."
+ },
+ "sources": [
+  "s:ms6983",
+  "s:th-wiki-luang-pho-pan-bang-hia",
+  "s:th-wiki-lek-yan",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:holding-key"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 2815–2965 (printed pp. 70–73, ตำราแกะเขี้ยวเสือ แบบที่ ๑–๗)"
+  },
+  "fields": {
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "vault places เขี้ยว in khong_thammachat; the carved+inscribed figure is placed by its making, a knower may move it"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-luang-pho-pan-bang-hia"
+   },
+   "iconography": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "ยันต์กอหญ้า from s:th-wiki-lek-yan"
+   },
+   "form.shape_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "wood/bone/metal bodies: tradition"
+   },
+   "form.wearable_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "cased-and-hung: tradition"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "overlaps khiao-suea's search terms by design"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

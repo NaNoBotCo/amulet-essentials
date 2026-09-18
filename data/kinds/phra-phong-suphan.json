@@ -1,0 +1,280 @@
+{
+ "schema": 1,
+ "id": "phra-phong-suphan",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระผงสุพรรณ",
+  "roman": "phra phong suphan",
+  "en": "Phra Phong Suphan (Suphan Buri triangular tablet)",
+  "aliases": {
+   "th": [
+    "ผงสุพรรณ",
+    "พระผงสุพรรณบุรี"
+   ],
+   "roman": [
+    "phra pong suphan",
+    "pong suphan",
+    "phong suphan"
+   ],
+   "en": [
+    "Phra Pong Suphan"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "สามเหลี่ยม เนื้อดินเผาละเอียด",
+  "shape_en": "A triangular tablet of fine fired clay",
+  "size_mm": [
+   20,
+   30,
+   5
+  ],
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "องค์พระปางมารวิชัย ศิลปะอู่ทอง",
+  "obverse_en": "A Maravijaya Buddha in U Thong style",
+  "reverse_th": "เรียบ มักมีรอยนิ้วมือ",
+  "reverse_en": "Plain; finger impressions are usual",
+  "notes_en": "Named ผง (powder) but the body is fired earth, a naming trap the material axis flags. The three face-types (หน้าแก่ หน้ากลาง หน้าหนุ่ม) are trade names, recorded as tradition."
+ },
+ "iconography": [
+  {
+   "th": "ปางมารวิชัย",
+   "en": "Maravijaya posture"
+  },
+  {
+   "th": "พระพักตร์แบบอู่ทอง — หน้าแก่ หน้ากลาง หน้าหนุ่ม",
+   "en": "U Thong face, sorted by the trade into old, middle and young face-types"
+  },
+  {
+   "th": "ทรงสามเหลี่ยม",
+   "en": "triangular field"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดพระศรีรัตนมหาธาตุ สุพรรณบุรี",
+  "wat_en": "Wat Phra Si Rattana Mahathat, Suphan Buri",
+  "maker_th": "ลานทองจารึกกล่าวถึงฤๅษีผู้สร้าง (ตามที่วงการเล่า)",
+  "maker_en": "An inscribed gold plate from the prang is said to credit hermits with the making; the plate's text is not cited here",
+  "era_th": "สมัยอู่ทอง เปิดกรุพระปรางค์ พ.ศ. ๒๔๕๖ พบลานทองจารึกภาษามคธอักษรขอม",
+  "era_en": "U Thong period; the prang was opened in 1913 (B.E. 2456) and yielded a gold plate inscribed in Pali in Khom script, per Thai Wikipedia",
+  "place_th": "สุพรรณบุรี",
+  "place_en": "Suphan Buri",
+  "first_attested": "เปิดกรุ พ.ศ. 2456 (th.wikipedia, วัดพระศรีรัตนมหาธาตุ)"
+ },
+ "diagnostics": [
+  {
+   "th": "ชื่อว่าผงแต่เนื้อเป็นดินเผา — กับดักชื่อที่แกนวัสดุเตือนไว้",
+   "en": "Called phong but fired earth: the name is a trap the material axis names outright",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ทรงสามเหลี่ยม ปางมารวิชัย ศิลปะอู่ทอง",
+   "en": "Triangular field, Maravijaya, U Thong facial style",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "เนื้อละเอียดกว่านางพญา สีหลากตามไฟ",
+   "en": "Finer body than Nang Phaya; colour varies with the firing",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "อายุอ่านจากการหดตัวและคราบกรุ ไม่ใช่สนิม",
+   "en": "Age reads as shrinkage and cache crust, never patina",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ด้านหลังมักมีรอยนิ้ว",
+   "en": "Reverse usually carries a finger impression from pressing",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-nang-phaya",
+   "tell_th": "สามเหลี่ยมดินเผาเหมือนกัน · นางพญาเนื้อหยาบ พิษณุโลก · ผงสุพรรณเนื้อละเอียด หน้าอู่ทอง สุพรรณบุรี",
+   "tell_en": "Both are triangular fired-clay Maravijaya tablets. Nang Phaya is coarse and from Phitsanulok; Phong Suphan is finer, U Thong-faced, from Suphan Buri."
+  },
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จเนื้อผงขาวจริง สี่เหลี่ยม มีซุ้ม · ผงสุพรรณชื่อผงแต่เป็นดินเผา สามเหลี่ยม",
+   "tell_en": "A somdej is real white powder in a rectangle with an arch; Phong Suphan is fired clay in a triangle despite its name."
+  },
+  {
+   "id": "phra-phong-bai-lan",
+   "tell_th": "ผงใบลานเป็นผงเผาใบลานสีดำเทา · ผงสุพรรณเป็นดินเผา",
+   "tell_en": "Palm-leaf-ash tablets are black-grey pressed powder; Phong Suphan is fired earth. Only the word ผง links them."
+  }
+ ],
+ "market": {
+  "search": [
+   "ผงสุพรรณ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:Phra Pong Suphan.png",
+   "File:Pong Suphan.png",
+   "File:Benjapakee.png",
+   "File:Benjapakee 2.png"
+  ],
+  "wanted_en": "The two single-subject files are uploader images with no reverse or scale. Needed: obverse, reverse with finger impression, edge, and a face-type comparison at matched scale."
+ },
+ "images": [
+  {
+   "file": "phra-phong-suphan/phra-phong-suphan-phra-pong-suphan-02c3b5.png",
+   "source": "commons",
+   "title": "File:Phra Pong Suphan.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Phra_Pong_Suphan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99810806",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระผงสุพรรณ",
+   "alt_en": "Phra Phong Suphan (Suphan Buri triangular tablet) — Phra Pong Suphan",
+   "sha256": "6632940d6969bacdb571a63ed05fe586df0d851e8f2dd9fecb2d6a7081208f86",
+   "width": 1684,
+   "height": 877,
+   "primary": true
+  },
+  {
+   "file": "phra-phong-suphan/phra-phong-suphan-pong-suphan-6e8a3c.png",
+   "source": "commons",
+   "title": "File:Pong Suphan.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pong_Suphan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99811226",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระผงสุพรรณ",
+   "alt_en": "Phra Phong Suphan (Suphan Buri triangular tablet) — Phra Pong Suphan",
+   "sha256": "a9808783285b3f4ff4db7f80ecc8b3c25e901b76cd8e7426215d8bfc3f1aefe2",
+   "width": 1679,
+   "height": 875
+  },
+  {
+   "file": "phra-phong-suphan/phra-phong-suphan-benjapakee-39c238.png",
+   "source": "commons",
+   "title": "File:Benjapakee.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102451956",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระผงสุพรรณ",
+   "alt_en": "Phra Phong Suphan (Suphan Buri triangular tablet) — Benjapakee",
+   "sha256": "37d56a6ad13fc672512bdc311f05baf0cfcc860703a74fcadffef7e7210e486e",
+   "width": 1644,
+   "height": 923
+  },
+  {
+   "file": "phra-phong-suphan/phra-phong-suphan-benjapakee-2-4e4d8b.png",
+   "source": "commons",
+   "title": "File:Benjapakee 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102452146",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระผงสุพรรณ",
+   "alt_en": "Phra Phong Suphan (Suphan Buri triangular tablet) — Benjapakee 2",
+   "sha256": "ba6ab231dcb9f68b7436961e57c9d1b46ebc87e6a6fd0568a53df2ab820a2850",
+   "width": 1647,
+   "height": 917
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ดินเผาทรงสามเหลี่ยมจากกรุพระปรางค์วัดพระศรีรัตนมหาธาตุ สุพรรณบุรี ปางมารวิชัยศิลปะอู่ทอง ชื่อว่าผงแต่เป็นดินเผา หนึ่งในเบญจภาคี ไม่มีผู้ใดสถิตอยู่",
+  "what_en": "A triangular fired-clay tablet from the prang cache at Wat Phra Si Rattana Mahathat, Suphan Buri: a Maravijaya Buddha with a U Thong face. Called powder, made of earth. One of the Benjaphakhi five; nobody is home.",
+  "story_th": "พ.ศ. ๒๔๕๖ เปิดกรุพระปรางค์ พบลานทองจารึกภาษามคธอักษรขอมพร้อมพระพิมพ์ วงการเล่าว่าจารึกกล่าวถึงฤๅษีผู้สร้างและอานุภาพ ตรียัมปวายจัดเข้าชุดเบญจภาคีราว พ.ศ. ๒๔๙๐",
+  "story_en": "In 1913 the prang at Wat Phra Si Rattana Mahathat was opened and a gold plate inscribed in Pali in Khom script came out with the tablets; the trade holds that the inscription names hermits as makers and promises protection, but that text is not cited here. Thai Wikipedia dates the tablets to the U Thong period. Triyampavai's set of around 1947 placed it among the five.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is age and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:th-wiki-wat-mahathat-suphan"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.materials": {
+    "tier": "catalogue",
+    "source": "s:vault-materials"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-mahathat-suphan"
+   },
+   "origin.wat_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-khrueang"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical range, not measured"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen by this record"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

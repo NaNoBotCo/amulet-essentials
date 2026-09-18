@@ -1,0 +1,191 @@
+{
+ "schema": 1,
+ "id": "phaya-tao-ruean",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พญาเต่าเรือน",
+  "roman": "phaya tao ruean",
+  "en": "Phaya Tao Ruean (turtle-king charm)",
+  "aliases": {
+   "th": [
+    "เต่าเรือน",
+    "พญาเต่า",
+    "เต่าหลวงปู่หลิว"
+   ],
+   "roman": [
+    "phaya tao ruan",
+    "paya tao ruen",
+    "tao ruean"
+   ],
+   "en": [
+    "house-turtle amulet",
+    "Luang Pu Liu turtle"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "chok_lap",
+   "kha_khai",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha",
+   "nuea_din"
+  ],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปเต่าหล่อโลหะหรือเนื้อผงดิน กระดองมักมียันต์หรือรูปหลวงปู่หลิว บางรุ่นเป็นเหรียญปั๊มทรงเต่า",
+  "shape_en": "A turtle in cast metal or pressed body, the shell usually carrying a yantra or the monk's image; some issues are struck medallions in turtle outline",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอ หรือรูปบูชาขนาดใหญ่",
+  "wearable_en": "Worn at the neck; large altar versions exist",
+  "notes_en": "The card records both cast-figure and coin-medallion forms. Materials follow the holding key (metal, earth); specific alloys vary by issue and belong to the issue record."
+ },
+ "iconography": [
+  {
+   "th": "เต่าหันหน้าตรง กระดองนูน",
+   "en": "a turtle face-on with a domed shell"
+  },
+  {
+   "th": "ยันต์หรือรูปหลวงปู่หลิวบนกระดอง",
+   "en": "a yantra or Luang Pu Liu's likeness on the shell"
+  },
+  {
+   "th": "หลวงปู่หลิวนั่งพญาเต่าเรือน — รูปบูชาใหญ่ที่วัดไร่แตงทอง",
+   "en": "Luang Pu Liu seated on the turtle — the large image at Wat Rai Taeng Thong"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดไร่แตงทอง นครปฐม · วัดไทรทองพัฒนา กาญจนบุรี (ตามการ์ด)",
+  "wat_en": "Wat Rai Taeng Thong, Thung Luk Nok, Kamphaeng Saen, Nakhon Pathom (Thai Wikipedia); Wat Sai Thong Phatthana, Kanchanaburi (reference card)",
+  "maker_th": "หลวงปู่หลิว ปุณฺณโก",
+  "maker_en": "Luang Pu Liu Punnako; the card also traces older turtles to Luang Pho Ngoen of Wat Bang Khlan",
+  "era_th": "วัดไร่แตงทองตั้ง ๑๗ มีนาคม พ.ศ. ๒๕๓๕ ตามวิกิพีเดียไทย รุ่นเต่าที่ดังมักจัดไว้ปลายพุทธศตวรรษที่ ๒๕ (ประเพณี)",
+  "era_en": "Wat Rai Taeng Thong was founded 17 March 1992 per Thai Wikipedia; the famous turtle issues are usually placed in the late 20th century (tradition)",
+  "place_th": "นครปฐม · กาญจนบุรี",
+  "place_en": "Nakhon Pathom and Kanchanaburi",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นรูปสัตว์ ไม่ใช่องค์พระ — หมวดวัตถุมงคล ฤทธิ์อยู่ที่พิธีและบารมีผู้สร้าง",
+   "en": "An animal figure, not a Buddha: the blessed-object class, power in the rite and the monk's barami",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "สายหลักคือหลวงปู่หลิว ของเก่ากว่านั้นการ์ดโยงถึงหลวงพ่อเงิน วัดบางคลาน",
+   "en": "The strongest lineage is Luang Pu Liu; the card traces older pieces to Luang Pho Ngoen of Wat Bang Khlan — a lineage claim read from issue records, not from the metal",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ยันต์หรือรูปหลวงปู่บนกระดอง ชื่อรุ่นบอกหน้าที่ตรงๆ เช่น รวยไม่หยุด",
+   "en": "The shell carries a yantra or the monk's likeness; run names state the function outright — one listing's edition is รวยไม่หยุด, 'rich without stopping'",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หล่อโลหะอ่านอายุด้วยสนิม เนื้อดินด้วยการหด — สองเนื้อ สองสัญญาณ",
+   "en": "Cast metal dates by patina, earth body by shrinkage; the same turtle in two materials reads two ways",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "รูปบูชาใหญ่ที่วัดไร่แตงทอง: หลวงปู่หลิวนั่งพญาเต่าเรือน สูง ๘.๑ เมตร คนไปขอหายป่วยและอายุยืน",
+   "en": "The temple's landmark image is Luang Pu Liu seated on the turtle, 8.1 m tall; visitors come for health and long life, which is the turtle's meaning",
+   "source": "s:th-wiki-wat-rai-taeng-thong",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญหลวงปู่หลิวทรงเต่าเป็นเหรียญพระเกจิที่ปั๊มเป็นรูปเต่า · พญาเต่าเรือนหล่อเป็นตัวเต่า",
+   "tell_en": "A struck Luang Pu Liu medallion in turtle outline is a monk medallion wearing a turtle; the cast turtle is the animal itself. Same monk, same class, different form."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือพระเกจิหล่อลอยองค์ · เต่าเรือนคือสัตว์ของท่าน",
+   "tell_en": "A rup lo is the monk cast in the round; the turtle is his animal. Both cast, both his issues."
+  },
+  {
+   "id": "pla-taphian",
+   "tell_th": "ปลาตะเพียนเป็นปลาสานหรือแผ่นโลหะแขวนค้าขาย · เต่าเป็นตัวหล่อห้อยคอ",
+   "tell_en": "The carp is woven or sheet metal, hung for trade; the turtle is cast and worn. Both animal wealth charms, different beasts and bodies."
+  }
+ ],
+ "market": {
+  "search": [
+   "เต่าเรือน"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02 (turtle-amulet and Luang Pu Liu searches return nothing). Wanted: a cast turtle obverse and its shell yantra, plus a struck turtle-outline medallion at the same scale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "เต่าเรือนในสายหลวงปู่หลิว — ทรัพย์ที่ค่อยมาแล้วอยู่ อายุยืน บ้านมั่นคง วัตถุมงคลปลุกเสก ไม่มีผู้อยู่",
+  "what_en": "The house-turtle amulet in the line of Luang Pu Liu — slow money that stays, long life, a household that holds. Blessed object, no resident.",
+  "story_th": "เต่าหล่อในประเพณีเดียวกับรูปหล่อพระเกจิ ความอืดและกระดองแข็งของเต่าเป็นภาพของทรัพย์ที่สะสมไม่หยุด รุ่นหนึ่งชื่อ รวยไม่หยุด สายหลักคือหลวงปู่หลิว ปุณฺณโก วัดไทรทองพัฒนา แล้ววัดไร่แตงทอง นครปฐม ซึ่งตั้ง พ.ศ. ๒๕๓๕ และมีรูปหลวงปู่นั่งพญาเต่าเรือนสูง ๘.๑ เมตร คนไปขอหายป่วยและอายุยืน ของเก่ากว่านั้นการ์ดโยงถึงหลวงพ่อเงิน วัดบางคลาน",
+  "story_en": "A turtle cast in the same bronze tradition as the monk figures: its slow, armoured persistence stands for wealth that accumulates and does not stop, and one edition names itself so. The lineage the trade names is Luang Pu Liu Punnako, at Wat Sai Thong Phatthana and then Wat Rai Taeng Thong in Nakhon Pathom, founded 1992, where an 8.1-metre image of the monk seated on the turtle draws people asking for health and long life. Older turtles are traced to Luang Pho Ngoen of Wat Bang Khlan, a claim that lives in issue records, not in the metal.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its question is which issue and whether it is genuine, never spiritual safety."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:amulet-reference",
+  "s:th-wiki-wat-rai-taeng-thong",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:amulet-reference"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-rai-taeng-thong",
+    "note": "Wat Sai Thong Phatthana and Luang Pho Ngoen: s:amulet-reference; issue dates: tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,45 @@
+{
+ "category": "Category:Amulets of Thailand",
+ "count": 2,
+ "free": 2,
+ "files": [
+  {
+   "title": "File:Benjapakee.png",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102451956",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Benjapakee.png/1280px-Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sha1": "39c2388546a0accb9a58cb679134832eff67fb52",
+   "width": 1644,
+   "height": 923,
+   "mime": "image/png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "attribution": "",
+   "description": "Benjapakee",
+   "date": "2021-03-28",
+   "categories": "Amulets of Thailand|Self-published work",
+   "free": true
+  },
+  {
+   "title": "File:Benjapakee 2.png",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102452146",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "thumb_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Benjapakee_2.png/1280px-Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "sha1": "4e4d8b2b939cc7becc6cbe2d8c1f31e209522d63",
+   "width": 1647,
+   "height": 917,
+   "mime": "image/png",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "attribution": "",
+   "description": "Benjapakee 2",
+   "date": "2021-03-28",
+   "categories": "Amulets of Thailand|Self-published work",
+   "free": true
+  }
+ ]
+}

@@ -1,0 +1,581 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "sai-sin",
+ "names": {
+  "th": "สายสิญจน์",
+  "roman": "sai sin",
+  "en": "Sai sin (blessed cotton thread)",
+  "aliases": {
+   "th": [
+    "ด้ายสายสิญจน์",
+    "ด้ายมงคล",
+    "ด้ายผูกข้อมือ",
+    "ฝ้ายผูกแขน",
+    "ด้ายปริตร"
+   ],
+   "roman": [
+    "sai sin",
+    "saisin",
+    "fai phuk khaen",
+    "sai sinchana"
+   ],
+   "en": [
+    "sacred thread",
+    "blessed string bracelet",
+    "baci string"
+   ]
+  },
+  "other_scripts": {
+   "lo": "ຝ້າຍຜູກແຂນ",
+   "km": "អំបោះសែន"
+  }
+ },
+ "region": [
+  "th",
+  "la",
+  "kh"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "ด้ายฝ้ายดิบสีขาว หลายเส้นควั่นรวม พระถือขณะเจริญพระพุทธมนต์ วงรอบบ้าน พันองค์พระ ตัดผูกข้อมือเป็นวง",
+  "shape_en": "Raw white cotton thread, several strands twisted together, run from the Buddha image through the monks' hands during paritta chanting, round a house, or round a couple's heads at a wedding; a length is then cut and tied on the wrist as a loop.",
+  "size_mm": null,
+  "wearable_th": "ผูกข้อมือ",
+  "wearable_en": "Tied at the wrist; in the Lao baci rite on the right wrist, worn at least three days and untied rather than cut",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Pan-Buddhist and pan-Tai: th.wikipedia describes the Thai monastic use; en.wikipedia 'Baci' the Lao/Isan wrist-tying (fai phuk khaen) with khwan-calling; a Commons photograph shows a monk tying one on a visitor at Angkor. Ms 6983 uses it as the ritual boundary — a circle of sai sin, three turns or seven layers, thread spun by a virgin girl — inside which other charms are made."
+ },
+ "iconography": [
+  {
+   "th": "ไม่มีรูป ไม่ลงยันต์",
+   "en": "no figure and no inscription; the chant is the whole of it"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "",
+  "era_en": "Undatable; older than any object in this catalogue",
+  "place_th": "ไทย ลาว เขมร",
+  "place_en": "Thailand, Laos, Cambodia",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ด้ายฝ้ายดิบขาว ไม่ย้อม ไม่มีอักขระ — ถ้าลงยันต์แล้วถักเป็นของอื่น (พิรอด เชือกคาด)",
+   "en": "Undyed raw cotton with nothing written on it; once inscribed and plaited it is a phirot or a waist-cord, not sai sin",
+   "source": "s:th-wiki-sai-sin",
+   "tier": "cited"
+  },
+  {
+   "th": "ผูกเป็นวงหลวมที่ข้อมือ ปมมัดธรรมดา",
+   "en": "A loose wrist loop with a plain knot; not a bracelet with a clasp",
+   "source": "s:en-wiki-baci",
+   "tier": "cited"
+  },
+  {
+   "th": "ฉบับลาว/อีสานมีสีเหลือง แดง ดำตามโอกาส",
+   "en": "Lao and Isan strings also come yellow (faith), red (bravery) or black (mourning) per en.wikipedia; white is the default everywhere",
+   "source": "s:en-wiki-baci",
+   "tier": "cited"
+  },
+  {
+   "th": "ไม่มีตลาดของเก่า — ของใหม่ทุกเส้น ราคาอยู่ที่พิธี ไม่ใช่เส้นด้าย",
+   "en": "There is no antique market: every string is new, and what is paid for is the rite, not the thread",
+   "source": "s:field-nan",
+   "tier": "field"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "waen-phirot",
+   "tell_th": "พิรอดถักเป็นวงจากแถบยันต์ ทารัก สายสิญจน์เป็นด้ายเปล่า",
+   "tell_en": "A phirot is plaited from an inscribed strip and lacquered; sai sin is bare thread."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดร้อยสายสิญจน์ได้ แต่สายเป็นแค่เชือกร้อย",
+   "tell_en": "A takrut may hang on sai sin cord; the cord is then the string, not the charm."
+  },
+  {
+   "id": "prachiat",
+   "tell_th": "ประเจียดเป็นผ้าลงยันต์พันหัวหรือแขน",
+   "tell_en": "A prachiat is an inscribed cloth band for the head or arm; sai sin is thread at the wrist."
+  }
+ ],
+ "market": {
+  "search": [
+   "สายสิญจน์"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Baci"
+  ],
+  "commons_files": [
+   "File:Buddhist monk gives blessed string bracelet to a tourist.jpg",
+   "File:Fei phook Ann - Thailand.JPG",
+   "File:Vientiane, baci ceremony (6172947454).jpg",
+   "File:Baci in a village.jpg",
+   "File:11 Monks Chanting.jpg"
+  ],
+  "wanted_en": "Free files cover the wrist-tying (Angkor, Vientiane, Isan bands) and monks chanting at a Thai wedding. Still wanted: the thread running from a Buddha image through the monks' hands, a house with sai sin round it, and a ball of raw thread as sold."
+ },
+ "images": [
+  {
+   "file": "sai-sin/sai-sin-buddhist-monk-gives-blessed-string-brace-981e71.jpg",
+   "source": "commons",
+   "title": "File:Buddhist monk gives blessed string bracelet to a tourist.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Buddhist_monk_gives_blessed_string_bracelet_to_a_tourist.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=115194518",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Antonio Kless",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Buddhist monk gives blessed string bracelet (Sai Sin) to a tourist at Angkor Wat, Siem Reap Province, Cambodia.",
+   "sha256": "762c958ca04069f96fed21087ebb387aae4e1335cf17d6a9a835f1c034b5569d",
+   "width": 4288,
+   "height": 2848,
+   "primary": true
+  },
+  {
+   "file": "sai-sin/sai-sin-marriage-in-thailand-abe78f.jpg",
+   "source": "commons",
+   "title": "File:Marriage in Thailand.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Marriage_in_Thailand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=1523095",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "My wife, permission granted for publication under a free license (PD)",
+   "credit": "Photo taken by Bualong Sebulke",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Part of a Marriage ceremony in Thailand, 2007.",
+   "sha256": "92d22f5961a210aa61cabbea6ff6ba05773f1e93f82682ba29d487fc574f1540",
+   "width": 2388,
+   "height": 2952
+  },
+  {
+   "file": "sai-sin/sai-sin-11-monks-chanting-4023c7.jpg",
+   "source": "commons",
+   "title": "File:11 Monks Chanting.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/11_Monks_Chanting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2948664",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Kborland",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Monks chanting at a wedding ceremony in Ban Dongphayom, Nakhon Pa Mak, Bang Krathum, Phitsanulok, Thailand",
+   "sha256": "2cdd22f42fa7728963d0d3ef6425b800e19966e6fe34a8cecdc6195c2683753e",
+   "width": 640,
+   "height": 480
+  },
+  {
+   "file": "sai-sin/sai-sin-fei-phook-ann-thailand-345e51.jpg",
+   "source": "commons",
+   "title": "File:Fei phook Ann - Thailand.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fei_phook_Ann_-_Thailand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=6264714",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+   "author": "User:Mattes",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Textile arm bands (like bracelets) with knots called \"Fei phook Ann\" in Thai - traditionally given to people wishing the",
+   "sha256": "cfd602a276fac6882c75c9d2f212b2e69f734a0104c0cd33099f436b2a140c98",
+   "width": 2816,
+   "height": 2112
+  },
+  {
+   "file": "sai-sin/sai-sin-traditional-dance-during-baci-ceremeony-b63e2b.jpg",
+   "source": "commons",
+   "title": "File:Traditional dance during Baci ceremeony in Lao.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Traditional_dance_during_Baci_ceremeony_in_Lao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11489522",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "dalbera",
+   "credit": "https://www.flickr.com/photos/dalbera/4333498591/",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Tradtional dance of Laos during Baci ceremony",
+   "sha256": "b13c794c619bd8a6f673a117d0e65d7e0dc422b1d51fbe21c4cfd2c66c510140",
+   "width": 735,
+   "height": 1191
+  },
+  {
+   "file": "sai-sin/sai-sin-after-the-baci-d938de.jpg",
+   "source": "commons",
+   "title": "File:After the Baci.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/After_the_Baci.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=17637664",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Chaoborus",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Un phakhouan au lendemain du Baci.",
+   "sha256": "c5eec349b9c1e9c2934f39d610e783862faefe695517646d6a347f03ad267169",
+   "width": 1500,
+   "height": 1856
+  },
+  {
+   "file": "sai-sin/sai-sin-luang-prabang-laos-4340933048-a3151d.jpg",
+   "source": "commons",
+   "title": "File:Luang Prabang (Laos) (4340933048).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Luang_Prabang_%28Laos%29_%284340933048%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24671645",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "credit": "Luang Prabang (Laos)",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Images de la ville, de la cérémonie du Baci et des danses traditionnelles du Laos.\n\nwww.flickr.com/photos/dalbera/sets/7",
+   "sha256": "4010ae821c166d81db6fa9ac7f600a2d6495c9b849a997dc8ca4c2a88fa27e1b",
+   "width": 2400,
+   "height": 2400
+  },
+  {
+   "file": "sai-sin/sai-sin-musiciens-de-la-c-r-monie-du-baci-luang-fafaf8.jpg",
+   "source": "commons",
+   "title": "File:Musiciens de la cérémonie du Baci (Luang Prabang) (4334659018).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Musiciens_de_la_c%C3%A9r%C3%A9monie_du_Baci_%28Luang_Prabang%29_%284334659018%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24671747",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "dalbera from Paris, France",
+   "credit": "Musiciens de la cérémonie du Baci (Luang Prabang)",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Musiciens accompagnant les danses traditionnelles du Laos après la cérémonie du Baci.\n\nL'orchestre est composé de chante",
+   "sha256": "6d0bf41a350bbff41e5179b99eb273cbedf3df02c0b221cd3b08e700684158a2",
+   "width": 1297,
+   "height": 973
+  },
+  {
+   "file": "sai-sin/sai-sin-danseuses-lao-luang-prabang-4333915557-131c52.jpg",
+   "source": "commons",
+   "title": "File:Danseuses Lao (Luang Prabang) (4333915557).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Danseuses_Lao_%28Luang_Prabang%29_%284333915557%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24671748",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "credit": "Danseuses Lao (Luang Prabang)",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Salut final des danseuses  traditionnelles du Laos après la cérémonie du Baci.",
+   "sha256": "75833b815d85e84f4e40c37c1410131243755ea0d56c087b4bc3e69b13a9d34c",
+   "width": 832,
+   "height": 1024
+  },
+  {
+   "file": "sai-sin/sai-sin-vientiane-baci-ceremony-6172947454-054782.jpg",
+   "source": "commons",
+   "title": "File:Vientiane, baci ceremony (6172947454).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Vientiane%2C_baci_ceremony_%286172947454%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27471981",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Arian Zwegers from Brussels, Belgium",
+   "credit": "Vientiane, baci ceremony",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — A local family where two of my friends stayed held a baci ceremony for us, for our safe journey.\nBaci is an animist ritu",
+   "sha256": "7b50a691ba3a26fba75fd3cebd74c73bf783ee3da4841bc3cd3b2be687f29e9e",
+   "width": 1758,
+   "height": 1164
+  },
+  {
+   "file": "sai-sin/sai-sin-baci-in-a-village-bbb43a.jpg",
+   "source": "commons",
+   "title": "File:Baci in a village.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Baci_in_a_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=61937466",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Basile Morin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — For a baci ceremony in a small village in Laos near Luang Prabang, coton bracelets to fix on wrists, chicken and rice al",
+   "sha256": "25664c000f5c0ff02d1eb67dc4f33cc20f0fcd516e9df8ee5f6b11dd7988086b",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "sai-sin/sai-sin-people-at-a-baci-ceremony-in-a-village-782ece.jpg",
+   "source": "commons",
+   "title": "File:People at a baci ceremony in a village.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/People_at_a_baci_ceremony_in_a_village.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=61937467",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Basile Morin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Group of people at a baci ceremony in a village near Luang Prabang",
+   "sha256": "a7675d45460547cab1ddbe5dc2ef5723da59983a2bf01c922534e46ca329128a",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "sai-sin/sai-sin-princess-sirindhorn-in-songkran-festival-c548d5.jpg",
+   "source": "commons",
+   "title": "File:Princess Sirindhorn, in Songkran Festival 2018 (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Princess_Sirindhorn%2C_in_Songkran_Festival_2018_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=78176107",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "NBT",
+   "credit": "YouTube: https://www.youtube.com/watch?v=TLGeFVEcT3c – View/save archived versions on archive.org",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — ​诗琳通公主，2018年宋干节。",
+   "sha256": "70c67efb07cf588e5af1780501e8de9cdcc65a3707395936e0b80c1135b01082",
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "sai-sin/sai-sin-princess-sirindhorn-in-songkran-festival-577a0b.jpg",
+   "source": "commons",
+   "title": "File:Princess Sirindhorn, in Songkran Festival 2018 (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Princess_Sirindhorn%2C_in_Songkran_Festival_2018_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=78176109",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "NBT",
+   "credit": "YouTube: https://www.youtube.com/watch?v=TLGeFVEcT3c – View/save archived versions on archive.org",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — ​诗琳通公主，2018年宋干节。",
+   "sha256": "311ef4b255230927503a1f7eae46c86c69f3d28a07341baa51b909c9930813d0",
+   "width": 1280,
+   "height": 720
+  },
+  {
+   "file": "sai-sin/sai-sin-jill-biden-visits-laos-july-2015-01-6f4855.jpg",
+   "source": "commons",
+   "title": "File:Jill Biden visits Laos, July 2015 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Jill_Biden_visits_Laos%2C_July_2015_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=97222977",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "David Lienemann",
+   "credit": "https://medium.com/@ObamaWhiteHouse/behind-the-lens-promoting-empowerment-for-women-and-girls-in-asia-76afbd68328",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Dr. Jill Biden and U.S. Ambassador to Laos Daniel Clune take part in a Baci ceremony at the U.S. Embassy in Vientiane, L",
+   "sha256": "19693ec9a58fa5021637bb9352746fe2ea71410333c9e47af0ba8cd506bb4274",
+   "width": 1620,
+   "height": 1080
+  },
+  {
+   "file": "sai-sin/sai-sin-jill-biden-visits-laos-july-2015-02-6496ae.jpg",
+   "source": "commons",
+   "title": "File:Jill Biden visits Laos, July 2015 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Jill_Biden_visits_Laos%2C_July_2015_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=97222978",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "David Lienemann",
+   "credit": "https://medium.com/@ObamaWhiteHouse/behind-the-lens-promoting-empowerment-for-women-and-girls-in-asia-76afbd68328",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Dr. Jill Biden and U.S. Ambassador to Laos Daniel Clune take part in a Baci ceremony at the U.S. Embassy in Vientiane, L",
+   "sha256": "e3d460f86912350e37fd5ebaba43aa3e158cb9a004eda5e86efb5e7932de0b3b",
+   "width": 1620,
+   "height": 1080
+  },
+  {
+   "file": "sai-sin/sai-sin-ordination-of-a-buddhist-monk-in-wat-kon-500bad.jpg",
+   "source": "commons",
+   "title": "File:Ordination of a Buddhist monk in Wat Kong Krailat (2026) - img 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Ordination_of_a_Buddhist_monk_in_Wat_Kong_Krailat_%282026%29_-_img_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=187532710",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — A Buddhist ordination ceremony at Wat Kong Krailat, Kong Krailat district, Sukhothai province",
+   "sha256": "a81c1b117c40a488f350f2240d34b564647ebfede25b99edf9a1a80f932f08ef",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "sai-sin/sai-sin-ordination-of-a-buddhist-monk-in-wat-kon-5e8672.jpg",
+   "source": "commons",
+   "title": "File:Ordination of a Buddhist monk in Wat Kong Krailat (2026) - img 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ordination_of_a_Buddhist_monk_in_Wat_Kong_Krailat_%282026%29_-_img_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=187532712",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — A Buddhist ordination ceremony at Wat Kong Krailat, Kong Krailat district, Sukhothai province",
+   "sha256": "9812ee28a650acbebd85486c70aa9a748a8e97bf99d4890c9cf293f0579b8d12",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "sai-sin/sai-sin-ordination-of-a-buddhist-monk-in-wat-kon-de84ce.jpg",
+   "source": "commons",
+   "title": "File:Ordination of a Buddhist monk in Wat Kong Krailat (2026) - img 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ordination_of_a_Buddhist_monk_in_Wat_Kong_Krailat_%282026%29_-_img_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=187532713",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — A Buddhist ordination ceremony at Wat Kong Krailat, Kong Krailat district, Sukhothai province",
+   "sha256": "d799d9b4345ff0938ae34828e2df9c2a6572ba22915fa943ac9ca2185adb0a95",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "sai-sin/sai-sin-ordination-of-a-buddhist-monk-in-wat-kon-b334fe.jpg",
+   "source": "commons",
+   "title": "File:Ordination of a Buddhist monk in Wat Kong Krailat (2026) - img 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Ordination_of_a_Buddhist_monk_in_Wat_Kong_Krailat_%282026%29_-_img_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=187532714",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — A Buddhist ordination ceremony at Wat Kong Krailat, Kong Krailat district, Sukhothai province",
+   "sha256": "4d2cd31ef83eb72f538d8bf66c6aea5de373d0c5479a456acf7189705993c280",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "sai-sin/sai-sin-phra-mae-ya-shrine-2026-exterior-img-14-c1f0be.jpg",
+   "source": "commons",
+   "title": "File:Phra Mae Ya Shrine - ศาลพระแม่ย่า (2026) - exterior img 14.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Phra_Mae_Ya_Shrine_-_%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%A2%E0%B9%88%E0%B8%B2_%282026%29_-_exterior_img_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=193244959",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — Trays of bai si (also termed baci), ready for purchase for worshipping at Phra Mae Ya Shrine, Sukhothai",
+   "sha256": "44dc64d3566e0166feaf31cd8f47171ab6efa38a6531a1a0b56b950c8d45893e",
+   "width": 5712,
+   "height": 4284
+  },
+  {
+   "file": "sai-sin/sai-sin-bejaratana-and-suvadhana-at-wongtawan-s-959468.png",
+   "source": "commons",
+   "title": "File:Bejaratana and Suvadhana at Wongtawan's Residence, 1966.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bejaratana_and_Suvadhana_at_Wongtawan%27s_Residence%2C_1966.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=196168104",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Unknown authorUnknown author",
+   "credit": "https://www.finearts.go.th/storage/contents/file/jRXlc7kSWWERaBDOIrIvbK2BLHr7lD64awNwiKQw.pdf",
+   "view": "other",
+   "alt_th": "สายสิญจน์",
+   "alt_en": "Sai sin (blessed cotton thread) — The Wrist-Tying and Blessing Ceremony for Princess Bejaratana and Suvadhana at Wongtawan's Residence.",
+   "sha256": "454d6ac2f37a41273b4c963cf7df60fb1fb4adda05eabc640ae20938acec5147",
+   "width": 1591,
+   "height": 980
+  }
+ ],
+ "text": {
+  "what_th": "ด้ายฝ้ายดิบสีขาวที่พระถือขณะเจริญพระพุทธมนต์ วงรอบบ้าน พันองค์พระ แล้วตัดผูกข้อมือเป็นสิริมงคล ใช้ทั่วไทย ลาว เขมร ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "Raw white cotton thread held by the monks during paritta chanting, run round a house or a Buddha image, then cut and tied at the wrist as a blessing. Thai, Lao and Khmer alike; the chant is the power, nobody is home.",
+  "story_th": "วิกิพีเดียไทยเรียกว่าด้ายปริตร: พระถือขณะสวดมนต์ วงรอบบ้านเวียนขวาในงานมงคล พันพระพุทธรูป ผูกข้อมือ และเป็นมงคลแฝดครอบหัวบ่าวสาว ฉบับลาว/อีสาน (บายศรีสู่ขวัญ) ผูกข้อมือขวา ใส่อย่างน้อยสามวัน แก้ออกไม่ตัด เพื่อเรียกขวัญ ๓๒ ให้อยู่กับตัว ตำรา ๖๙๘๓ ใช้เป็นเขตพิธี: วงสายสิญจน์ ๓ รอบ หรือ ๗ ชั้น ลงยันต์แขวนแปดทิศ เอาด้ายสาวพรหมจารีเป็นสายสิญจน์ แล้วจึงหุงน้ำมัน ทำกุมาร หรือลงผ้าอยู่ข้างใน",
+  "story_en": "th.wikipedia calls it paritta thread: the monks hold it while chanting, it circles a house clockwise at a merit-making, wraps a Buddha image, is tied at the wrist, and as the twinned มงคลแฝด crowns bride and groom. The Lao and Isan baci ties it on the right wrist for the khwan, worn at least three days and untied, never cut. Ms 6983 uses it as the boundary of the working space — three turns, or seven layers with yantra hung at the eight directions, the thread spun by a virgin girl — inside which oil is cooked, a kuman made or a cloth inscribed. The thread is the frame around every other recipe in this catalogue.",
+  "keeping_th": "ผูกไว้จนหลุดเอง หรือแก้ออก ไม่ตัด ไม่ทิ้งลงถังขยะ",
+  "keeping_en": "Worn until it falls off or is untied; the baci custom is never to cut it. Nothing to feed. When done, it goes somewhere clean — a tree, a shrine — not the bin."
+ },
+ "sources": [
+  "s:th-wiki-sai-sin",
+  "s:en-wiki-baci",
+  "s:ms6983",
+  "s:vault-classes",
+  "s:commons-amulets-th",
+  "s:field-nan"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-sai-sin"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "yantra_wattu by rite, not inscription; the vault's members list does not name สายสิญจน์"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-baci"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "lines 1961, 2168, 2666, 3263–3264, 5382"
+   },
+   "names.other_scripts": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Lao ຝ້າຍຜູກແຂນ 'wrist-tying cotton'; Khmer spelling unverified"
+   },
+   "text.keeping_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-baci",
+    "note": "disposal custom: field"
+   },
+   "market": {
+    "tier": "inference"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th",
+    "note": "licences checked 2026-09-02: CC BY-SA 4.0 ×3, CC BY 2.0, CC BY-SA 3.0"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,196 @@
+{
+ "schema": 1,
+ "id": "nam-man-phrai",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "น้ำมันพราย",
+  "roman": "nam man phrai",
+  "en": "Nam Man Phrai (prai oil)",
+  "aliases": {
+   "th": [
+    "น้ำมันเสน่ห์",
+    "น้ำมันพรายกุมาร"
+   ],
+   "roman": [
+    "nam man prai",
+    "namman prai",
+    "nam man phrai kuman"
+   ],
+   "en": [
+    "ghost oil",
+    "corpse oil",
+    "love-charm oil"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "prai",
+  "functions": [
+   "maha_saneh",
+   "maha_laluai"
+  ],
+  "materials": [],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "oil",
+  "shape_th": "น้ำมันในขวดเล็ก ปากขวดผนึกขี้ผึ้ง มักพันผ้ายันต์ บางขวดมีมวลสารลอยอยู่",
+  "shape_en": "Oil in a small stoppered vial, the mouth sealed with wax and often wrapped in a yantra cloth; some vials carry a floating charge",
+  "size_mm": null,
+  "wearable_th": "ไม่สวม ใช้ทาหรือเจิม เก็บไว้สูงกว่าศีรษะ",
+  "wearable_en": "Not worn; dabbed on skin or objects, and stored above head height",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "No material key fits an oil; axes.materials is left empty on purpose. The treatise's four love-oil recipes (pp. 49–51) are oil-and-herb cooked by rite; the corpse-rendered oil named by Thai Wikipedia is the necromantic form. Both are described here, neither taught."
+ },
+ "iconography": [
+  {
+   "th": "ขวดแก้วเล็กพันผ้ายันต์",
+   "en": "a small glass vial wrapped in yantra cloth"
+  },
+  {
+   "th": "ขี้ผึ้งปิดปากขวด",
+   "en": "wax sealing the vial mouth (the treatise's diagram note: two wax pieces close the bottle)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ปรากฏในขุนช้างขุนแผนและโคบุตรของสุนทรภู่; บทความของ Francis H. Giles ในวารสารสยามสมาคม พ.ศ. ๒๔๘๐",
+  "era_en": "Named in Khun Chang Khun Phaen and in Sunthorn Phu's Khobut; discussed by Francis H. Giles in the Journal of the Siam Society, 1937",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นของเหลว ไม่ใช่ผงหรือแผ่น — ชนิดที่ทา ไม่ใช่ห้อย",
+   "en": "It is a liquid, dabbed not worn; the form itself separates it from every pressed or cast kind",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตำราให้หุงในขันสัมฤทธิ์ ใช้ไม้รักเป็นไม้พาย ใช้ขี้เถ้าป่าช้า ๓ แห่งเป็นก้อนเส้า",
+   "en": "The treatise cooks it in a bronze bowl with a rak-wood paddle over hearth-lumps of ash from three charnel grounds — a fragrant-oil base, not rendered fat",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ขวดผนึกด้วยขี้ผึ้งและพันผ้ายันต์ เก็บสูงกว่าศีรษะ",
+   "en": "Sold sealed with wax and wrapped in yantra cloth; kept above head height",
+   "source": "s:th-wiki-nam-man-phrai",
+   "tier": "cited"
+  },
+  {
+   "th": "คำโฆษณาไม่ออมมือ — 'ผัวเมีย ๕๐๐ คู่' 'ร้อยคนในเจ็ดคืน'",
+   "en": "Listing language does not hedge: 'five hundred wives and husbands', 'a hundred lovers in seven nights'. That register is itself a type mark of the prai tier",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "si-phueng",
+   "tell_th": "สีผึ้งเป็นขี้ผึ้งแข็งในตลับ ทาปาก · น้ำมันพรายเป็นน้ำมันในขวด และตามชื่อคือของพราย",
+   "tell_en": "Si phueng is solid wax in a small case, worn on the lips; prai oil is liquid in a vial, and by its name a ghost-object. The vault leaves si phueng unplaced; prai oil sits squarely in prai."
+  },
+  {
+   "id": "luk-krok",
+   "tell_th": "ลูกกรอกมีรูปทารกในน้ำมัน · น้ำมันพรายเป็นน้ำมันล้วน",
+   "tell_en": "A luk krok is a foetus-form that may stand in oil; prai oil is oil alone"
+  },
+  {
+   "id": "waan",
+   "tell_th": "ว่านเป็นพืช อาจแช่น้ำมันเป็นส่วนผสม · น้ำมันพรายคือน้ำมันที่หุงโดยพิธีจากพราย",
+   "tell_en": "Waan is a living or dried plant that may be steeped into an oil as an ingredient; prai oil is the oil itself, made by rite and, in the necromantic form, from a ghost of untimely death"
+  }
+ ],
+ "market": {
+  "search": [
+   "น้ำมันพราย"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02 (searches for 'nam man phrai', 'prai oil' and น้ำมันพราย return nothing). Needed: a sealed vial with its yantra wrapping, photographed as sold, not opened."
+ },
+ "images": [],
+ "text": {
+  "what_th": "น้ำมันที่หุงโดยพิธีจากผีตายโหงหรือตายก่อนวัย ขายเป็นขวด ใช้บังคับใจในเรื่องรักและค้าขายเป็นหลัก เป็นชั้นที่ประเพณีเองเตือนหนักที่สุด: ต้องเลี้ยง และต้องปิดให้ถูกเมื่อเลิกใช้",
+  "what_en": "An oil rendered by rite from a ghost of violent or untimely death, sold in vials and worked mostly for compulsion in love and trade. The tier the tradition itself cautions hardest about: fed, and closed properly when set down.",
+  "story_th": "วิกิพีเดียไทยว่าน้ำมันพรายคือน้ำมันที่ได้จากคางหญิงตายทั้งกลม ใช้ทา ผสมอาหาร หรือวางใต้ที่นอนให้หญิงรัก ตำรา ๖๙๘๓ (หน้า ๔๙–๕๑) ให้สูตรน้ำมันเสน่ห์ ๔ แบบ: ซื้อน้ำมันหอมจาก ๓ เจ้าไม่ต่อราคา หุงในขันสัมฤทธิ์ด้วยฟืนไม้ทิ่มผี ไม้รัก ไม้ชัยพฤกษ์ บนก้อนเส้าขี้เถ้าป่าช้า ๓ แห่ง หุงที่ท่าน้ำ ทางสามแพร่ง และในโบสถ์ ใส่ดอกรักซ้อน ตะไคร่ใบเสมา เสกวันเสาร์หรืออังคาร บางสูตรทดลองกับลูกไก่ที่ตามแม่ — ทาแล้วไปไม่ได้",
+  "story_en": "Thai Wikipedia names the necromantic form: oil taken from the chin of a woman who died with child, applied to the skin, slipped into food or laid under a bed to make a woman love the user, and recorded as far back as the Khun Chang Khun Phaen epic. Manuscript 6983 (pp. 49–51) gives four love-oil recipes that are oil and rite rather than corpse: fragrant oil bought from three vendors without haggling, cooked in a bronze bowl over corpse-prodding wood and cassia, on hearth-lumps of ash from three charnel grounds, once at a river landing, once at a crossroads, once in an ordination hall; double jasmine and boundary-stone moss go in; consecrate on a Saturday or Tuesday. One recipe tests the oil on a chick following its mother — dabbed, it cannot leave. The reference cards treat these formulas as the documented recipe behind the market's vials.",
+  "keeping_th": "ต้องเลี้ยงและต้องปิด: วิกิพีเดียไทยว่าต้องเซ่นทุกวัน เก็บในขวดผนึก พันผ้ายันต์ ไว้สูงกว่าศีรษะ ถ้าไม่รู้วิธี อย่ารับมา",
+  "keeping_en": "Feeding and closing. Thai Wikipedia has it fed daily, kept sealed and wrapped in yantra cloth above head height. The class vocabulary is plainer: the one to keep out of the hands of a buyer who does not know how to keep it — and this record describes, it does not sell."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:th-wiki-nam-man-phrai",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:vault-functions",
+    "note": "มหาเสน่ห์ entry names น้ำมันพราย; มหาละลวย is the stronger register the listings use"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 2190–2260 (printed pp. 49–51); necromantic form and storage: s:th-wiki-nam-man-phrai"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-nam-man-phrai"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-nam-man-phrai",
+    "note": "floating charge: tradition"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

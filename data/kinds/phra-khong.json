@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "phra-khong",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระคง",
+  "roman": "phra khong",
+  "en": "Phra Khong (Lamphun cache tablet)",
+  "aliases": {
+   "th": [
+    "พระคงลำพูน",
+    "พระคง กรุวัดพระคงฤๅษี"
+   ],
+   "roman": [
+    "phra kong",
+    "phra khong lamphun"
+   ],
+   "en": [
+    "Phra Kong amulet"
+   ]
+  }
+ },
+ "region": [
+  "th-north"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "พระพิมพ์ดินเผาขนาดเล็ก ทรงเกือบสามเหลี่ยม ฐานกว้าง ยอดมน",
+  "shape_en": "Small fired-earth tablet, roughly triangular with a broad base and rounded top; Haripunchai-style pressed image",
+  "size_mm": null,
+  "wearable_th": "เลี่ยมห้อยคอ",
+  "wearable_en": "Worn at the neck in a frame",
+  "obverse_th": "องค์พระประทับนั่งใต้ซุ้มใบโพธิ์",
+  "obverse_en": "A seated Buddha beneath a canopy of bodhi leaves",
+  "reverse_th": "เรียบ นูนเล็กน้อย บางองค์มีรอยนิ้ว",
+  "reverse_en": "Plain, slightly convex; some carry a finger impression",
+  "notes_en": "The bodhi-leaf canopy and the exact mould geometry are trade description (tradition); the wat article says only that the tablets are fired earth in black and red, found in quantity with พระบาง."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระนั่งสมาธิ",
+   "en": "seated Buddha in meditation"
+  },
+  {
+   "th": "ซุ้มใบโพธิ์",
+   "en": "bodhi-leaf canopy around the figure (trade description)"
+  }
+ ],
+ "origin": {
+  "wat_slug": "wat-phra-khong-ruesi",
+  "wat_th": "วัดพระคงฤๅษี",
+  "wat_en": "Wat Phra Khong Ruesi, Mueang Lamphun",
+  "maker_th": "ตำนานยกให้ฤๅษีสมัยพระนางจามเทวี",
+  "maker_en": "Legend assigns the tablets to the hermits (ฤๅษี) of Queen Chamadevi's Hariphunchai; no maker is named",
+  "era_th": "หริภุญชัย (ตำนานว่าวัดสร้าง พ.ศ. 1200)",
+  "era_en": "Hariphunchai period; the wat's founding legend gives B.E. 1200, which is legend, not a date for the tablets",
+  "place_th": "ลำพูน",
+  "place_en": "Lamphun",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เนื้อดินเผา สีดำและสีแดง แบบหริภุญชัย",
+   "en": "Fired-earth body in black or red, Haripunchai-style; a metal or powder body is another kind",
+   "source": "s:th-wiki-wat-phra-khong-ruesi",
+   "tier": "cited"
+  },
+  {
+   "th": "พบในกรุเจดีย์วัดพระคงฤๅษีคู่กับพระบาง",
+   "en": "Cache-found in the wat's chedis together with พระบาง; the two share a body and are separated by mould",
+   "source": "s:th-wiki-wat-phra-khong-ruesi",
+   "tier": "cited"
+  },
+  {
+   "th": "ทรงป้อมกว่าพระรอด ใบโพธิ์เป็นซุ้มรอบองค์",
+   "en": "Stockier than a พระรอด, the bodhi leaves forming a canopy round the figure; the trade reads the leaf pattern first",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "คราบกรุและรอยตัดขอบตามอายุ — เนื้อดินไม่เกิดสนิม",
+   "en": "Age reads as cache crust and edge wear, never rust: the fired-earth dating signal on the material axis",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-rot",
+   "tell_th": "พระรอดเล็กกว่า เรียวกว่า จากกรุวัดมหาวัน · พระคงป้อมกว่า จากกรุวัดพระคงฤๅษี ทั้งคู่ดินเผาหริภุญชัย",
+   "tell_en": "Same class, same fired-earth body, same city. A พระรอด is smaller and finer, from the Wat Mahawan cache; a พระคง is stockier, from the Wat Phra Khong Ruesi cache. Mould, not material, tells them apart."
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุคือหมวดใหญ่ของพระที่พบในกรุ พระคงเป็นสมาชิกหนึ่งที่มีชื่อเอง",
+   "tell_en": "พระกรุ is the umbrella for any cache find; พระคง is one named member of it"
+  },
+  {
+   "id": "phra-sum-ko",
+   "tell_th": "พระซุ้มกอเป็นดินเผากำแพงเพชร ซุ้มเป็นลายกนก ไม่ใช่ใบโพธิ์",
+   "tell_en": "A พระซุ้มกอ is fired earth from Kamphaeng Phet with a kanok-scroll arch; the พระคง arch is bodhi leaves"
+  },
+  {
+   "id": "phra-nang-phaya",
+   "tell_th": "พระนางพญาเป็นดินเผาพิษณุโลก ทรงสามเหลี่ยม ไม่มีซุ้ม",
+   "tell_en": "A พระนางพญา is a Phitsanulok fired-earth triangle with no canopy at all"
+  }
+ ],
+ "market": {
+  "search": [
+   "พระคง"
+  ],
+  "excludes": [
+   "พระคงกระพัน",
+   "พระคงทน"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons photograph of a พระคง was found (searches on พระคง, Phra Khong, Haripunchai votive tablet). Needed: obverse straight on showing the leaf canopy, reverse, and a side-by-side with a พระรอด at the same scale."
+ },
+ "text": {
+  "what_th": "พระพิมพ์ดินเผาหริภุญชัยจากกรุวัดพระคงฤๅษี ลำพูน คู่แฝดของพระรอด องค์พระนั่งใต้ซุ้มใบโพธิ์ ชื่อ “คง” ทำให้คนถือเป็นพระคงกระพัน",
+  "what_en": "A Hariphunchai fired-earth tablet from the cache at Wat Phra Khong Ruesi in Lamphun, the stockier twin of the พระรอด: a seated Buddha under bodhi leaves. The name คง (endure) is why the trade reads it as a คงกระพัน amulet.",
+  "story_th": "ตำนานวัดว่าพระนางจามเทวีสร้างวัดนี้ตรงที่ฤๅษีวาสุเทพใช้ไม้เท้าขีดผังเมือง มีเจดีย์ที่บรรจุพระคงและพระบางไว้จำนวนมาก การบูรณะเปิดกรุพบพระพิมพ์ดินเผาสีดำและแดง",
+  "story_en": "The wat's legend has Queen Chamadevi build it where the hermit Vasudeva sketched the city plan with his staff, with hermit figures at the four gates. Its stupas held fired-earth tablets in black and red, and a restoration that opened the chedis turned up พระคง and พระบาง in quantity. The trade groups it with the other Lamphun cache finds and prices it well below the พระรอด.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง คำถามเรื่องที่มาคือแท้หรือไม่และราคา ไม่ใช่ความปลอดภัยทางวิญญาณ",
+  "keeping_en": "Nobody home and nothing owed. The provenance question is authenticity and price, never spiritual safety."
+ },
+ "sources": [
+  "s:th-wiki-wat-phra-khong-ruesi",
+  "s:th-wiki-phra-khrueang",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-phra-khong-ruesi"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-phra-khong-ruesi",
+    "note": "the last sentence is tradition"
+   },
+   "axes.class": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "from the name คง and trade usage; not attested in a source we hold"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

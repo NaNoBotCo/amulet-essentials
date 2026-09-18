@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "id": "bia-kae",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "เบี้ยแก้",
+  "roman": "bia kae",
+  "en": "Bia kae (warding cowrie)",
+  "aliases": {
+   "th": [
+    "เบี้ยจั่น",
+    "เบี้ยแก้หลวงปู่บุญ"
+   ],
+   "roman": [
+    "bia gae",
+    "bia kae"
+   ],
+   "en": [
+    "mercury cowrie",
+    "counter-charm cowrie"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "maha_ut",
+   "kan_phi",
+   "khum_khrong"
+  ],
+  "materials": [
+   "takua"
+  ],
+  "figures": [
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "shell",
+  "shape_th": "เปลือกหอยเบี้ย บรรจุปรอท อุดปากด้วยชันโรง หุ้มตะกั่วแผ่นบาง ถักเชือก ลงรักปิดทอง",
+  "shape_en": "A cowrie shell filled with mercury, its mouth stopped with stingless-bee resin, wrapped in beaten lead, plaited with cord, lacquered and gilded",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอหรือคาดเอว มักใส่ตลับ",
+  "wearable_en": "Worn at neck or waist, often cased",
+  "obverse_th": "หลังหอยโค้ง มักมองไม่เห็นใต้เชือกถัก",
+  "obverse_en": "The domed back of the shell, usually hidden under the plaiting",
+  "reverse_th": "ปากหอยที่อุดไว้ หุ้มตะกั่วลงตัว นะ มหาอุด",
+  "reverse_en": "The sealed mouth under lead, inscribed with the na maha-ut glyph",
+  "notes_en": "Shake it: the trade listens for the mercury moving inside. That is a type-level expectation, not a test of any piece."
+ },
+ "iconography": [
+  {
+   "th": "ตัว นะ มหาอุด ในวงกลม ลงบนตะกั่ว",
+   "en": "the na maha-ut glyph in a circle on the lead wrap"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดกลางบางแก้ว",
+  "wat_en": "Wat Klang Bang Kaeo",
+  "maker_th": "ท่านเจ้าคุณพุทธวิถีนายก (หลวงปู่บุญ) ตามที่ตำราระบุ",
+  "maker_en": "Chao Khun Phutthawithinayok, Luang Pu Bun, per the treatise's own ascription",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; the ascription is the treatise's, not verified here",
+  "place_th": "นครปฐม ภาคกลาง",
+  "place_en": "Central Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นหอยเบี้ยจริง ไม่ใช่หล่อ — ฟันหอยที่ปากอาจโผล่ใต้ตะกั่ว",
+   "en": "A real cowrie, not a casting: the shell's toothed lip may show at the edge of the lead",
+   "source": "s:th-wiki-bia-kae",
+   "tier": "cited"
+  },
+  {
+   "th": "ปากหอยอุดชันโรงแล้วหุ้มตะกั่วแผ่บาง",
+   "en": "Mouth stopped with underground stingless-bee resin, then sheeted over with beaten lead",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ถักเชือก ลงรัก ปิดทอง — ผิวนอกจึงเป็นเชือกรักดำทองเก่า",
+   "en": "Finished by cord plaiting, lacquer and gilding; the outer skin reads as dark lacquered cord with worn gold",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำรากำหนดปรอทหนัก ๑ บาท — น้ำหนักในมือมากกว่าหอยเปล่า",
+   "en": "The recipe loads one baht-weight of mercury; a bia kae is heavy for its size next to an empty shell",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นแผ่นม้วน เบี้ยแก้เป็นหอย ถักเชือกเหมือนกัน",
+   "tell_en": "Both get the plaited-cord finish; a takrut is a rolled sheet with a cord channel, a bia kae a shell with no channel and a domed back."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งในกะลา ไม่ผ่านพิธี เบี้ยแก้สร้างด้วยพิธี",
+   "tell_en": "A khot kala is a natural concretion kept as found, its class natural talisman; a bia kae is manufactured and consecrated, its class inscribed object."
+  },
+  {
+   "id": "lek-lai",
+   "tell_th": "เหล็กไหลเป็นโลหะดำมัน ไม่ใช่หอย",
+   "tell_en": "Lek lai is a dark lustrous metal held to be alive; a bia kae is a shell whose weight is mercury. Different class, different story."
+  }
+ ],
+ "market": {
+  "search": [
+   "เบี้ยแก้"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph on Wikimedia Commons as of 2026-09-02 (searches on เบี้ยแก้, bia kae, cowrie amulet returned nothing relevant). Needed: the plaited piece whole, the sealed mouth, and an unbound cowrie beside it for scale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "หอยเบี้ยบรรจุปรอทผนึกไว้ ถักเชือกหรือหุ้มโลหะ เครื่องราง แก้ คลาสสิกที่หันภัยและคุณไสยออกไป ตำราในคลังนี้มีวิธีสร้างที่ระบุว่าเป็นของหลวงปู่บุญ วัดกลางบางแก้ว",
+  "what_en": "A cowrie shell loaded with sealed mercury and bound in cord or foil — the classic 'undoer' that turns aside harm and bad medicine. The formulary in this corpus carries a making ascribed to Luang Pu Bun of Wat Klang Bang Kaew.",
+  "story_th": "ตำราให้เสกปรอทหนัก ๑ บาทด้วยคาถา อะสิสะติธะนู ๑๐๘ คาบ กรอกลงหอยเบี้ย เสกคาถาปิด ๑๐๘ คาบ อุดปากหอยด้วยชันโรงใต้ดินพร้อมบริกรรม โธอุทธัง ธังอุทโธ ๑๐๘ คาบ แผ่ตะกั่วหุ้ม ลง นะ มหาอุด ถักเชือก ลงรักปิดทอง แล้วปลุกเสกด้วยอิติปิโสแปดด้าน ๑๐๘ คาบ ใช้ทางมหาอุด กันการกระทำ กันผีปอบผีป่า",
+  "story_en": "The treatise consecrates one baht-weight of mercury with the asisati-thanu formula 108 times, pours it into the cowrie, seals it with a closing katha 108 times, stops the mouth with underground stingless-bee resin while reciting tho-utthang 108 times, sheets it in beaten lead inscribed with the na maha-ut glyph, plaits, lacquers and gilds it, and wakes it with the eight-direction Itipiso 108 times. It is for maha-ut, against sorcery-workings, and against pob and forest ghosts. Thai Wikipedia adds the trade's condition: the keeper must think and act well or it may not hold.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; mercury inside, so do not open it."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-bia-kae",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3496–3497 (printed p. 93)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "names.aliases": {
+    "tier": "cited",
+    "source": "s:th-wiki-bia-kae"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "form.notes_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "origin.place_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

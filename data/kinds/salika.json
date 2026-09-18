@@ -1,0 +1,198 @@
+{
+ "schema": 1,
+ "id": "salika",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "สาลิกา",
+  "roman": "salika",
+  "en": "Salika (golden-tongued myna)",
+  "aliases": {
+   "th": [
+    "สาลิกาลิ้นทอง",
+    "สาริกา",
+    "ตะกรุดสาลิกา",
+    "สาลิกาคู่"
+   ],
+   "roman": [
+    "sarika",
+    "salika lin thong",
+    "sariga"
+   ],
+   "en": [
+    "golden-tongue myna",
+    "myna charm"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "metta_maha_niyom",
+   "maha_saneh",
+   "kha_khai"
+  ],
+  "materials": [
+   "thongkham",
+   "nuea_loha"
+  ],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "นกคู่ตัวผู้ตัวเมีย โลหะหรือไม้ มักแช่น้ำมัน หรือเป็นตะกรุดดอกเล็กจากทองแผ่นบาง หรือยันต์รูปนกม้วนใส่ตลับสีผึ้ง",
+  "shape_en": "A pair of birds, male and female, in metal or wood, often kept in oil — or a very small takrut of thin gold, or the bird yantra rolled and set in a beeswax case",
+  "size_mm": null,
+  "wearable_th": "พกติดตัว อมใต้ลิ้นเมื่อจะพูด หรือเสียบไว้ที่ฟัน",
+  "wearable_en": "Carried; the takrut form is held under the tongue or set against the teeth before speaking",
+  "obverse_th": "ยันต์รูปนกสองตัวหันหน้าเข้าหากัน มีอักขระในตัว",
+  "obverse_en": "Two facing birds with Khom syllables inside each body",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Three forms share one name: bird figure, tiny takrut, and the drawn yantra. The market sells all three as สาลิกา."
+ },
+ "iconography": [
+  {
+   "th": "นกสาลิกาคู่ ตัวเมียซ้าย ตัวผู้ขวา",
+   "en": "paired mynas, female and male, each with its own katha"
+  },
+  {
+   "th": "ยันต์องค์พระเรียงชั้นมีอุณาโลม สำหรับตะกรุดลิ้นทอง",
+   "en": "a tiered Buddha-figure yantra topped with an unalom, for the gold-tongue takrut"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ตำราไม่ระบุปี ให้ลงวันจันทร์เพ็ญเดือน ๑๒",
+  "era_en": "Undated treatise; one recipe fixes the inscribing to the full-moon Monday of the twelfth lunar month",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปนกเป็นคู่ ไม่ใช่ตัวเดียว",
+   "en": "The birds come as a pair; a single bird is another charm or half a set",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตะกรุดสาลิกาเล็กมาก — ตำราใช้ทองหนัก ๒ ไพ",
+   "en": "The takrut form is tiny: the treatise uses two phai of gold, a weight that rolls to a fingernail",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มักแช่น้ำมัน ผิวมัน เหนียว",
+   "en": "Usually kept in oil; expect a greasy surface and an oil-stained case",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  },
+  {
+   "th": "หน้าที่คือเมตตาและวาจา ไม่ใช่คงกระพัน — ของที่ขายว่ากันภัยไม่ใช่สาลิกา",
+   "en": "Its work is metta and speech; a piece sold for invulnerability is another kind wearing the name",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดสาลิกาเป็นตะกรุด แต่ยันต์และการใช้ (อมใต้ลิ้น) ทำให้เป็นสาลิกา",
+   "tell_en": "A salika takrut is a takrut by form; the yantra and the under-the-tongue use make it this kind. File by the yantra when it is visible, by the seller's name when it is not."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นรูปหญิงกวักมือ เป็นเทพที่บูชา สาลิกาเป็นนก ไม่มีผู้อยู่",
+   "tell_en": "Nang Kwak is a beckoning woman, a deva venerated with offerings; the salika is a bird with nobody home. Both are sold for trade."
+  },
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑเป็นนกเทพปีกกาง อำนาจ สาลิกาเป็นนกเล็กคู่ วาจา",
+   "tell_en": "Garuda is a winged deva for authority; the salika is a small paired songbird for speech."
+  }
+ ],
+ "market": {
+  "search": [
+   "สาลิกา"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph on Wikimedia Commons as of 2026-09-02 (searches on สาลิกา, salika, sarika amulet returned nothing). Needed: a bird pair in their oil case, and a gold-tongue takrut beside a fingernail for scale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "นกสาลิกาคู่แห่งวาจาไพเราะ พ่อค้า คนจีบ และใครก็ตามที่ต้องให้คนเชื่อพกไว้ มักเป็นนกคู่เล็กโลหะหรือไม้ หรือยันต์รูปนก ดัชนียันต์ที่นี่มีลาย",
+  "what_en": "The paired myna birds of sweet speech — carried by sellers, suitors and anyone who must be believed. Usually a small couple of birds in metal or wood, or the yantra of them; the yant index here draws the design.",
+  "story_th": "ตำราให้สาลิกาสี่ตำรับ ตะกรุดสาลิกาลิ้นทองใช้ทองเนื้อแปดแผ่บาง ลงยันต์องค์พระ เสก อิมานิ ทะสะสิกขาปะทานิ อมไว้ใต้ลิ้นเมื่อจะเจรจาเทศนา อีกตำรับใช้ทองบางสะพานหนัก ๒ ไพ ลงวันจันทร์เพ็ญเดือน ๑๒ มีบายศรีหัวหมูคำนับครู ตะกรุดสาลิกามโหสถลงนกสองตัวบนกระดาษ ทอง เงิน ตะกั่ว หรือทองแดง ตัวเมียตัวผู้มีคาถาคนละบท ม้วนเป็นตะกรุดหรือใส่ตลับขี้ผึ้ง ใช้ทางเมตตาสำหรับนักเทศน์นักร้อง ส่วน สาลิกาจับปากโลง เป็นของอีกหมวดที่ใช้ชื่อเดียวกัน ตำราให้สูตรทำ ไม่นำส่วนผสมมาลงที่นี่",
+  "story_en": "The treatise gives four salika recipes. The gold-tongue takrut beats grade-eight gold thin, inscribes a Buddha-figure yantra, consecrates it with the ten-precepts formula, and is held under the tongue before speaking or preaching so that whoever sees your face loves you. A second uses two phai of Bang Saphan gold inscribed on the full-moon Monday of the twelfth month with bai-si and a pig's head for the teacher. The Salika Mahosot draws two facing birds on paper, gold, silver, lead or copper, each sex with its own katha, then rolls it as a takrut or seats it in a beeswax case — for preachers and singers. The fourth, 'salika that closes the coffin-mouth', is an object of another class wearing this name; the treatise gives a making-recipe; its ingredients are not reproduced here.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ยกเว้นสาลิกาจับปากโลงซึ่งเป็นของอีกหมวด",
+  "keeping_en": "Nobody home, nothing owed — for the bird pair and the gold-tongue takrut. The coffin-mouth salika in the same treatise belongs to another class by its making; the name does not settle the making."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:en-wiki-takrut",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 4326–4460 (printed pp. 125–127): ลิ้นทอง ×3, จับปากโลง, มโหสถ"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:amulet-reference",
+    "note": "bird-figure form from card C·10; takrut forms from ms6983"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-takrut",
+    "note": "'sariga' held between the teeth"
+   },
+   "names.aliases": {
+    "tier": "inference"
+   },
+   "form.notes_en": {
+    "tier": "inference"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,60 @@
+VALUE — HOW CASH VALUE IS ASSIGNED TO AMULETS                     built 2026-09-02
+Primary data: data/analysis/value_factors.json (factors, tiers, chart_ready).
+
+THE ANSWER
+    Genuine-or-fake first; then the NAME (monk / temple / model); then issue
+    and year; then mould and mintage; then metal tier; then condition.
+    Blessedness is priced through the blesser's name, never through the rite.
+    Bullion, frame, ceremony size and region of origin do not set price.
+
+RANKED FACTORS   (rank · Thai · English · how measured · price effect · conf.)
+ 1  ความแท้ / พระเก๊        authenticity     เนื้อ พิมพ์ ตำหนิ ผิว; card    fake = ฿100-500, any model   high
+ 2  สกุลพระ / เกจิ / วัด    maker lineage    ทำเนียบรุ่น, books, สนาม      10^2-10^6 between names      high
+ 3  รุ่น / ปี / รุ่นแรก     issue and age    year, issue number             10-100x within one monk      high
+ 4  พิมพ์ / บล็อก           mould variant    พิมพ์นิยม vs พิมพ์รอง, ตำหนิ  2-10x (Nang Phaya 10x)       high
+ 5  ความหายาก / จำนวนสร้าง  rarity, mintage  mintage, kru count, sold out   10-1,000x (<20 pcs = ฿15-20M) high
+ 6  เนื้อ (บน/กลาง/ล่าง)    metal tier       gold>silver>nawa>copper        25-133x gold:copper, same die high
+ 7  สภาพ (แชมป์ / ซ่อม)     condition        sharpness, surface, repair     2-7x                         high
+ 8  กระแส / เรื่องเล่า      hype cycle       press, queues, auction volume  ฿49 → ฿40M → collapse        high
+ 9  บัตรรับรอง / ประกวด     card, contest    issuer + number; placing       fee ฿500-750; premium unnumbered medium
+10  ประวัติการครอบครอง      provenance       named piece, prior owner       top tier only (฿200M refused) medium
+11  รอยจาร / โค้ด / เบอร์   marks, serial    code, number, hand inscription named; no number found        low
+12  พิธีปลุกเสก             consecration     who sat, how many              cost ฿30-50k/monk-day; no resale lift medium
+13  ภูมิภาค / ตลาดปลายทาง   buyer geography  circuit, export share          unquantified; HK shops 2008-  low
+14  กล่องเดิม / เลี่ยม      box, frame       present or not                 1.8x retail; frame = its gold medium
+
+TIER LADDER   (THB, what governs)
+    retail stall / Lazada          ฿39 - ฿500  (median ฿129)   material cost, fad, no adjudication
+    temple release                 ฿100 - ฿3,000; gold ฿30k-200k  cost + 10-15% margin + ads
+    dealer / สนามพระ / ท่าพระจันทร์ ฿1,000 - ฿500,000          เซียน eye, negotiation, reputation
+    เซียน / auction / ประกวด       ฿10,000 - ฿10M              card, placing, board guarantee
+    investment (เบญจภาคี, องค์ครู) ฿10M - ฿150M (offers ฿200M)  provenance, private treaty
+
+OUR CORPUS   catalog.db, 15,295 Lazada TH listings — retail tier only
+    All: median ฿129, IQR ฿69-259, p90 ฿500, mean ฿638. Sian tier invisible.
+    Material words move nothing: gold-named ฿198, copper ฿199, powder ฿190,
+    brass ฿69. Only เนื้อเงิน (n=37) lifts: ฿259, p75 ฿700.
+    Trade words lift ~1.5x: รุ่นแรก ฿198, แท้ ฿197, กล่องเดิม ฿230, หายาก ฿289.
+    Certificate words: 3 of 15,295. Named monk (n=3,323): ฿159.
+    By class: พราย ฿200, หุ่นพยนต์ ฿189, ธรรมชาติ ฿184, ยันต์ ฿169, พระเครื่อง ฿121
+    — the reverse of the sian tier, where พระเครื่อง holds every record.
+    Most-copied names cheapest: ไอ้ไข่ ฿79, หลวงปู่ทวด ฿99, ท้าวเวสสุวรรณ ฿94.
+
+NOT PRICE   bullion (Koon 2519 gold ฿10M vs ~฿50k metal) · rite size · gold
+    frame · age alone · asking price · "ความขลัง" · origin region · ring-bid hammers
+
+SOURCES   (full list with URLs in value_factors.json → sources)
+    ThaiPublica 2018 Trirong — 6 factors, ติดดอย     thaipublica.org/2018/03/trirong04/
+    Thairath 8 Jan 2023 ปัจจัยราคาพระ                thairath.co.th/lifestyle/amulet/2596840
+    Thairath 2 May 2023 องค์ร้อยล้าน                  thairath.co.th/horoscope/belief/2690639
+    Komchadluek 2014 สมเด็จ ฿80-150M                  komchadluek.net/amulet/189475
+    TCIJ 2014 ปลุกกระแส-สร้างราคา, ฿40bn Kasikorn 2007 tcijthai.com/news/2014/20/scoop/4016
+    Post Today 2015 Koon 2519 by metal                posttoday.com/politics/365279
+    Pantip เนื้อบน/กลาง/ล่าง ladder                    pantip.com/topic/40849828
+    AA Gold เหรียญทองคำ top 10 (โสธร 2460 <20 pcs)    aagold-th.com/article/1034/
+    Thairath 2020 เบญจภาคี then/now                   thairath.co.th/money/economics/thai_economics/1794359
+    Thairath องค์แชมป์ 2566                            thairath.co.th/lifestyle/amulet/2751666
+    สมาคมฯ card ฿750 · ชมรมพันธุ์ทิพย์ ฿500 · G-Pra fees 2568
+    Nation 21 Apr 2024 (Kasikorn 2019 ฿17-23bn) · SCMP 2019 · Bangkok Post 2025 (laundering)
+    Tambiah 1984 ch.14 · Kitiarsa 2012 · Asian Review 37(1) 2024 · regaliathai 2020
+    catalog.db (own corpus) · build/api/kinds.json (class split)

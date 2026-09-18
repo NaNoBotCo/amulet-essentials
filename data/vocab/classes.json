@@ -1,0 +1,156 @@
+{
+ "axis": "classes",
+ "source": "wichaa-vault/_meta/vocab/classes.md",
+ "vault_updated": "2026-07-22",
+ "entries": [
+  {
+   "key": "phra_khrueang",
+   "term": "พระเครื่อง",
+   "roman": "phra khrueang",
+   "en_gloss": "Buddhist amulet",
+   "confidence": "high",
+   "resident": "none",
+   "upkeep": "none",
+   "provenance_sensitivity": "low",
+   "definition": "A votive Buddha image or famous-monk amulet. Power = the barami of the maker plus the consecration (ปลุกเสก). No occupant. Its provenance question is purely one of authenticity and market value, never of spiritual safety.",
+   "members": [
+    "สมเด็จ",
+    "พระพุทธ",
+    "พระปิดตา",
+    "พระผง",
+    "พระกริ่ง",
+    "เหรียญหลวง",
+    "พระสมเด็จ"
+   ],
+   "excludes": [
+    "องค์สมเด็จ",
+    "บาทสมเด็จ"
+   ]
+  },
+  {
+   "key": "yantra_wattu",
+   "term": "วัตถุมงคล (ยันต์)",
+   "roman": "wattu mongkhon",
+   "en_gloss": "blessed/inscribed object",
+   "confidence": "high",
+   "resident": "none",
+   "upkeep": "none",
+   "provenance_sensitivity": "low",
+   "definition": "Takrut, yantra cloth, blessed medallions — power in the inscription and the rite. Impersonal.",
+   "members": [
+    "ตะกรุด",
+    "ผ้ายันต์",
+    "ยันต์",
+    "วัตถุมงคล",
+    "ล็อกเกต"
+   ],
+   "note": "ONE EXCEPTION worth flagging: a ตะกรุดหนังหน้าผากผีตายโหง (takrut of skin from a violent-death corpse) is a spirit-bearing object wearing this class's form. Form does not settle class; the making does. See [[prai]]."
+  },
+  {
+   "key": "khong_thammachat",
+   "term": "เครื่องรางธรรมชาติ",
+   "roman": "khrueang rang thammachat",
+   "en_gloss": "natural talisman",
+   "confidence": "medium",
+   "needs_verification": true,
+   "resident": "none",
+   "upkeep": "none",
+   "provenance_sensitivity": "low",
+   "definition": "Power inherent in a rare natural object rather than conferred by rite: เหล็กไหล (leklai, a living metal), กะลาตาเดียว (a one-eyed coconut), certain woods, stones and animal parts. Impersonal but NOT consecration-based — a third thing, neither Buddha-amulet nor spirit-vessel.",
+   "members": [
+    "เหล็กไหล",
+    "กะลาตาเดียว",
+    "คดกะลา",
+    "เขี้ยว",
+    "งาช้าง"
+   ]
+  },
+  {
+   "key": "thep_thewada",
+   "term": "เทพ / เทวดา",
+   "roman": "thep / thewada",
+   "en_gloss": "deva-tier resident",
+   "confidence": "high",
+   "resident": "deva",
+   "upkeep": "veneration",
+   "provenance_sensitivity": "medium",
+   "definition": "A celestial or Hindu-derived being is venerated through the object — Thao Wessuwan, Garuda (พญาครุฑ), Rahu, arguably Nang Kwak. Receives offerings and respect but is not a raised ghost; the relationship is closer to worship than to parenting. The \"cleanest\" spirit-bearing tier.",
+   "members": [
+    "ท้าวเวสสุวรรณ",
+    "พญาครุฑ",
+    "ราหู",
+    "นางกวัก",
+    "เทพ"
+   ],
+   "excludes": [
+    "กรุงเทพ",
+    "เทพย์ สาร",
+    "เทพย สาร"
+   ],
+   "distinct_from": [
+    "kuman",
+    "prai"
+   ]
+  },
+  {
+   "key": "kuman",
+   "term": "กุมารทอง",
+   "roman": "kuman thong",
+   "en_gloss": "raised child-spirit",
+   "confidence": "high",
+   "resident": "raised_spirit",
+   "upkeep": "feeding",
+   "provenance_sensitivity": "high",
+   "definition": "A child-spirit bound to an effigy and RAISED — fed sweet red drink, rice and toys, named, spoken to, asked for help as a member of the household. A reciprocal, parental bond. Neglect is the failure mode: a hungry, ignored kuman turns mischievous or leaves. Not \"dark\" in itself, but a bound spirit of the dead, and its history — who raised it, what it was taught — travels with it.",
+   "members": [
+    "กุมารทอง",
+    "กุมาร"
+   ],
+   "distinct_from": [
+    "thep_thewada",
+    "prai"
+   ]
+  },
+  {
+   "key": "prai",
+   "term": "พราย",
+   "roman": "prai",
+   "en_gloss": "necromantic ghost-object",
+   "confidence": "high",
+   "resident": "ghost",
+   "upkeep": "feeding_and_closing",
+   "provenance_sensitivity": "high",
+   "definition": "Houses or is rendered from the ghost of a violent or untimely death, classically a woman dead in childbirth (แม่นางพราย) — น้ำมันพราย (prai oil), นางพราย, some ลูกกรอก. The most powerful and most hazardous tier: hungry, coercive, and requiring both feeding AND correct closing when set down. THE class the tradition cautions hardest against acquiring without full history, and the one to keep out of the hands of a buyer who does not know how to keep it.",
+   "members": [
+    "น้ำมันพราย",
+    "นางพราย",
+    "พราย",
+    "ลูกกรอก"
+   ],
+   "distinct_from": [
+    "kuman",
+    "thep_thewada"
+   ],
+   "note": "ลูกกรอก (a preserved-foetus spirit) sits on the kuman/prai line — raised like a kuman but made from untimely death like a prai. Listed here as the more cautious placement; a knower may split it."
+  },
+  {
+   "key": "hun_phayon",
+   "term": "หุ่นพยนต์",
+   "roman": "hun phayon",
+   "en_gloss": "animated effigy / servant-golem",
+   "confidence": "high",
+   "resident": "animated",
+   "upkeep": "veneration",
+   "provenance_sensitivity": "medium",
+   "definition": "An effigy — figure, cloth, or metal — ANIMATED by yantra and spell to act as a servant or guardian. The occupant is a compelled animation rather than a named ghost or venerated deva, which is what makes it its own class. Ms 6983 gives the recipe outright: ตำราสร้างหุ่นพยนต์ แบบที่ ๑ / ๒, beside the ritual knife (มีดหมอ) used to make it. The courtroom Hanuman — held in the mouth, given commands — is one of these.",
+   "members": [
+    "หุ่นพยนต์",
+    "พยนต์"
+   ],
+   "distinct_from": [
+    "thep_thewada",
+    "kuman"
+   ]
+  }
+ ]
+}

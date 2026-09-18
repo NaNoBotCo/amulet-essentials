@@ -1,0 +1,212 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "rajah",
+ "names": {
+  "th": "ราจาห์",
+  "roman": "rajah",
+  "en": "Rajah (Javanese-Malay written talisman)",
+  "aliases": {
+   "th": [
+    "ยันต์ชวา",
+    "อักขระราจาห์"
+   ],
+   "roman": [
+    "rajah jawa",
+    "wafak",
+    "wifiq",
+    "isim"
+   ],
+   "en": [
+    "Javanese yantra",
+    "Islamic-Javanese magic diagram"
+   ]
+  },
+  "other_scripts": {
+   "id": "rajah",
+   "ms": "راجه · rajah",
+   "jv": "ꦫꦗꦃ · rajah"
+  }
+ },
+ "region": [
+  "id",
+  "my"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "khong_kraphan",
+   "maha_saneh",
+   "kha_khai"
+  ],
+  "materials": [],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "ตัวเขียน: อักษรอาหรับ ตัวเลข ตารางวะฟัก สัญลักษณ์ เขียนบนกระดาษ ผ้า หนังสัตว์ แผ่นโลหะ หรือสักบนตัว",
+  "shape_en": "Writing: Arabic letters, numerals, a wafaq grid, symbols known to the writer — on paper, cloth, animal skin or a metal sheet, or tattooed on the body (the Indonesian word rajah also means tattoo).",
+  "size_mm": null,
+  "wearable_th": "พับใส่ซองเป็นจิมัต เย็บเป็นเสื้อ (baju rajah) หรืออยู่บนผิวหนัง",
+  "wearable_en": "Folded into a pouch as a jimat, sewn as a whole shirt (baju rajah), or on the skin.",
+  "obverse_th": "ตัวเขียนเต็มหน้า ไม่มีรูปคน",
+  "obverse_en": "Text and diagram over the whole face; no figure.",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Rajah is the formula; jimat is the carried object. Indonesian usage lets the two words swap in speech, and the id.wikipedia definition — marks on skin or another medium believed to carry occult power — is the only on-wiki line on it."
+ },
+ "iconography": [
+  {
+   "th": "ตารางวะฟัก ๓×๓ ขึ้นไป",
+   "en": "a wafaq square, 3×3 and larger"
+  },
+  {
+   "th": "อักษรโดด (huruf) และตัวเลขอับญัด",
+   "en": "isolated letters and abjad numerals"
+  },
+  {
+   "th": "ตราสุลัยมาน ดาวหกแฉก",
+   "en": "the Seal of Solomon star"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "กียาอี ดุกุน หรือผู้รู้ ilmu hikmah",
+  "maker_en": "A kyai, a dukun, or anyone credited with ilmu hikmah; the Javanese primbon and Arabic manuals (Syamsul Ma'arif, al-Aufaq) are the trade's named books",
+  "era_th": "ชวาอิสลาม สืบผ่านปอเนาะและปรีมบน",
+  "era_en": "Islamic Java, carried through pesantren and the primbon almanacs",
+  "place_th": "ชวา แพร่ทั่วอินโดนีเซียและมาเลเซีย",
+  "place_en": "Java; used across Indonesia and Malaysia",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นตัวเขียนล้วน: อักษรอาหรับ เลข ตาราง สัญลักษณ์ ไม่มีรูปพระหรือฤๅษี",
+   "en": "Pure writing — Arabic letters, numerals, grids, symbols; never a Buddha, hermit or animal figure",
+   "source": "s:id-wiki-tato",
+   "tier": "cited"
+  },
+  {
+   "th": "ตารางเลขที่ผลรวมแถวเท่ากัน (วะฟัก) คือแกนของราจาห์แบบตาราง",
+   "en": "A grid whose rows sum alike — the wafq — is the core of grid-type rajah, in occult use since the 13th century",
+   "source": "s:en-wiki-magic-square",
+   "tier": "cited"
+  },
+  {
+   "th": "สื่อบอกที่มา: กระดาษ = ปอเนาะ/กียาอี · หนัง/โลหะ = ดุกุน · ผิวหนัง = สัก",
+   "en": "The medium hints the maker: paper from a pesantren hand, skin or metal from a dukun, and on the body it is a tattoo — the same word in Indonesian",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ราจาห์เต็มผืนบนเสื้อ = baju rajah",
+   "en": "Written over a whole shirt it is a baju rajah; the Commons example is one",
+   "source": "s:id-wiki-jimat",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "jimat",
+   "tell_th": "ราจาห์คือสูตรที่เขียน จิมัตคือของที่พก — ราจาห์อยู่ในจิมัตได้ แต่จิมัตไม่จำเป็นต้องมีราจาห์",
+   "tell_en": "Rajah is the written formula, jimat the carried object: a rajah can sit inside a jimat, and a jimat need not contain one."
+  },
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ไทยมีรูปและอักขระขอม · ราจาห์เป็นอาหรับ ไม่มีรูป",
+   "tell_en": "A Thai pha yan carries figures and Khom letters; a rajah is Arabic and aniconic."
+  },
+  {
+   "id": "yan-lanna",
+   "tell_th": "ยันต์ล้านนาเขียนอักษรธรรมในตารางพุทธ · ราจาห์เขียนอาหรับในตารางอิสลาม",
+   "tell_en": "A Lanna yan is Tham script in a Buddhist grid; a rajah is Arabic in an Islamic one. Same squared logic, different scripture."
+  },
+  {
+   "id": "in-yantra",
+   "tell_th": "อินพม่าอักษรพม่า สายวิชา weikza · ราจาห์อักษรอาหรับ สาย ilmu hikmah",
+   "tell_en": "A Burmese in is a weikza-lineage grid in Burmese letters; a rajah is an ilmu-hikmah grid in Arabic."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Baju Rajah (Syirik).jpg"
+  ],
+  "wanted_en": "Only the Baju Rajah shirt (CC BY-SA 4.0) is free on Commons as of 2026-09-02; 'rajah' searches return butterflies. Needed: a paper rajah flat under raking light showing the wafaq grid, and a manuscript page from a primbon with a drawn rajah."
+ },
+ "images": [
+  {
+   "file": "rajah/rajah-baju-rajah-syirik-e81a39.jpg",
+   "source": "commons",
+   "title": "File:Baju Rajah (Syirik).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Baju_Rajah_%28Syirik%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156701516",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Muhamad Izzul Fiqih",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ราจาห์",
+   "alt_en": "Rajah (Javanese-Malay written talisman) — Baju Rajah ini milik Ibrahim bin Abdul Gani dengan sebutan Datuk Ahim. Ia seorang Panglima Selempang Merah dari Desa Par",
+   "sha256": "708d408beae22908cfd4dafb34e554dfa61cbe33e83a09895abe1d5173f148bb",
+   "width": 3994,
+   "height": 6643,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "สูตรเขียนของชวา-มลายู: อักษรอาหรับ ตัวเลข ตารางวะฟัก และสัญลักษณ์ที่ผู้เขียนรู้ความหมาย ลงบนกระดาษ ผ้า หนัง โลหะ หรือผิวหนัง พลังอยู่ที่ตัวเขียนและผู้เขียน คือคู่ขนานของ “ยันต์” ในโลกอิสลาม",
+  "what_en": "The Javanese-Malay written formula: Arabic letters, numerals, a wafaq square and symbols meaningful to the writer, set on paper, cloth, skin, metal or the body. Power sits in the writing and the writer — the Islamic-world counterpart of the Thai yan, and the thing a jimat usually carries.",
+  "story_th": "ในความคิดชวา ราจาห์คือจิมัตที่มีพลัง ใช้รักษาคนป่วย กันภัย ทำให้คงกระพัน ให้เสน่ห์ หรือเรียกลูกค้า ผู้เขียนคือผู้มี ilmu hikmah — มักเป็นกียาอีหรือดุกุน — และตำราที่อ้างคือ Syamsul Ma'arif, al-Aufaq และปรีมบนชวา คำว่า rajah ในภาษาอินโดนีเซียยังแปลว่ารอยสักด้วย ซึ่งบอกว่าผิวหนังคือสื่อหนึ่งมาแต่เดิม ทางศาสนาถือเป็นชิริกถ้าเชื่อว่าตัวเขียนเองมีอำนาจ",
+  "story_en": "In Javanese thinking a rajah is a jimat with power in it: used to treat the sick, to ward, to make the body kebal, to draw love or custom. The writer is someone with ilmu hikmah — a kyai or a dukun — and the books the trade names are the Syamsul Ma'arif, the al-Aufaq and the Javanese primbon. That the Indonesian word also means tattoo says the skin was always one of its media. Religious opinion calls it shirk when the writing itself is believed to act. Everything here beyond the id.wikipedia one-liner is trade knowledge and is hedged accordingly.",
+  "keeping_th": "หมวด yantra_wattu: ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ให้เกียรติตัวเขียน — ไม่ให้เปียก ไม่เหยียบ ไม่พาเข้าที่สกปรก",
+  "keeping_en": "Filed with yantra_wattu: impersonal, nothing fed, nothing owed. The writing is treated as scripture — kept dry, never stepped over, kept out of unclean places."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:id-wiki-tato",
+  "s:id-wiki-jimat",
+  "s:en-wiki-magic-square",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition",
+   "note": "no Wikipedia article on the talisman exists in id/ms/en as of 2026-09-02; ms 'Rajah' is about diagrams"
+  },
+  "fields": {
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:id-wiki-tato"
+   },
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "transliteration; Thai has no term"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:id-wiki-jimat",
+    "note": "licence checked 2026-09-02: CC BY-SA 4.0"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

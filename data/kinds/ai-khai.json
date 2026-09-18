@@ -1,0 +1,325 @@
+{
+ "schema": 1,
+ "id": "ai-khai",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ไอ้ไข่",
+  "roman": "ai khai",
+  "en": "Ai Khai (the temple boy of Wat Chedi)",
+  "aliases": {
+   "th": [
+    "ไอ้ไข่ เด็กวัดเจดีย์",
+    "ไอ้ไข่วัดเจดีย์",
+    "ตาไข่"
+   ],
+   "roman": [
+    "ai kai",
+    "i khai",
+    "ta khai",
+    "ai khai wat chedi"
+   ],
+   "en": [
+    "Ai Khai of Wat Chedi",
+    "the Wat Chedi boy"
+   ]
+  }
+ },
+ "region": [
+  "th-south",
+  "th"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "chok_lap",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_din"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปเด็กชายไม่สวมเสื้อ กำมือขวายกไว้ที่อก แขนซ้ายแนบลำตัว ตามรูปไม้ตะเคียนแกะ พ.ศ. ๒๕๒๕ · รูปหล่อบูชาขนาด ๒๖–๒๘ ซม. พบมาก · แบบห้อยคอเป็นเหรียญหรือรูปหล่อเล็ก",
+  "shape_en": "A shirtless boy with the right fist raised to the chest and the left arm at his side, after the 1982 takhian-wood carving. Statuettes of 26–28 cm are the common shrine size; wearable forms are medallions and small cast figures.",
+  "size_mm": null,
+  "wearable_th": "แบบเล็กห้อยคอ รูปบูชาตั้งหิ้งพร้อมผ้ายันต์และธูป",
+  "wearable_en": "Small forms at the neck; the statuette sits on a home or shop shrine, sold with its own yantra cloth and incense",
+  "obverse_th": "รูปเด็กชายท่ากำมือ มักมีชื่อ ไอ้ไข่ และ วัดเจดีย์ กำกับ",
+  "obverse_en": "The boy in the fist-to-chest pose, usually lettered ไอ้ไข่ and วัดเจดีย์",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Statuette size from the reference card (F·16); the amulet forms vary by run and no typical size is defended here."
+ },
+ "iconography": [
+  {
+   "th": "เด็กชายกำมือขวาที่อก",
+   "en": "a boy with the right fist raised to the chest (the 1982 carving's pose)"
+  },
+  {
+   "th": "ไก่ชน",
+   "en": "a fighting cock beside him, the temple's signature offering"
+  },
+  {
+   "th": "ประทัด ชุดทหาร ของเล่นทหาร",
+   "en": "firecrackers, soldier uniforms and toy soldiers as vow-payment"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดเจดีย์ (ไอ้ไข่) ตำบลฉลอง อำเภอสิชล จังหวัดนครศรีธรรมราช",
+  "wat_en": "Wat Chedi (Ai Khai), Tambon Chalong, Amphoe Sichon, Nakhon Si Thammarat",
+  "maker_th": "รูปไม้ทองหลางแกะโดยผู้ใหญ่เที่ยงก่อน พ.ศ. ๒๕๒๕ · รูปไม้ตะเคียนแกะ พ.ศ. ๒๕๒๔–๒๕๒๕ · วัตถุมงคลรุ่นแรกออกโดยเจ้าอาวาส พ.ศ. ๒๕๒๖",
+  "maker_en": "First figure carved from soft thonglang wood by a village headman named Thiang before B.E. 2525; a second in takhian wood in 2524–2525; the abbot issued the first amulet run in B.E. 2526 (1983), per Thai Wikipedia",
+  "era_th": "รูปแกะก่อน ๒๕๒๕ รุ่นแรก ๒๕๒๖ กระแสใหญ่ทศวรรษ ๒๕๖๐",
+  "era_en": "Carvings before 1982, first run 1983; the national wave is the 2020s and the trade counts it the biggest since Jatukham",
+  "place_th": "สิชล นครศรีธรรมราช แล้วแพร่ไปทั่วประเทศ วัดอื่นหลายแห่งตั้งรูปไอ้ไข่จากวัดเจดีย์",
+  "place_en": "Sichon, Nakhon Si Thammarat, then nationwide; Thai Wikipedia's temple articles show copies housed at temples in Pathum Thani, Chachoengsao and elsewhere",
+  "first_attested": "B.E. 2526 first amulet run, per Thai Wikipedia วัดเจดีย์ (ไอ้ไข่)"
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นรูปเด็กชาย ไม่ใช่องค์พระ ไม่ใช่รูปพระเกจิ",
+   "en": "A boy figure, never a Buddha or a monk portrait",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ท่ากำมือขวาที่อก แขนซ้ายแนบตัว คือท่าอ้างอิงจากรูปไม้ตะเคียน ๒๕๒๕",
+   "en": "Right fist to chest, left arm down: the reference pose from the 1982 takhian carving",
+   "source": "s:th-wiki-wat-chedi-ai-khai",
+   "tier": "cited"
+  },
+  {
+   "th": "ขายพร้อมผ้ายันต์และธูปของตัวเอง ไก่ชนกับประทัดคือลายเซ็นของการบน — ประกาศที่รวมของเหล่านี้กำลังขายการบน ไม่ใช่วัตถุ",
+   "en": "Sold with its own yantra cloth and incense; fighting cocks and firecrackers are the vow's signature. A listing bundling them is selling the devotion, not the object",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ทุกอย่างผูกกับชื่อ วัดเจดีย์ สิชล ชิ้นที่ไม่ระบุวัดออกเป็นรูปเด็กทั่วไป",
+   "en": "Everything hangs on the name Wat Chedi, Sichon; a piece that names no issuing temple is a generic boy figure",
+   "source": "s:th-wiki-wat-chedi-ai-khai",
+   "tier": "inference"
+  },
+  {
+   "th": "เนื้อมีทั้งโลหะหล่อ ดินเผา และผง เนื้อไม่บอกชนิด ชื่อวัดและรุ่นต่างหากที่บอก",
+   "en": "Bodies run cast metal, fired earth and powder; the material fixes nothing here, the temple and run do",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นวิญญาณเด็กที่เลี้ยงอย่างลูก ป้อนน้ำแดงทุกวัน · ไอ้ไข่เป็นการบน ขอ สัญญา แล้วแก้บน ไม่ได้เลี้ยงเป็นลูก",
+   "tell_en": "Both are child figures. A kuman thong houses a raised child-spirit fed as family (class kuman); Ai Khai is kept as a vow — ask, promise, pay with firecrackers — and the vault has not placed him. The keeping is the tell, not the shape"
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามเป็นเหรียญกลมใหญ่รูปเทพ จากนครศรีธรรมราชเหมือนกัน กระแสก่อนหน้า · ไอ้ไข่เป็นรูปเด็ก",
+   "tell_en": "The previous Nakhon Si Thammarat wave: a large disc medallion of a deva-king (class thep_thewada). Ai Khai is a boy, cast or pressed, from Sichon"
+  },
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "ตำนานผูกไอ้ไข่กับหลวงปู่ทวด แต่หลวงปู่ทวดเป็นรูปพระสงฆ์ห่มจีวร · ไอ้ไข่เป็นเด็กไม่สวมเสื้อ",
+   "tell_en": "The legend makes Ai Khai the boy who followed Luang Pu Thuat; a Luang Pu Thuat piece shows a robed monk (class phra_khrueang), Ai Khai a shirtless boy"
+  }
+ ],
+ "market": {
+  "search": [
+   "ไอ้ไข่"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Wat Chedi Ai Khai"
+  ],
+  "commons_files": [
+   "File:Wat ai khai 1.jpg",
+   "File:Wat ai khai 4.jpg",
+   "File:Wat ai khai 5.jpg",
+   "File:Wat Chedi Ai Khai 1.jpg"
+  ],
+  "wanted_en": "The free set (CC BY-SA 4.0, 2020) is the temple entrance and small photographs of the two carved originals — the pre-1982 thonglang figure and the 1982 takhian figure. Still wanted: an amulet obverse and reverse with the temple name legible, and a statuette beside its fighting-cock and firecracker offerings."
+ },
+ "images": [
+  {
+   "file": "ai-khai/ai-khai-wat-ai-khai-1-777571.jpg",
+   "source": "commons",
+   "title": "File:Wat ai khai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wat_ai_khai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92116571",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Eqqpwppr",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — ภาพทางเข้าวัดเจดีย์ (ไอ้ไข่)",
+   "sha256": "4ed1516140d270d56da7fbd7c38b908578e1f1907a4d6eb13a631787cb7cf0c1",
+   "width": 4000,
+   "height": 3000,
+   "primary": true
+  },
+  {
+   "file": "ai-khai/ai-khai-wat-ai-khai-2-240290.jpg",
+   "source": "commons",
+   "title": "File:Wat ai khai 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Wat_ai_khai_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92118651",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Eqqpwppr",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — คำอธิบายวัดไอ้ไข่",
+   "sha256": "a46c828282a9604f8d75421951769de2ab621fa8cab151156852759545eb7c44",
+   "width": 9248,
+   "height": 6936
+  },
+  {
+   "file": "ai-khai/ai-khai-wat-ai-khai-3-8ffa2d.jpg",
+   "source": "commons",
+   "title": "File:Wat ai khai 3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Wat_ai_khai_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92119787",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Eqqpwppr",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — คำอธิบายวัดไอ้ไข่",
+   "sha256": "6fa4aeb64d1c56d33833116394dc725e1c8d9157b7a4abcf1c452e3781dfe7a6",
+   "width": 9248,
+   "height": 6936
+  },
+  {
+   "file": "ai-khai/ai-khai-wat-ai-khai-4-a887bb.jpg",
+   "source": "commons",
+   "title": "File:Wat ai khai 4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Wat_ai_khai_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92121218",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Eqqpwppr",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — รูปไม้แกะก่อน พ.ศ.2525",
+   "sha256": "6af9c6ce3ca63a56e3225be84d7c0c182f278d101b8246e8d2fe0472c7c5b9f3",
+   "width": 286,
+   "height": 307
+  },
+  {
+   "file": "ai-khai/ai-khai-wat-ai-khai-5-a594ee.jpg",
+   "source": "commons",
+   "title": "File:Wat ai khai 5.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Wat_ai_khai_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92121541",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Eqqpwppr",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — รูปไม้ตะเคียนแกะที่ 2 (เมื่อ พ.ศ.2525)",
+   "sha256": "b82e14b6adbf6cdcc10e6b6832010ae9fe2b89934afdc190e4e308436181a2dd",
+   "width": 246,
+   "height": 308
+  },
+  {
+   "file": "ai-khai/ai-khai-wat-chedi-ai-khai-1-5037b3.jpg",
+   "source": "commons",
+   "title": "File:Wat Chedi Ai Khai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Wat_Chedi_Ai_Khai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=121735840",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "OraMAAG",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ไอ้ไข่",
+   "alt_en": "Ai Khai (the temple boy of Wat Chedi) — แสดงรูปปั้นไก่ชนขนาดใหญ่สองตัว ที่วัดเจดีย์ (ไอ้ไข่) อำเภอสิชล จังหวัดนครศรีธรรมราช",
+   "sha256": "0de34f77865ebfcebeac96019864c984c00cf9dd16e4c4cf34e4609a229edeea",
+   "width": 4608,
+   "height": 3456
+  }
+ ],
+ "text": {
+  "what_th": "วิญญาณเด็กวัดเจดีย์ อำเภอสิชล กระแสศรัทธาใหญ่ที่สุดนับแต่จตุคาม ขอเรื่องหวยแล้วแก้บนด้วยประทัดและของเล่นทหาร วัตถุมงคลเป็นพาหะของศรัทธา การรักษาคำบนคือการเลี้ยง",
+  "what_en": "The boy-spirit of Wat Chedi in Sichon, the biggest devotional wave since Jatukham — asked for lottery luck and repaid in firecrackers and toy soldiers. The amulet carries the devotion; the vow-keeping is the keeping.",
+  "story_th": "ตำนานวัดว่าไอ้ไข่เป็นเด็กอายุราว ๙–๑๐ ปีที่ติดตามหลวงปู่ทวดจากสงขลาขึ้นไปทางอยุธยา ถูกฝากไว้เฝ้าวัดเจดีย์ ตั้งสัจจะจะอยู่เฝ้าวัด แล้วลงสระของวัดสละชีวิตเพื่ออยู่เป็นผู้รักษา ชาวบ้านขอให้ช่วยหาวัวควายที่หาย รูปไม้ทองหลางแกะโดยผู้ใหญ่เที่ยงก่อน ๒๕๒๕ ผุพังไป จึงแกะรูปไม้ตะเคียนใหม่ ๒๕๒๔–๒๕๒๕ ท่ากำมือขวาที่อก เจ้าอาวาสออกวัตถุมงคลรุ่นแรก ๒๕๒๖ ประทัดกองมหาศาลและไก่ปั้นเต็มลานวัดคือของแก้บน",
+  "story_en": "The temple's story makes Ai Khai a boy of nine or ten who followed Luang Pu Thuat from Songkhla toward Ayutthaya, was left to guard Wat Chedi, vowed to stay, and went into the temple pond to remain as its guardian; villagers asked him to find lost cattle. A soft thonglang-wood carving by a headman named Thiang, made before 1982, rotted; a takhian-wood figure carved in 1981–82 fixed the pose, right fist to the chest. The abbot issued the first amulet run in 1983. Firecrackers by the truckload and moulded cocks filling the grounds are the vows being paid; the 2020s wave carried copies to temples across the country.",
+  "keeping_th": "หมวดว่าง ยังไม่อยู่ในคำศัพท์หมวดของคลัง เลี้ยงส่วนใหญ่เป็นความสัมพันธ์แบบบน — ขอ สัญญา แล้วส่งของที่สัญญา — ไม่ใช่ผู้อาศัยที่ต้องป้อนทุกวัน ผู้รู้อาจจัดให้ละเอียดกว่านี้",
+  "keeping_en": "Class unassigned: the largest new devotion of the era is not yet in the vault's class vocabulary. Kept mostly as a votive relationship — ask, promise, and deliver what you promised — rather than as a fed dependent; a knower may file it more precisely. A piece with unknown history carries an unpaid vow only if its keeper made one."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:amulet-reference",
+  "s:th-wiki-wat-chedi-ai-khai",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "class null is the key's own refusal; materials loha/din mapped onto vault keys"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "the key's fuzzy note, restated"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-chedi-ai-khai",
+    "note": "legend, carvings, first run; the 2020s wave and Jatukham comparison are s:amulet-reference"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-chedi-ai-khai",
+    "note": "the abbot's name is given on-wiki but its spelling is not verified here, so it is not repeated"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-chedi-ai-khai",
+    "note": "pose; the 26–28 cm statuette size is s:amulet-reference card F·16"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:amulet-reference",
+    "note": "card F·16: 80+ live listings, ฿9–1,299"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

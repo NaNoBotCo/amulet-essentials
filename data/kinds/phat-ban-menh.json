@@ -1,0 +1,219 @@
+{
+ "schema": 1,
+ "id": "phat-ban-menh",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระพุทธเจ้าประจำปีนักษัตรจีน",
+  "roman": "Phật bản mệnh",
+  "en": "Birth-year guardian Buddha pendant",
+  "aliases": {
+   "th": [
+    "พระประจำปีเกิด ๘ พระโพธิสัตว์",
+    "พระ ๑๒ นักษัตรจีน"
+   ],
+   "roman": [
+    "phat ban menh",
+    "ben ming fo",
+    "ba da shou hu shen"
+   ],
+   "en": [
+    "life-Buddha pendant",
+    "eight zodiac guardians",
+    "natal Buddha"
+   ]
+  },
+  "other_scripts": {
+   "vi": "Phật bản mệnh",
+   "zh": "本命佛 · 八大守護神",
+   "ja": "十二支守護本尊"
+  }
+ },
+ "region": [
+  "vn",
+  "diaspora"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat"
+  ],
+  "materials": [],
+  "figures": [
+   "buddha",
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "medallion",
+  "shape_th": "จี้แบน แกะหรือหล่อรูปพระพุทธเจ้าหรือพระโพธิสัตว์องค์เดียว เลือกตามปีเกิดผู้ใส่",
+  "shape_en": "A flat pendant carved or cast with one Buddha or bodhisattva figure, chosen by the wearer's birth-year animal; jade, obsidian, silver and gold-plated alloy in the retail trade",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอ",
+  "wearable_en": "Worn at the neck on a cord or chain",
+  "obverse_th": "รูปพระประจำนักษัตร ๑ ใน ๘ องค์",
+  "obverse_en": "One of the eight guardian figures",
+  "reverse_th": "มักเรียบ หรือมีสัตว์นักษัตร/อักษรพีชะ",
+  "reverse_en": "Usually plain; some carry the zodiac animal or a Sanskrit seed syllable. Tradition, not verified",
+  "notes_en": "Materials named in the trade have no vault key (jade, obsidian); left empty on the axis."
+ },
+ "iconography": [
+  {
+   "th": "ชวด: พระอวโลกิเตศวรพันหัตถ์ (Thiên Thủ Thiên Nhãn)",
+   "en": "Rat: Thousand-armed Avalokiteśvara"
+  },
+  {
+   "th": "ฉลู ขาล: พระอากาศครรภโพธิสัตว์ (Hư Không Tạng)",
+   "en": "Ox, Tiger: Ākāśagarbha"
+  },
+  {
+   "th": "เถาะ: พระมัญชุศรี (Văn Thù)",
+   "en": "Rabbit: Mañjuśrī"
+  },
+  {
+   "th": "มะโรง มะเส็ง: พระสมันตภัทร (Phổ Hiền)",
+   "en": "Dragon, Snake: Samantabhadra"
+  },
+  {
+   "th": "มะเมีย: พระมหาสถามปราปต์ (Đại Thế Chí)",
+   "en": "Horse: Mahāsthāmaprāpta"
+  },
+  {
+   "th": "มะแม วอก: พระไวโรจนะ (Đại Nhật Như Lai)",
+   "en": "Goat, Monkey: Mahāvairocana"
+  },
+  {
+   "th": "ระกา: พระอจลนาถ (Bất Động Minh Vương)",
+   "en": "Rooster: Acala"
+  },
+  {
+   "th": "จอ กุน: พระอมิตาภะ (A Di Đà)",
+   "en": "Dog, Pig: Amitābha"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "โรงงานเครื่องประดับและร้านค้าออนไลน์ ไม่ผูกกับวัดใด",
+  "maker_en": "Jewellery workshops and online sellers; not tied to a temple or a named maker",
+  "era_th": "ชุดพระผู้พิทักษ์ ๑๒ นักษัตรมาจากนิกายชินงอนญี่ปุ่น ไม่ปรากฏในพระสูตร แพร่เป็นสินค้าในจีนและเวียดนามยุคหลัง",
+  "era_en": "The twelve-branch guardian set is Japanese Shingon practice; Chinese Wikipedia notes it appears in no sutra. Its spread as a Chinese and Vietnamese retail pendant is recent and undated in the sources",
+  "place_th": "ญี่ปุ่น → จีน → เวียดนาม",
+  "place_en": "Japan, then China and Vietnam",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "๘ องค์แบ่งกัน ๑๒ นักษัตร: ชวด/ฉลู-ขาล/เถาะ/มะโรง-มะเส็ง/มะเมีย/มะแม-วอก/ระกา/จอ-กุน — องค์ที่ใส่ต้องตรงปีเกิด",
+   "en": "Eight figures share twelve animals (rat / ox-tiger / rabbit / dragon-snake / horse / goat-monkey / rooster / dog-pig); the figure must match the wearer's birth year, which is the first thing a reader checks",
+   "source": "s:ja-wiki-shugo-honzon",
+   "tier": "cited"
+  },
+  {
+   "th": "ชุดนี้มาจากชินงอนญี่ปุ่นและไม่ปรากฏในพระสูตร คำโฆษณาว่า 'โบราณ' ไม่มีที่มาในตำรา",
+   "en": "The set is Japanese Shingon in origin and absent from the canonical texts; a seller's claim of antiquity has no support in the tradition's own literature",
+   "source": "s:zh-wiki-ba-da-shou-hu-shen",
+   "tier": "cited"
+  },
+  {
+   "th": "รายการจีนบางฉบับสลับคู่ วอก→อจลนาถ, ระกา→อมิตาภะ; ตรวจตารางที่ผู้ขายใช้",
+   "en": "Chinese lists differ from the Japanese table on two animals (monkey given to Acala, rooster to Amitābha in the zh table); check which table the seller follows",
+   "source": "s:zh-wiki-ba-da-shou-hu-shen",
+   "tier": "cited"
+  },
+  {
+   "th": "ไม่ใช่พระประจำวันเกิดของไทย ซึ่งจัดตามวันในสัปดาห์และเป็นปางพระพุทธรูป",
+   "en": "Not the Thai พระประจำวันเกิด: that system is by weekday (Sunday ปางถวายเนตร … Saturday ปางนาคปรก) and uses Buddha postures, not bodhisattvas",
+   "source": "s:th-wiki-pang-phra-phuttharup",
+   "tier": "cited"
+  },
+  {
+   "th": "ขายเป็นสินค้าจี้ หยก ออบซิเดียน เงิน — วัตถุมงคลเชิงพาณิชย์ ไม่มีพิธีปลุกเสกประจำ",
+   "en": "Sold as jewellery (jade, obsidian, silver, plated alloy) with no standing consecration rite; Chinese Wikipedia lists cards, jewellery, thangka and amulets among the commercial forms",
+   "source": "s:zh-wiki-ba-da-shou-hu-shen",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kuan-im",
+   "tell_th": "กวนอิมทั่วไปใส่ได้ทุกคน พระประจำนักษัตรผูกกับปีเกิด และองค์ชวดคือกวนอิมพันหัตถ์",
+   "tell_en": "A Guanyin pendant is for anyone; the natal-Buddha pendant is keyed to the birth year, and its Rat figure happens to be the thousand-armed Guanyin, so count the arms."
+  },
+  {
+   "id": "jade-buddha-burmese",
+   "tell_th": "พระหยกพม่าเป็นพระพุทธรูปปางสมาธิหรือมารวิชัย ไม่ผูกนักษัตร",
+   "tell_en": "A Burmese jade Buddha is a seated Buddha in meditation or earth-touching posture with no zodiac key; the same jade carries a bodhisattva here."
+  },
+  {
+   "id": "locket",
+   "tell_th": "ล็อกเก็ตไทยเป็นรูปถ่ายพระเกจิใต้เรซิน",
+   "tell_en": "A Thai locket is a photograph of a monk under resin; this is a carved or cast bodhisattva."
+  }
+ ],
+ "market": {
+  "search": [
+   "ประจำปีเกิด",
+   "นักษัตรจีน"
+  ],
+  "excludes": [
+   "ประจำวันเกิด"
+  ],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph of a Phật bản mệnh pendant found on Wikimedia Commons as of 2026-09-02 (searches in vi, zh, ja and en returned nothing). Needed: one pendant obverse with the figure legible, and a retail card showing the twelve-animal table."
+ },
+ "text": {
+  "what_th": "จี้พระพุทธเจ้าหรือพระโพธิสัตว์ ๑ ใน ๘ องค์ เลือกตามปีนักษัตรจีนของผู้ใส่ ชุดนี้มาจากนิกายชินงอนญี่ปุ่น ขายเป็นเครื่องประดับในจีนและเวียดนาม ไทยมีขายบ้างในชื่อ 'พระประจำปีเกิด นักษัตรจีน' ไม่ใช่พระประจำวันเกิดแบบไทย",
+  "what_en": "A pendant of one of eight Buddhas and bodhisattvas, chosen by the wearer's Chinese zodiac year. The eight-figure set is Japanese Shingon practice, sold today as jewellery across China and Vietnam and, thinly, in Thailand under 'Chinese zodiac birth-year Buddha'. It is not the Thai weekday birthday Buddha.",
+  "story_th": "ญี่ปุ่นจัดพระผู้พิทักษ์ ๘ องค์ให้ ๑๒ นักษัตร (十二支守護本尊) จีนรับไปเป็น 本命佛 และเวียดนามเป็น Phật bản mệnh วิกิพีเดียจีนบันทึกว่าไม่พบในพระสูตรใด ปัจจุบันเป็นสินค้าจี้หยก ออบซิเดียน เงิน พร้อมการ์ดตารางนักษัตร",
+  "story_en": "Japanese esoteric Buddhism assigns eight guardian figures to the twelve branches. China took the set over as the 本命佛 'natal Buddha' and Vietnam as Phật bản mệnh; Chinese Wikipedia records that the pairing appears in no scripture, and that Tibetan-style sellers swap four of the figures. Today it is a retail pendant in jade, obsidian or silver, sold with a card giving the zodiac table. On Lazada Thailand one listing offers the set as 'Buddha of the 12 signs, Chinese zodiac, 8 bodhisattvas'.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง เป็นรูปพระที่ใส่ได้เลย",
+  "keeping_en": "Nobody home, nothing owed: a Buddha-image pendant in the vault's phra_khrueang sense, adoptable with no history. Whether it was ever consecrated is a question about the seller, not the class."
+ },
+ "sources": [
+  "s:ja-wiki-shugo-honzon",
+  "s:zh-wiki-ba-da-shou-hu-shen",
+  "s:th-wiki-pang-phra-phuttharup",
+  "s:catalog-db",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:zh-wiki-ba-da-shou-hu-shen"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "note": "phra_khrueang applied to a non-Thai Buddha-image pendant; the vault does not name it"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai; the one Lazada title says พระพุทธเจ้า 12 ราศี ประจำปีเกิด นักษัตรจีน"
+   },
+   "form": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "1 title on ประจำปีเกิด as of 2026-09-02; ประจำวันเกิด excluded because it is the Thai weekday system"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

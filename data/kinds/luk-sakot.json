@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "luk-sakot",
+ "names": {
+  "th": "ลูกสะกด",
+  "roman": "luk sakot",
+  "en": "Luk sakot (lead subduing beads)",
+  "aliases": {
+   "th": [
+    "ลูกสะกดตะกั่ว",
+    "สะกด"
+   ],
+   "roman": [
+    "look sakot",
+    "luk sakod"
+   ],
+   "en": [
+    "sakot beads",
+    "binding beads"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "sakot",
+   "khong_kraphan",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "takua"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "bead",
+  "shape_th": "เม็ดตะกั่วหรือโลหะขนาดเม็ดถั่ว เจาะรู มักเป็นทรงกระบอกสั้นหรือกลมแบน จารอักขระ ร้อยเชือกหรือสายสิญจน์เป็นพวง คาดเอวหรือห้อยคอร่วมกับตะกรุด",
+  "shape_en": "Pea-sized lead or alloy beads, pierced, short-cylindrical or flattened-round, incised with letters and strung — several to a cord — worn at the waist or neck, often on the same cord as takrut.",
+  "size_mm": null,
+  "wearable_th": "ร้อยเชือกคาดเอว หรือห้อยคอ",
+  "wearable_en": "Strung on a cord at the waist or neck",
+  "obverse_th": "อักขระจารรอบเม็ด",
+  "obverse_en": "Incised letters round the bead",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Not a recipe in ms 6983. The treatise uses สะกด throughout as a FUNCTION — hold an image under the tongue (line 1620), wrap a rosary seven turns in a thread the treatise specifies (line 3595), steep a takrut in oil in a bronze bowl (line 4909) — and the modern bead form carries the function's name. Description below is trade knowledge, hedged."
+ },
+ "iconography": [
+  {
+   "th": "อักขระขอมจารบนเม็ด มักเป็นหัวใจคาถา",
+   "en": "Khom letters incised on each bead, usually a heart-syllable formula (tradition)"
+  },
+  {
+   "th": "ไม่มีรูป",
+   "en": "no figure"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "",
+  "era_en": "No dated attestation found; the function is in the undated treatise, the bead form is not",
+  "place_th": "",
+  "place_en": "",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เม็ดเจาะรูร้อย — ต่างจากลูกอมที่ทึบ",
+   "en": "Pierced for stringing; a solid ball is a luk om",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตะกั่วนิ่ม เล็บกดเป็นรอย มีสนิมขาวเทาตามซอกจาร",
+   "en": "Lead is soft enough to take a fingernail and greys in the incisions; a bright hard bead is an alloy or a modern cast",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "จารด้วยเหล็กจาร ร่องเป็นเส้นเดี่ยว ไม่ใช่ปั๊มนูน",
+   "en": "Hand-incised single-line grooves, not raised stamped letters",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ชื่อ 'สะกด' บอกหน้าที่ ไม่ใช่รูปทรง — เม็ดใดใช้สะกดก็เรียกได้",
+   "en": "The name is the function, not the shape; the trade applies it to any small strung metal bead sold for that purpose",
+   "source": "s:vault-functions",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "luk-om",
+   "tell_th": "ลูกอมลูกเดียวทึบ อมได้ ลูกสะกดหลายเม็ดเจาะรู",
+   "tell_en": "One solid ball you can hold in the mouth versus several pierced beads on a string."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นหลอดม้วนจากแผ่น ลูกสะกดเป็นเม็ดตัน มักร้อยสายเดียวกัน",
+   "tell_en": "A takrut is a rolled sheet tube; a luk sakot is a solid pierced bead. They share a cord so often that a bead on a takrut string is the usual find."
+  },
+  {
+   "id": "waen-phirot",
+   "tell_th": "พิรอดเป็นวงถักสวม ไม่ใช่เม็ด",
+   "tell_en": "A phirot is a plaited ring you put on; nothing is strung."
+  }
+ ],
+ "market": {
+  "search": [
+   "ลูกสะกด"
+  ],
+  "excludes": [
+   "ตัวสะกด",
+   "สะกดรอย",
+   "สะกดจิต"
+  ],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02. Needed: a strung set beside a takrut for scale, and a single bead under a loupe showing the incised letters."
+ },
+ "images": [],
+ "text": {
+  "what_th": "เม็ดตะกั่วเล็กจารอักขระ เจาะรูร้อยเชือก ชื่อมาจากหน้าที่ 'สะกด' — ทำให้คนหรือสัตว์นิ่งหรือหลับ ปัจจุบันขายคู่ตะกรุดในความหมายคงกระพันแคล้วคลาด ไม่มีผู้อยู่",
+  "what_en": "Small incised lead beads, pierced and strung, named for the function สะกด — subduing, putting to sleep — and now sold beside takrut as invulnerability-and-evasion beads. Power in the letters and the chant; nobody home.",
+  "story_th": "ตำรา ๖๙๘๓ ไม่มีสูตรลูกสะกด แต่ใช้คำ 'สะกด' เป็นหน้าที่ซ้ำๆ: ถ้าจะสะกดให้อมองค์พระไว้ใต้ลิ้น; ลงกระดาษห่อลูกประคำ เอาด้ายตามที่ตำราระบุพัน ๗ รอบ ภาวนา ๑๐๘ ขึ้นเรือนหลับทั้งเรือน; เอาตะกรุดแช่น้ำมันในขันสัมฤทธิ์เสกตรีนิสิงเห ๑๐๘ เม็ดตะกั่วในตลาดวันนี้รับชื่อจากหน้าที่นั้น",
+  "story_en": "Ms 6983 has no luk sakot recipe; it has the function. To subdue, hold the image under the tongue; wrap a rosary in paper and seven turns of a thread the treatise specifies and chant 108 times, and the whole house sleeps; steep a takrut in oil in a bronze bowl with the Trinisinghe formula. The strung lead beads of the modern market take the name of that function. What is on them, and who first strung them, this catalogue cannot cite.",
+  "keeping_th": "ไม่ต้องเลี้ยง เก็บอย่างตะกรุด",
+  "keeping_en": "Nothing to feed. Same keeping as a takrut on the same cord. Vault class is an inference from form and making; no source places ลูกสะกด by name."
+ },
+ "sources": [
+  "s:vault-functions",
+  "s:vault-materials",
+  "s:ms6983",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:vault-functions"
+   },
+   "axes.materials": {
+    "tier": "catalogue",
+    "source": "s:vault-materials"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "lines 1620, 3595, 4909"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "function passages only; no bead recipe in the treatise"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

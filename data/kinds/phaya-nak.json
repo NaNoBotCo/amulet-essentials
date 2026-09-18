@@ -1,0 +1,653 @@
+{
+ "schema": 1,
+ "id": "phaya-nak",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พญานาค",
+  "roman": "phaya nak",
+  "en": "Naga pendant",
+  "aliases": {
+   "th": [
+    "นาค",
+    "นาคราช",
+    "พญาศรีสุทโธนาคราช",
+    "องค์นาคา"
+   ],
+   "roman": [
+    "phaya naga",
+    "nak",
+    "nakkharat"
+   ],
+   "en": [
+    "Phaya Naga",
+    "Naga king",
+    "serpent-lord amulet"
+   ]
+  }
+ },
+ "region": [
+  "th",
+  "th-isan"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "chok_lap",
+   "metta_maha_niyom",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_phong",
+   "nuea_waan"
+  ],
+  "figures": [
+   "deity",
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหล่อพญานาคชูคอแผ่พังพาน หัวเดียวหรือหลายหัว หรือเหรียญ",
+  "shape_en": "Cast figure of a hooded serpent rearing, one head or several; also struck medallions and resin-and-powder figures",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอ พกกระเป๋า หรือตั้งบูชา",
+  "wearable_en": "Worn at the neck, carried, or set on a shrine",
+  "obverse_th": "นาคแผ่พังพาน มีหงอนและเครา บางองค์ถือแก้วมณี",
+  "obverse_en": "Hooded naga with crest and beard, sometimes with a jewel in the mouth or coils",
+  "reverse_th": "ยันต์ ชื่อวัดหรือสำนัก",
+  "reverse_en": "Yantra; wat or shrine name",
+  "notes_en": "Forms are trade description; the 2022 government prototype gives four naga families in distinct colours (en Wikipedia)."
+ },
+ "iconography": [
+  {
+   "th": "งูใหญ่แผ่พังพาน",
+   "en": "great serpent with spread hood"
+  },
+  {
+   "th": "หงอน เครา",
+   "en": "crest and beard"
+  },
+  {
+   "th": "หลายเศียร",
+   "en": "multiple heads on some"
+  },
+  {
+   "th": "แก้วมณี",
+   "en": "jewel (trade)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "หลายวัดและสำนัก โดยเฉพาะอีสานลุ่มน้ำโขง",
+  "maker_en": "Many wats and shrines, above all along the Mekong in Isan",
+  "era_th": "กระแสบูชานาคยุคปัจจุบัน; ครม. ประกาศเป็นเอกลักษณ์ประจำชาติ พ.ศ. 2565",
+  "era_en": "The present naga cult; the cabinet named the naga a national symbol in November 2022",
+  "place_th": "คำชะโนด อุดรธานี · หนองคาย · ทั่วประเทศ",
+  "place_en": "Kham Chanot (Udon Thani), Nong Khai, nationwide",
+  "first_attested": "2022 national-symbol designation (en Wikipedia) — for the modern cult, not the belief"
+ },
+ "diagnostics": [
+  {
+   "th": "งูมีหงอนและพังพาน — งูไม่มีหงอนคืองูธรรมดา ครุฑมีปีก",
+   "en": "A serpent with crest and hood; without the crest it is a plain snake, and a winged bird-man is Garuda",
+   "source": "s:th-wiki-nak",
+   "tier": "cited"
+  },
+  {
+   "th": "นาคปรก คือพระพุทธรูปมีนาคแผ่พังพานคลุม — เป็นพระเครื่อง ไม่ใช่นาคเดี่ยว",
+   "en": "A naga hood over a seated Buddha is นาคปรก, class phra_khrueang (the Mucalinda episode); the naga alone is this kind",
+   "source": "s:th-wiki-nak",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปหล่อสมัยใหม่มักลงสีหรือเคลือบ มีชื่อสำนักที่ฐาน",
+   "en": "Modern casts are often painted or enamelled, with the shrine's name on the base",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "สี่ตระกูลสี่สี ตามต้นแบบราชการ พ.ศ. 2565",
+   "en": "Four naga families in four colours per the 2022 government prototype, with Nak Vasuki as the lead form",
+   "source": "s:en-wiki-naga",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑมีปีกและจะงอยปาก คู่ปรับของนาค · นาคเป็นงูมีหงอน",
+   "tell_en": "Garuda is winged and beaked, the naga's enemy; the naga is a crested serpent. Same deva-tier class."
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "พระนาคปรกจากกรุเป็นพระพุทธรูปใต้พังพาน — พระเครื่อง ไม่มีผู้อยู่",
+   "tell_en": "A cache นาคปรก is a Buddha under the hood: phra_khrueang, nobody home. This kind is the serpent alone, venerated."
+  },
+  {
+   "id": "phra-rahu",
+   "tell_th": "ราหูอมจันทร์ หน้ายักษ์ไม่มีตัว · นาคมีลำตัวขด",
+   "tell_en": "Rahu is a bodiless giant's face swallowing the moon; the naga has a coiled body"
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามเป็นเหรียญกลมใหญ่รูปเทพนั่ง อาจมีนาคล้อมขอบ",
+   "tell_en": "A Jatukham is a large round disc with a seated deity, sometimes ringed by nagas; the naga here is the whole figure"
+  }
+ ],
+ "market": {
+  "search": [
+   "พญานาค"
+  ],
+  "excludes": [
+   "บั้งไฟพญานาค"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Nāga in Thailand"
+  ],
+  "commons_files": [
+   "File:Nāga at Wat Kham Chanot.JPG",
+   "File:Phaya Naga @ Kam Cha Nod , สระพญานาคที่ป่าคำชะโนด บ้านดุง จ.อุดรธานี - panoramio.jpg",
+   "File:Nāga in Nong Khai 1.jpg",
+   "File:Naga statue doi suthep.jpg",
+   "File:พระนาคปรก กรุนาดูน.jpg",
+   "File:Laonaga.jpg",
+   "File:พญานาค (2).jpg"
+  ],
+  "wanted_en": "Free files show shrine and temple nagas, and one cache นาคปรก tablet for contrast. Needed: a cast naga pendant front and back, and a painted resin naga figure of the current cult."
+ },
+ "text": {
+  "what_th": "จี้หรือรูปหล่อพญานาค เจ้าแห่งงูและน้ำในความเชื่อไทย-ลาว ผู้เฝ้าแม่น้ำโขง เป็นเครื่องรางที่นิยมที่สุดของยุคนี้ ขอโชคลาภและเมตตา",
+  "what_en": "A pendant or small cast figure of the naga, serpent-lord of water in Thai-Lao belief and keeper of the Mekong. The most fashionable deity object of the present decade, asked for luck and favour.",
+  "story_th": "ตำนานว่านาคสองตนเลื้อยเกิดเป็นแม่น้ำโขงและแม่น้ำน่าน อีสานเชื่อว่าบั้งไฟพญานาคกลางโขงคือฤทธิ์นาค คำชะโนดเป็นวังนาค ในพุทธศาสนานาคมุจลินท์แผ่พังพานกันฝนให้พระพุทธเจ้า เป็นที่มาของปางนาคปรก พ.ศ. 2565 รัฐบาลประกาศให้นาคเป็นเอกลักษณ์ประจำชาติ",
+  "story_en": "Legend has two nagas carve the Mekong and the Nan with their bodies; Isan reads the Mekong fireballs as naga breath and Kham Chanot as a naga palace. In Buddhism the naga Mucalinda shields the Buddha from rain, the source of the นาคปรก image. In 2022 the cabinet named the naga a national symbol for cultural and creative-economy ends, and the pendant trade rode the same wave.",
+  "keeping_th": "บูชาด้วยดอกไม้ น้ำ ผลไม้ และความเคารพ ไม่ต้องเลี้ยงอย่างกุมาร ไม่ใช่ผี",
+  "keeping_en": "Kept by veneration: flowers, water, fruit, respect. Not fed like a kuman, not a ghost; deva-tier keeping."
+ },
+ "sources": [
+  "s:th-wiki-nak",
+  "s:en-wiki-naga",
+  "s:vault-classes",
+  "s:tradition",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-nak",
+    "note": "with s:en-wiki-naga for the 2022 designation; the last clause is tradition"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-naga"
+   },
+   "axes.class": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "phaya-nak/phaya-nak-n-ga-at-wat-kham-chanot-9d5c1f.jpg",
+   "source": "commons",
+   "title": "File:Nāga at Wat Kham Chanot.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/N%C4%81ga_at_Wat_Kham_Chanot.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5998797",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "User:Mattes",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Nāga statue at Wat Kham Chanot (Wat Kumchanot), Udon Thani province, Thailand.",
+   "sha256": "b46d6484fdd2338e168e43d41b836159c1cbc09c72c82d073fb094fab80a4ce4",
+   "width": 2304,
+   "height": 3072,
+   "primary": true
+  },
+  {
+   "file": "phaya-nak/phaya-nak-phaya-naga-kam-cha-nod-panoramio-2b9074.jpg",
+   "source": "commons",
+   "title": "File:Phaya Naga @ Kam Cha Nod , สระพญานาคที่ป่าคำชะโนด บ้านดุง จ.อุดรธานี - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Phaya_Naga_%40_Kam_Cha_Nod_%2C_%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%B3%E0%B8%8A%E0%B8%B0%E0%B9%82%E0%B8%99%E0%B8%94_%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%94%E0%B8%B8%E0%B8%87_%E0%B8%88.%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A3%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55130059",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "::::=UT=::::",
+   "credit": "https://web.archive.org/web/20161025043904/http://www.panoramio.com/photo/77557511",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Phaya Naga @ Kam Cha Nod : สระพญานาคที่ป่าคำชะโนด บ้านดุง จ.อุดรธานี",
+   "sha256": "1ac82b384b29864ad9b4e6463dd497d9a0dafc4707eec97bbbec9c3a696f23bb",
+   "width": 2736,
+   "height": 3648
+  },
+  {
+   "file": "phaya-nak/phaya-nak-jpg-3d6d0d.jpg",
+   "source": "commons",
+   "title": "File:พระนาคปรก กรุนาดูน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9B%E0%B8%A3%E0%B8%81_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55201538",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — เนื้อพระและสีของพระนาดูน\nเนื้อพระนาดูนแบ่งออกได้หลายชนิด\n1. ชนิดเนื้อดินเผา ลักษณะการเผาคือ เผากลางแจ้ง จะมีลักษณะเหมือน",
+   "sha256": "3672b2062f369bf0fadbb8e9d8cc458b1739b2432a6ff885a53043b519de3348",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phaya-nak/phaya-nak-n-ga-in-nong-khai-1-f07b12.jpg",
+   "source": "commons",
+   "title": "File:Nāga in Nong Khai 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/N%C4%81ga_in_Nong_Khai_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89305844",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Nāga statues in Nong Khai.",
+   "sha256": "67af899fdd54c3692f9ebaab29013873c6fae71494d29b1c3dbc7f600c837f70",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phaya-nak/phaya-nak-naga-statue-doi-suthep-b90406.jpg",
+   "source": "commons",
+   "title": "File:Naga statue doi suthep.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Naga_statue_doi_suthep.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=159302679",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Hannes wilms",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — A statue of a naga closeby doi suthep",
+   "sha256": "118769799a1939b093a273982fb6747d3244f678faaf8ee8821ecbd47112a78d",
+   "width": 8000,
+   "height": 4500
+  },
+  {
+   "file": "phaya-nak/phaya-nak-democracy-monument-bangkok-thailand-2006-c6100a.jpg",
+   "source": "commons",
+   "title": "File:Democracy Monument, Bangkok, Thailand 2006-6.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Democracy_Monument%2C_Bangkok%2C_Thailand_2006-6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2172664",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Adam Carr at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Photo by en:User:Adam Carr, July 2006",
+   "sha256": "cea89866294e6269a98f12f9f86fc7e7b1f91f27e580dd49eb9f13bbc7cb1bbd",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "phaya-nak/phaya-nak-garuda-seal-of-siam-1st-version-svg-bb7f3b.png",
+   "source": "commons",
+   "title": "File:Garuda Seal of Siam (1st version).svg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Garuda_Seal_of_Siam_%281st_version%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=19849267",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Traced from version by Prince Narisara Nuvadtivongs, by Sodacan",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Garuda Seal of Siam, the first version, as drawn by Prince Narisara Nuvadtivongs in 1893.",
+   "sha256": "29e4c1db361b4b6c8ce8869dfb9dcb6ad0cdfe10e61b3aa2153e6185369040ee",
+   "width": 684,
+   "height": 691
+  },
+  {
+   "file": "phaya-nak/phaya-nak-garuda-seal-of-siam-ancient-svg-25b0e8.png",
+   "source": "commons",
+   "title": "File:Garuda Seal of Siam (Ancient).svg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Garuda_Seal_of_Siam_%28Ancient%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=19849269",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sodacan",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Garuda Seal of Siam, ancient version. Unknown date of original rendering.",
+   "sha256": "b3ebcd4405656d5367bf94119a0d12c51d65c4b260b21edf6da2d9082427742e",
+   "width": 500,
+   "height": 500
+  },
+  {
+   "file": "phaya-nak/phaya-nak-vishnu-kurmavatara-and-the-churning-of-t-edec4c.jpg",
+   "source": "commons",
+   "title": "File:Vishnu Kurmavatara and the churning of the milk ocean (3260164288).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Vishnu_Kurmavatara_and_the_churning_of_the_milk_ocean_%283260164288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23017717",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Roger Price from Hong Kong, Hong Kong",
+   "credit": "Vishnu Kurmavatara and the churning of the milk ocean\n\nUploaded by Fæ",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — This scene depicts the Vishnu Kurmavatara and the churning of the Milk Ocean.  The naga (king of serpents), Vasuki, is c",
+   "sha256": "9f9bcf902be092f6aa463acc9474137ff7c14c2f18e0d9f278f44cd1b7889889",
+   "width": 1680,
+   "height": 1116
+  },
+  {
+   "file": "phaya-nak/phaya-nak-nagas-caricatured-by-buddhists-from-andh-549a65.png",
+   "source": "commons",
+   "title": "File:Nagas caricatured by Buddhists from Andhrula Charitram-Part1-Page109.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nagas_caricatured_by_Buddhists_from_Andhrula_Charitram-Part1-Page109.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24042397",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Chilukuri Veerabhadra Rao",
+   "credit": "http://commons.wikimedia.org/w/index.php?title=File:Andhrula_Charitramu_Part-1.pdf&page=109",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — బౌద్ధలు ఊహ ప్రకారం నాగులు, ఆంధ్రుల చరిత్రము ప్రథమభాగము నుండి",
+   "sha256": "523d07bf598b6cfd00d0ef880ff3dedca64ff197d502298e87bd642d2266c237",
+   "width": 487,
+   "height": 770
+  },
+  {
+   "file": "phaya-nak/phaya-nak-bangkok-royal-barge-national-museum-4-1731ac.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Royal Barge National Museum 4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bangkok_Royal_Barge_National_Museum_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38177852",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mr.Peerapong Prasutr",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — The National Museum of Royal Barges is located at 80/1 on a on a bank of Bangkok Noi canal in Siriraj subdistrict, Bangk",
+   "sha256": "179fe5443d793b6e148b5a615941ccf426fe37b7a8fb69feacfd5c51a187dbb9",
+   "width": 2069,
+   "height": 1377
+  },
+  {
+   "file": "phaya-nak/phaya-nak-006-nagas-9212419531-ad0be2.jpg",
+   "source": "commons",
+   "title": "File:006 Nagas (9212419531).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/006_Nagas_%289212419531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50795846",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "006 Nagas",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — 06 Nagas, Hatyai Buddhist Theme Park",
+   "sha256": "32a2f82bceea1e9bddbbdfaf3db7b66564347dbd2e1106048470ceced067fe76",
+   "width": 3072,
+   "height": 2304
+  },
+  {
+   "file": "phaya-nak/phaya-nak-030-naga-plaque-9204502595-d48565.jpg",
+   "source": "commons",
+   "title": "File:030 Naga Plaque (9204502595).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/030_Naga_Plaque_%289204502595%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50796754",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "030 Naga Plaque",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — 030 Naga Plaque, Wat Sri Suphan, Chiang Mai",
+   "sha256": "5c74409acb3fd4ed5ef21fe7db0269be1f18c16818c1325060efbf70af2d4c45",
+   "width": 2708,
+   "height": 3627
+  },
+  {
+   "file": "phaya-nak/phaya-nak-029-naga-plaque-9204506653-b81498.jpg",
+   "source": "commons",
+   "title": "File:029 Naga Plaque (9204506653).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/029_Naga_Plaque_%289204506653%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50796755",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "029 Naga Plaque",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — 029 Naga Plaque, Wat Sri Suphan, Chiang Mai",
+   "sha256": "5db3ff854da31c4655de5eec1aaf40568f96d0b4bec27267fead1c588a0ef6d6",
+   "width": 2690,
+   "height": 3613
+  },
+  {
+   "file": "phaya-nak/phaya-nak-mythological-creatures-at-wat-pha-lat-10-7a72fd.jpg",
+   "source": "commons",
+   "title": "File:Mythological creatures at Wat Pha Lat-10.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mythological_creatures_at_Wat_Pha_Lat-10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54043279",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thomaswinn",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Mythological creatures at Wat Sakithaka",
+   "sha256": "433a025cc841b88c8a644e6f9f6bfab19b100401c079c99641e117eaab930459",
+   "width": 1440,
+   "height": 2560
+  },
+  {
+   "file": "phaya-nak/phaya-nak-mythological-creatures-at-wat-pha-lat-11-3e043d.jpg",
+   "source": "commons",
+   "title": "File:Mythological creatures at Wat Pha Lat-11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Mythological_creatures_at_Wat_Pha_Lat-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54043280",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thomaswinn",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Mythological creatures at Wat Sakithaka",
+   "sha256": "30a74a84d17a24c7fbd67b4cfdc43d3bbb76ee3e9db3ddff79e1f4b6c6d23d4b",
+   "width": 1440,
+   "height": 2560
+  },
+  {
+   "file": "phaya-nak/phaya-nak-mythological-creatures-at-wat-pha-lat-12-df8e95.jpg",
+   "source": "commons",
+   "title": "File:Mythological creatures at Wat Pha Lat-12.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Mythological_creatures_at_Wat_Pha_Lat-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54043281",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thomaswinn",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Mythological creatures at Wat Sakithaka",
+   "sha256": "bd5bc169bcb5931288db3463185eda8d30ee8014b4926a67cf2a9469607d2fd6",
+   "width": 2560,
+   "height": 1440
+  },
+  {
+   "file": "phaya-nak/phaya-nak-mythological-creatures-at-wat-pha-lat-15-a5ac9c.jpg",
+   "source": "commons",
+   "title": "File:Mythological creatures at Wat Pha Lat-15.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Mythological_creatures_at_Wat_Pha_Lat-15.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54043285",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thomaswinn",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Mythological creatures at Wat Sakithaka",
+   "sha256": "e1659853afc3adfd53e6d78594db76340e3b1bf3a763fe752c55742ceb36165a",
+   "width": 1440,
+   "height": 2560
+  },
+  {
+   "file": "phaya-nak/phaya-nak-mythological-creatures-at-wat-pha-lat-16-b38373.jpg",
+   "source": "commons",
+   "title": "File:Mythological creatures at Wat Pha Lat-16.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mythological_creatures_at_Wat_Pha_Lat-16.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54043286",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Thomaswinn",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Mythological creatures at Wat Sakithaka",
+   "sha256": "fe55f02b735fea1c7023080da469dcd45be6528c96c0b0c5efe5d52e8eae80ca",
+   "width": 1440,
+   "height": 2560
+  },
+  {
+   "file": "phaya-nak/phaya-nak-phaya-naga-mekong-s-embankment-panoramio-4f8f37.jpg",
+   "source": "commons",
+   "title": "File:Phaya Naga, Mekong's Embankment - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Phaya_Naga%2C_Mekong%27s_Embankment_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54864486",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "satori.corvus",
+   "credit": "https://web.archive.org/web/20161025062310/http://www.panoramio.com/photo/75654166",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Phaya Naga, Mekong's Embankment",
+   "sha256": "b47b830a56a9888cbce5f7bd9cda034c4459cbd1b539c7708a66ca6709a7b85f",
+   "width": 2160,
+   "height": 1620
+  },
+  {
+   "file": "phaya-nak/phaya-nak-bangkok-national-museum-2017-04-22-148-9c0c9f.jpg",
+   "source": "commons",
+   "title": "File:Bangkok National Museum - 2017-04-22 (148).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Bangkok_National_Museum_-_2017-04-22_%28148%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58279787",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Phutthai Sawan Hall, Front Palace, Bangkok National Museum, Bangkok, Thailand.",
+   "sha256": "3cebaec2508b174469d2214d18f3e55ecf0e1a284884796399c2382238bd3eee",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-nak/phaya-nak-bangkok-national-museum-2017-04-22-147-9ca148.jpg",
+   "source": "commons",
+   "title": "File:Bangkok National Museum - 2017-04-22 (147).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bangkok_National_Museum_-_2017-04-22_%28147%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58279788",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — Phutthai Sawan Hall, Front Palace, Bangkok National Museum, Bangkok, Thailand.",
+   "sha256": "dd3ee7ee39b0918a622c210de69745a0ecc28ed7e53e27d57a7ba900150b8fb5",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-nak/phaya-nak-emerald-buddha-temple-2017-06-11-083-70319e.jpg",
+   "source": "commons",
+   "title": "File:Emerald Buddha Temple - 2017-06-11 (083).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Emerald_Buddha_Temple_-_2017-06-11_%28083%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=59892966",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — * Overview: Painting at the Temple of the Emerald Buddha, Bangkok, depicting characters or scenes from Rammakian, a Thai",
+   "sha256": "1b9eccdbb57c5d8cdb69c2eabfc17daa30083e901257f69bf11dcd8553dd6be5",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-nak/phaya-nak-emerald-buddha-temple-2017-06-11-086-a63c59.jpg",
+   "source": "commons",
+   "title": "File:Emerald Buddha Temple - 2017-06-11 (086).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Emerald_Buddha_Temple_-_2017-06-11_%28086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=59892969",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — * Overview: Painting at the Temple of the Emerald Buddha, Bangkok, depicting characters or scenes from Rammakian, a Thai",
+   "sha256": "3f57a51388f1743072bc4235b23a766d0bfc2af7aa00ab9cbb582ee8a96ad108",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phaya-nak/phaya-nak-laonaga-8d36fd.jpg",
+   "source": "commons",
+   "title": "File:Laonaga.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Laonaga.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12647553",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Adam Carr",
+   "credit": "Own work, transferred from [1]",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — A en:Phaya Naga guarding the Temple of en:Wat Si Saket, Vientiane, Laos.",
+   "sha256": "05a7e039b1a581af4afbe7ceb2a5f10788fc8b54679d0f92b55c9eb8f5a48262",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "phaya-nak/phaya-nak-2-658125.jpg",
+   "source": "commons",
+   "title": "File:พญานาค (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%84_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=67190557",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Dheerajatt1974",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญานาค",
+   "alt_en": "Naga pendant — พญานาคคบเพลิง",
+   "sha256": "e130c9abe2e9b0dcf9b1f0d7f33504288309edf3e0354506e704e1c3d65c8857",
+   "width": 3264,
+   "height": 2448
+  }
+ ]
+}

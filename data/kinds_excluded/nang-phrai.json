@@ -1,0 +1,182 @@
+{
+ "schema": 1,
+ "id": "nang-phrai",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "นางพราย",
+  "roman": "nang phrai",
+  "en": "Nang Phrai (lady-ghost vessel)",
+  "aliases": {
+   "th": [
+    "แม่นางพราย",
+    "โหงพราย",
+    "พราย"
+   ],
+   "roman": [
+    "nang prai",
+    "mae nang phrai",
+    "hong prai"
+   ],
+   "en": [
+    "prai lady",
+    "ghost-woman figure"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "prai",
+  "functions": [
+   "maha_saneh",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหญิง — หล่อโลหะ ปั้นผง หรือรูปในล็อกเก็ต — มักมีช่องบรรจุมวลสารพรายด้านหลัง",
+  "shape_en": "A woman's figure: cast metal, moulded powder, or an image in a locket; usually with a sealed cavity at the back for prai material",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ หรือตั้งบูชา",
+  "wearable_en": "Worn cased at the neck, or set on a shrine",
+  "obverse_th": "รูปหญิงนั่งหรือยืน บางองค์อุ้มเด็ก",
+  "obverse_en": "A seated or standing woman; some carry a child",
+  "reverse_th": "ช่องบรรจุปิดผนึก หรือตะกรุดฝัง",
+  "reverse_en": "A sealed filling cavity or an embedded takrut",
+  "notes_en": "Holding-key materials are organic and metal; only the metal key exists in the vault, so the organic charge is recorded in the text, not the axis."
+ },
+ "iconography": [
+  {
+   "th": "รูปหญิงผมยาว",
+   "en": "a long-haired woman"
+  },
+  {
+   "th": "หญิงอุ้มทารก (แม่นางพราย)",
+   "en": "a woman holding an infant — the mother who died with child"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "พราย = ผีผู้หญิงตายทั้งกลม ตามวิกิพีเดียไทย; รูปเคารพเป็นของตลาดสมัยใหม่",
+  "era_en": "Phrai is the ghost of a woman who died with child (Thai Wikipedia); the housed figure as a retail kind is modern and undated here",
+  "place_th": "",
+  "place_en": "",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปหญิง ไม่ใช่เด็ก ไม่ใช่องค์พระ ไม่ใช่นางกวักที่ยกมือกวัก",
+   "en": "A woman's figure — not a child, not a Buddha, and not the raised beckoning hand of Nang Kwak",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ชื่อบอกหมวด: 'พราย' คือผีตายโหงหรือตายทั้งกลม",
+   "en": "The name places it: phrai is the ghost of violent or untimely death, classically a woman dead in childbirth",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มักมีช่องบรรจุด้านหลังหรือฐาน ผนึกด้วยรักหรือขี้ผึ้ง",
+   "en": "Usually a sealed cavity at the back or base, closed with lacquer or wax; the filling is the whole provenance question",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ถ้าเป็นล็อกเก็ต รูปในล็อกเก็ตเป็นหญิง ไม่ใช่พระเกจิ",
+   "en": "In locket form the image is a woman, not a monk's portrait",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักยกมือกวัก เป็นเทพที่บูชา · นางพรายเป็นผีในรูป ต้องเลี้ยงและผูก",
+   "tell_en": "Nang Kwak beckons with a raised hand and is venerated as a deva; a nang phrai is a ghost housed in a figure, fed and closed. Same sex, different class, different keeping."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นเด็กชาย · นางพรายเป็นหญิง บางองค์อุ้มเด็ก",
+   "tell_en": "A kuman is a boy; a nang phrai is a woman, sometimes holding the infant"
+  },
+  {
+   "id": "locket",
+   "tell_th": "ล็อกเก็ตทั่วไปใส่รูปพระเกจิ ไม่มีผู้อยู่ · ล็อกเก็ตนางพรายใส่รูปหญิงและมวลสารพราย",
+   "tell_en": "An ordinary locket carries a monk's portrait with nobody home; a nang phrai locket carries a woman's image and prai material. Form does not settle class; the making does."
+  }
+ ],
+ "market": {
+  "search": [
+   "นางพราย"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02 (searches for 'nang phrai' return nothing). Needed: a cast figure front and back showing the sealed cavity, and a locket form."
+ },
+ "images": [],
+ "text": {
+  "what_th": "ผีหญิงตายก่อนวัยที่ถูกสถิตไว้ในรูปหรือล็อกเก็ต — แม่นางพรายในเรื่องเตือนใจทั้งหลาย การเลี้ยงเป็นงานของผู้รู้ ตามคำศัพท์หมวด: ต้องเลี้ยง และต้องปิดให้ถูก",
+  "what_en": "A female ghost of untimely death housed in a figure or locket — the classic แม่นางพราย of the caution-tales. Keeping is a knower's work in the vocabulary's plain words: feeding, and correct closing.",
+  "story_th": "พราย ในความหมายเดิมคือผีผู้หญิงตายทั้งกลม (วิกิพีเดียไทย) หมวดคำศัพท์ของคลังตั้งนางพรายไว้ในชั้นพรายพร้อมน้ำมันพรายและลูกกรอก — ชั้นที่ทรงพลังและอันตรายที่สุด หิว บังคับใจ ตำรา ๖๙๘๓ ไม่มีบทสร้างนางพรายโดยตรง แต่มีดหมอในตำราชุบน้ำมันพรายจากผู้ตายทั้งกลม จมน้ำ และผูกคอ ซึ่งบอกว่าพรายคือวัตถุดิบของวิชานี้มานาน",
+  "story_en": "Phrai in its old sense is the ghost of a woman who died with child, Thai Wikipedia says; the vault's class vocabulary sets nang phrai in the prai tier beside prai oil and luk krok — the most powerful and most hazardous tier, hungry and coercive. Manuscript 6983 has no nang phrai recipe of its own, but its ritual-knife treatise quenches the blade in prai oil rendered from those who died in childbirth, by drowning and by hanging, which shows the phrai as raw material of the craft long before the retail figure. The housed figure sold today is described by the trade, not by a text this record can name.",
+  "keeping_th": "ต้องเลี้ยงและต้องปิด: เซ่น และผูกให้ถูกเมื่อเลิกใช้ ประเพณีเตือนหนักที่สุดไม่ให้รับมาโดยไม่รู้ประวัติเต็ม",
+  "keeping_en": "Feeding and closing. Offerings while it is kept, and a correct closing when it is set down. The class the tradition cautions hardest against acquiring without full history — and the one this catalogue describes without offering."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-nam-man-phrai",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "knife quench: s:ms6983 มีดหมอ treatise, bilingual.md ~line 3091 (printed p. 79), via s:amulet-reference card; phrai definition: s:th-wiki-nam-man-phrai"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

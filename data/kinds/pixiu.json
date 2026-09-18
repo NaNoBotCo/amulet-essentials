@@ -1,0 +1,628 @@
+{
+ "schema": 1,
+ "id": "pixiu",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ปี่เซียะ",
+  "roman": "pixiu",
+  "en": "Pixiu (wealth beast) pendant",
+  "aliases": {
+   "th": [
+    "ปี่เซี๊ยะ",
+    "ปี่เซี้ย",
+    "ผีซิว",
+    "เผ่ย์เย้า",
+    "เทียนลู่",
+    "เทียงลก"
+   ],
+   "roman": [
+    "pi xiu",
+    "pei yao",
+    "tianlu",
+    "bixie",
+    "tỳ hưu"
+   ],
+   "en": [
+    "pi yao",
+    "wealth beast",
+    "heavenly deer"
+   ]
+  },
+  "other_scripts": {
+   "zh": "貔貅 · 天祿 · 辟邪",
+   "vi": "tỳ hưu"
+  }
+ },
+ "region": [
+  "diaspora",
+  "th",
+  "vn"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "chok_lap",
+   "kha_khai",
+   "khum_khrong"
+  ],
+  "materials": [
+   "thonglueang",
+   "thongdaeng"
+  ],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "สัตว์ในตำนานหัวมังกร ตัวสิงโต มีปีก เขาหนึ่งหรือสอง ท่าหมอบ ทำเป็นจี้ กำไล แหวน หรือรูปตั้งคู่",
+  "shape_en": "A crouching mythical beast with a dragon's head, a lion's body, wings, and one or two horns; made as a pendant, a bracelet bead, a ring, or a pair of desk and doorway figures",
+  "size_mm": null,
+  "wearable_th": "จี้ห้อยคอ ลูกปัดกำไล แหวน หรือตั้งบูชาเป็นคู่หันหน้าออกประตู",
+  "wearable_en": "Worn as a pendant, bracelet bead or ring, or set as a pair facing the door; the trade says one per wrist so they do not fight",
+  "obverse_th": "หัวมังกร อ้าปาก มักคาบเหรียญหรือเหยียบก้อนทอง",
+  "obverse_en": "Dragon head with open mouth, often biting a coin or standing on an ingot",
+  "reverse_th": "ก้นไม่มีรู — ตามคติ กินทองแล้วไม่ถ่าย",
+  "reverse_en": "No anus, by belief: it eats gold and cannot pass it",
+  "notes_en": "Jade, glass, obsidian, wood and ceramic dominate retail and have no vault key; brass and copper are the metal forms and are named on the axis."
+ },
+ "iconography": [
+  {
+   "th": "หัวมังกร ตัวสิงโต ปีก",
+   "en": "Dragon head, lion body, wings"
+  },
+  {
+   "th": "เขาเดียว = เทียนลู่ (ทรัพย์) เขาคู่ = ปี้เสีย (ไล่ร้าย)",
+   "en": "One horn tianlu for wealth, two horns bixie to ward off evil"
+  },
+  {
+   "th": "คาบเหรียญ เหยียบก้อนทอง",
+   "en": "Coin in the mouth, ingot underfoot"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "โรงงานหยกและโลหะ ร้านฮวงจุ้ย บางชิ้นผ่านพิธีเบิกเนตรที่ศาลเจ้า",
+  "maker_en": "Jade and metal workshops and feng shui shops; some pieces are put through an eye-opening rite at a shrine, which the trade holds",
+  "era_th": "ปรากฏในคัมภีร์จีนโบราณ (ซั่งซู สื่อจี้) เป็นสัตว์รบ รูปหินเฝ้าสุสานสมัยฮั่น การใส่เป็นจี้เป็นเรื่องสมัยใหม่",
+  "era_en": "Named in the Shangshu and the Shiji as a beast of war; Han-era stone tomb guardians survive; the pendant is modern",
+  "place_th": "จีน แพร่ในไทย เวียดนาม และชุมชนจีนโพ้นทะเล",
+  "place_en": "China; Thailand, Vietnam and the overseas Chinese trade",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "หัวมังกร ตัวสิงโต มีปีก — นับเขา: หนึ่ง (เทียนลู่) หรือสอง (ปี้เสีย)",
+   "en": "Dragon head on a lion body with wings; count the horns, one for tianlu, two for bixie. English Wikipedia says modern pieces are mostly one-horned, Chinese Wikipedia says two-horned now predominates: the two articles disagree, so look rather than assume",
+   "source": "s:en-wiki-pixiu",
+   "tier": "cited"
+  },
+  {
+   "th": "ไม่มีรูทวาร ตามคติกินทองแล้วไม่ถ่าย",
+   "en": "No anus by belief, so wealth enters and never leaves; the folk logic behind the whole class",
+   "source": "s:zh-wiki-pixiu",
+   "tier": "cited"
+  },
+  {
+   "th": "วัสดุ: หยก แก้ว ไม้ เซรามิก ทองแดง ผ้า เลือกตามธาตุประจำตัว",
+   "en": "Jade, glass, wood, ceramic, copper and cloth; the trade matches material to the owner's five-element chart",
+   "source": "s:zh-wiki-pixiu",
+   "tier": "cited"
+  },
+  {
+   "th": "ตั้งเป็นคู่ท่าหมอบ ใส่ข้อมือข้างละตัว",
+   "en": "Set as a crouching pair, or worn one per wrist; a single figure facing into the room is what the trade warns against",
+   "source": "s:th-wiki-pixiu",
+   "tier": "cited"
+  },
+  {
+   "th": "ชื่อไทยหลายแบบ ปี่เซียะ ผีซิว เผ่ย์เย้า เทียนลู่ — ค้นให้ครบ",
+   "en": "Thai spellings vary, ปี่เซียะ / ผีซิว / เผ่ย์เย้า / เทียนลู่; Lazada Thailand titles use ปี่เซียะ",
+   "source": "s:th-wiki-pixiu",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑเป็นนกครึ่งคน ปี่เซียะเป็นสัตว์สี่ขาหัวมังกร ทั้งคู่มีปีก",
+   "tell_en": "Garuda is a bird-man, upright, with a beak; the pixiu is a four-legged dragon-headed beast. Both have wings, which is where the confusion starts on a small pendant."
+  },
+  {
+   "id": "bat-quai",
+   "tell_th": "กระจกแปดทิศเป็นของแขวนหน้าบ้าน ไม่ใช่รูปสัตว์",
+   "tell_en": "The bagua mirror guards the same door but is a diagram, not a beast, and nobody feeds it."
+  }
+ ],
+ "market": {
+  "search": [
+   "ปี่เซียะ",
+   "ปี่เซี๊ยะ"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Pixiu"
+  ],
+  "commons_files": [
+   "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 001.jpg",
+   "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 003.jpg",
+   "File:Gfp-chinese-pixiu.jpg",
+   "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (1).jpg",
+   "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (2).jpg",
+   "File:Pixiu.jpg"
+  ],
+  "wanted_en": "A jade pendant pixiu on a cord, side view so the horn count and the sealed rear are visible; the Commons files are mostly statues."
+ },
+ "text": {
+  "what_th": "สัตว์ในตำนานจีน หัวมังกร ตัวสิงโต มีปีก เชื่อว่ากินทองแล้วไม่ถ่ายเพราะไม่มีรูทวาร จึงเป็นเครื่องรางเรียกทรัพย์และกันร้าย ทำเป็นจี้หยก กำไล แหวน และรูปตั้งคู่ ขายมากในตลาดไทย-จีน วิกิพีเดียไทยเรียก ปี่เซียะ ผีซิว เผ่ย์เย้า",
+  "what_en": "The Chinese wealth beast: dragon head, lion body, wings, and no anus, so gold goes in and never out. Worn as a jade pendant, bracelet or ring, or set as a pair at a shop door, it is one of the biggest sellers in Thai-Chinese retail under ปี่เซียะ. The vault's class vocabulary does not place it.",
+  "story_th": "คัมภีร์จีนโบราณเรียกเป็นสัตว์รบ ฮ่องเต้เหลืองฝึกใช้ในสงคราม สมัยฮั่นเป็นรูปหินเฝ้าสุสาน เขาเดียวชื่อเทียนลู่ เขาคู่ชื่อปี้เสีย นักพนันในมาเก๊าฮ่องกงบูชา ปัจจุบันขายเป็นจี้หยก 'ปลุกเสกแล้วจากฮ่องกง' และ 'ปี่เซียะเหยียบก้อนทอง เนื้อทองเหลือง' บนลาซาด้าไทย",
+  "story_en": "Classical texts list it among the fierce beasts the Yellow Emperor drove into battle; the Han carved it in stone to guard tombs. The one-horned form is tianlu, the two-horned bixie, and the two names still label the two jobs, wealth and warding. Gamblers in Macau and Hong Kong venerate it. Thai listings sell it as a colour-changing pendant 'blessed in Hong Kong', a brass figure standing on an ingot, a silver ring, and a bracelet 'for the birth day', which grafts the Thai weekday system onto a Chinese beast.",
+  "keeping_th": "หมวดหมู่ของคลังยังไม่วางไว้: ฮวงจุ้ยจีนถือเป็นเครื่องมือ ไม่มีผู้อยู่ แต่ร้านไทย-จีนให้เบิกเนตร บูชา และถวายน้ำ ต้องรอผู้รู้ชี้",
+  "keeping_en": "The vault leaves this unplaced, on purpose. In Chinese feng shui logic it is an instrument with nobody home; in Thai-Chinese retail it gets an eye-opening rite, is spoken of as บูชา, and some keepers offer it water and touch it daily. That is the veneration upkeep of a resident class wearing an impersonal object's form, and a knower must draw the line. Until then: treat an unknown one as impersonal, and a rite-opened one as owed regard."
+ },
+ "sources": [
+  "s:en-wiki-pixiu",
+  "s:zh-wiki-pixiu",
+  "s:th-wiki-pixiu",
+  "s:vi-wiki-ty-huu",
+  "s:catalog-db",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-pixiu"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "null: the class vocabulary does not place it; see keeping_en"
+   },
+   "axes.materials": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "brass named in a Lazada title; jade has no vault key"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:zh-wiki-pixiu"
+   },
+   "origin.maker_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "text.keeping_en": {
+    "tier": "inference",
+    "note": "vault refusal plus observed Thai-Chinese practice"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "13 titles on ปี่เซียะ as of 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "pixiu/pixiu-pixiu-monster-wat-hiranyawat-chiang-rai-c21164.jpg",
+   "source": "commons",
+   "title": "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pixiu_monster_-_Wat_Hiranyawat_-_Chiang_Rai_-_2017-01-02_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54689922",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — * A statue of the Chinese monster Pixiu at Wat Hiranyawat (วัดหิรัญญาวาส), a Buddhist temple I passed by during my aimle",
+   "sha256": "649a1c329033aa852c6ad663f176c11ca84221fc986ab65c56f2a54fe42c6bb4",
+   "width": 3024,
+   "height": 4032,
+   "primary": true
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-9c2f24.jpg",
+   "source": "commons",
+   "title": "File:Pixiu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Pixiu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=1151875",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "original uploader was en:User:Twejoel at en.wikipedia",
+   "credit": "Transferred from en.wikipedia; transfer was stated to be made by User:Neko-dachi",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Pixiu",
+   "sha256": "9c4ad4a340b82c10e92df172a92b49e3c90117638ada888c7de33e82faff465f",
+   "width": 260,
+   "height": 198
+  },
+  {
+   "file": "pixiu/pixiu-gfp-chinese-pixiu-69107c.jpg",
+   "source": "commons",
+   "title": "File:Gfp-chinese-pixiu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Gfp-chinese-pixiu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33633483",
+   "license": "Public Domain",
+   "license_url": "https://web.archive.org/web/20230926203737/https://creativecommons.org/licenses/publicdomain/",
+   "author": "Yinan Chen",
+   "credit": "www.goodfreephotos.com (gallery, image)",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — ; Pictures of other random objects\nPixiu, the 5th son of the dragon in Chinese mythology",
+   "sha256": "1f8dda299ca773dd29fd62e62d6cc272ff8fbc96f5174ea94c481c8fc65b2503",
+   "width": 3349,
+   "height": 2164
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-monster-wat-hiranyawat-chiang-rai-d161d4.jpg",
+   "source": "commons",
+   "title": "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 003.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Pixiu_monster_-_Wat_Hiranyawat_-_Chiang_Rai_-_2017-01-02_-_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54689924",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — * A statue of the Chinese monster Pixiu at Wat Hiranyawat (วัดหิรัญญาวาส), a Buddhist temple I passed by during my aimle",
+   "sha256": "68c527217ca1ae8712edd212af1daac58f03f2bc2f87a4767671ebf416239e5e",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-b19a00.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066658",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "feb15b84c19d28eebf60807976e2978c2ef60903b0acade427fa37a39661ad07",
+   "width": 2542,
+   "height": 2395
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-85a5ff.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066689",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "e36740452bf2f8df12d869c05995934933be475a2164064df2145024d3942f12",
+   "width": 3051,
+   "height": 3279
+  },
+  {
+   "file": "pixiu/pixiu-bixie-d6fb63.jpg",
+   "source": "commons",
+   "title": "File:Bixie.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bixie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=690757",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Mountain",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Bixie, a traditional Chinese monster, at Shanghai Museum",
+   "sha256": "b1d05855b5d8074640e4b42ae41a62eb424413b74c3d3bbbf7b20310a80591e5",
+   "width": 2048,
+   "height": 1536
+  },
+  {
+   "file": "pixiu/pixiu-linggu-gates-pixiu-2898-402877.jpg",
+   "source": "commons",
+   "title": "File:Linggu-Gates-Pixiu-2898.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Linggu-Gates-Pixiu-2898.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5071474",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "User:Vmenkov",
+   "credit": "Self-photographed",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — One of the two stone tiger (\"Shi Hu\" 一对石虎) statues near the entry to Entering Linggu Scenic Area. The plaque nearby desc",
+   "sha256": "91a3d68311aa8a3516a8d8096b6531a54baeaf1189de405573c05ce96167e434",
+   "width": 1536,
+   "height": 2048
+  },
+  {
+   "file": "pixiu/pixiu-wen-wu-temple-09-39da25.jpg",
+   "source": "commons",
+   "title": "File:Wen Wu Temple 09.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Wen_Wu_Temple_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=15107403",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Bernard Gagnon",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Sculpture of Pixiu, one of the nine dragons sons in Wen Wu Temple at Sun Moon Lake, Nantou county, Taiwan",
+   "sha256": "c9c48f180202c14830705d56ab570eb02cbb6e0bf1407b2366d2f1f9c59d2ef7",
+   "width": 1812,
+   "height": 1681
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-monster-wat-hiranyawat-chiang-rai-30c5ff.jpg",
+   "source": "commons",
+   "title": "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 002.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Pixiu_monster_-_Wat_Hiranyawat_-_Chiang_Rai_-_2017-01-02_-_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54689923",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — * A statue of the Chinese monster Pixiu at Wat Hiranyawat (วัดหิรัญญาวาส), a Buddhist temple I passed by during my aimle",
+   "sha256": "0ad57203c33348e99398126aa761ee0a504f450feced1e1827268da0a79d5188",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-monster-wat-hiranyawat-chiang-rai-2099b1.jpg",
+   "source": "commons",
+   "title": "File:Pixiu monster - Wat Hiranyawat - Chiang Rai - 2017-01-02 - 004.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Pixiu_monster_-_Wat_Hiranyawat_-_Chiang_Rai_-_2017-01-02_-_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54689925",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — * A statue of the Chinese monster Pixiu at Wat Hiranyawat (วัดหิรัญญาวาส), a Buddhist temple I passed by during my aimle",
+   "sha256": "ee075af3caa89d5bf45c749e386c9d51bf4b480463196c264ef5c0ce91a0202e",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "pixiu/pixiu-a-pixiu-at-xixin-chan-temple-389688.jpg",
+   "source": "commons",
+   "title": "File:A Pixiu at Xixin Chan Temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/A_Pixiu_at_Xixin_Chan_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56322138",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Huangdan2060",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — A Pixiu at Xixin Chan Temple.",
+   "sha256": "e15706642f0f04277e3e5e868fae416507a2da71642510419f158769e504127a",
+   "width": 3000,
+   "height": 4000
+  },
+  {
+   "file": "pixiu/pixiu-statue-of-pixiu-xixin-chan-temple-7d7650.jpg",
+   "source": "commons",
+   "title": "File:Statue of Pixiu, Xixin Chan Temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Statue_of_Pixiu%2C_Xixin_Chan_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56322945",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Huangdan2060",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — A statue of Pixiu at Xixin Chan Temple.",
+   "sha256": "f63eeb71dd82e58a58843477f30f10306798d0f48de765d3b244c824735f8db3",
+   "width": 4000,
+   "height": 3000
+  },
+  {
+   "file": "pixiu/pixiu-wen-wu-temple-panoramio-310e92.jpg",
+   "source": "commons",
+   "title": "File:文武廟 Wen-Wu Temple - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/%E6%96%87%E6%AD%A6%E5%BB%9F_Wen-Wu_Temple_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56911537",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "lienyuan lee",
+   "credit": "https://web.archive.org/web/20161102201624/http://www.panoramio.com/photo/100628804",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — 文武廟  Wen-Wu Temple",
+   "sha256": "3acabeef0a0753a87a04b80273d6aae749dec21a1bee5ed5a4d79aee7f4d2b2b",
+   "width": 5966,
+   "height": 3976
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-qianlong-4ec392.jpg",
+   "source": "commons",
+   "title": "File:Pixiu qianlong.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Pixiu_qianlong.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=75321007",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sol lc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — A pair of pixiu censors from Qianlong period.",
+   "sha256": "34f9d5dad647bce65c19e4b6f464438b561ebb8719154ce78f4e2d7634c96e2f",
+   "width": 800,
+   "height": 577
+  },
+  {
+   "file": "pixiu/pixiu-s-n-ph-m-t-i-c-a-h-ng-th-n-th-t-h-u-i-b-dd7c1c.jpg",
+   "source": "commons",
+   "title": "File:Sản phẩm tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/S%E1%BA%A3n_ph%E1%BA%A9m_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89849949",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Sản phẩm tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "91eefafe49354fba478ce457996ba4dd752bac3d69d81c8af8b3020d72d3fe02",
+   "width": 4160,
+   "height": 2975
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-7dc57a.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (8).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89852309",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "2b60fc4887cb9e76bd76526d9b3a085a58ad2c8087d69bcf61d0b37df74763fa",
+   "width": 3809,
+   "height": 3015
+  },
+  {
+   "file": "pixiu/pixiu-mahjong-masters-edd82f.jpg",
+   "source": "commons",
+   "title": "File:Mahjong Masters.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Mahjong_Masters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99437655",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "韋恩設計",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — ​Eleven Sports運動競技實境節目《麻將大師》第一季冠軍將可獲得貔貅紫水晶冠軍盃",
+   "sha256": "5f808bc3647a4a70fc8a17bf358f4326ab863c168f55a6d0a54ccdde639895a3",
+   "width": 2508,
+   "height": 1672
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-a447dd.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (7).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066551",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "dfa40dd742d5bf87dfd6e4d4eee3ea323f69eb52318727af1c953dde369b255a",
+   "width": 1767,
+   "height": 2910
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-0f395b.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (6).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066586",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "0a7c85b9d610e5eddee4507a1180532a6a55f73bb771ef3f7fff6a3bf59dffa5",
+   "width": 2300,
+   "height": 1909
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-b7639a.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (5).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066602",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "2206ff960c20960ca70ff1a2d97898dc4c5d3ab3647b705fd070d6c90080078d",
+   "width": 2378,
+   "height": 3218
+  },
+  {
+   "file": "pixiu/pixiu-t-h-u-i-loan-t-i-c-a-h-ng-th-n-th-t-h-u-06ab57.jpg",
+   "source": "commons",
+   "title": "File:Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017 (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/T%E1%BB%B3_h%C6%B0u_%C4%90%C3%A0i_Loan_t%E1%BA%A1i_C%E1%BB%ADa_h%C3%A0ng_Th%E1%BA%A7n_Th%C3%BA_T%E1%BB%B3_H%C6%B0u_%C4%90%C3%A0i_B%E1%BA%AFc-B%E1%BA%A3o_t%C3%A0ng_Phong_Th%E1%BB%A7y_Ng%C5%A9_H%C3%A0nh_T%E1%BB%B3_H%C6%B0u_n%C4%83m_2017_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104066632",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Phương Huy (thảo luận)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Tỳ hưu Đài Loan tại Cửa hàng Thần Thú Tỳ Hưu Đài Bắc-Bảo tàng Phong Thủy Ngũ Hành Tỳ Hưu năm 2017",
+   "sha256": "2c4911ce89df8f6ef596b5a32dbba604787ec40f622a638079cf79ecd0838f3a",
+   "width": 2537,
+   "height": 2937
+  },
+  {
+   "file": "pixiu/pixiu-lucky-chinatown-binondo-manila-14-b38479.jpg",
+   "source": "commons",
+   "title": "File:Lucky Chinatown Binondo Manila 14.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Lucky_Chinatown_Binondo_Manila_14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=126542428",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "SwarmCheng",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — Lucky Chinatown",
+   "sha256": "02ae22e48f4f47509079fa1c50fe66a3e9ebfa1ed4fbca0632465174102503a4",
+   "width": 4630,
+   "height": 3351
+  },
+  {
+   "file": "pixiu/pixiu-pixiu-gulou-nanjing-b0c0ee.jpg",
+   "source": "commons",
+   "title": "File:Pixiu (Gulou, Nanjing).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Pixiu_%28Gulou%2C_Nanjing%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=129100653",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Leiem",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ปี่เซียะ",
+   "alt_en": "Pixiu (wealth beast) pendant — ​貔貅的石像（南洋劝业会遗迹，南京市鼓楼区文物）。",
+   "sha256": "bb587dc68d6cf74e2be7911a947e2b764ad0426b15d6e499d5db825edfd33334",
+   "width": 4624,
+   "height": 3472
+  }
+ ]
+}

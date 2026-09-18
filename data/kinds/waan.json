@@ -1,0 +1,211 @@
+{
+ "schema": 1,
+ "id": "waan",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ว่าน",
+  "roman": "waan",
+  "en": "Waan (sacred tuber)",
+  "aliases": {
+   "th": [
+    "ว่านมงคล",
+    "ว่านยา",
+    "เนื้อว่าน"
+   ],
+   "roman": [
+    "wan",
+    "wahn",
+    "nuea waan"
+   ],
+   "en": [
+    "power plant",
+    "sacred herb",
+    "magical tuber"
+   ]
+  }
+ },
+ "region": [
+  "th",
+  "th-north"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "metta_maha_niyom",
+   "maha_saneh",
+   "chok_lap"
+  ],
+  "materials": [
+   "nuea_waan"
+  ],
+  "figures": [
+   "natural",
+   "pot"
+  ]
+ },
+ "form": {
+  "type": "plant",
+  "shape_th": "หัวว่านหรือเหง้า — ปลูกในกระถาง ตากแห้งทั้งหัว แกะเป็นรูป หรือบดเป็นผงใส่ของอื่น",
+  "shape_en": "A rhizome or tuber: potted and growing, dried whole, carved into a figure, or ground to powder for the filling of other charms",
+  "size_mm": null,
+  "wearable_th": "ห้อยได้เมื่อแห้งหรือแกะแล้ว ต้นสดตั้งไว้ที่บ้าน",
+  "wearable_en": "Worn only once dried or carved; the living plant stays home in its pot",
+  "notes_en": "The one kind in this register that may still be alive. A carved ว่านนางกวัก is a Nang Kwak by form and waan by material; the material is what this record describes."
+ },
+ "iconography": [
+  {
+   "th": "หัวว่านทั้งหัว ไม่มีรูป",
+   "en": "the whole tuber, unfigured"
+  },
+  {
+   "th": "แกะเป็นนางกวักหรือรูปอื่นเมื่อตำราสั่ง",
+   "en": "carved into Nang Kwak or another figure when a treatise calls for it"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "ตำราไม่ระบุปี ใช้ว่านเป็นของประกอบตลอดเล่ม",
+  "era_en": "Undated; the treatise assumes ว่าน as a stock ingredient throughout",
+  "place_th": "ทั่วไป โดยเฉพาะภาคเหนือ",
+  "place_en": "Thailand generally; the material axis notes northern practice is particularly rich",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นพืช — หัว เหง้า หรือต้นสด ไม่ใช่ผงอัดพิมพ์",
+   "en": "It is a plant part: a tuber, rhizome or living stem, never a pressed tablet",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เนื้อว่านแก่ด้วยการแห้งและหด ไม่ใช่สนิมหรือคราบ",
+   "en": "Ages by drying and shrinking, not by patina or crust — the material axis's dating signal for เนื้อว่าน",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราเรียกว่านตามหน้าที่: ว่านนางกวักแกะเป็นนางกวัก ว่านเพชรน้อย ว่านเพชรใหญ่ ว่านเพชรสังฆาต บดทำหนุมานและลูกอม",
+   "en": "The treatise names species by job: ว่านนางกวัก carved into Nang Kwak; ว่านเพชรน้อย, ว่านเพชรใหญ่ and ว่านเพชรสังฆาต ground into Hanuman figures and invulnerability pellets",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ชื่อว่านบอกงาน — ว่านดอกทอง ว่านนางกวัก — และในตลาดคำว่า ว่าน ชนกับ กว่าน",
+   "en": "The species name states the job (ว่านดอกทอง for attraction, ว่านนางกวัก for trade); in listings the bare term collides with กว่าน 'than', which the search excludes",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ต้นสดในกระถางกับหัวแห้งเป็นของชนิดเดียวกันคนละช่วงชีวิต ตลาดขายทั้งสอง",
+   "en": "A potted living plant and a dried tuber are the same kind at two moments; the trade sells both",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "si-phueng",
+   "tell_th": "ว่านเป็นพืช · สีผึ้งเป็นขี้ผึ้งหุงในตลับที่อาจใส่ว่าน",
+   "tell_en": "Waan is a plant; charm wax is a cooked salve in a tin that may contain waan as an ingredient. One is alive, one is finished."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนหินที่พบ · ว่านงอกได้",
+   "tell_en": "Both are natural class; a khot is a stone-hard nodule found and kept as is, a waan grows and can be planted."
+  }
+ ],
+ "market": {
+  "search": [
+   "ว่าน"
+  ],
+  "excludes": [
+   "กว่าน"
+  ],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:ว่านมหาลาภ.jpg"
+  ],
+  "wanted_en": "No free Commons file found on 2026-09-02 for ว่าน as a charm (Commons searches return botanical species pages only). Wanted: a potted ว่านนางกวัก or ว่านดอกทอง beside a dried tuber, and one carved piece."
+ },
+ "images": [
+  {
+   "file": "waan/waan-jpg-dc92ca.jpg",
+   "source": "commons",
+   "title": "File:ว่านมหาลาภ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%A0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=196501927",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "เจษฎา33304",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ว่าน",
+   "alt_en": "Waan (sacred tuber) — ว่านมหาลาภนิยมปลูกเป็นไม้มงคลเพื่อเรียกทรัพย์",
+   "sha256": "7d7cfa7dd092724ef0055f0165927313eae9e5d51dacfe495a1460fb7b78c0ee",
+   "width": 3120,
+   "height": 4160,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "ว่านคือพืชมีฤทธิ์ — หัวหรือเหง้าที่ปลูก ตากแห้ง แกะ หรือใส่กระถาง คุณอยู่ที่ชนิดและการเลี้ยง เป็นชนิดเดียวในหน้านี้ที่ยังมีชีวิตได้ บางคนรดน้ำให้",
+  "what_en": "A plant of power — a rhizome or tuber grown, dried, carved or potted, its virtue in the species and the keeping. The one kind on this page that can still be alive; some keepers water theirs.",
+  "story_th": "ตำราไม่มีสูตรว่านของตัวเอง เพราะว่านอยู่ในสูตรของคนอื่นทั้งเล่ม ให้แกะว่านนางกวักเป็นนางกวักใส่ถุงเงิน บดว่านเพชรน้อย ว่านเพชรใหญ่ ว่านเพชรสังฆาต กับแม่เหล็กและหินแลงปั้นลูกอมคงกระพัน หรือผสมใบไม้เผาปั้นหนุมาน คาถาปลุกเสือเรียก หัวว่านเปราะ ไพล ตะไคร้ ตามชื่อ ในตลาดขายทั้งต้นในกระถางและเป็นมวลสารในสีผึ้ง น้ำมัน และล็อกเก็ตกุมาร",
+  "story_en": "The treatise never gives waan a recipe of its own because it is in everyone else's: ว่านนางกวัก is carved into a Nang Kwak and put in a money bag; ว่านเพชรน้อย, ว่านเพชรใหญ่ and ว่านเพชรสังฆาต are ground with lodestone and laterite into an invulnerability pellet, or with burnt sacred leaves into a Hanuman; the tiger-waking katha calls on the tubers proh, phlai and lemongrass by name. The market sells it two ways — a living plant in a pot, and a named ingredient inside love-wax, oils and kuman lockets. Some keepers water theirs.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเซ่น แต่ต้นสดต้องรดน้ำ",
+  "keeping_en": "Nobody home, nothing owed in the spirit sense; a living one needs water and light like any plant, which is the closest this class comes to upkeep. Safe to adopt with unknown history."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 2422, 2634, 2775, 2846, 3994; market forms: s:amulet-reference"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:amulet-reference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

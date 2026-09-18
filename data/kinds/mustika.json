@@ -1,0 +1,216 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "mustika",
+ "names": {
+  "th": "หินมุสติกา",
+  "roman": "mustika",
+  "en": "Batu mustika (stones and 'pearls' of inherent power)",
+  "aliases": {
+   "th": [
+    "มุสติกา",
+    "หินเบซัวร์มลายู",
+    "เกอลิกา"
+   ],
+   "roman": [
+    "batu mustika",
+    "mustika pearl",
+    "geliga",
+    "guliga",
+    "batu bertuah"
+   ],
+   "en": [
+    "bezoar",
+    "tuah stone",
+    "mustika pearl"
+   ]
+  },
+  "other_scripts": {
+   "ms": "موستيكا · batu mustika / geliga",
+   "id": "batu mustika",
+   "jv": "watu mustika"
+  }
+ },
+ "region": [
+  "id",
+  "my"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "khum_khrong",
+   "chok_lap"
+  ],
+  "materials": [],
+  "figures": [
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "ก้อนหินหรือเม็ดกลม: หินธรรมชาติ ผลึก หินเบซัวร์จากท้องสัตว์ (เม่น งู ลิง) “ไข่มุก” จากหอย มะพร้าว หรือพืช มักเลี่ยมแหวน",
+  "shape_en": "A stone or rounded nodule: a mineral pebble or crystal, a bezoar concretion from an animal's gut (porcupine, snake, monkey are the trade's favourites), or a 'pearl' claimed from a shellfish, a coconut or a plant. Often set in a ring or a silver holder.",
+  "size_mm": null,
+  "wearable_th": "แหวน จี้ หรือเก็บในกล่องกับน้ำมัน",
+  "wearable_en": "A ring, a pendant, or boxed with oil.",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Sanskrit muktikā, 'pearl', is the root; in Malay-Javanese use the word widened to any small natural object found, not made, and held to carry tuah. Bezoar-type mustika overlap the geliga / guliga that Malay and Borneo trade exported to Europe as antidotes."
+ },
+ "iconography": [],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ไม่มีผู้สร้าง — “พบ” หรือ “ถูกดึงมา” (tarikan gaib) โดยดุกุน",
+  "maker_en": "Not made: found, cut from an animal, or 'drawn' (tarikan gaib) by a dukun — the finding story is the object's credential",
+  "era_th": "การค้าเบซัวร์เอเชีย–ยุโรปราว พ.ศ. ๒๐๔๓–๒๒๔๓",
+  "era_en": "The Asia–Europe bezoar trade of c. 1500–1700 valued Southeast Asian porcupine stones especially (en.wikipedia); the mustika cult on the modern Indonesian market is undated",
+  "place_th": "ชวา สุมาตรา บอร์เนียว คาบสมุทร",
+  "place_en": "Java, Sumatra, Borneo, the peninsula",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เบซัวร์แท้เป็นก้อนที่จับตัวในทางเดินอาหารสัตว์ ผ่าดูเป็นชั้นซ้อนรอบแกน",
+   "en": "A true bezoar is a gut concretion; cut or chipped it shows concentric layers round a nucleus",
+   "source": "s:en-wiki-bezoar",
+   "tier": "cited"
+  },
+  {
+   "th": "ของปลอมมีมาแต่โบราณ — ตลาดยุโรปศตวรรษที่ ๑๖–๑๗ ทดสอบด้วยพิษบนเข็ม",
+   "en": "Counterfeits are as old as the trade: 16th–17th-century buyers tested stones with poisoned needles and animals. The category's whole history is a fraud history",
+   "source": "s:en-wiki-bezoar",
+   "tier": "cited"
+  },
+  {
+   "th": "หินแร่ที่ขายเป็นมุสติกาคือหินอาเกต ควอตซ์ ธรรมดา — ชื่อ “มุสติกา” บอกเรื่องเล่า ไม่บอกชนิดหิน",
+   "en": "Mineral mustika are ordinary agate, quartz or pebble; the word names the story attached, not the stone. Ask the mineral question separately",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "“ไข่มุกมุสติกา” ในตลาดมักเป็นเม็ดกลมเรียบ ผู้ขายอ้างที่มา (มะพร้าว งู หอย) ที่ตรวจไม่ได้จากวัตถุ",
+   "en": "Market 'mustika pearls' are smooth rounded nodules whose claimed source — coconut, snake, shell — cannot be read off the object",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "lek-lai",
+   "tell_th": "เหล็กไหลเป็นโลหะดำมันที่ถือว่ามีชีวิต · มุสติกาเป็นหิน ก้อน หรือเม็ดจากสัตว์ ทั้งคู่พลังในตัว ไม่ต้องเลี้ยง",
+   "tell_en": "Lek lai is a dark lustrous metal held to be alive; a mustika is a stone, nodule or animal concretion. Same class — power inherent in the thing — and the same buyer's caution."
+  },
+  {
+   "id": "dat-lone",
+   "tell_th": "ดัตโลนพม่าเป็นลูกโลหะที่หมอ weikza หล่อและเสก · มุสติกา “พบ” ไม่ได้สร้าง",
+   "tell_en": "A Burmese dat-lone is a metal ball a weikza practitioner casts and charges; a mustika is found, never made. Made-versus-found is the line."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งในกะลามะพร้าว — มุสติกาชนิดหนึ่งในความคิดมลายู",
+   "tell_en": "A Thai khot kala is the hard concretion found in a coconut; in Malay terms it is one kind of mustika. Same logic, different name."
+  },
+  {
+   "id": "luk-om",
+   "tell_th": "ลูกอมเป็นเม็ดที่พระทำจากผงหรือว่าน · มุสติกาไม่มีผู้ทำ",
+   "tell_en": "A luk om is a bead a monk makes from powder or herb; a mustika has no maker."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:ACM-Bezoar stone and holder; Box-03567.jpg",
+   "File:India 17th C - bezoar stone in silver holder IMG 9507 Museum of Asian Civilisation.jpg"
+  ],
+  "wanted_en": "No file on Commons is labelled mustika as of 2026-09-02 ('mustika' hits are personal and place names). Listed: two museum bezoars in the Asian Civilisations Museum, Singapore — the guliga side of the category, not market mustika. Needed: a porcupine bezoar whole and cut, a mineral mustika in its ring, and a 'mustika pearl' with its box."
+ },
+ "images": [
+  {
+   "file": "mustika/mustika-acm-bezoar-stone-and-holder-box-03567-d588ab.jpg",
+   "source": "commons",
+   "title": "File:ACM-Bezoar stone and holder; Box-03567.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/ACM-Bezoar_stone_and_holder%3B_Box-03567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=141695901",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "",
+   "credit": "Wuselig",
+   "view": "other",
+   "alt_th": "หินมุสติกา",
+   "alt_en": "Batu mustika (stones and 'pearls' of inherent power) — Bezoar stone Goa stone? and holder; Box",
+   "sha256": "12abde9f172ecc417efad5bfd467ef111b2a2fabac1509c53684cacc6e54c9fa",
+   "width": 5464,
+   "height": 3643,
+   "primary": true
+  },
+  {
+   "file": "mustika/mustika-india-17th-c-bezoar-stone-in-silver-hold-dbf66e.jpg",
+   "source": "commons",
+   "title": "File:India 17th C - bezoar stone in silver holder IMG 9507 Museum of Asian Civilisation.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/India_17th_C_-_bezoar_stone_in_silver_holder_IMG_9507_Museum_of_Asian_Civilisation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=93474788",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bjoertvedt",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หินมุสติกา",
+   "alt_en": "Batu mustika (stones and 'pearls' of inherent power) — Bezoar stone with a silver hodler, from 17th century India. Exhibit in the Asian Civilisations Musuem, Singapore.",
+   "sha256": "792c4dafef115fd6181962a681b1740c35e0e806e3226714ae48fe9410ff584b",
+   "width": 2627,
+   "height": 3244
+  }
+ ],
+ "text": {
+  "what_th": "หินหรือเม็ดธรรมชาติที่โลกมลายู-ชวาถือว่ามีทัวะห์ในตัว — หินแร่ หินเบซัวร์จากท้องสัตว์ (geliga) หรือ “ไข่มุก” จากพืชและสัตว์ — พบ ไม่ได้สร้าง มักเลี่ยมแหวน ตลาดอินโดนีเซียเติมความเชื่อเรื่อง khodam (ผู้อยู่) เข้าไป ซึ่งหมวดของ vault ไม่รองรับ",
+  "what_en": "A natural stone or nodule the Malay-Javanese world holds to carry its own tuah — a mineral, a bezoar cut from an animal (geliga), or a 'pearl' claimed from a plant or creature. Found, not made; usually ring-set. The Indonesian market adds a khodam, a resident spirit, which the vault's natural-talisman class does not carry — noted, not adopted.",
+  "story_th": "เบซัวร์ (ภาษาเปอร์เซีย pād-zahr “แก้พิษ”) เคยเป็นสินค้าส่งออกจากภูมิภาคนี้ไปยุโรประหว่างราว ค.ศ. ๑๕๐๐–๑๗๐๐ โดยเชื่อว่าแก้พิษได้ทุกชนิด ก้อนจากเม่นในเอเชียตะวันออกเฉียงใต้มีค่าที่สุด และของปลอมก็ตามมาจนต้องทดสอบด้วยพิษ ในตลาดอินโดนีเซียปัจจุบันคำว่า mustika ขยายไปครอบหินทุกชนิดที่มีเรื่องเล่าว่าได้มาจากงู จากป่า จากฝัน หรือถูก “ดึง” มาโดยดุกุน",
+  "story_en": "The bezoar — Persian pād-zahr, 'antidote' — went out of this region to Europe between about 1500 and 1700 as a universal poison cure, Southeast Asian porcupine stones the most prized, and counterfeits followed until buyers tested them with poisoned needles. On the modern Indonesian market the word mustika has widened to any stone with a story: taken from a snake, found in the forest, seen in a dream, or 'drawn' from the unseen by a dukun. The story is what is sold; the stone is what you get.",
+  "keeping_th": "หมวด khong_thammachat: พลังในตัว ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ประวัติไม่รู้ก็ไม่เป็นอันตราย ผู้ค้าบางรายให้เช็ดน้ำมันหรือจุดกำยาน — ธรรมเนียมร้าน ไม่ใช่หน้าที่ ถ้าผู้ขายอ้างว่ามี khodam ให้ถือว่านั่นคือคำอ้างที่ต้องถาม",
+  "keeping_en": "Filed as khong_thammachat: power inherent, nobody home, nothing owed, and an unknown history is a value question rather than a safety one. Some sellers prescribe oiling or incense — shop custom, not upkeep. A seller who says the stone carries a khodam has moved it out of this class by his own claim; that claim is the thing to ask about."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-bezoar",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-bezoar",
+    "note": "bezoar trade, etymology and fraud; the modern mustika market is tradition"
+   },
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "khong_thammachat by definition (lek-lai, khot-kala are its members); the khodam overlay is flagged in text"
+   },
+   "media": {
+    "tier": "catalogue",
+    "note": "licences checked 2026-09-02: CC0 and CC BY-SA 4.0"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai gloss"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

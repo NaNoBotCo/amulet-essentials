@@ -1,0 +1,486 @@
+{
+ "schema": 1,
+ "id": "tua-pek-kong",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ตั่วแปะกง",
+  "roman": "Tua Pek Kong",
+  "en": "Tua Pek Kong medallion",
+  "aliases": {
+   "th": [
+    "ต่าวเป๊กกง",
+    "ต้าป๋อกง",
+    "ฮกเต็กเจี่ยสิ้ง",
+    "ปึงเถ่ากง (ญาติใกล้)"
+   ],
+   "roman": [
+    "Dabogong",
+    "Toa Pek Kong",
+    "Topekong",
+    "Tepekong",
+    "Fude Zhengshen",
+    "Ông Bổn"
+   ],
+   "en": [
+    "Grand Uncle",
+    "God of Prosperity",
+    "Southeast Asian earth god"
+   ]
+  },
+  "other_scripts": {
+   "zh": "大伯公 · 福德正神",
+   "vi": "Ông Bổn · Bổn Đầu Công",
+   "ms": "Tokong Tua Pek Kong"
+  }
+ },
+ "region": [
+  "my",
+  "sg",
+  "th",
+  "id",
+  "vn",
+  "diaspora"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "kha_khai",
+   "chok_lap",
+   "khum_khrong"
+  ],
+  "materials": [],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "medallion",
+  "shape_th": "เหรียญหรือจี้รูปชายชรานั่ง หนวดเครายาวขาว มือหนึ่งถือไม้เท้าหรือลูบเครา อีกมือถือก้อนทอง; รูปหล่อตั้งโต๊ะก็มี",
+  "shape_en": "A medallion or pendant of a seated old man with a long white beard, one hand on a staff or stroking the beard, the other holding a gold ingot or ruyi; small altar figures are the other common form",
+  "size_mm": null,
+  "wearable_th": "เหรียญห้อยคอ หรือรูปตั้งบูชาที่ร้านและบ้าน",
+  "wearable_en": "Worn as a medallion, or kept as a figure on the shop or house altar",
+  "obverse_th": "รูปตั่วแปะกงนั่ง มักมีอักษร 大伯公 หรือ 福德正神",
+  "obverse_en": "Seated Tua Pek Kong, usually with the characters 大伯公 or 福德正神",
+  "reverse_th": "ชื่อศาลเจ้าและปีที่ออก หรือยันต์",
+  "reverse_en": "Issuing temple and year, or a talisman",
+  "notes_en": "The medallion form follows the pattern of Thai temple medals; specific issues are not documented in the cited sources and are recorded here as tradition."
+ },
+ "iconography": [
+  {
+   "th": "ชายชรา เครายาวขาว หน้ายิ้ม",
+   "en": "Old man with a long white beard and a smiling face"
+  },
+  {
+   "th": "ไม้เท้า ก้อนทอง หรือหรูอี้",
+   "en": "Staff, gold ingot or ruyi sceptre"
+  },
+  {
+   "th": "หมวกและเสื้อคลุมขุนนาง",
+   "en": "Official's hat and robe"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ศาลเจ้าตั่วแปะกงในปีนัง สิงคโปร์ มาเลเซีย อินโดนีเซีย และศาลเจ้าปึงเถ่ากงในไทย",
+  "maker_en": "Tua Pek Kong temples in Penang, Singapore, Malaysia and Indonesia; in Thailand the related Pun Thao Kong shrines",
+  "era_th": "ศาลเจ้าตันจงโตกง ปีนัง มีมาก่อน พ.ศ. ๒๓๓๕",
+  "era_en": "The Tanjung Tokong temple in Penang was established by 1792, the oldest site",
+  "place_th": "ปีนัง แล้วแพร่ทั่วมาเลเซีย สิงคโปร์ อินโดนีเซีย บางส่วนของไทย",
+  "place_en": "Penang, then West and East Malaysia, Singapore, Indonesia and parts of Thailand",
+  "first_attested": "Tanjung Tokong, Penang, temple by 1792 (en.wikipedia, Tua Pek Kong)"
+ },
+ "diagnostics": [
+  {
+   "th": "ชายชราเครายาวขาวนั่ง ถือไม้เท้าและก้อนทอง — แบบเดียวกับตี่จู้เอี๊ยะ",
+   "en": "Seated old man with a long white beard, staff and ingot; the iconography is the earth god Tudigong's, which is why the two are conflated",
+   "source": "s:en-wiki-tudigong",
+   "tier": "cited"
+  },
+  {
+   "th": "ชื่อและอักษร: 大伯公 หรือ 福德正神 บนเหรียญ; ในไทยศาลเจ้าใช้ 本頭公 ปึงเถ่ากง ซึ่งเป็นคนละชื่อ",
+   "en": "Read the characters: 大伯公 or 福德正神 marks Tua Pek Kong; Thai shrines mostly carry 本頭公 (ปึงเถ่ากง), a related but distinct name Thai Wikipedia treats separately",
+   "source": "s:th-wiki-pun-thao-kong",
+   "tier": "cited"
+  },
+  {
+   "th": "ตัวตน: บ้างว่าเป็นจางลี่ ชาวฮากกาที่มาปีนังก่อนฟรานซิส ไลต์ บ้างว่าเป็นฮกในฮกลกซิ่ว",
+   "en": "Identity is contested: a Hakka settler Zhang Li who reached Penang before Francis Light, or Fu of the Fu Lu Shou triad, or a Fujian sailor; a medallion's inscription may pick one",
+   "source": "s:en-wiki-tua-pek-kong",
+   "tier": "cited"
+  },
+  {
+   "th": "ในเวียดนามเป็น Ông Bổn ที่หมิ่วหญิเฝ่อ เจอะเลิ้น รูปไม้สูง ๑.๕ ม. ฉลอง ๑๕ ค่ำเดือน ๘",
+   "en": "In Vietnam the same figure is Ông Bổn / Bổn Đầu Công at Miếu Nhị Phủ in Chợ Lớn: a 1.5 m wooden statue, festival on the 15th of the 8th lunar month",
+   "source": "s:vi-wiki-mieu-nhi-phu",
+   "tier": "cited"
+  },
+  {
+   "th": "วันเกิดตี่จู้เอี๊ยะ ๒ ค่ำเดือน ๒ — เหรียญรุ่นมักออกช่วงนี้",
+   "en": "Tudigong's birthday is the 2nd day of the 2nd lunar month; temple issues cluster on the festival, which the trade holds",
+   "source": "s:en-wiki-tudigong",
+   "tier": "cited"
+  },
+  {
+   "th": "ลาซาด้าไทยไม่มีชื่อนี้เลย ไม่ว่าสะกดแบบใด",
+   "en": "No Lazada Thailand title carries the name in any spelling as of 2026-09-02; the medallions move through temples and Penang and Singapore shops, not Thai online retail",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lersi",
+   "tell_th": "ฤๅษีเป็นนักบวชหนังเสือ ผมมวย ตั่วแปะกงเป็นขุนนางจีนใส่หมวก",
+   "tell_en": "Both are bearded old men. The lersi wears a tiger skin and a hair knot and is a hermit; Tua Pek Kong wears a Chinese official's hat and robe and holds an ingot."
+  },
+  {
+   "id": "chuchok",
+   "tell_th": "ชูชกเป็นพราหมณ์ขอทานถือไม้เท้า ผอม ตั่วแปะกงอ้วนยิ้ม ถือทอง",
+   "tell_en": "Chuchok is a gaunt beggar-brahmin with a staff and a begging bag; Tua Pek Kong is plump, smiling and holding gold. Same staff, opposite man."
+  },
+  {
+   "id": "phra-siwali",
+   "tell_th": "พระสีวลีเป็นพระภิกษุถือกลดและบาตร",
+   "tell_en": "Phra Siwali is a monk with an umbrella and bowl, no beard; Tua Pek Kong is a layman with a beard and a hat."
+  },
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญเกจิเป็นพระสงฆ์ไทยโกนหัว",
+   "tell_en": "A Thai monk medallion shows a shaven-headed bhikkhu; here the head has hair and a hat and the face a beard."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Tua Pek Kong"
+  ],
+  "commons_files": [
+   "File:Tekka Centre, Tua Pek Kong shrine.jpg",
+   "File:Tua Pek Kong Shrine in Singapore.jpg",
+   "File:Tanjong Tokong Tua Pek Kong Temple.jpg",
+   "File:Altaar van Thoa Peh Hong, god van de aarde, in een Chinese tempel te Ambon, KITLV 7560.tiff",
+   "File:Pun Tao Kong Shrine, Soi Sala Daeng 2, behind Silom Complex ศาลเจ้าปึงเถ่ากง ซอยศาลาแดง 2 (2026 Jul) - IMG 01.jpg",
+   "File:Pun Tao Kong shrine, Phasi Charoen 06.23.jpg"
+  ],
+  "wanted_en": "A medallion obverse and reverse from a Penang or Singapore temple issue, and one altar figure close enough to read the ingot and the characters; the Commons files are shrines, not the worn object. The two Bangkok files show the Thai Pun Thao Kong shrines, the related cult."
+ },
+ "text": {
+  "what_th": "เทพผู้คุ้มครองของชาวจีนโพ้นทะเลในปีนัง สิงคโปร์ มาเลเซีย อินโดนีเซีย และบางส่วนของไทย รูปชายชราเครายาวถือไม้เท้าและก้อนทอง ทำเป็นเหรียญห้อยคอและรูปตั้งบูชา ให้ค้าขายรุ่งเรืองและปลอดภัย เป็นเทพที่บูชาผ่านวัตถุ ไม่ใช่ผี ในไทยญาติใกล้คือปึงเถ่ากง",
+  "what_en": "The tutelary god of Southeast Asian Chinese communities, 'Grand Uncle': an old bearded man with staff and ingot, worn as a temple medallion or kept as an altar figure for trade and safety. A deva-tier resident venerated through the object, in the vault's sense, not a raised spirit. Thailand's Pun Thao Kong (本頭公) is the near relative.",
+  "story_th": "ศาลเจ้าเก่าสุดที่ตันจงโตกง ปีนัง มีก่อน พ.ศ. ๒๓๓๕ บ้างว่าท่านคือจางลี่ ชาวฮากกาที่มาถึงก่อนฟรานซิส ไลต์ บ้างว่าคือฮกในฮกลกซิ่ว หรือกะลาสีฮกเกี้ยนที่สละชีวิตช่วยเพื่อน ลัทธิผูกกับสมาคมพี่น้องร่วมสาบาน แพร่ไปซาราวัก (๗๖ ศาล) สิงคโปร์ บาตัม และเวียดนามในชื่อ Ông Bổn",
+  "story_en": "The oldest temple, at Tanjung Tokong in Penang, was there by 1792. Who he was is argued: Zhang Li, a Hakka who reached Penang before Francis Light; Fu of the Fu Lu Shou triad; a Fujian sailor who gave his life for a companion. The cult grew with sworn-brotherhood societies and followed the diaspora to Sarawak, where Kuching and Sibu have landmark temples, to Singapore's Kusu Island and Pulau Ubin, to Batam, and to Chợ Lớn as Ông Bổn. Because his image is Tudigong's, the two are routinely merged, and in Penang the Nine Emperor rites include him.",
+  "keeping_th": "เทพที่บูชาผ่านวัตถุ ถวายธูป ผลไม้ น้ำชา ตามวาระ ไม่ใช่ผีที่ต้องเลี้ยง",
+  "keeping_en": "Veneration, not feeding: incense, fruit and tea on the altar at the festivals and when asking, as for any deva-tier object in the vault. A worn medallion needs nothing beyond respect. Provenance sensitivity is medium, the class's own figure, and mostly a question of which temple issued it."
+ },
+ "sources": [
+  "s:en-wiki-tua-pek-kong",
+  "s:en-wiki-tudigong",
+  "s:th-wiki-pun-thao-kong",
+  "s:vi-wiki-mieu-nhi-phu",
+  "s:en-wiki-chinese-folk-religion-sea",
+  "s:catalog-db",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-tua-pek-kong"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "thep_thewada: a deity venerated through the object"
+   },
+   "names.th": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Teochew reading ตั่วแปะกง as Thai speakers say it; ปึงเถ่ากง is the Thai shrine name for the related 本頭公"
+   },
+   "form": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "medallion form inferred from temple-medal practice; no issue documented in the sources"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 titles in any spelling as of 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "tua-pek-kong/tua-pek-kong-tekka-centre-tua-pek-kong-shrine-a14678.jpg",
+   "source": "commons",
+   "title": "File:Tekka Centre, Tua Pek Kong shrine.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Tekka_Centre%2C_Tua_Pek_Kong_shrine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=173229946",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kbseah",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Shrine to Tua Pek Kong in Tekka Centre food centre",
+   "sha256": "382b52b4e13884370d043c23d3a7360585e4f8462805e90627a8167de6087f3b",
+   "width": 3000,
+   "height": 4000,
+   "primary": true
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-khoo-kongsi-penang-dec-2006-014-f51503.jpg",
+   "source": "commons",
+   "title": "File:Khoo Kongsi Penang Dec 2006 014.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Khoo_Kongsi_Penang_Dec_2006_014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=1566009",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gryffindor",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Image of an altar at the Leong San Tong Khoo Kongsi (also known as Khoo Kongsi Temple) in George Town, Penang.",
+   "sha256": "1ec76f06196ff282bd6a161b561aa47de71d193c1b23955f751354f1b65c0118",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-collectie-tropenmuseum-chinese-tempel-me-4f1934.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Chinese tempel met offerende vrouw te Cheribon West-Java TMnr 10001278.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/COLLECTIE_TROPENMUSEUM_Chinese_tempel_met_offerende_vrouw_te_Cheribon_West-Java_TMnr_10001278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8605000",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Unknown authorUnknown author",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Repronegatief. Chinese tempel met offerende vrouw te Cheribon, West-Java.",
+   "sha256": "401b4c1d56494e532089b805debf99fec670228bf2d4c06891bb36ae970230ac",
+   "width": 700,
+   "height": 474
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-sejahtera-sakti-selatpanjang-c6db9d.jpg",
+   "source": "commons",
+   "title": "File:Sejahtera Sakti Selatpanjang.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sejahtera_Sakti_Selatpanjang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23307775",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Infawang at Indonesian Wikipedia",
+   "credit": "Transferred from id.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — pribadi",
+   "sha256": "74fd6172b0a8ed6be97a0fcedad19e15ab5b8e90fd3d31d833beb916ad83a11d",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-buddhist-temple-penang-11804917066-082157.jpg",
+   "source": "commons",
+   "title": "File:Buddhist Temple Penang (11804917066).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Buddhist_Temple_Penang_%2811804917066%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=31660370",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Clay Gilliland",
+   "credit": "Buddhist Temple Penang",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Buddhist Temple Penang",
+   "sha256": "08340ae4d27c9301a1d3dbb770118f78152c3ebb435506781811545c627b3cf2",
+   "width": 3264,
+   "height": 2448
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-tua-pek-kong-chinese-temple-18802628562-b00075.jpg",
+   "source": "commons",
+   "title": "File:Tua Pek Kong chinese temple (18802628562).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Tua_Pek_Kong_chinese_temple_%2818802628562%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=45047766",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Nicolas Lannuzel from Singapore.",
+   "credit": "Tua Pek Kong chinese temple",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Tua Pek Kong Chinese temple, Pulau Ubin, Singapore.",
+   "sha256": "ee510b4ad021bcd6a3c607bbb9c8ad4ff994f17bfafafae609d9f4decfae9fb4",
+   "width": 2560,
+   "height": 1707
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-panoramio-06a017.jpg",
+   "source": "commons",
+   "title": "File:印尼 巴淡岛 大伯公庙 - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/%E5%8D%B0%E5%B0%BC_%E5%B7%B4%E6%B7%A1%E5%B2%9B_%E5%A4%A7%E4%BC%AF%E5%85%AC%E5%BA%99_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54457749",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Qingwu Zhou (周庆武)",
+   "credit": "https://web.archive.org/web/20161023024204/http://www.panoramio.com/photo/65881496",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Dabogong Temple, Batam Island, Indonesia",
+   "sha256": "20395f919e824a040a71fa9aa64f6a9984f730d162b879160be53f2b8fd027a0",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-chinese-temple-02and-2948068960-ce0baa.jpg",
+   "source": "commons",
+   "title": "File:Chinese Temple-02and (2948068960).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Chinese_Temple-02and_%282948068960%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73362051",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Sheba_Also 43,000 photos",
+   "credit": "https://www.flickr.com/photos/shebalso/2948068960/",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Chinese Temple",
+   "sha256": "3b1905143cb223087ff4fd9e3fc4d4bac307aa602e92b62aab2ed5aaea21dbe4",
+   "width": 2250,
+   "height": 1517
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-tanjong-tokong-tua-pek-kong-temple-4049dd.jpg",
+   "source": "commons",
+   "title": "File:Tanjong Tokong Tua Pek Kong Temple.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tanjong_Tokong_Tua_Pek_Kong_Temple.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=76715554",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "marufish",
+   "credit": "Penang Haikanga Tua Pek Kong Temple",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — This is very famous Tua Pek Kong temple in Penang. During Chinese New Year, the fate of Penang economy for that particul",
+   "sha256": "47ed7e8d6f72d88862b40de7212727e8245d4cdae5345f45e65da7e0026d10dc",
+   "width": 3008,
+   "height": 2000
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-rebo-shrine-1a7586.jpg",
+   "source": "commons",
+   "title": "File:Rebo Shrine 伯公廟.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rebo_Shrine_%E4%BC%AF%E5%85%AC%E5%BB%9F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=90538815",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Cun Cun",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Rebo beach shrine dedicated to local deity (Pak Kung 伯公廟 )",
+   "sha256": "c6591b65939af13c1fcb8979dba2648e246238b924c807ecc68d1bfd3bfd7d49",
+   "width": 5152,
+   "height": 2896
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-altaar-van-thoa-peh-hong-god-van-de-aard-beece9.jpg",
+   "source": "commons",
+   "title": "File:Altaar van Thoa Peh Hong, god van de aarde, in een Chinese tempel te Ambon, KITLV 7560.tiff",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Altaar_van_Thoa_Peh_Hong%2C_god_van_de_aarde%2C_in_een_Chinese_tempel_te_Ambon%2C_KITLV_7560.tiff?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=105121498",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "AnonymousUnknown author",
+   "credit": "http://hdl.handle.net/1887.1/item:787633",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Title: Altaar van Thoa Peh Hong, god van de aarde, in een Chinese tempel te AmbonShelfmark: KITLV 7560Subject (topical):",
+   "sha256": "728a11500f992630eac0332609e4159589ca8f08ec382d3df42ea8cba5ffde60",
+   "width": 1582,
+   "height": 2131
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-pun-tao-kong-shrine-phasi-charoen-06-23-ff6cfa.jpg",
+   "source": "commons",
+   "title": "File:Pun Tao Kong shrine, Phasi Charoen 06.23.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Pun_Tao_Kong_shrine%2C_Phasi_Charoen_06.23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=132965035",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) \n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Pun Tao Kong shrine is located in Phasi Charoen district, owned by Bang Khae Friendship Foundation.",
+   "sha256": "5db3bcdc731b87b7445c95e427f3b737e1c5a5ca8a34d0b67f0c4c52bfc39fb3",
+   "width": 6305,
+   "height": 4204
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-jpg-b8c354.jpg",
+   "source": "commons",
+   "title": "File:檳城大伯公廟瓦當.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%E6%AA%B3%E5%9F%8E%E5%A4%A7%E4%BC%AF%E5%85%AC%E5%BB%9F%E7%93%A6%E7%95%B6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=137700125",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "氏子",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Hakka people refer to the Earth God as \"Da Bo Gong\", the local protector deity who presides over land, waterways, and fa",
+   "sha256": "64387836565b24a000a1e03445020eafad5f806d968ec2afbb645efaef668f26",
+   "width": 3424,
+   "height": 3424
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-tua-pek-kong-shrine-in-singapore-7c1c01.jpg",
+   "source": "commons",
+   "title": "File:Tua Pek Kong Shrine in Singapore.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Tua_Pek_Kong_Shrine_in_Singapore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=145718562",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ScribblingGeek",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Tua Pek Kong Shrine in Singapore",
+   "sha256": "54fe410ee227ab0b0524650cd7ffd01d32e17e7ec104a96fa996a175c74cb9d7",
+   "width": 2083,
+   "height": 2322
+  },
+  {
+   "file": "tua-pek-kong/tua-pek-kong-pun-tao-kong-shrine-soi-sala-daeng-2-beh-b268eb.jpg",
+   "source": "commons",
+   "title": "File:Pun Tao Kong Shrine, Soi Sala Daeng 2, behind Silom Complex ศาลเจ้าปึงเถ่ากง ซอยศาลาแดง 2 (2026 Jul) - IMG 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Pun_Tao_Kong_Shrine%2C_Soi_Sala_Daeng_2%2C_behind_Silom_Complex_%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9B%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%81%E0%B8%87_%E0%B8%8B%E0%B8%AD%E0%B8%A2%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B9%81%E0%B8%94%E0%B8%87_2_%282026_Jul%29_-_IMG_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=195934890",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตั่วแปะกง",
+   "alt_en": "Tua Pek Kong medallion — Pun Tao Kong Shrine in Soi Sala Daeng 2, behind Silom Complex",
+   "sha256": "c57ff5238389f387bb13b4d87076e870541ca3cc345bb724bb223deb1b3fe0ac",
+   "width": 4284,
+   "height": 5712
+  }
+ ]
+}

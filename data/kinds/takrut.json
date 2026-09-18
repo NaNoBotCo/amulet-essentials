@@ -1,0 +1,421 @@
+{
+ "schema": 1,
+ "id": "takrut",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ตะกรุด",
+  "roman": "takrut",
+  "en": "Takrut (inscribed scroll-tube)",
+  "aliases": {
+   "th": [
+    "ตะกรุดโทน",
+    "ตะกรุดคู่",
+    "ตะกรุดสามกษัตริย์",
+    "ตะกรุดโสฬส"
+   ],
+   "roman": [
+    "takrud",
+    "tagrud",
+    "takrut thon",
+    "takrut sam kasat"
+   ],
+   "en": [
+    "yantra scroll",
+    "rolled yantra amulet"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "kha_khai",
+   "metta_maha_niyom",
+   "maha_saneh",
+   "kan_phi"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thongkham",
+   "ngoen",
+   "naak",
+   "takua",
+   "thongdaeng"
+  ],
+  "figures": [
+   "tube"
+  ]
+ },
+ "form": {
+  "type": "tube",
+  "shape_th": "แผ่นโลหะบาง (หรือกระดาษ ใบลาน หนังสัตว์) ลงยันต์แล้วม้วนเป็นหลอดกลวง ร้อยเชือกได้ มักถักเชือกลงรักปิดทองหุ้ม",
+  "shape_en": "A thin sheet — metal in most cases; paper, palm leaf or animal skin in the treatise — inscribed with a yantra and rolled into a hollow tube with a channel for a cord. Often plaited over with cord, lacquered and gilded so the inscription is hidden.",
+  "size_mm": null,
+  "wearable_th": "คาดเอวหรือห้อยคอ ดอกเดี่ยว (โทน) คู่ สาม เก้า หรือสิบหกดอกเรียงขวาง บางแบบอมไว้ใต้ลิ้น",
+  "wearable_en": "Worn at the waist or neck on a cord — single (thon), paired, three, nine or sixteen tubes strung crosswise. Small salika tubes are held under the tongue.",
+  "obverse_th": "ยันต์ลงด้านหน้าแผ่นก่อนม้วน — ตาราง ๓×๓ ๔×๔ องค์พระ รูปปลา รูปนก",
+  "obverse_en": "The yantra on the sheet before rolling: magic squares (3x3, 4x4, 9x9), a Buddha figure, fish or bird figures, per recipe",
+  "reverse_th": "ตำราหลายบทให้ลงยันต์อีกแบบด้านหลังแผ่น",
+  "reverse_en": "Several treatise recipes prescribe a second yantra on the back of the sheet",
+  "notes_en": "Size is not a type-level fact: the treatise specifies weights of gold (2 phai) or a one-finger bamboo, not lengths. Retail pieces run from a fingernail to a hand span."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์ตารางเลข",
+   "en": "numbered magic-square yantra (3x3, 4x4 'chakkraphat', 9 squares for the nine-tube set)"
+  },
+  {
+   "th": "ยันต์องค์พระ",
+   "en": "a seated Buddha-figure yantra inscribed head, body, feet, unalom, moon, sun in turn"
+  },
+  {
+   "th": "ยันต์รูปปลาสามตัว",
+   "en": "three carp figures, one per tube, for the trade set"
+  },
+  {
+   "th": "ราชสีห์ลงด้านหลังตะกรุดบางตำรับ",
+   "en": "a rachasi lion on the back of one recipe's takrut"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง) มีบทที่ระบุว่าเป็นของสมเด็จพระวันรัต (แดง) และหลวงปู่บุญ วัดกลางบางแก้ว",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983; two recipes are ascribed to Somdet Phra Wannarat (Daeng) and to Luang Pu Bun of Wat Klang Bang Kaeo",
+  "era_th": "ตำราไม่ระบุปี ขุนช้างขุนแผนกล่าวถึงตะกรุดบ่อยที่สุดในบรรดาเครื่องราง",
+  "era_en": "Undated treatise. English Wikipedia calls the takrut the most-mentioned amulet in Khun Chang Khun Phaen and puts its Buddhist form at roughly the 13th century, uncited",
+  "place_th": "ทั่วประเทศ อักขระขอมภาคกลาง อักษรธรรมทางเหนือ",
+  "place_en": "Country-wide; Khom script in the centre, Tham script in the north",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นหลอดม้วนกลวง ร้อยเชือกได้ ไม่ใช่แผ่นแบน — ถ้าแบนคือผ้ายันต์หรือแผ่นยันต์",
+   "en": "A rolled hollow tube with a cord channel. A flat inscribed sheet is a pha yan or a yantra plate, not a takrut",
+   "source": "s:th-wiki-takrut",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อโลหะที่ตำราใช้: ทอง เงิน นาก ตะกั่ว ทองแดง และกระดาษ",
+   "en": "The treatise inscribes on gold, silver, nak, lead, copper or paper; Thai Wikipedia adds snake skin, buffalo horn and bamboo",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มักถักเชือกลงรักปิดทองหุ้มจนมองไม่เห็นยันต์ — เห็นยันต์ได้เฉพาะปลายหลอด",
+   "en": "Plaited, lacquered and gilded over per one of the treatise's recipes; the inscription is usually invisible and only the tube ends show",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ชุดตามจำนวนดอก: โทน คู่ สาม เก้า สิบหก — จำนวนบอกตำรับ",
+   "en": "Count the tubes: single, pair, three, nine or sixteen each answer to a named recipe; the nine-tube set assigns one purpose per tube",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตะกรุดที่ตำราให้ทำจากแผ่นวัสดุพิเศษเป็นข้อยกเว้นของหมวด — รูปเดียวกัน แต่การสร้างต่างกัน ถามว่าแผ่นคืออะไร",
+   "en": "Skin-rolled takrut are the class's stated exception: same form, different making. Ask what the sheet is",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ตะกรุดม้วนเป็นหลอด ผ้ายันต์เป็นผืนแบน ทั้งคู่หมวดเดียวกัน ไม่มีผู้อยู่",
+   "tell_en": "Same class, different form: a takrut is a rolled tube, a pha yan a flat cloth. Neither is fed."
+  },
+  {
+   "id": "salika",
+   "tell_th": "ตะกรุดสาลิกาเป็นตะกรุดดอกเล็กอมใต้ลิ้น สาลิการูปนกเป็นรูปสัตว์",
+   "tell_en": "A salika takrut is a small tube held under the tongue; a salika figure is a bird. The yantra names the bird; the form decides which record."
+  },
+  {
+   "id": "bia-kae",
+   "tell_th": "เบี้ยแก้เป็นเปลือกหอยบรรจุปรอทหุ้มตะกั่ว ไม่ใช่แผ่นม้วน",
+   "tell_en": "A bia kae is a cowrie packed with mercury and wrapped in lead — a shell, not a rolled sheet, though both get the plaited-cord finish."
+  }
+ ],
+ "market": {
+  "search": [
+   "ตะกรุด"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Yantra in Thailand"
+  ],
+  "commons_files": [
+   "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png",
+   "File:Zz012.jpg",
+   "File:Zz015.jpg"
+  ],
+  "wanted_en": "Only a manuscript page of a takrut yantra is free on Commons as of 2026-09-02; no photograph of a rolled tube. Needed: a single tube end-on showing the roll, a plaited-and-gilded piece, and a nine-tube waist set."
+ },
+ "images": [
+  {
+   "file": "takrut/takrut-yan-takrut-thai-19th-century-yantra-and-3759b4.png",
+   "source": "commons",
+   "title": "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Yan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136301565",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "19th century artist",
+   "credit": "Part of the digitalized manuscript in the Manuscripts of Western Thailand Database - Princess Maha Chakri Sirindhorn Anthropology Centre [2]",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — Part of a Thai folding book (identifier NPT-004-011) at Wat Lam Phaya Folk Floating Market Museum, Nakhon Pathom. Accord",
+   "sha256": "b672b558fc5e300c0fc1ccecd175cbf46684d70e9cfb738f1c69bdc7c41717a6",
+   "width": 901,
+   "height": 508,
+   "primary": true
+  },
+  {
+   "file": "takrut/takrut-museum-amulett-69db65.jpg",
+   "source": "museum",
+   "title": "amulett",
+   "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/4524867/dia-V.68.330.jpg",
+   "page_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1301746?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Statens museer för världskultur (Museum of Ethnography, Stockholm)",
+   "credit": "Vanadis expedition purchase, Bangkok 1887",
+   "view": "group",
+   "alt_th": "ตะกรุดคู่บนเชือกคาดเอว ซื้อที่บางกอก พ.ศ. ๒๔๓๐",
+   "alt_en": "Takrut (inscribed scroll-tube) — A pair of red-lacquered takrut tubes on their waist cord, bought in Bangkok in 1887 — the museum called it simply \"amulet\"; the reading as takrut is this project's, from the form",
+   "sha256": "69db65c483fd6045838fe42e3a634ae00386e2e84cb90905ae0139267a799e9c"
+  },
+  {
+   "file": "takrut/takrut-yantprapidta-c36760.jpg",
+   "source": "commons",
+   "title": "File:Yantprapidta.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yantprapidta.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8370219",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Sakyant",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — Thai amulet or \"Yantra\"",
+   "sha256": "52bbee14e37c0f1c0f4edadc2d43d590c59df3419fffe1f527ea25f5e550ce42",
+   "width": 581,
+   "height": 607
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-070-a0dc52.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (070).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Siam_Society_-_Bangkok_-_2017-07-25_%28070%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443093",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Sign describing yantra mystic sheets.",
+   "sha256": "067f660e6ebe076700eb73ab5d6e6a5bfe3c2bc6efa3c53222990d41674651d1",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-082-fc4041.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (082).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Siam_Society_-_Bangkok_-_2017-07-25_%28082%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443108",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "2a0693dec85bdcf6ff44cd21db42f2f4f866f8559b4ff25e4acf7e840de94432",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-084-63ba4c.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (084).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Siam_Society_-_Bangkok_-_2017-07-25_%28084%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443109",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "75bb4acb0ce571eb17cc719571472a68bc673048c2082b0f3957fac69bb2a5fe",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-085-8901ba.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (085).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Siam_Society_-_Bangkok_-_2017-07-25_%28085%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443110",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "4954480622a2d05b7ca65e76e7e9464111687535f38d0abd73760ce4deb7f2f6",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-086-95d9cb.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (086).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Siam_Society_-_Bangkok_-_2017-07-25_%28086%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443111",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "f86a71a32ce8721f488674bc446ff5868823da934ca4859ee076f954d0ed17c7",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "takrut/takrut-siam-society-bangkok-2017-07-25-087-d80a58.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (087).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Siam_Society_-_Bangkok_-_2017-07-25_%28087%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443112",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "f39c7c408f091ddae77f90b86b0da9856f56793d91c9a5dfccf18770e7e013e0",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "takrut/takrut-zz012-261871.jpg",
+   "source": "commons",
+   "title": "File:Zz012.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Zz012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=90896671",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Witwatarun",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — ตะกรุดหนังหน้าผากเสือ หลวงปู่นาค วัดอรุณ แบบมีเชือกควั่นลงรักปิดทองยุคต้นของท่าน",
+   "sha256": "d1a9e91bdd8b211a88695e48b7d98cb9d5ba78103f7deb84d91a3a21cfd72870",
+   "width": 1120,
+   "height": 650
+  },
+  {
+   "file": "takrut/takrut-zz015-af34c6.jpg",
+   "source": "commons",
+   "title": "File:Zz015.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Zz015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=90905081",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Witwatarun",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุด",
+   "alt_en": "Takrut (inscribed scroll-tube) — ตะกรุดหนังหน้าผากเสือ หลวงปู่นาค วัดอรุณ แบบมีเชือกควั่นลงรักปิดทองยุคต้นของท่าน",
+   "sha256": "8f989db699a84cc445c271986011ae4cc48a66aee6f36208150399bc1d00bdcd",
+   "width": 1120,
+   "height": 650
+  }
+ ],
+ "text": {
+  "what_th": "แผ่นโลหะ ใบลาน หรือหนัง ลงยันต์แล้วม้วนแน่น ร้อยเชือกคาดเอวหรือห้อยคอ อานุภาพอยู่ที่อักขระและพิธีที่ปิดผนึก ไม่มีผู้ใดสถิต ตำราในคลังนี้เต็มไปด้วยสิ่งที่เขียนไว้ข้างใน",
+  "what_en": "A sheet of metal — or palm-leaf, or skin — inscribed with a yantra and rolled tight, worn on a cord at the waist or neck. Power lives in the inscription and the rite that closed it. The treatises this site keeps are full of what gets written inside.",
+  "story_th": "ตำราให้ตะกรุดหลายตำรับ ตะกรุด ๓ ดอกค้าขายลงยันต์ปลาสามตัวบนแผ่นทอง เงิน นาก ตะกรุดจักรพรรดิลงตาราง ๔×๔ บนเงินและทอง ตะกรุดโทนฝนแสนห่าลงในโบสถ์ใต้เพดานผ้าขาวยันต์แปดทิศ เสกเหล็กจารด้วย มะอะอุ ก่อน ทำสายด้วยด้ายพรหมจารีย้อมใบไม้ ๗ ชนิดอย่างละ ๗ ใบ ตะกรุด ๙ ดอกกำหนดหน้าที่ดอกละอย่าง ตั้งแต่กันผีถึงกันศาสตราวุธ อีกตำรับหนึ่งลงยันต์บนแผ่นวัสดุที่ตำราระบุ (ไม่นำมาลงที่นี่) ม้วน ถักเชือก ลงรักปิดทอง เสกไตรสรณาคมน์ ๑๐๘ คาบ",
+  "story_en": "The treatise gives a dozen recipes. The three-tube trade set inscribes three fish yantras on gold, silver and nak; the chakkraphat set puts a 4x4 magic square on silver and gold. The single 'hundred-thousand-rains' takrut is inscribed inside the ordination hall under a white canopy bearing the eight-direction yantra, the stylus first blessed with ma-a-u, and its cord is spun from virgin thread and dyed with seven leaves of each of seven plants. The nine-tube set assigns each tube a job, from warding ghosts to turning weapons. One further recipe inscribes a sheet of a material the treatise names and this catalogue does not reproduce, rolls and plaits it, lacquers and gilds it, and consecrates it with the Three Refuges 108 times.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ยกเว้นตะกรุดบางตำรับ ซึ่งการสร้างทำให้เป็นของมีผู้อยู่",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history — with the class's one flagged exception: a takrut whose sheet the treatise takes from a source not reproduced here is a spirit-bearing object in this form, and the making, not the tube, decides."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-functions",
+  "s:vault-materials",
+  "s:ms6983",
+  "s:en-wiki-takrut",
+  "s:th-wiki-takrut",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 4278–5140 (printed pp. 123–144): ๓ ดอก, จักรพรรดิ, สาลิกาลิ้นทอง, โทน ×9, ๔ ดอก, ๙ ดอก, ไม้รวก, หนังเสือ ×4"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "nine-tube list at L5027"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "names.aliases": {
+    "tier": "cited",
+    "source": "s:th-wiki-takrut"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-takrut",
+    "note": "the 13th-century claim is uncited on-wiki"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-takrut"
+   },
+   "form.notes_en": {
+    "tier": "inference"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

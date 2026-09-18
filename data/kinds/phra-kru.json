@@ -1,0 +1,582 @@
+{
+ "schema": 1,
+ "id": "phra-kru",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระกรุ",
+  "roman": "phra kru",
+  "en": "Phra Kru (cache-find amulet)",
+  "aliases": {
+   "th": [
+    "กรุเก่า",
+    "พระกรุเก่า",
+    "พระพิมพ์กรุ"
+   ],
+   "roman": [
+    "phra kroo",
+    "kru amulet"
+   ],
+   "en": [
+    "stupa-deposit amulet",
+    "votive tablet from a cache"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_din",
+   "nuea_chin",
+   "sanim_daeng",
+   "nuea_phong"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "พระพิมพ์ทุกทรง — ดินเผาหรือชินเป็นหลัก",
+  "shape_en": "Any pressed-tablet form; fired earth or chin alloy far more often than powder",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "องค์พระตามศิลปะยุคที่บรรจุ",
+  "obverse_en": "A Buddha in the style of the period that sealed the cache",
+  "reverse_th": "เรียบ มีคราบกรุ",
+  "reverse_en": "Plain, carrying cache crust",
+  "notes_en": "A category, not a mould. Form follows the named kind (Phra Rod, Nang Phaya, Sum Ko, Hu Yan and hundreds more); the shared marks are surface, not shape."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระพิมพ์ ศิลปะตามยุค (ทวารวดี ลพบุรี สุโขทัย อู่ทอง อยุธยา)",
+   "en": "a votive Buddha in the art of its period: Dvaravati, Lopburi, Sukhothai, U Thong, Ayutthaya"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "ประเพณีบรรจุพระพิมพ์ในกรุเจดีย์เพื่อสืบพระศาสนา",
+  "era_en": "The practice of sealing votive tablets in a stupa's chamber to carry the religion forward, per Thai Wikipedia; the tablets surface when the structure fails or is opened",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Throughout Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "คราบกรุ — คราบดิน ไคล และแร่บานบนผิว",
+   "en": "Cache crust: earth, sediment and mineral bloom on the surface, the category's shared mark",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เนื้อชินอ่านจากสนิม ชินเงิน ชินตะกั่ว สนิมแดง · เนื้อดินอ่านจากการหดตัว",
+   "en": "Chin bodies read by patina (silvery, lead-heavy, red-rust); clay bodies read by shrinkage. Powder is the exception, not the rule, in a cache",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "สนิมแดงคือสภาพผิว ไม่ใช่คำตัดสินอายุ",
+   "en": "Red rust is a surface state recorded as such, never a verdict on age",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "รูปทรงบอกชื่อกรุ ผิวบอกอายุ",
+   "en": "Shape names the kind and cache; surface testifies to time. Ask both questions separately",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หมวดที่ผลิตเลียนแบบมาก คราบทำใหม่ได้",
+   "en": "Heavily reproduced as a category; crust can be applied. A statement about the category, never about an object",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-rot",
+   "tell_th": "พระรอดคือพระกรุที่มีชื่อ — ใบโพธิ์ล้อม ลำพูน",
+   "tell_en": "Phra Rod is one named member of this category: bodhi-leaf ring, Lamphun. Say the name when you can; say phra kru when you cannot."
+  },
+  {
+   "id": "phra-hu-yan",
+   "tell_th": "หูยานคือพระกรุเนื้อชินที่มีชื่อ ลพบุรี",
+   "tell_en": "Hu Yan is a named chin-alloy member: ears to the shoulders, Lopburi."
+  },
+  {
+   "id": "phra-khanaen",
+   "tell_th": "พระคะแนนคือองค์เล็กที่ใช้นับจำนวน มีทั้งในกรุและในรุ่นวัดสมัยใหม่",
+   "tell_en": "A phra khanaen is an undersized counting piece; it may come from a cache or from a modern temple run, so size and purpose name it, not the crust."
+  },
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จเป็นพระผงสมัยรัตนโกสินทร์ สร้างแจกไม่ได้บรรจุกรุเป็นหลัก · พระกรุเป็นดินหรือชินจากเจดีย์",
+   "tell_en": "A somdej is Rattanakosin pressed powder made to give out; a phra kru is earth or chin sealed in a stupa and recovered. Some somdej were later deposited (the trade calls those กรุ too), which is why the material is the first gate."
+  }
+ ],
+ "market": {
+  "search": [
+   "พระกรุ",
+   "กรุเก่า"
+  ],
+  "excludes": [
+   "พระกรุง"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Amulets in the Ramkhamhaeng National Museum",
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:Terracotta Buddha Sealing, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai (47595440792).jpg",
+   "File:Terracotta Buddha Sealings, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai (47595428712).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814907).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814617).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814157).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813697).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813467).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813167).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812727).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812417).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812077).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705811667).jpg",
+   "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (47648419761).jpg",
+   "File:Terracotta Moulds, Ramkhamhaeng Museum, Sukhothai (33770917578).jpg",
+   "File:Votive Tablets, Ramkhamhaeng Museum, Sukhothai (47648415511).jpg",
+   "File:กรุวัดกุฏีสูง.jpg",
+   "File:กรุวัดกุฏีสูง เนื้อดินเผา.jpg",
+   "File:พระนาคปรก กรุนาดูน.jpg",
+   "File:พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "File:ด้านหลัง พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "File:พระเชียงแสน สิงห์๑ กรุวัดป่ายาง.jpg"
+  ],
+  "wanted_en": "The Ramkhamhaeng Museum set (public domain) shows Sukhothai terracotta tablets and moulds in cases; still wanted is a loupe-scale detail of cache crust on a chin piece and on a clay piece side by side."
+ },
+ "images": [
+  {
+   "file": "phra-kru/phra-kru-terracotta-buddha-sealing-14th-15th-cent-4c65d9.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Buddha Sealing, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai (47595440792).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Terracotta_Buddha_Sealing%2C_14th-15th_Cent.%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2847595440792%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109041518",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Buddha Sealing, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "95aca4e18a725d55e4676490ba52912700fedd827fc8f9af98835f5641801274",
+   "width": 6000,
+   "height": 4000,
+   "primary": true
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-596dc3.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55040607",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — พระเชียงแสน สิงห์๑ กรุเชียงแสน",
+   "sha256": "dfa3fa37f6c19dd5e985c3ff8803cc0b1d1d2b4abb7b20a1a5f5a1c275364d30",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-1440a4.jpg",
+   "source": "commons",
+   "title": "File:พระเชียงแสน สิงห์๑ กรุวัดป่ายาง.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9B%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%B2%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55040687",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — พระเชียงแสน สิงห์๑ กรุวัดป่ายาง เนื้อสัมฤทธิ์โชค หรือสัมฤทธิ์เหลือง (องค์นี้แก่ทอง)",
+   "sha256": "71d305b5b989ebcbfe1cb3e5fa3eb1bed72846947e472dd67a5ce2c5a59b4250",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-7023aa.jpg",
+   "source": "commons",
+   "title": "File:ด้านหลัง พระเชียงแสน สิงห์๑ กรุเชียงแสน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99_%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%91_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%81%E0%B8%AA%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55075618",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — ประวัติความเป็นมาของเมืองเชียงแสน มีบันทึกไว้ในตำนานพงศาวดารหลายฉบับหลายสำนวน แต่เนื้อเรื่องส่วนใหญ่จะเป็นเค้าโครงเดียวก",
+   "sha256": "dbff535bcecb00f6f51413137ebf630f1e17349085c07718db5341105721a430",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-3d6d0d.jpg",
+   "source": "commons",
+   "title": "File:พระนาคปรก กรุนาดูน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%9B%E0%B8%A3%E0%B8%81_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B8%B9%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55201538",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Suriya aruno",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — เนื้อพระและสีของพระนาดูน\nเนื้อพระนาดูนแบ่งออกได้หลายชนิด\n1. ชนิดเนื้อดินเผา ลักษณะการเผาคือ เผากลางแจ้ง จะมีลักษณะเหมือน",
+   "sha256": "3672b2062f369bf0fadbb8e9d8cc458b1739b2432a6ff885a53043b519de3348",
+   "width": 3120,
+   "height": 4160
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-a55d66.jpg",
+   "source": "commons",
+   "title": "File:กรุวัดกุฏีสูง.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B8%E0%B8%8F%E0%B8%B5%E0%B8%AA%E0%B8%B9%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=69600458",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "In80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — วัดกุฏีสูง ต.หัวรอ จ.พระนครศรีอยุธยา",
+   "sha256": "1c59108bc9e91295d4349ad9585e3f1d64de83de080fffa8b5fc7c5e7d89f668",
+   "width": 1039,
+   "height": 1270
+  },
+  {
+   "file": "phra-kru/phra-kru-jpg-f2f2ee.jpg",
+   "source": "commons",
+   "title": "File:กรุวัดกุฏีสูง เนื้อดินเผา.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B8%E0%B8%8F%E0%B8%B5%E0%B8%AA%E0%B8%B9%E0%B8%87_%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%9C%E0%B8%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=69600569",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "In80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — วัดกุฏีสูง ต.หัวรอ จ.พระนครศรีอยุธยา",
+   "sha256": "226ebc0dea9099aaf74b3fd92ee9218adeb1a605dc942ecf4cdbe322d0c3a9d3",
+   "width": 570,
+   "height": 700
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-buddha-sealings-14th-15th-cen-9916d5.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Buddha Sealings, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai (47595428712).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Terracotta_Buddha_Sealings%2C_14th-15th_Cent.%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2847595428712%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109042764",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Buddha Sealings, 14th-15th Cent., Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "e63be4f048f3a9e27ae930d31c187d75aad93475459861b702a251e685958b06",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-2bf5f3.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814907).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705814907%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046848",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "b64276ed29083d64b704012fc9af2c91618152cc6f24cd387474b75e2eefdff4",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-e5bca9.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814617).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705814617%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046867",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "b0d4b08f8f046b5471b6db57036d4be4c886d3256a9c5dd5a062bcade4a3ba87",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-9744da.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705814157).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705814157%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046890",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "f669426835a68aa4ae9c23eaa262d5d95498ad2f35f34bbebb811d20e1e746f7",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-193eb9.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813697).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705813697%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046901",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "6ade7d6975a357ac00d6958166b4a764dc68a113e8710a9ce3d3a56ba0adffa9",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-59b62a.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813467).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705813467%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046913",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "1ef55350379457648acf4388093572a2449e07261c2d0153f835f2e7b6c8cb49",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-83c4e5.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705813167).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705813167%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046924",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "4478727278c80a60a87bf77e284dbf9a7e30250fd1139d8a0ecf8bce13edc91d",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-689aaa.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812727).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705812727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046940",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "30612f6969ee439e591247755f127e3f7b10525b9d365875066690360add6e85",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-73d9a6.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812417).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705812417%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046954",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "609edf270423ea8a8be770d74945b2cb2abb1442438b33b2c3726823dd3ed68b",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-3a3530.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705812077).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705812077%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046971",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "6bfd919ae147b178d7b3566531810f433e59da624f19be270b1c697929f5b420",
+   "width": 4000,
+   "height": 6000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-7852f6.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (32705811667).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2832705811667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109046981",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "913e36a010b6f5f2b9e8192289770c7583fa12c0560789051eee98cd77730a5f",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-votive-tablets-ramkhamhaeng-m-6c5324.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai (47648419761).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Terracotta_Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2847648419761%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109047011",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "9889db67cf35466067193167cc53aca19d0c1775c427ee84142a53685f53b94f",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "file": "phra-kru/phra-kru-terracotta-moulds-ramkhamhaeng-museum-su-f47c7c.jpg",
+   "source": "commons",
+   "title": "File:Terracotta Moulds, Ramkhamhaeng Museum, Sukhothai (33770917578).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Terracotta_Moulds%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2833770917578%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109047048",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Terracotta Moulds, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "3d17a55c6754c482fd3f59cc745c21e0a1c3cc024e75b97d8132c4c866b22387",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "file": "phra-kru/phra-kru-votive-tablets-ramkhamhaeng-museum-sukho-f844ce.jpg",
+   "source": "commons",
+   "title": "File:Votive Tablets, Ramkhamhaeng Museum, Sukhothai (47648415511).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Votive_Tablets%2C_Ramkhamhaeng_Museum%2C_Sukhothai_%2847648415511%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109047219",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Gary Todd from Xinzheng, China",
+   "credit": "Votive Tablets, Ramkhamhaeng Museum, Sukhothai",
+   "view": "other",
+   "alt_th": "พระกรุ",
+   "alt_en": "Phra Kru (cache-find amulet) — Museum of Sukhothai history, Sukhothai, Thailand. Complete indexed photo collection at WorldHistoryPics.com.",
+   "sha256": "944115033be5325c947a21da92c670050d44195eea31f31bb42675469221e231",
+   "width": 6000,
+   "height": 4000
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ที่ได้จากกรุเจดีย์ที่ปิดไว้ — ดินเผาหรือชินมากกว่าผง มีคราบและแร่บานจากหลายร้อยปีในกรุ อายุคือคำถามทั้งหมด ผิวคือพยาน ไม่มีผู้ใดสถิตอยู่",
+  "what_en": "An amulet recovered from a sealed temple cache (กรุ) — fired earth or chin alloy more often than powder, with the crust and mineral bloom of centuries in the chamber. Age is the whole question; the surface is the testimony.",
+  "story_th": "การสร้างเจดีย์มีประเพณีบรรจุของมีค่าและพระพิมพ์จำนวนมากไว้ในกรุเพื่อสืบพระศาสนา เมื่อเจดีย์พังหรือถูกเปิด พระจึงออกมา — วงการเรียกกรุแตก พระเบญจภาคีสี่ในห้าเป็นพระกรุ",
+  "story_en": "Thai Wikipedia records the custom of sealing valuables and large numbers of votive tablets in a stupa's chamber so that the religion would outlast the building. When the structure fails or is opened the tablets come out, which the trade calls a cache breaking (กรุแตก). Four of the Benjaphakhi five are cache-finds; the term พระเครื่อง itself, per the same article, only arrives in the reign of Rama IV and folds these older พระพิมพ์ into it.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is age and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:holding-key",
+  "s:th-wiki-chedi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:holding-key"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "inference",
+    "note": "คุ้มครอง as the holding pen: the category makes no single function claim"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-chedi"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-khrueang"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

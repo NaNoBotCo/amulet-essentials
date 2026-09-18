@@ -1,0 +1,164 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "tangkal",
+ "names": {
+  "th": "เครื่องรางมลายู",
+  "roman": "tangkal",
+  "en": "Tangkal (Malay protective charm, any form)",
+  "aliases": {
+   "th": [
+    "ตังกัล",
+    "ของกันภัยมลายู"
+   ],
+   "roman": [
+    "penangkal",
+    "tangkal bala",
+    "pelindung"
+   ],
+   "en": [
+    "Malay ward",
+    "warding charm"
+   ]
+  },
+  "other_scripts": {
+   "ms": "تڠكل (Jawi) · tangkal",
+   "id": "tangkal / penangkal"
+  }
+ },
+ "region": [
+  "my",
+  "id",
+  "sg"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "ไม่มีรูปประจำ: ด้ายดำผูกข้อมือ กิ่งไม้หรือหนามแขวนประตู เขี้ยว หิน เหรียญ หรือแผ่นเขียนก็ได้",
+  "shape_en": "No fixed form. A black thread at the wrist, a thorny branch or leaf bundle hung at a doorway, a tooth, a stone, a coin, a bit of iron over a cradle — or a written sheet, at which point it is also a jimat.",
+  "size_mm": null,
+  "wearable_th": "ผูกตัว แขวนประตู วางในเปล ปักในนา",
+  "wearable_en": "Tied on the body, hung at a door or window, laid in a cradle, planted in a field.",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Tangkal is a function word — from menangkal, to ward off — so it names what the object does, not what it is. Malay Wikipedia treats azimat and tangkal as one article; everyday Malay keeps the shade: jimat is the thing you carry for tuah, tangkal the thing that turns something away."
+ },
+ "iconography": [],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "โบโมะห์ / ปะวัง หรือทำเองในครัวเรือน",
+  "maker_en": "A bomoh or pawang for the made kinds; households make the simplest wards themselves",
+  "era_th": "ประเพณีพื้นบ้านก่อนและร่วมกับอิสลาม",
+  "era_en": "Folk practice older than Islam in the region and continuing beside it",
+  "place_th": "โลกมลายู",
+  "place_en": "Malay world",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ถ้าไม่มีตัวเขียนเลย มักเรียก tangkal ไม่เรียก jimat",
+   "en": "No writing on it at all is the usual mark of a tangkal as against a jimat; once Arabic appears the two words overlap",
+   "source": "s:ms-wiki-azimat",
+   "tier": "cited"
+  },
+  {
+   "th": "ของธรรมชาติ: เขี้ยว หนาม หิน ด้ายดำ เหล็ก",
+   "en": "Natural or household matter — a fang, a thorn, a stone, black thread, a scrap of iron — chosen for what it repels",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ที่แขวน: ประตู หน้าต่าง เปล ไร่นา ไม่ใช่เฉพาะตัวคน",
+   "en": "Where it hangs is the tell: doorways, windows, cradles and fields as often as the body",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ชื่อบอกหน้าที่ ไม่บอกวัสดุ — tangkal bala, tangkal hantu",
+   "en": "The name states the threat, not the material: tangkal bala (against misfortune), tangkal hantu (against ghosts)",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "jimat",
+   "tell_th": "จิมัตคือของเขียนที่พกเพื่อทั้งกันและเสริม · ตังกัลคือของกัน จะเขียนหรือไม่ก็ได้",
+   "tell_en": "A jimat is a written object carried for luck and protection both; a tangkal is anything that wards, written or not. Every written tangkal is a jimat; most tangkal are not written."
+  },
+  {
+   "id": "rajah",
+   "tell_th": "ราจาห์เป็นตัวเขียนอย่างเดียว ตังกัลส่วนใหญ่ไม่มีตัวเขียน",
+   "tell_en": "A rajah is writing and nothing else; a tangkal usually carries none."
+  },
+  {
+   "id": "mustika",
+   "tell_th": "มุสติกาเป็นหินที่ถือว่ามีพลังในตัว พกเพื่อทัวะห์ · ตังกัลเป็นของกันภัย",
+   "tell_en": "A mustika is a stone kept for its own inherent tuah; a tangkal is kept to turn something away. A stone hung at a door is a tangkal, the same stone in a ring is a mustika."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "Nothing free on Commons as of 2026-09-02 — 'tangkal' hits are Sundanese tree names (Tangkal Katapang, Tangkal dadap). Needed: a thorn-and-leaf bundle at a kampung doorway, a black-thread wrist tie, and a cradle ward, each in situ."
+ },
+ "images": [],
+ "text": {
+  "what_th": "คำมลายูสำหรับของกันภัยทุกชนิด — จากด้ายดำผูกข้อมือถึงกิ่งหนามแขวนประตู — คำนี้บอกหน้าที่ (ตังกัล = ปัดออก) ไม่บอกรูป ถ้ามีตัวเขียนก็เป็นจิมัตด้วย",
+  "what_en": "The Malay word for any object that wards — from a black thread on the wrist to a thorny branch over the door. It names a job (menangkal, to turn aside), not a form, which is why Malay Wikipedia files it with azimat and everyday speech keeps them apart: jimat is carried for luck, tangkal is set against a threat.",
+  "story_th": "วิกิพีเดียมลายูรวม azimat กับ tangkal เป็นบทความเดียว นิยามว่า “สิ่งที่เชื่อว่าให้ทัวะห์และ/หรือคุ้มครองเจ้าของ” และยกรูปแบบไว้ทั้งอัญมณี รูปปั้น เหรียญ พืช สัตว์ กระทั่งคำพูด ในการใช้จริง tangkal คือฝั่ง “คุ้มครอง”: กันผี (hantu) กันเคราะห์ (bala) กันตาชั่ว ผู้ทำมักเป็นโบโมะห์หรือปะวัง ของง่ายๆ ชาวบ้านทำเอง",
+  "story_en": "Malay Wikipedia folds azimat and tangkal into one article and defines the pair as a thing believed to give its owner luck and/or protection, listing gems, statues, coins, plants, animals and even spoken formulas as forms. In practice tangkal is the protection half: against ghosts (hantu), against misfortune (bala), against the evil eye. A bomoh or pawang makes the serious ones; a household hangs its own thorns. The word is also the region's answer to 'what is that thing over the door' — it is a tangkal, and the answer says nothing about what it is made of.",
+  "keeping_th": "คลังคำของ vault ไม่มีหมวดครอบ: ตังกัลกระจายอยู่ในหลายหมวด (ของธรรมชาติ ของเขียน) จึงปล่อยว่างไว้ ส่วนใหญ่ไม่มีผู้อยู่ ไม่ต้องเลี้ยง เปลี่ยนใหม่เมื่อเก่าหรือขาด",
+  "keeping_en": "Class left null on purpose: tangkal is an umbrella over several vault classes (natural matter, inscribed sheets), and the vault has no ward-by-function category. Nearly all are impersonal — nothing fed, nothing owed; a frayed thread or a dried branch is simply replaced."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:ms-wiki-azimat",
+  "s:en-wiki-tawiz",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:ms-wiki-azimat"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai gloss"
+   },
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "null: umbrella term, no vault class"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

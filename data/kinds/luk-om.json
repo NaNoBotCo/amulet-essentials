@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "luk-om",
+ "names": {
+  "th": "ลูกอม",
+  "roman": "luk om",
+  "en": "Luk om (mouth-held charm ball)",
+  "aliases": {
+   "th": [
+    "ลูกอมผง",
+    "ลูกอมเนื้อผง",
+    "ลูกอมดำ",
+    "ลูกอมหมากทุย"
+   ],
+   "roman": [
+    "look om",
+    "luk-om"
+   ],
+   "en": [
+    "amulet ball",
+    "sucking charm"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_phong",
+   "phong_phuttakhun",
+   "nuea_waan",
+   "takua"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "bead",
+  "shape_th": "ลูกกลมขนาดเม็ดหมากถึงลูกมะนาว ปั้นจากผงว่านผสมรัก กระดาษลงยันต์ม้วนแล้วพันด้าย หรือแผ่นตะกั่วลงยันต์กล่อมเป็นลูกกลม ตำราให้อมไว้ใต้ลิ้น",
+  "shape_en": "A ball, betel-nut to small-lime size: herb-and-powder paste bound with lacquer, or an inscribed paper yantra rolled and wound with thread, or an inscribed lead sheet worked round. The treatise has it held under the tongue; the modern trade cases it and hangs it.",
+  "size_mm": null,
+  "wearable_th": "อมในปาก หรือใส่ตลับพกติดตัว ปัจจุบันเลี่ยมห้อยคอ",
+  "wearable_en": "Held in the mouth in the treatise; carried in a box; now usually cased and worn",
+  "obverse_th": "ผิวเรียบ บางลูกมีรอยจารหรืออักขระเดียว",
+  "obverse_en": "A plain surface; some carry a single incised letter",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The treatise's five recipes sort by body: paste (แบบที่ ๑, ๓), paper-and-thread (แบบที่ ๒, ๔), lead (แบบที่ ๕). The material key list above spans that range; a given ball is one of them."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์ที่ลงก่อนปั้นหรือม้วน (สัมพุทเธ / พระเจ้า ๑๖ พระองค์ / ยันต์ตาราง ๖×๕)",
+   "en": "the yantra inscribed before rolling or moulding: Samphutthe, the Sixteen Buddhas, or a 6×5 grid (treatise diagrams)"
+  },
+  {
+   "th": "ผิวกลม ไม่มีรูป",
+   "en": "no figure; the object is the ball itself"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง); วัดบางปะกอก (หลวงปู่พริ้ง) ทำลูกอมดำ; วัดหนองบัว กาญจนบุรี มีลูกอมหมากทุย",
+  "maker_en": "Anonymous treatise ms 6983; th.wikipedia names Luang Pu Phring of Wat Bang Pakok (ลูกอมดำ) and the Wat Nong Bua line of Luang Pu Yim (ลูกอมหมากทุย) as makers, without recipe",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; the named temple issues are 20th century by their makers' lives",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ลูกกลมทึบ ไม่มีรู — ต่างจากลูกประคำที่เจาะรูร้อย",
+   "en": "A solid ball with no string hole; a pierced ball is a rosary bead or a luk sakot",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เนื้อผงว่านคลุกรัก แห้งหดเป็นผิวด้าน หรือด้ายพันรอบกระดาษ หรือตะกั่วเป็นลูกกลมมีรอยพับ",
+   "en": "Body tells the recipe: dull shrunken herb-paste, thread wound over paper, or lead with fold seams where the sheet was worked round",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้อม — ขนาดต้องเข้าปากได้ ลูกใหญ่เกินอมคือของตั้งบูชา",
+   "en": "The treatise has it held in the mouth, so it is small; a fist-sized ball is an altar piece, not a luk om",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ชื่อ 'ลูกอม' ในตลาดชนกับขนม — ดูรูปก่อนอ่านชื่อ",
+   "en": "The word is also 'candy' in Thai; listing counts under the bare term are mostly sweets",
+   "source": "s:catalog-db",
+   "tier": "inference"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "luk-sakot",
+   "tell_th": "ลูกสะกดเป็นเม็ดตะกั่วเล็กเจาะรูร้อยเชือกหลายเม็ด ลูกอมเป็นลูกเดียวทึบ",
+   "tell_en": "Luk sakot are several small pierced lead beads on a cord; a luk om is one solid ball. The lead luk om of recipe 5 is the closest — it has no hole."
+  },
+  {
+   "id": "si-phueng",
+   "tell_th": "สีผึ้งเป็นขี้ผึ้งในตลับ ใช้ทาปาก ลูกอมเป็นลูกแข็ง",
+   "tell_en": "Si phueng is wax in a box, smeared on the lips; a luk om is a hard ball."
+  }
+ ],
+ "market": {
+  "search": [
+   "ลูกอม"
+  ],
+  "excludes": [
+   "ลูกอมรส",
+   "รสมิ้นท์",
+   "ฮอลล์",
+   "ขนม",
+   "ลูกอมดับกลิ่น",
+   "ลูกอมเย็น",
+   "ลูกอมเด็ก"
+  ],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02 (searches: luk om, ลูกอม return candy). Needed: a paste ball next to a coin for scale, a thread-wound paper ball, and a lead ball showing fold seams."
+ },
+ "images": [],
+ "text": {
+  "what_th": "ลูกกลมเล็กที่ปั้นจากผงว่าน ม้วนจากกระดาษยันต์พันด้าย หรือกล่อมจากแผ่นตะกั่วลงยันต์ เสกแล้วอมไว้ในปากหรือพกติดตัว ตำราให้เพื่อคงกระพันแคล้วคลาด ไม่มีผู้อยู่",
+  "what_en": "A small consecrated ball — herb-and-powder paste, a thread-wound paper yantra, or an inscribed lead sheet worked round — held in the mouth or carried, for invulnerability and evasion. Power in the yantra and the chant; nobody home.",
+  "story_th": "ตำราให้ห้าแบบ แบบที่ ๑ บดว่านเพชรน้อย ว่านเพชรใหญ่ แม่เหล็ก หินแลง เพชรสังฆาต ลงยันต์หน้าหิน ปั้นเป็นลูก เสก ๑๐๘ คาบ ฝังดิน ๓ วัน ขุดมาเสกพันคาบแล้วอม คงแก่หอกดาบปืนไฟ แบบที่ ๒ ลงยันต์สัมพุทเธบนกระดาษ ม้วนกลม พันด้าย เสก ๑๐๘ อมใต้ลิ้น แบบที่ ๓ เขียนคาถาพระเจ้า ๑๖ พระองค์ลงกระดาน ลบเอาผง ๑๐๘ ครั้ง ผสมตะไคร่เจดีย์ ผงดินสอ คลุกรัก แบบที่ ๕ แผ่ตะกั่วบาง ลงยันต์ กล่อมเป็นลูก อมเดินทางอดน้ำได้",
+  "story_en": "Five recipes. In the first, two 'diamond' herbs, lodestone, laterite and phet sangkhat are ground with a yantra drawn on the grinding stone, moulded, chanted 108 times, buried three days, dug up, chanted a thousand times and then held in the mouth against spear, sword, gun, thorns and fangs. In the second the Samphutthe yantra is drawn on paper, rolled round, wound with thread and held under the tongue. The third writes the Sixteen Buddhas formula on a slate and erases it to powder 108 times, mixing that with stupa lichen and pencil dust in lacquer — the same erased-chalk method that makes ผงพุทธคุณ. The fifth beats lead thin, inscribes it, works it into a ball and says a traveller who holds it can go without water. Named temple issues — the black luk om of Wat Bang Pakok, the ลูกอมหมากทุย of the Wat Nong Bua line — are on th.wikipedia by name only.",
+  "keeping_th": "ไม่ต้องเลี้ยง เก็บอย่างของมงคล ถ้าจะอมตามตำราให้ระวังกลืน",
+  "keeping_en": "Nothing to feed. Kept like a takrut. The treatise's fourth recipe boasts the ball still works if swallowed; a lead one should not be."
+ },
+ "sources": [
+  "s:ms6983",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:th-wiki-wat-bang-pakok",
+  "s:amulet-reference"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3991–4050 (printed pp. 114–116, ตำราสร้างลูกอม แบบที่ ๑–๕)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.materials": {
+    "tier": "catalogue",
+    "source": "s:vault-materials",
+    "note": "keys mapped from the treatise bodies"
+   },
+   "origin.maker_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-bang-pakok",
+    "note": "ลูกอมหมากทุย: th.wiki หลวงปู่ยิ้ม จนฺทโชติ names it without detail; ลูกอมพรายกุมาร: s:amulet-reference card C·08"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "cased-and-hung is the modern trade form"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "bare term collides with candy; excludes are a first pass, review counts"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "locket",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ล็อกเก็ต",
+  "roman": "locket",
+  "en": "photograph locket",
+  "aliases": {
+   "th": [
+    "ล็อกเกต",
+    "ล็อคเก็ต",
+    "ล็อกเก็ตรูปถ่าย",
+    "รูปถ่ายติดกระจก"
+   ],
+   "roman": [
+    "locket",
+    "lockget",
+    "rup thai tit krachok"
+   ],
+   "en": [
+    "monk photo locket",
+    "glass-fronted photo amulet"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "metta_maha_niyom",
+   "khum_khrong"
+  ],
+  "materials": [
+   "kesa",
+   "chiwon",
+   "nuea_phong",
+   "phong_phuttakhun"
+  ],
+  "figures": [
+   "monk"
+  ]
+ },
+ "form": {
+  "type": "locket",
+  "shape_th": "รูปถ่ายพระเกจิใต้กระจกหรือเรซินใส ทรงรี สี่เหลี่ยม หรือข้าวหลามตัด หลังอุดผง เกศา จีวร หรือตะกรุด",
+  "shape_en": "A monk's photograph sealed under glass or clear resin — oval, rectangular or diamond — with powder, hair, robe cloth or a takrut packed behind it",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอ มักเลี่ยมกรอบ",
+  "wearable_en": "Worn at the neck, usually framed",
+  "obverse_th": "รูปถ่ายหรือภาพพิมพ์สีของพระเกจิ",
+  "obverse_en": "The photograph or colour print of the monk",
+  "reverse_th": "มวลสารอุดหลัง ผง เกศา จีวร ตะกรุด บางชิ้นตอกโค้ด",
+  "reverse_en": "The packed reverse: powder, hair, robe cloth, a takrut, sometimes a stamped code",
+  "notes_en": "Sizes run from small ovals to the 'jumbo' pieces the trade names as such; no single typical size."
+ },
+ "iconography": [
+  {
+   "th": "รูปถ่ายพระเกจิ",
+   "en": "a photograph of a named monk"
+  },
+  {
+   "th": "มวลสารอุดหลัง — ผง เกศา จีวร",
+   "en": "the reverse packing: powder, hair, robe"
+  },
+  {
+   "th": "ฉากหลังทองหรือขาว (ฉากทอง ฉากขาว)",
+   "en": "gold or plain background behind the portrait — trade terms for the two finishes"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "วัดและสำนักทั่วประเทศ",
+  "maker_en": "Temples nationwide",
+  "era_th": "หลังการถ่ายรูปแพร่หลาย ตัวอย่างเสรีเก่าสุดที่พบคือรูปถ่ายติดกระจก พ.ศ. ๒๔๗๕",
+  "era_en": "Follows the spread of photography; the oldest free Commons example is a photo-under-glass of Phra Phimontham (Nak), Wat Arun, dated BE 2475",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ด้านหน้าเป็นรูปถ่าย ไม่ใช่รูปปั๊มหรือหล่อ",
+   "en": "The front is a photograph, not struck or cast relief",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ด้านหลังอุดมวลสาร — ดูผง เส้นเกศา เศษจีวร ตะกรุด",
+   "en": "The reverse is a sealed packing; look for powder, hair, robe threads, a takrut",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "กระจกหรือเรซินนูน ขอบกรอบโลหะ",
+   "en": "Glass or a domed resin front in a metal bezel",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ชั้นเรียกว่าวัตถุมงคล ไม่ใช่พระเครื่อง — พลังอยู่ที่มวลสารและพิธี ไม่มีผู้อยู่",
+   "en": "The vault files it under blessed objects, not Buddha-amulets: power is in the relic packing and the rite, and nobody is home",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญเป็นโลหะปั๊มทั้งชิ้น · ล็อกเก็ตเป็นรูปถ่ายใต้กระจก",
+   "tell_en": "A medallion is solid struck metal; a locket is a photograph under glass with material behind it"
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นหลอดม้วน อาจฝังอยู่หลังล็อกเก็ต",
+   "tell_en": "A takrut is a rolled tube and may be one of the things packed inside a locket's back; the locket is the housing, the takrut the charge"
+  },
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จเป็นผงอัดพิมพ์ทั้งองค์ · ล็อกเก็ตมีผงอยู่หลังรูปเท่านั้น",
+   "tell_en": "A somdej is pressed powder through and through; a locket only has powder as packing behind a picture"
+  }
+ ],
+ "market": {
+  "search": [
+   "ล็อกเก"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Zz005.jpg",
+   "File:Zz019.jpg"
+  ],
+  "wanted_en": "The two free files are a BE 2475 diamond-shaped photo-under-glass of Phra Phimontham (Nak), Wat Arun. Needed: a modern resin locket front and its packed reverse"
+ },
+ "images": [
+  {
+   "file": "locket/locket-zz005-23cb6c.jpg",
+   "source": "commons",
+   "title": "File:Zz005.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zz005.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=90798370",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Witwatarun",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ล็อกเก็ต",
+   "alt_en": "photograph locket — รูปถ่ายติดกระจกข้าวหลามตัด พระพิมลธรรม(นาค) วัดอรุณราชวราราม ปี พ.ศ.2475",
+   "sha256": "0f7380f3734b9e8dcdd3bc31d124d0cd8891ab76b768c00ba835dd38410c5024",
+   "width": 1120,
+   "height": 808,
+   "primary": true
+  },
+  {
+   "file": "locket/locket-zz019-29435a.jpg",
+   "source": "commons",
+   "title": "File:Zz019.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Zz019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=90905313",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Witwatarun",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ล็อกเก็ต",
+   "alt_en": "photograph locket — รูปถ่ายติดกระจกข้าวหลามตัด พระพิมลธรรม(นาค) วัดอรุณราชวราราม ปี พ.ศ.2475",
+   "sha256": "36684723491f017bfbd66a3d1baf13c81c193c1c2795c5a1e93d7ab8a3369bd9",
+   "width": 1200,
+   "height": 836
+  }
+ ],
+ "text": {
+  "what_th": "รูปถ่ายพระเกจิผนึกใต้กระจกหรือเรซิน หลังอุดผง เกศา หรือจีวร — คือที่บรรจุพระธาตุแบบพกพาในรูปของเครื่องประดับ พลังอยู่ที่มวลสารและพิธี ไม่มีผู้อยู่",
+  "what_en": "A monk's photograph sealed under glass or resin, often with powder, hair, or robe-cloth packed behind the image — a portable reliquary in costume jewellery's clothes.",
+  "story_th": "แบบเก่าคือรูปถ่ายติดกระจก เช่นของพระพิมลธรรม (นาค) วัดอรุณ ปี ๒๔๗๕ แบบใหม่พิมพ์สีเคลือบเรซิน หลังอุดผงพุทธคุณ เกศา จีวร หรือตะกรุด และมักตอกโค้ด วงการเรียกฉากทอง ฉากขาว และขนาดจัมโบ้",
+  "story_en": "The older form is a photograph mounted under glass; the free Commons example is a diamond-shaped one of Phra Phimontham (Nak) of Wat Arun dated BE 2475. The modern form is a colour print under clear resin with the reverse packed with sacred powder, hair, robe cloth or a takrut and usually stamped with a code. The trade names the finishes by background — gold or plain — and the large sizes as jumbo.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "keeping_en": "Nobody home, nothing owed; a blessed object. What is behind the picture is a relic of the monk, not a resident."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:commons-amulets-th",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:commons-amulets-th",
+    "note": "file description of Zz005.jpg / Zz019.jpg"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

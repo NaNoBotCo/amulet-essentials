@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "id": "wua-thanu",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "วัวธนู",
+  "roman": "wua thanu",
+  "en": "Wua thanu (guardian bull)",
+  "aliases": {
+   "th": [
+    "ควายธนู",
+    "วัธนู"
+   ],
+   "roman": [
+    "wua tanu",
+    "khwai thanu",
+    "kwai tanoo"
+   ],
+   "en": [
+    "bow-bull",
+    "buffalo talisman",
+    "guardian buffalo"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "hun_phayon",
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปวัวหรือควาย สานจากตอกไม้ไผ่ที่ขึ้นคร่อมทาง หรือปั้นจากดินหรือขี้ผึ้ง ของตลาดหล่อโลหะ",
+  "shape_en": "A bull or buffalo, woven from strips of bamboo that grew arching over a path (method 1) or moulded from clay or beeswax (method 2). Modern pieces are cast metal, sometimes with coffin-nail iron in the mix per Thai Wikipedia.",
+  "size_mm": null,
+  "wearable_th": "ไม่ห้อยคอ ตั้งในโรงเล็ก ของตลาดมีแบบพกได้",
+  "wearable_en": "Not worn in the treatise; housed in a small shed. The market sells pocket versions.",
+  "obverse_th": "ตัววัวทั้งตัว เขาแหลม",
+  "obverse_en": "The whole animal, horns pointed",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The vault class vocabulary lists only หุ่นพยนต์ and พยนต์ as members; the bull is placed in hun_phayon by inference from its making — animated by katha, housed, told its job, fed — and awaits a knower's ruling."
+ },
+ "iconography": [
+  {
+   "th": "วัวเขาแหลมคือหอก",
+   "en": "a bull whose horns the katha calls spears"
+  },
+  {
+   "th": "ควายธนู: อิศวรเป็นตาซ้าย อาทิตย์ตาขวา นารายณ์เป็นเขา อินทร์เป็นหาง จตุโลกบาลเป็นสี่เท้า ฝูงผีเป็นไส้พุง",
+   "en": "the buffalo variant assembles gods into its parts — Ishvara the left eye, the Sun the right, Narayana the horns, Indra the tail, the four world-guardians its feet, the host of ghosts its guts"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; Thai Wikipedia ties the buffalo form to rice-farming animism without a date",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นรูปวัวหรือควายทั้งตัว ไม่ใช่เขาสัตว์เปล่า",
+   "en": "A whole bull or buffalo figure, never a bare horn — a horn alone is a natural talisman",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตอกไม้ไผ่สาน ดิน หรือขี้ผึ้ง ตามตำรา ของใหม่หล่อโลหะ",
+   "en": "Woven bamboo strip, clay or beeswax in the treatise; cast metal on the modern shelf",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มีโรงหรือที่อยู่ มีหญ้าน้ำวางไว้ — ของที่เลี้ยงคือวัวธนู",
+   "en": "A kept piece has a shed or place of its own with grass and water set out; that upkeep is the class tell",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ทำวัวหรือควายอย่างเดียว ไม่ทำคู่",
+   "en": "The treatise says choose bull or buffalo, not both; a pair is a market idea",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เป็นรูปคนถืออาวุธ วัวธนูเป็นรูปสัตว์ ปลุกและเลี้ยงเหมือนกัน",
+   "tell_en": "A hun phayon is a man with a weapon, a wua thanu a bull; both are woken by katha, housed and fed, so the class is shared and only the figure differs."
+  },
+  {
+   "id": "phaya-tao-ruean",
+   "tell_th": "เต่าเรือนเป็นวัตถุมงคลรูปสัตว์ ไม่มีผู้อยู่ ไม่ต้องเลี้ยง วัวธนูต้องเลี้ยงหญ้าน้ำ",
+   "tell_en": "The house-turtle is a blessed animal amulet with nobody home; the bull is fed grass and water. Same shelf, different keeping."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นเด็ก เลี้ยงอย่างลูก วัวธนูเป็นสัตว์เฝ้าบ้าน เลี้ยงอย่างสัตว์",
+   "tell_en": "A kuman is a child-spirit raised as family; the bull is a guard animal fed as an animal. Neither is a phra khrueang."
+  }
+ ],
+ "market": {
+  "search": [
+   "วัวธนู",
+   "ควายธนู"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph on Wikimedia Commons as of 2026-09-02 (searches on วัวธนู, wua thanu, khwai thanu returned nothing). Needed: a woven-bamboo bull whole, a cast pocket piece, and one in its shed with grass and water."
+ },
+ "images": [],
+ "text": {
+  "what_th": "รูปวัวหรือควายที่สาน ปั้น หรือหล่อ แล้วปลุกด้วยคาถาให้เฝ้าบ้าน ตำราให้ทำโรงให้อยู่ บอกความประสงค์ และเลี้ยงด้วยหญ้าและน้ำอย่างสัตว์เป็น ผู้ร้ายเข้ามาให้ชน",
+  "what_en": "A bull or buffalo figure — woven, moulded or cast — woken by katha to guard the house. The treatise gives it a shed, tells it what is wanted, and feeds it grass and water like a living beast; intruders are to be gored.",
+  "story_th": "แบบที่ ๑ ตัดไม้ไผ่ที่ขึ้นคร่อมทางให้ขาดในทีเดียวพร้อมว่า นะโมตัสสะ จักเป็นตอกสานเป็นวัว บริกรรม โอม โคโน โคโน จนเสร็จ เสกอีก ๗ ที ทำโรงให้ สั่งว่าถ้าผู้ร้ายเข้ามาจงชนให้ตาย เซ่นเหล้าขาว แบบที่ ๒ ปั้นดินหรือขี้ผึ้งเป็นวัว เสกด้วยคาถา เขากูแหลมคือหอก ทำที่ให้อยู่ หาหญ้าน้ำเลี้ยงด้วยคาถาเลี้ยง บอกความประสงค์ กันโจรภัยสารพัด ควายธนูทำอย่างเดียวกัน แต่เลือกทำอย่างใดอย่างหนึ่ง",
+  "story_en": "Method 1 cuts, in a single stroke and with the namo tassa, a bamboo that grew arching over a path, splits it and weaves a bull while reciting 'om ko-no ko-no' to the end, consecrates it seven more times, builds it a shed, instructs it to gore any wrongdoer to death, and offers white liquor. Method 2 moulds clay or beeswax into a bull and consecrates it with a katha in which the bull's horns are spears and its gaze spans a hundred thousand leagues, then gives it a place, grass and water under its own feeding-katha, and tells it what is wanted — against every kind of theft. The buffalo is made the same way with gods assembled into its body; the treatise says make one or the other, not both.",
+  "keeping_th": "มีสิ่งที่ถูกปลุกอยู่ ต้องมีที่อยู่ หญ้า น้ำ และคำสั่ง วิกิพีเดียไทยว่าบางถิ่นเชื่อว่าละเลยแล้ววัวจะกลับมาทำร้ายเจ้าของ",
+  "keeping_en": "Something animated is home. It owes a place, grass, water and instructions; Thai Wikipedia records a regional belief that a neglected buffalo turns on its keeper. Class placement is this record's inference — see form.notes_en — and worth asking who kept it before you."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-khwai-thanu",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 2993–3033 (printed pp. 76–77): วัวธนู แบบที่ ๑ / ๒, ควายธนู"
+  },
+  "fields": {
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "not a listed member of any class; placed with hun_phayon by upkeep (animated, housed, fed)"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "cast-metal and coffin-nail detail: s:th-wiki-khwai-thanu"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "inference"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search terms are this record's, not holding_key's"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

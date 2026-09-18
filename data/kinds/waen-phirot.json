@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "waen-phirot",
+ "names": {
+  "th": "แหวนพิรอด",
+  "roman": "waen phirot",
+  "en": "Phirot ring (plaited yantra ring)",
+  "aliases": {
+   "th": [
+    "พิรอด",
+    "แหวนหัวพิรอด",
+    "พิรอดนิ้ว",
+    "พิรอดแขน"
+   ],
+   "roman": [
+    "waen pirod",
+    "pirod ring",
+    "phirot"
+   ],
+   "en": [
+    "woven yantra ring",
+    "pirod armband"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "chang_ngang",
+   "metta_maha_niyom"
+  ],
+  "materials": [],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "ring",
+  "shape_th": "แหวนถักจากแถบกระดาษหนัง ผ้า หรือด้ายที่ลงยันต์แล้ว ขมวดเป็นหัวพิรอด ยอด ๓ ๕ หรือ ๙ ทารักปิดทอง มีทั้งขนาดนิ้วและขนาดต้นแขน",
+  "shape_en": "A ring plaited from a strip of inscribed parchment-paper, cloth or thread, the ends worked into the raised 'phirot' knot that names it, lacquered and sometimes gilded. Finger size (phirot niu) or upper-arm size (phirot khaen). The treatise's grass version is plaited from phraek grass.",
+  "size_mm": null,
+  "wearable_th": "สวมนิ้ว หรือรัดต้นแขน",
+  "wearable_en": "Worn on the finger, or as an armband on the upper arm — the treatise assigns fingers by errand: thumb to visit one's own teacher, ring finger to visit lords.",
+  "obverse_th": "หัวพิรอด — ปมถักนูน",
+  "obverse_en": "The phirot head: a raised plaited knot with 3, 5 or 9 peaks",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Materials the treatise names: phraek grass (แหวน แบบที่ ๒), parchment-paper inscribed in Khom (แบบที่ ๓, ๔), plain paper (แบบที่ ๖, ๗, ๘). The recipe headed แบบที่ ๑ on printed p.87 is actually a kuman-raising text; the heading is misplaced in the transcription."
+ },
+ "iconography": [
+  {
+   "th": "หัวพิรอด ปมถักยอด ๓ ๕ ๙",
+   "en": "the phirot knot, 3/5/9-peaked"
+  },
+  {
+   "th": "ยันต์แถบยาวปลายหัวลูกศร อักขระขอม",
+   "en": "a long band yantra with arrow-headed ends and Khom letters inside the plait (treatise diagrams)"
+  },
+  {
+   "th": "ยันต์แก้ว ๓ ประการ / ยันต์แปดทิศ",
+   "en": "the Three Jewels yantra (แบบที่ ๔) or an eight-petal eight-direction yantra (แบบที่ ๘)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดประดู่โรงธรรม (วัดประดู่ทรงธรรม) อยุธยา",
+  "wat_en": "Wat Pradu Rong Tham / Pradu Songtham, Ayutthaya — named by both the treatise and th.wikipedia",
+  "maker_th": "พระอุปัชฌาย์ม่วง (หลวงพ่อม่วง) วัดประดู่โรงธรรม",
+  "maker_en": "Preceptor Muang of Wat Pradu Rong Tham, the maker both sources name; the ring itself is older than any one maker",
+  "era_th": "รัตนโกสินทร์ตอนต้น–ร.๕ (ตามวิกิพีเดีย)",
+  "era_en": "th.wikipedia says King Rama V praised Luang Pho Muang's rings in his own writing; the treatise is undated",
+  "place_th": "ภาคกลาง",
+  "place_en": "Central Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นแหวนถัก ไม่ใช่โลหะหล่อ — ถ้าเป็นโลหะล้วนไม่ใช่พิรอด",
+   "en": "It is plaited, not cast: a solid-metal ring with a yantra is a different object",
+   "source": "s:th-wiki-phirot",
+   "tier": "cited"
+  },
+  {
+   "th": "มีหัวพิรอด ปมนูนยอด ๓ ๕ หรือ ๙",
+   "en": "Look for the raised phirot knot with 3, 5 or 9 peaks",
+   "source": "s:th-wiki-phirot",
+   "tier": "cited"
+  },
+  {
+   "th": "ผิวรักดำ บางวงปิดทอง ใต้รักเห็นเส้นถัก",
+   "en": "Black lacquer skin, sometimes gilded; the plait shows through under a loupe",
+   "source": "s:th-wiki-phirot",
+   "tier": "cited"
+  },
+  {
+   "th": "วิกิพีเดียว่าของหลวงพ่อม่วงถูกทดสอบด้วยไฟถ่าน วงที่ไม่ไหม้จึงใช้ — คำเล่า ไม่ใช่วิธีพิสูจน์ของแท้",
+   "en": "th.wikipedia records that the Wat Pradu rings were put in a charcoal fire and only the unburnt ones kept. A story about the making, not a test a buyer can run",
+   "source": "s:th-wiki-phirot",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดม้วนเป็นหลอด พิรอดถักเป็นวงสวม",
+   "tell_en": "A takrut is the same inscribed strip rolled into a tube and hung; a phirot is the strip plaited into a ring you wear. Same class."
+  },
+  {
+   "id": "sai-sin",
+   "tell_th": "สายสิญจน์เป็นด้ายดิบผูกข้อมือ ไม่ลงยันต์ ไม่ทารัก",
+   "tell_en": "Sai sin is bare white thread tied at the wrist after chanting, no yantra, no lacquer; a phirot is plaited, lacquered and inscribed."
+  },
+  {
+   "id": "luk-sakot",
+   "tell_th": "ลูกสะกดเป็นเม็ดตะกั่วร้อยเชือก ไม่ใช่วงถัก",
+   "tell_en": "Luk sakot are small lead beads on a cord; a phirot is a single plaited ring."
+  }
+ ],
+ "market": {
+  "search": [
+   "แหวนพิรอด",
+   "พิรอด"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02 (searches: phirot ring, แหวนพิรอด, woven ring amulet). Needed: a finger ring showing the knot head, an arm-size phirot on a boxer or soldier, and a detail of the plait under the lacquer."
+ },
+ "images": [],
+ "text": {
+  "what_th": "แหวนที่ถักจากแถบกระดาษ ผ้า หรือด้ายซึ่งลงยันต์และเสกแล้ว ขมวดปลายเป็นหัวพิรอด สวมนิ้วหรือรัดแขน เชื่อกันว่าอยู่คงแคล้วคลาด ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "A ring plaited from an inscribed, consecrated strip of paper, cloth or thread, its ends worked into the phirot knot, worn on a finger or the upper arm for invulnerability and evasion. Power in the inscription and the rite; nobody home.",
+  "story_th": "ตำราให้หลายวิธี: เอาหญ้าแพรกถักเป็นแหวนหัวพิรอดแล้วเสก ๗ คาบ คงแก่อาวุธ; หรือลงยันต์บนกระดาษหนังแล้วถักเป็นแหวน เสกในตัว ๑๐๘ คาบ ใส่มือกันธนูหน้าไม้ปืนไฟ; ยันต์แบบที่ ๓ ให้ทำวันดี วันจันทรคราสยิ่งดี เสก ๑๘ ที เป็นจังงังแก่เขี้ยวงา ถ้าขุนนางโกรธให้สวมแหวนภาวนาไตรสรณคมน์ วิกิพีเดียเล่าว่าหลวงพ่อม่วง วัดประดู่โรงธรรม ถักแล้วโยนลงไฟถ่าน วงที่ไม่ไหม้จึงปิดทองแจก",
+  "story_en": "The treatise gives several recipes. Plait phraek grass into a phirot-headed ring and consecrate it seven times against all weapons; or inscribe a Khom katha on parchment-paper, plait it into the ring, empower it on your own body 108 times and wear it against bows, crossbows and firearms. One band-yantra version is to be made on an auspicious day, best a lunar eclipse, chanted eighteen times so that fangs and tusks are struck still; if a lord is angry, put the ring on and recite the Triple Refuge until it passes. The treatise names the same maker th.wikipedia does — Preceptor Muang of Wat Pradu Rong Tham — and Wikipedia adds the test: finished rings went into a charcoal fire, and only those that did not burn were gilded and given out.",
+  "keeping_th": "ไม่ต้องเลี้ยง ไม่มีผู้อยู่ เก็บอย่างของมงคล ถอดเมื่อจะทำสิ่งไม่งาม",
+  "keeping_en": "Nothing to feed and nobody to answer to: a consecrated object, kept with ordinary respect. Same keeping as a takrut."
+ },
+ "sources": [
+  "s:ms6983",
+  "s:th-wiki-phirot",
+  "s:vault-classes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3343–3440 (printed pp. 88–91, ตำราสร้างแหวน แบบที่ ๒–๘)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phirot",
+    "note": "knot peaks, lacquer, finger/arm sizes from th.wiki; materials from the treatise"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-phirot",
+    "note": "maker also at ms6983 line 3394; wat_slug not in wats-detail.json"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "romanisations seen in trade"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "terms not in holding_key; counts to be read at build"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

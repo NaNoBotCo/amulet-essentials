@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "chingchok-song-hang",
+ "names": {
+  "th": "จิ้งจกสองหาง",
+  "roman": "chingchok song hang",
+  "en": "Two-tailed gecko",
+  "aliases": {
+   "th": [
+    "จิ้งจก ๒ หาง",
+    "จิ้งจกหางแฉก"
+   ],
+   "roman": [
+    "jingjok song hang",
+    "jing jok 2 hang"
+   ],
+   "en": [
+    "forked-tail gecko charm",
+    "double-tailed house gecko"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "chok_lap",
+   "metta_maha_niyom"
+  ],
+  "materials": [],
+  "figures": [
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "จิ้งจกบ้านที่หางขาดแล้วงอกใหม่เป็นสองแฉก ตัวจริงตายแล้วเก็บแห้งในตลับ หรือรูปจิ้งจกสองหางแกะจากไม้ หรือหล่อโลหะ และเป็นลายหลังพระสมเด็จ",
+  "shape_en": "A house gecko whose broken tail regrew as a fork. The natural specimen is kept dried in a box; the trade also sells carved or cast two-tailed gecko figures, and th.wikipedia records a somdet with the gecko on its back.",
+  "size_mm": null,
+  "wearable_th": "ตัวจริงเก็บในตลับ รูปแกะเลี่ยมห้อยคอ",
+  "wearable_en": "The specimen stays in a box; carved versions are cased and worn",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "A natural anomaly, kin to กะลาตาเดียว: nothing conferred, nothing to feed. Tail regeneration after autotomy is ordinary biology (th.wikipedia จิ้งจก: 2–6 weeks); a fork is the uncommon outcome, which is the whole of the rarity. Modern copies are the norm and the honest seller says so."
+ },
+ "iconography": [
+  {
+   "th": "จิ้งจกหางแยกสองแฉก",
+   "en": "a gecko with the tail split in two"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดโพธิ์รัตนาราม ราชบุรี (พระสมเด็จหลังจิ้งจกสองหาง พ.ศ. ๒๕๒๐)",
+  "wat_en": "Wat Pho Rattanaram, Ratchaburi — the one named issue, a somdet with the gecko on the reverse, c. B.E. 2520 (th.wikipedia)",
+  "maker_th": "พระอธิการคง จิตตคโม (พระสมเด็จหลังจิ้งจก)",
+  "maker_en": "Phra Athikan Khong Chittakhamo for that issue; the natural charm has no maker",
+  "era_th": "",
+  "era_en": "The belief is undated folk knowledge; one named issue is 1977",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ตัวจริง: หางงอกใหม่สีคล้ำ เกล็ดหยาบกว่าลำตัว ผิวแฉกเรียบไม่มีข้อ",
+   "en": "On a real specimen the regrown fork is duller and coarser-scaled than the body and lacks the original tail's segment lines — regrowth, not a second tail",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตัวแห้งเปราะ หด ตาโบ๋ — ของสด/ปั้นเรซินเงาผิดธรรมชาติ",
+   "en": "A dried gecko is brittle, shrunken, eye-sockets sunk; a glossy plump one is resin",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ของแกะ/หล่อเป็นรูป ไม่ใช่ตัวสัตว์ — ก็คือรูปเคารพ ไม่ใช่ของธรรมชาติ",
+   "en": "A carved or cast gecko is an image, not the anomaly; class shifts from natural talisman to consecrated object and the seller should say which",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ไม่ต้องเสก ถ้าเสกก็ไม่เสียหาย — แต่อำนาจอยู่ที่ความผิดปกติ",
+   "en": "No consecration is required for the natural piece; its claim rests on the anomaly, as with the one-eyed coconut",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kala-ta-diao",
+   "tell_th": "กะลาตาเดียวเป็นผลมะพร้าวผิดปกติ จิ้งจกเป็นสัตว์ผิดปกติ หมวดเดียวกัน",
+   "tell_en": "Same class, different anomaly: a coconut shell with one eye versus a lizard with two tails."
+  },
+  {
+   "id": "salika",
+   "tell_th": "สาลิกาเป็นรูปนกแกะหรือหล่อ ไม่ใช่สัตว์จริง ใช้ทางเมตตา",
+   "tell_en": "A salika is a carved or cast bird for speech-charm, never a real animal; a two-tailed gecko in its natural form is the animal itself."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งในกะลา ของธรรมชาติเหมือนกันแต่ไม่มีรูป",
+   "tell_en": "A khot kala is a concretion, formless; the gecko is a creature with a legible anomaly."
+  }
+ ],
+ "market": {
+  "search": [
+   "จิ้งจกสองหาง"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Two-tailed lizard.jpg"
+  ],
+  "wanted_en": "The one free file (CC BY-SA 3.0) shows a two-tailed lizard as a natural anomaly, not a Thai specimen or charm. Needed: a dried Thai house gecko in its box, and a carved two-tailed gecko amulet."
+ },
+ "images": [
+  {
+   "file": "chingchok-song-hang/chingchok-song-hang-two-tailed-lizard-9b48cc.jpg",
+   "source": "commons",
+   "title": "File:Two-tailed lizard.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Two-tailed_lizard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=10059777",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Albert kok",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "จิ้งจกสองหาง",
+   "alt_en": "Two-tailed gecko — Two-tailed lizard",
+   "sha256": "7b8e296f0331eb24a1b8f2616de4ba052f0c6422d3e12e0865082feb23ff986f",
+   "width": 1069,
+   "height": 837,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "จิ้งจกบ้านที่หางงอกใหม่เป็นสองแฉก ถือเป็นของหายากตามธรรมชาติ เก็บแห้งไว้เพื่อโชคลาภเมตตา ไม่ต้องเสก ไม่ต้องเลี้ยง ของแกะเลียนแบบมีมาก",
+  "what_en": "A house gecko whose regrown tail forked in two, kept dried as a natural rarity for luck and favour. Nothing conferred and nothing to feed; carved imitations far outnumber the real thing.",
+  "story_th": "จิ้งจกสละหางหนีศัตรูแล้วงอกใหม่ได้ใน ๒–๖ สัปดาห์ นานๆ ครั้งจะงอกเป็นสองแฉก คนไทยถือว่าตัวที่ได้เป็นของขลัง เก็บตากแห้งใส่ตลับ วัดโพธิ์รัตนาราม ราชบุรี เคยสร้างพระสมเด็จหลังเป็นจิ้งจกสองหางราว พ.ศ. ๒๕๒๐ — ลายหลังนั้นบอกว่าความเชื่อแพร่พอที่วัดจะยืมมาใช้",
+  "story_en": "A gecko drops its tail to escape and regrows it in two to six weeks; now and then the regrowth forks. That animal, found dead or kept, is dried and boxed as a windfall charm. A temple in Ratchaburi put the two-tailed gecko on the back of a somdet around 1977 — evidence the belief was common enough to borrow. Ms 6983 does not mention it; this is folk knowledge, not treatise.",
+  "keeping_th": "เก็บในตลับให้แห้ง ไม่ต้องบูชา ไม่ต้องเลี้ยง",
+  "keeping_en": "Kept dry in its box. No offerings owed, nobody home. Safe to adopt with unknown history, the same as any natural talisman."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:th-wiki-wat-pho-rattanaram",
+  "s:tradition",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "placed beside กะลาตาเดียว by analogy; not a listed member"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-pho-rattanaram"
+   },
+   "text.story_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "regeneration time from th.wiki จิ้งจก (not added as a source: taxonomic article); issue from s:th-wiki-wat-pho-rattanaram"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th",
+    "note": "licence checked 2026-09-02"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

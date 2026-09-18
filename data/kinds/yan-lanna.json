@@ -1,0 +1,313 @@
+{
+ "schema": 1,
+ "id": "yan-lanna",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ยันต์ล้านนา",
+  "roman": "yan lanna",
+  "en": "Lanna yantra (Tai Tham script)",
+  "aliases": {
+   "th": [
+    "ผ้ายันต์ล้านนา",
+    "ยันต์ตัวเมือง",
+    "ยันต์เทียน",
+    "ยันต์อักษรธรรม"
+   ],
+   "roman": [
+    "yant lanna",
+    "yan tua mueang",
+    "yan thian"
+   ],
+   "en": [
+    "Northern Thai yantra",
+    "Tua Mueang yantra",
+    "Lanna yant cloth"
+   ]
+  }
+ },
+ "region": [
+  "th-north"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "metta_maha_niyom",
+   "kan_phi"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "cloth"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "ผ้ายันต์ผืนใหญ่ หรือยันต์เทียน (ยันต์ลงแผ่นแล้วม้วนในเทียน) หรือแผ่นโลหะ เขียนด้วยอักษรธรรมล้านนา",
+  "shape_en": "A cloth square or banner, often larger than the central kind; or a 'candle yantra' (a written sheet rolled into a candle); or a metal sheet — all written in Tai Tham (ตัวเมือง) script",
+  "size_mm": null,
+  "wearable_th": "แขวนเหนือประตู พับใส่กระเป๋า หรือจุดเทียนยันต์",
+  "wearable_en": "Hung over a door, folded into a pocket, or the candle is lit",
+  "obverse_th": "ตารางและวงยันต์ อักขระธรรมล้านนา ตัวเลข รูปสัตว์และเทพ",
+  "obverse_en": "Grids and rings of Tai Tham syllables and numerals, with animal and deity figures",
+  "reverse_th": "เรียบ",
+  "reverse_en": "Plain",
+  "notes_en": "Northern yantra per th.wiki เลขยันต์: Dharma-Lanna script, candle yantras the commonest form, cloth pieces larger than elsewhere."
+ },
+ "iconography": [
+  {
+   "th": "อักษรธรรมล้านนา (ตัวเมือง)",
+   "en": "Tai Tham / Tua Mueang script, Unicode U+1A20–U+1AAF"
+  },
+  {
+   "th": "ตารางยันต์ วงกลม รูปสัตว์",
+   "en": "grid and ring layouts with animal figures"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ครูบาและพ่อหนานล้านนา",
+  "maker_en": "Lanna monks (khruba) and ex-monk lay masters (pho nan)",
+  "era_th": "สืบจากตำราใบลานอักษรธรรม",
+  "era_en": "Continues the palm-leaf manuscript tradition written in Tai Tham; script use in the north declined after 1930s Thaification and is reviving",
+  "place_th": "เชียงใหม่ ลำพูน ลำปาง แพร่ น่าน เชียงราย",
+  "place_en": "Chiang Mai, Lamphun, Lampang, Phrae, Nan, Chiang Rai",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "อักษรเป็นตัวเมืองกลมมน ไม่ใช่อักษรขอมของภาคกลาง",
+   "en": "The script is rounded Tai Tham, not the angular Khom of central yantra: the one mark that settles north against centre at a glance",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "ยันต์เทียนพบมากที่สุดในภาคเหนือ",
+   "en": "Candle yantras are the commonest northern carrier; a written sheet rolled inside the wax",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "ผ้ายันต์ภาคเหนือมักผืนใหญ่กว่า",
+   "en": "Northern cloth yantras run larger than central ones",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "อักษรธรรมเขียนบาลีและคำเมือง เลขโหราและเลขธรรมประกอบ",
+   "en": "The script carries Pali and Kam Mueang; astrological and dharma numerals sit in the cells",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "ตัวเมือง ≠ อักษรธรรมอีสาน ≠ ลาว — ใกล้กันมาก ต้องดูรูปพยัญชนะ",
+   "en": "Tai Tham, Tham Isan and Lao Tham are close cousins; telling them apart takes the letter forms, not the layout",
+   "source": "s:en-wiki-tai-tham",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ภาคกลางเขียนอักษรขอม · ยันต์ล้านนาเขียนตัวเมือง คลาสส์เดียวกัน",
+   "tell_en": "Same class, same cloth: a central pha yan is written in Khom script, a Lanna one in Tai Tham. Read the letters."
+  },
+  {
+   "id": "lao-yan",
+   "tell_th": "ยันต์ลาวใช้อักษรธรรมลาว ใกล้ตัวเมืองมาก ดูรูปพยัญชนะ",
+   "tell_en": "A Lao yan is in Lao Tham script, a near cousin of Tai Tham; only the letter forms separate them"
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ยันต์เขมรเป็นอักษรขอม/เขมร มักมีรูปคนและสัตว์แบบเขมร",
+   "tell_en": "A Khmer yantra cloth is in Khmer script with Khmer figure drawing"
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดคือยันต์ม้วนในหลอดโลหะ ยันต์ล้านนาก็ทำเป็นตะกรุดได้",
+   "tell_en": "A takrut is a yantra rolled in a metal tube; a Lanna yantra can be rolled into one too, and then the script is the only tell"
+  }
+ ],
+ "market": {
+  "search": [
+   "ยันต์ล้านนา",
+   "ผ้ายันต์ล้านนา"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Yantra in Thailand",
+   "Category:Tai Tham script"
+  ],
+  "commons_files": [
+   "File:Wat Ku Daeng - palm leaf manuscript.jpg",
+   "File:Tai Tham script sample.svg",
+   "File:Lanna Tua Mueang.svg",
+   "File:จารึกอักษรล้านนา พระธาตุขวยปู.jpg",
+   "File:Yantric Matrices04.jpg",
+   "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png"
+  ],
+  "wanted_en": "No free file shows a Lanna yantra itself: the listed files show the Tai Tham script and central-style yantra plates. Needed: a Lanna cloth yantra flat and lit evenly, and a candle yantra unrolled beside its candle."
+ },
+ "text": {
+  "what_th": "ยันต์ของภาคเหนือ เขียนด้วยอักษรธรรมล้านนา (ตัวเมือง) บนผ้า เทียน หรือแผ่นโลหะ อำนาจอยู่ที่อักขระและพิธี ไม่มีผู้อยู่ ลายยันต์จากตำรามีดัชนีที่ wichaa.net/yant",
+  "what_en": "The northern yantra: grids, rings and figures written in Tai Tham (ตัวเมือง) script on cloth, in candles, or on metal. Power sits in the inscription and the rite, nobody home. The drawn designs from the treatises have their own index at wichaa.net/yant.",
+  "story_th": "ตัวเมืองเป็นอักษรที่ล้านนาใช้เขียนบาลีและคัมภีร์ใบลาน ยันต์เหนือจึงเขียนด้วยอักษรนี้แทนอักษรขอม วิกิพีเดียไทยว่าภาคเหนือนิยมยันต์เทียนมากที่สุดและผ้ายันต์ผืนใหญ่กว่าภาคอื่น อักษรถูกทิ้งไปช่วงนโยบายรัฐนิยมทศวรรษ 2480 แต่พระยังอ่านได้และคนรุ่นใหม่กลับมาเรียน",
+  "story_en": "Tai Tham is the script Lanna used for Pali and its palm-leaf scriptures, so the north wrote its yantra in it rather than in Khom. Thai Wikipedia's เลขยันต์ has candle yantras as the region's commonest form and its cloth yantras larger than elsewhere. Thaification in the 1930s pushed the script out of schools, but monks kept reading it and it is being relearned; the yantra never stopped being written. The sibling index at wichaa.net/yant catalogues 36 designs across 63 treatise plates by virtue and figure.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ให้ความเคารพตามธรรมดาของยันต์ อย่าวางในที่ต่ำ",
+  "keeping_en": "Nothing owed and nobody home. Ordinary respect for an inscribed object: not underfoot, not in a low place."
+ },
+ "sources": [
+  "s:th-wiki-lek-yan",
+  "s:th-wiki-tai-tham",
+  "s:en-wiki-tai-tham",
+  "s:wichaa-yant",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-lek-yan"
+  },
+  "fields": {
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-tai-tham"
+   },
+   "origin": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-tai-tham"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "yan-lanna/yan-lanna-wat-ku-daeng-palm-leaf-manuscript-b051d1.jpg",
+   "source": "commons",
+   "title": "File:Wat Ku Daeng - palm leaf manuscript.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Wat_Ku_Daeng_-_palm_leaf_manuscript.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158446648",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Lannafolium",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — Wat Ku Daeng - head monk with a palm leaf manuscript written in the Lanna script",
+   "sha256": "bb8bc3cc0d4a77bdbc36630e4873a1daeb635518b09d09d0c807f7d0b36312eb",
+   "width": 4080,
+   "height": 3060,
+   "primary": true
+  },
+  {
+   "file": "yan-lanna/yan-lanna-yantric-matrices04-f774fb.jpg",
+   "source": "commons",
+   "title": "File:Yantric Matrices04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yantric_Matrices04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3713973",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Pawyi Lee photo of poster by หลวงปู่พรหมมา เซมจาโร",
+   "credit": "Khun Pm Beauty Shop, Nanaphan Sq, Yasothon, Thailand. Poster from สำนักสงฆ์สวนหินผานางคอย อ.ษรีเมืองใกม่ จ.อุบลราชะานี\n\nSilver image of poster's author is here http://www.krusiam.com/shop/takhli/product/detail.asp?ProductID=P0035934",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — Photo of มหายันต์พันล้าน Yantric diagrams",
+   "sha256": "ec7d1e06e80b19c6aa1eedc47eeb88448bf7ade6ec8deffeb780793625e03791",
+   "width": 2979,
+   "height": 1875
+  },
+  {
+   "file": "yan-lanna/yan-lanna-jpg-8ecf69.jpg",
+   "source": "commons",
+   "title": "File:จารึกอักษรล้านนา พระธาตุขวยปู.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%B2_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%82%E0%B8%A7%E0%B8%A2%E0%B8%9B%E0%B8%B9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=74941417",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Elfidee",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — แผ่นจารึกอักษรธรรมล้านนาของครูบานันตา(พระครูญาณวิลาศ) พ.ศ.2446 ติดด้านหน้าฐานพระธาตุขวยปู",
+   "sha256": "37965c1fcfa36b83b5f84ca527b38bc123b79dce346b8a431392494005a4bf7e",
+   "width": 4512,
+   "height": 3000
+  },
+  {
+   "file": "yan-lanna/yan-lanna-tai-tham-script-sample-svg-5d8f5e.png",
+   "source": "commons",
+   "title": "File:Tai Tham script sample.svg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tai_Tham_script_sample.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=112594578",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Alifshinobi",
+   "credit": "File:Tai_Tham_script_sample.png",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — อักษรไทยธรรม",
+   "sha256": "09a8e971937d59e06b3063e1f6d1d3dfd2fbec63cc86cba1031856b0a70e2e0a",
+   "width": 2858,
+   "height": 1408
+  },
+  {
+   "file": "yan-lanna/yan-lanna-lanna-tua-mueang-svg-874709.png",
+   "source": "commons",
+   "title": "File:Lanna Tua Mueang.svg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Lanna_Tua_Mueang.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=112675158",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Autoisme",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — ตัวเมือง",
+   "sha256": "a3b71eaf8c8ad9dedba975f6647967856662fd7964fc677682c99bf1b4dabdf7",
+   "width": 3335,
+   "height": 1586
+  },
+  {
+   "file": "yan-lanna/yan-lanna-yan-takrut-thai-19th-century-yantra-and-3759b4.png",
+   "source": "commons",
+   "title": "File:Yan Takrut (ยันต์ตะกรุด) - Thai 19th century yantra and amulet manuscript.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Yan_Takrut_%28%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%29_-_Thai_19th_century_yantra_and_amulet_manuscript.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136301565",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "19th century artist",
+   "credit": "Part of the digitalized manuscript in the Manuscripts of Western Thailand Database - Princess Maha Chakri Sirindhorn Anthropology Centre [2]",
+   "view": "other",
+   "alt_th": "ยันต์ล้านนา",
+   "alt_en": "Lanna yantra (Tai Tham script) — Part of a Thai folding book (identifier NPT-004-011) at Wat Lam Phaya Folk Floating Market Museum, Nakhon Pathom. Accord",
+   "sha256": "b672b558fc5e300c0fc1ccecd175cbf46684d70e9cfb738f1c69bdc7c41717a6",
+   "width": 901,
+   "height": 508
+  }
+ ]
+}

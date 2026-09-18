@@ -1,0 +1,604 @@
+{
+ "schema": 1,
+ "id": "rup-lersi",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "รูปพระฤๅษี",
+  "roman": "rup phra ruesi",
+  "en": "Phra Lersi figure (the hermit-teacher)",
+  "aliases": {
+   "th": [
+    "ฤๅษี",
+    "ฤาษี",
+    "พระฤๅษี",
+    "พ่อแก่",
+    "ปู่ฤๅษี"
+   ],
+   "roman": [
+    "lersi",
+    "ruesi",
+    "reusi",
+    "pho kae"
+   ],
+   "en": [
+    "hermit sage",
+    "rishi figure",
+    "Por Gae"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_din",
+   "nuea_loha",
+   "thonglueang"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "ฤๅษีนั่งขัดสมาธิ ชฎาสูง หนวดเครา ห่มหนังเสือ มือขวาถือลูกประคำ — รูปปั้นดิน รูปหล่อ และหน้ากากพ่อแก่",
+  "shape_en": "A bearded hermit seated cross-legged in a tall chignon-crown, tiger-skin over the shoulder, a rosary in the right hand; moulded earth, cast metal, and the mask-head type (พ่อแก่) used on teacher-shrines",
+  "size_mm": null,
+  "wearable_th": "รูปตั้งบูชาบนหิ้งครูเป็นหลัก มีจี้และล็อกเก็ตด้วย",
+  "wearable_en": "Chiefly a shelf figure on the teacher's altar; pendants and lockets exist",
+  "obverse_th": "ฤๅษีนั่ง มือซ้ายตั้งบนตัก มือขวาถือลูกประคำ ตามตำราแบบที่ ๓",
+  "obverse_en": "Seated hermit, left hand on the lap, right hand holding a rosary (treatise method 3)",
+  "reverse_th": "เรียบ หรือลงเลขยันต์",
+  "reverse_en": "Plain, or numeral yantra",
+  "notes_en": "Method 3 places numerals on the body: 1 at the crown, 9 on both upper arms, 2 on both knees, 7 at the front of the base. No function key fits 'mastery of healing and mantra'; khum_khrong stands for method 2's claim that the katha wards off every danger."
+ },
+ "iconography": [
+  {
+   "th": "ห่มหนังเสือ",
+   "en": "tiger-skin worn over the shoulder"
+  },
+  {
+   "th": "ชฎาสูง หนวดเครายาว",
+   "en": "tall chignon-crown and long beard"
+  },
+  {
+   "th": "ลูกประคำในมือขวา",
+   "en": "a rosary in the right hand"
+  },
+  {
+   "th": "เลข ๑ ๙ ๒ ๗ ตามร่าง",
+   "en": "treatise numerals 1, 9, 2, 7 at crown, arms, knees and base"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง) ให้ ๓ วิธี",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983, three moulding methods",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปคน ไม่ใช่องค์พระ ไม่ใช่พระเกจิ — ฤๅษีมีชฎา หนวด และหนังเสือ พระภิกษุมีจีวรและศีรษะโล้น",
+   "en": "A human figure, not a Buddha and not a monk: the hermit has a chignon-crown, beard and tiger-skin where a monk has robes and a shaven head",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราปั้นจากดินยอดปลวก ๗ แห่ง — เนื้อดินหยาบ ไม่ใช่ผงอัด",
+   "en": "Treatise pieces are moulded from termite-mound earth gathered at seven places (method 2 adds earths gathered by sevens from named places): a coarse earth body, not pressed powder",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ใบไม้ ๗ อย่างบรรจุในองค์ — ชุมแสง ราชพฤกษ์ มะคำไก่ มะตูม คันทรง กัลปพฤกษ์ ไชยพฤกษ์",
+   "en": "Seven named leaves are sealed inside: chumsaeng, ratchaphruek, makham-kai, matum (bael), khan-song, kanlapaphruek, chaiyaphruek — a filled cavity is the type's mark",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หน้ากากพ่อแก่ (หัวโขนฤๅษี) เป็นรูปครูของนาฏศิลป์ คนละของกับรูปฤๅษีตั้งบูชา แม้เป็นบุคคลเดียวกัน",
+   "en": "The Pho Kae mask-head of the performing arts is a teacher-icon, not the amulet figure, though it is the same sage",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "chuchok",
+   "tell_th": "ชูชกเป็นตาแก่ขอทาน ถือไม้เท้าและย่าม ไม่มีชฎา · ฤๅษีมีชฎา หนังเสือ ลูกประคำ",
+   "tell_en": "Chuchok is an old beggar with a staff and bag and no crown; the lersi has the chignon-crown, tiger-skin and rosary. Both are unplaced by the class vocabulary."
+  },
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "หลวงปู่ทวดเป็นพระภิกษุ ศีรษะโล้น ครองจีวร · ฤๅษีไว้ผมมวยและหนวด",
+   "tell_en": "Luang Pu Thuat is a monk, shaven and robed; the hermit wears his hair up and his beard long."
+  },
+  {
+   "id": "phra-siwali",
+   "tell_th": "พระสีวลียืน แบกกลดและไม้เท้า เป็นพระอรหันต์ · ฤๅษีนั่ง ถือลูกประคำ ไม่ใช่พระภิกษุ",
+   "tell_en": "Phra Siwali stands with umbrella and staff and is an arahant monk; the lersi sits with a rosary and is no monk at all."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือพระเกจิ · ฤๅษีเป็นครูฆราวาส",
+   "tell_en": "A rup lo is a cast monk; the hermit is a lay teacher-sage. Same casting, different head."
+  }
+ ],
+ "market": {
+  "search": [
+   "ฤๅษี",
+   "ฤาษี"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Ruesi"
+  ],
+  "commons_files": [
+   "File:100 Sage and Tiger (9155370109).jpg",
+   "File:Wat Pho 3 ermite et sage ruesi 1.jpg",
+   "File:005 Karasitrusi (9190944614).jpg"
+  ],
+  "wanted_en": "Commons holds temple hermit statues (Wat Pho's stretching hermits, Lopburi). Needed: a small earth or cast shelf figure with the rosary, and a pendant obverse and reverse"
+ },
+ "images": [
+  {
+   "file": "rup-lersi/rup-lersi-100-sage-and-tiger-9155370109-228e53.jpg",
+   "source": "commons",
+   "title": "File:100 Sage and Tiger (9155370109).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/100_Sage_and_Tiger_%289155370109%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50835276",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "100 Sage and Tiger",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Wat Pho, Bangkok",
+   "sha256": "d577d45655c22a0cf9bb91b2624e3ad4f6585e9364d0345095c70c7fca7ba33b",
+   "width": 4252,
+   "height": 3149,
+   "primary": true
+  },
+  {
+   "file": "rup-lersi/rup-lersi-lopburi-prang-sam-yod-rishi-56c40d.jpg",
+   "source": "commons",
+   "title": "File:Lopburi Prang Sam Yod Rishi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lopburi_Prang_Sam_Yod_Rishi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=1660",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Ahoerstemeier",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Carving of Rishi in the base of a colonette of the southern door of Prang Sam Yod, Lopburi, Thailand. \nPhoto taken by Us",
+   "sha256": "8dcedf92f8959939eb4ab683c52f8c04f968154ee4434f5f5af77497e736f730",
+   "width": 800,
+   "height": 1000
+  },
+  {
+   "file": "rup-lersi/rup-lersi-wat-phra-prang-sam-yod-010-a0b5c2.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra Prang Sam Yod-010.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wat_Phra_Prang_Sam_Yod-010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5622319",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Carving of Rishi (Hermit) in the base of a colonette of the southern door of Prang Sam Yod, Lopburi, Thailand.",
+   "sha256": "77930dae6c6f1fe06de9bc68c8694b0a67ea7f7eb23ce71d005075370607c210",
+   "width": 2304,
+   "height": 3456
+  },
+  {
+   "file": "rup-lersi/rup-lersi-prasat-ban-phluang-012-4e80b4.jpg",
+   "source": "commons",
+   "title": "File:Prasat Ban Phluang-012.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Prasat_Ban_Phluang-012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8710026",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Prasat Ban Phluang, Thailand",
+   "sha256": "7fcac336ee5ce4a03fb9b67997c0b200c62640072aca16480d48f2ee3fa8a907",
+   "width": 2592,
+   "height": 3888
+  },
+  {
+   "file": "rup-lersi/rup-lersi-prasat-ban-phluang-016-bcef69.jpg",
+   "source": "commons",
+   "title": "File:Prasat Ban Phluang-016.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Prasat_Ban_Phluang-016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8710062",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Prasat Ban Phluang, Thailand",
+   "sha256": "1b7f5407e74a6e8d88664bc22cae2086b59d75be46f6334a9a6985b65d8be0a7",
+   "width": 2592,
+   "height": 3888
+  },
+  {
+   "file": "rup-lersi/rup-lersi-2013-wat-suan-tan-02-4dc24d.jpg",
+   "source": "commons",
+   "title": "File:2013 Wat Suan Tan 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2013_Wat_Suan_Tan_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=30618420",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Takeaway",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — A statue of a ruesi (Thai script: ฤษี), a Thai hermit and/or mystic, in his usual attire, at Wat Suan Tan. Ruesi perform",
+   "sha256": "b6328f3220e4b8c7d9d6b0d0f5f36f1974c43d53e5703783d1e36aa7b29825e7",
+   "width": 1790,
+   "height": 2500
+  },
+  {
+   "file": "rup-lersi/rup-lersi-005-karasitrusi-9190944614-7c2cbf.jpg",
+   "source": "commons",
+   "title": "File:005 Karasitrusi (9190944614).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/005_Karasitrusi_%289190944614%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50815752",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "005 Karasitrusi",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — 005 Karasitrusi, at Wat Phananchoeng, Ayutthaya",
+   "sha256": "8366ae634c45ed7819f8ced750802e556e936d690b388ca9b4d4ead31060b5c5",
+   "width": 2942,
+   "height": 2926
+  },
+  {
+   "file": "rup-lersi/rup-lersi-31-fef528.jpg",
+   "source": "commons",
+   "title": "File:วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร (วัดโพธิ์) เขตพระนคร กรุงเทพมหานคร (31).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%29_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2831%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51235384",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "1903c96b428687785ff1170b67d57244c71e6445fca6ff924d0e30ce78f5758b",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "rup-lersi/rup-lersi-32-ac9ec8.jpg",
+   "source": "commons",
+   "title": "File:วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร (วัดโพธิ์) เขตพระนคร กรุงเทพมหานคร (32).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%82%E0%B8%9E%E0%B8%98%E0%B8%B4%E0%B9%8C%29_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2832%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51235385",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "9d5bb28758d2ac19b7bc15793d0bd197a8e7967ba06163678f91ca0ffb110cd8",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "rup-lersi/rup-lersi-wat-pho-3-ermite-et-sage-ruesi-1-5673dd.jpg",
+   "source": "commons",
+   "title": "File:Wat Pho 3 ermite et sage ruesi 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wat_Pho_3_ermite_et_sage_ruesi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=139844167",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bienvenue en Thaïlande",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite et sage ruesi",
+   "sha256": "56fd84699980191fab147e7d0d570cad9b1ad6c1d5daa831d06e4af2f2da048d",
+   "width": 4032,
+   "height": 1816
+  },
+  {
+   "file": "rup-lersi/rup-lersi-wat-pho-4-ermite-et-sage-ruesi-2-f8cb92.jpg",
+   "source": "commons",
+   "title": "File:Wat Pho 4 ermite et sage ruesi 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Wat_Pho_4_ermite_et_sage_ruesi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=139844538",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bienvenue en Thaïlande",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite et sage ruesi",
+   "sha256": "a42bdd23245f11895c2400e0e1338fe37e9bc6d3b55b9765a18b58da2ed5a16a",
+   "width": 4032,
+   "height": 1816
+  },
+  {
+   "file": "rup-lersi/rup-lersi-wat-pho-7-ermite-et-sage-ruesi-3-ae052e.jpg",
+   "source": "commons",
+   "title": "File:Wat Pho 7 ermite et sage ruesi 3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wat_Pho_7_ermite_et_sage_ruesi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=139845210",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bienvenue en Thaïlande",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite  et sage ruesi",
+   "sha256": "6e288d9874d25af3fd42d720358b305f49b1a726afddee304532b10edb0a73bf",
+   "width": 2595,
+   "height": 1336
+  },
+  {
+   "file": "rup-lersi/rup-lersi-wat-pho-8-ermites-et-sages-ruesi-4-347833.jpg",
+   "source": "commons",
+   "title": "File:Wat Pho 8 ermites et sages ruesi 4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wat_Pho_8_ermites_et_sages_ruesi_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=139845404",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bienvenue en Thaïlande",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermites et sages ruesi",
+   "sha256": "3dcd201d4d641bdee5ee996c4646cf41c9d842df0fb1b4d16b2f240841d44fe8",
+   "width": 3410,
+   "height": 1570
+  },
+  {
+   "file": "rup-lersi/rup-lersi-jpg-c4b6e7.jpg",
+   "source": "commons",
+   "title": "File:泰國孔劇魯士面具.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%E6%B3%B0%E5%9C%8B%E5%AD%94%E5%8A%87%E9%AD%AF%E5%A3%AB%E9%9D%A2%E5%85%B7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158137551",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "氏子",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — ​泰國孔劇魯士（Ruesi）面具，臺北市中正區城內次分區黎明里（臺北城內府後街）",
+   "sha256": "816bd246b7bd3cec439e2d27718f079704d086ca1328e56e13bb16d98ba952cc",
+   "width": 3016,
+   "height": 3016
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-22-68ad17.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 22.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Temple_Wat_Pho_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158148897",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermites (sages / ruesis / rishis / brahmanes)",
+   "sha256": "6e0ef3ef301d1ec68405e20c3cfb52ec84d65e322b0d213769b3ee8a78d5d3b2",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-23-8d3a4d.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 23.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Temple_Wat_Pho_23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149066",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermites (sages / ruesis / rishis / brahmanes)",
+   "sha256": "c01a603b3d7875b075d08458c17740b68131c82e0c9b456498d2cf9809d6d928",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-24-275edb.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 24.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Temple_Wat_Pho_24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149254",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermites (sages / ruesis / rishis / brahmanes)",
+   "sha256": "99522ca52963c360f82473e7b4ab56d315071f98abfe1aef45d22f576de6601d",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-25-bf3e6c.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 25.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Temple_Wat_Pho_25.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149440",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermites (sages / ruesis / rishis / brahmanes)",
+   "sha256": "8a7fcebb1561b988ce4ca5360e378c1588d0d52714d872dca382a2c871e0e54e",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-26-0c04da.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 26.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Temple_Wat_Pho_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149597",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Cheval, ermites (sages / ruesis / rishis / brahmanes) et autre statue",
+   "sha256": "36e905904e05fd6a9cf077a7bfc773af6ca89bc35902d84f109e865db38faa0e",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-27-1641e9.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 27.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Temple_Wat_Pho_27.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149803",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite (sage / ruesi / rishi / brahmane)",
+   "sha256": "6c34782a4857a30c6c22e54b20ee1f45e05ab89dc70971ce43dd075f4c29ba29",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-28-7d9000.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 28.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Temple_Wat_Pho_28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158149953",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite (sage / ruesi / rishis / brahmane)",
+   "sha256": "bfe28a3f1bc120cd289abaae8a7ad34bdf70637bd56b725a4fd971e45a1ffe05",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-29-b49015.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 29.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Temple_Wat_Pho_29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158150120",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Ermite (sage / ruesi / rishi / brahmane)",
+   "sha256": "666f146952975657038087204ac174e898dfd8256e7e85cd7db01b32dbe767c6",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "rup-lersi/rup-lersi-temple-wat-pho-30-871379.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Pho 30.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Temple_Wat_Pho_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=158150297",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "รูปพระฤๅษี",
+   "alt_en": "Phra Lersi figure (the hermit-teacher) — Cheval et ermite (sage / ruesi / rishi / brahmane)",
+   "sha256": "44162d7d5da6e16ca908666a53ae0d82b81fdb5e3e6a3c5b04601125a49db9d9",
+   "width": 3024,
+   "height": 4032
+  }
+ ],
+ "text": {
+  "what_th": "รูปพระฤๅษีห่มหนังเสือ ครูของวิชาทั้งปวง บูชาในวันไหว้ครู ตำราในชุดนี้ให้วิธีปั้น: ดินยอดปลวกและใบไม้ ๗ อย่าง ปั้นเป็นพระมหาฤๅษี",
+  "what_en": "The tiger-skinned hermit sage — the tradition's own teacher-figure, honoured at every wai khru. A treatise in this corpus gives a moulding recipe: termite-mound earth and seven named leaves, shaped into the Great Lersi.",
+  "story_th": "ตำราให้ ๓ วิธี แบบที่ ๑ สำหรับผู้จะเรียนหมอและถือมนต์ให้ขึ้น เอาดินยอดปลวก ๗ แห่งปั้นเป็นพระมหาฤๅษี บรรจุใบไม้ ๗ อย่าง ตั้งเครื่องกระยาบวช เสกคาถา นาโคคีรียะ ๑๐๘ แล้วอิติปิโส ๑๐๘ แบบที่ ๒ ผสมดินจากที่ต่างๆ ๗ แห่งกับใบไม้เผา (ตำราให้สูตรทำ ไม่นำส่วนผสมมาลงที่นี่) ตั้งเป็นประธานเวลาบดยา แบบที่ ๓ ปั้นนั่งขัดสมาธิ มือขวาถือลูกประคำ ลงเลขตามร่าง เสกใบไม้ ๑๐๘ คาบบรรจุในองค์ ตำราว่าผู้ใดพบตำรานี้เหมือนได้พบองค์พระฤๅษีเจ้า",
+  "story_en": "Manuscript 6983 gives three ways. Method 1, for whoever would learn medicine and hold mantras so they rise in power: earth from the tops of seven termite mounds moulded into the Great Lersi, seven leaves sealed inside, ascetic offering-foods set out, the katha beginning นาโคคีรียะ recited 108 times and then the Itipiso 108. Method 2 mixes earths gathered by sevens from named places with burned leaves (the treatise gives a making-recipe; its ingredients are not reproduced here); the figure presides whenever medicine is ground, on a white cloth with bai-si to left and right. Method 3 seats him cross-legged with a rosary, marks numerals on crown, arms, knees and base, and consecrates the leaves 108 times before sealing them in. The text closes: whoever finds this treatise has met the Lersi himself.",
+  "keeping_th": "หมวดยังไม่วางฤๅษีไว้ในชั้นใด ผู้บูชาส่วนใหญ่ถือเป็นครูที่ไหว้ในวันไหว้ครู ไม่ใช่ผู้อยู่ที่ต้องเลี้ยง ตำราให้ตั้งเครื่องสักการะเมื่อจะทำการ",
+  "keeping_en": "Unplaced: the class vocabulary does not yet carry the lersi as a member term, and this record keeps class null rather than guess. Most keepers treat the figure as a teacher venerated on wai-khru days, not a resident to feed; the treatise sets offerings before him when work begins and asks his leave. Held here ahead of a vocabulary entry."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 1791–1824 (printed pp. 34–35), methods 1–3"
+  },
+  "fields": {
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "class null on purpose (vocabulary does not place the lersi); functions are inference — see keeping_en"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

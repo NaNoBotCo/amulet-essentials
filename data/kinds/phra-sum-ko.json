@@ -1,0 +1,284 @@
+{
+ "schema": 1,
+ "id": "phra-sum-ko",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระซุ้มกอ",
+  "roman": "phra sum ko",
+  "en": "Phra Sum Ko (Kamphaeng Phet arched tablet)",
+  "aliases": {
+   "th": [
+    "พระกำแพงซุ้มกอ",
+    "ซุ้มกอ",
+    "กำแพงซุ้มกอ"
+   ],
+   "roman": [
+    "phra somkor",
+    "phra sum kor",
+    "kamphaeng sum ko"
+   ],
+   "en": [
+    "Phra Somkor",
+    "Phra Kamphaeng Sum Kor"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "chok_lap",
+   "metta_maha_niyom",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_din",
+   "nuea_waan"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "แผ่นดินเผาโค้งมนบน ซุ้มรอบองค์พระโค้งคล้ายตัว ก",
+  "shape_en": "A fired-clay tablet with a rounded top; the arch framing the figure curves like the Thai letter ก, which names the kind",
+  "size_mm": [
+   20,
+   28,
+   5
+  ],
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "องค์พระนั่งสมาธิในซุ้ม บางพิมพ์มีลายกนกข้างซุ้ม",
+  "obverse_en": "A seated Buddha in meditation within the arch; some moulds carry kanok scrollwork beside it",
+  "reverse_th": "เรียบ",
+  "reverse_en": "Plain",
+  "notes_en": "Trade mould names (พิมพ์ใหญ่มีกนก / ไม่มีกนก, กลาง, เล็ก, ขนมเปี๊ยะ) are tradition; size is a typical range."
+ },
+ "iconography": [
+  {
+   "th": "ซุ้มโค้งรูปตัว ก",
+   "en": "arch shaped like the letter ก"
+  },
+  {
+   "th": "องค์พระนั่งสมาธิ ศิลปะสุโขทัย",
+   "en": "seated Buddha in meditation, Sukhothai style"
+  },
+  {
+   "th": "ลายกนกข้างซุ้ม (บางพิมพ์)",
+   "en": "kanok flame-scroll flanking the arch on some moulds"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "กรุทุ่งเศรษฐี นครชุม กำแพงเพชร (วัดพระบรมธาตุ วัดพิกุล และกรุใกล้เคียง)",
+  "wat_en": "The Thung Setthi caches at Nakhon Chum, Kamphaeng Phet (Wat Phra Borommathat, Wat Phikun and neighbouring sites)",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "สมัยสุโขทัย พบที่วัดพระบรมธาตุนครชุม พ.ศ. ๒๓๙๒",
+  "era_en": "Sukhothai period; English Wikipedia dates the find at Wat Phra Borommathat Nakhon Chum to 1849, the year Thai Wikipedia gives for Somdej To's visit to the temple",
+  "place_th": "กำแพงเพชร",
+  "place_en": "Kamphaeng Phet",
+  "first_attested": "พ.ศ. 2392 (en.wikipedia; th.wikipedia วัดพระบรมธาตุ names the year for the relic find, not the tablets)"
+ },
+ "diagnostics": [
+  {
+   "th": "ซุ้มโค้งรูปตัว ก คือชื่อและเอกลักษณ์",
+   "en": "The ก-shaped arch is both the name and the first mark to check",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "เนื้อดินเผาผสมว่าน มักละเอียดนุ่ม",
+   "en": "Fired clay carrying herb (ว่าน) material; the trade describes the body as fine and soft-looking",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "พิมพ์ที่มีกนกกับไม่มีกนกแยกด้วยลายข้างซุ้ม",
+   "en": "The with-kanok and without-kanok moulds separate on the scrollwork beside the arch",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "หายากที่สุดในเบญจภาคี ของที่เห็นในตลาดส่วนใหญ่คือรูปแบบที่สร้างใหม่",
+   "en": "The rarest of the five to encounter per Thai Wikipedia; what the open market shows is mostly the form re-issued, a statement about the category",
+   "source": "s:th-wiki-phra-khrueang",
+   "tier": "cited"
+  },
+  {
+   "th": "อายุอ่านจากการหดตัวและคราบกรุ ไม่ใช่สนิม",
+   "en": "Age reads as shrinkage and cache crust, never patina",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-rot",
+   "tell_th": "พระรอดมีใบโพธิ์ล้อม ศิลปะหริภุญชัย ลำพูน · ซุ้มกอมีซุ้มตัว ก ศิลปะสุโขทัย กำแพงเพชร",
+   "tell_en": "Phra Rod is ringed by bodhi leaves in Hariphunchai style from Lamphun; Sum Ko sits under a ก-shaped arch in Sukhothai style from Kamphaeng Phet. Both fired clay, both nobody home."
+  },
+  {
+   "id": "khun-phaen",
+   "tell_th": "ขุนแผนซุ้มเรือนแก้วห้าเหลี่ยมแบบอยุธยา มวลสารเป็นเรื่องของรุ่น · ซุ้มกอซุ้มโค้งมน เนื้อดินผสมว่าน",
+   "tell_en": "Khun Phaen uses an Ayutthaya pentagonal ruean-kaeo arch and its material story belongs to the line; Sum Ko's arch is round-topped and the body is clay and herb. Class can differ; here it does not."
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "ซุ้มกอคือพระกรุที่มีชื่อ กรุทุ่งเศรษฐี",
+   "tell_en": "Sum Ko is one named cache-find; phra kru is the category. The arch and the Kamphaeng Phet provenance name this one."
+  }
+ ],
+ "market": {
+  "search": [
+   "ซุ้มกอ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:Somkor.png",
+   "File:Somkor ancient.jpg",
+   "File:Benjapakee.png",
+   "File:Benjapakee 2.png"
+  ],
+  "wanted_en": "The two single-subject files are uploader images without reverse or scale. Needed: obverse showing the ก arch and any kanok, reverse, edge, and a with-kanok beside a without-kanok at matched scale."
+ },
+ "images": [
+  {
+   "file": "phra-sum-ko/phra-sum-ko-somkor-eeeb28.png",
+   "source": "commons",
+   "title": "File:Somkor.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Somkor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99852842",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระซุ้มกอ",
+   "alt_en": "Phra Sum Ko (Kamphaeng Phet arched tablet) — Phra Somkor",
+   "sha256": "116caea2e2a4e6a162b9d24c92c08dc0250f2441f324db6eceebebba4116af77",
+   "width": 1088,
+   "height": 616,
+   "primary": true
+  },
+  {
+   "file": "phra-sum-ko/phra-sum-ko-somkor-ancient-cb2e6c.jpg",
+   "source": "commons",
+   "title": "File:Somkor ancient.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Somkor_ancient.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99852813",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระซุ้มกอ",
+   "alt_en": "Phra Sum Ko (Kamphaeng Phet arched tablet) — Ancient Somkor",
+   "sha256": "896bf9b931f3e65105cd2dc33cac9e0842cac3582116b8d11e84d795d3bd54ab",
+   "width": 5312,
+   "height": 2988
+  },
+  {
+   "file": "phra-sum-ko/phra-sum-ko-benjapakee-39c238.png",
+   "source": "commons",
+   "title": "File:Benjapakee.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102451956",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระซุ้มกอ",
+   "alt_en": "Phra Sum Ko (Kamphaeng Phet arched tablet) — Benjapakee",
+   "sha256": "37d56a6ad13fc672512bdc311f05baf0cfcc860703a74fcadffef7e7210e486e",
+   "width": 1644,
+   "height": 923
+  },
+  {
+   "file": "phra-sum-ko/phra-sum-ko-benjapakee-2-4e4d8b.png",
+   "source": "commons",
+   "title": "File:Benjapakee 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102452146",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระซุ้มกอ",
+   "alt_en": "Phra Sum Ko (Kamphaeng Phet arched tablet) — Benjapakee 2",
+   "sha256": "ba6ab231dcb9f68b7436961e57c9d1b46ebc87e6a6fd0568a53df2ab820a2850",
+   "width": 1647,
+   "height": 917
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ดินเผาจากกรุทุ่งเศรษฐี กำแพงเพชร องค์พระนั่งสมาธิในซุ้มโค้งรูปตัว ก ศิลปะสุโขทัย หายากที่สุดในเบญจภาคี วงการพูดว่า “มีกูไม่จน” ไม่มีผู้ใดสถิตอยู่",
+  "what_en": "A fired-clay tablet from the Thung Setthi caches at Kamphaeng Phet: a seated Buddha under an arch curved like the letter ก, in Sukhothai style. The rarest of the Benjaphakhi five. The trade's saying for it is 'have me and you will not be poor'. Nobody is home.",
+  "story_th": "วิกิพีเดียอังกฤษว่าพบที่วัดพระบรมธาตุนครชุม พ.ศ. ๒๓๙๒ ปีเดียวกับที่สมเด็จโตมาพบพระบรมธาตุที่วัดนั้น วงการเล่าต่อว่าจารึกที่พบพร้อมกันบอกอานุภาพและที่มาของคำว่ามีกูไม่จน ตรียัมปวายจัดเข้าเบญจภาคีราว พ.ศ. ๒๔๙๐",
+  "story_en": "English Wikipedia dates the find to 1849 at Wat Phra Borommathat, Nakhon Chum, the same year Thai Wikipedia gives for Somdej To's discovery of relics in that temple's chedis. The trade adds an inscription found with the tablets and reads from it the promise that the keeper will not be poor; that text is tradition here, not cited. The Sukhothai-style figure under its ก-shaped arch went into Triyampavai's five around 1947, and of the five it is the one least seen.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is age and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:th-wiki-wat-phra-borommathat-kamphaeng"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "โชคลาภ from the มีกูไม่จน saying; the rest the trade's usual claim"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-thai-amulet"
+   },
+   "origin.place_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-khrueang"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical range, not measured"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen by this record"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

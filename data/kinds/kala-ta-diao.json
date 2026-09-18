@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "id": "kala-ta-diao",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "กะลาตาเดียว",
+  "roman": "kala ta diao",
+  "en": "One-eyed coconut shell",
+  "aliases": {
+   "th": [
+    "กะลามะพร้าวตาเดียว",
+    "มะพร้าวตาเดียว",
+    "กะลาตาเดียวแกะราหู"
+   ],
+   "roman": [
+    "kala ta diew",
+    "kala tah diao"
+   ],
+   "en": [
+    "single-eyed coconut",
+    "one-eyed coconut Rahu"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "khum_khrong",
+   "chok_lap"
+  ],
+  "materials": [
+   "kala"
+  ],
+  "figures": [
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "กะลาที่มีตาเดียว — เก็บทั้งลูก ตัดเป็นแหวนหรือจี้ หรือแกะเป็นราหูอมจันทร์",
+  "shape_en": "A shell with a single germination pore where every ordinary shell has three; kept whole, cut into a ring or pendant, or carved into Rahu swallowing the moon",
+  "size_mm": null,
+  "wearable_th": "แหวน จี้ หรือแผ่นราหูเลี่ยม",
+  "wearable_en": "Ring, pendant, or a framed Rahu plaque",
+  "notes_en": "Whole and uncarved it is the natural class. Carved into Rahu and inscribed it is also a Rahu, whose resident is a deva; the material axis warns that many กะลา listings are the carved ปลัดขิก."
+ },
+ "iconography": [
+  {
+   "th": "ตาเดียวตรงขั้ว",
+   "en": "the single eye at the stem end"
+  },
+  {
+   "th": "ราหูอมจันทร์ / อมอาทิตย์ ลงยันต์จันทรประภา สุริยประภา",
+   "en": "Rahu swallowing the moon or the sun, with the Chanthaprapha and Suriyaprapha yantra (treatise)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดศีรษะทอง นครปฐม (ตามการ์ด)",
+  "wat_en": "Wat Sisa Thong, Nakhon Pathom, per the reference card",
+  "maker_th": "หลวงพ่อน้อย วัดศีรษะทอง (ตามการ์ด)",
+  "maker_en": "Luang Pho Noi of Wat Sisa Thong, per the reference card — the Rahu-carving lineage the trade names",
+  "era_th": "",
+  "era_en": "",
+  "place_th": "ภาคกลาง",
+  "place_en": "Central Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "กะลาปกติมีสามตา ลูกนี้มีตาเดียว — ความผิดปกติคือของขลัง ไม่ได้แกะ",
+   "en": "A normal shell has three eyes; this one has one. The anomaly is the charm; nothing was carved to make it",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตำราให้หากะลามะพร้าวตาเดียวแกะเป็นราหูอมจันทร์และอมอาทิตย์ ลงยันต์สองดวง",
+   "en": "The treatise's Rahu recipe starts by finding a one-eyed shell and carving two Rahu from it — one swallowing the moon, one the sun — then inscribing the Chanthaprapha and Suriyaprapha yantra",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เนื้อกะลาแก่ด้วยการสึก ไม่ใช่สนิม ตาจริงเป็นรูงอกมีขอบใย รูเจาะทีหลังกลมเรียบ — เรื่องของมะพร้าว ไม่ใช่คำตัดสินชิ้นใด",
+   "en": "Shell ages by wear, not patina. A true eye is a germination pore with a fibrous rim; a bored hole is round and clean — a statement about coconuts, not a verdict on a piece",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  },
+  {
+   "th": "ในตลาดคำว่า กะลา ส่วนใหญ่คือปลัดขิกแกะ ต้องดูรูปทรง",
+   "en": "In listings กะลา is mostly the carved palad khik; form settles it",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "การ์ดนับเป็นคำใหม่ของตลาดที่พบมากที่สุด ราคาต่ำและกว้าง",
+   "en": "The card counts it the most-attested of the market's newer terms, at low retail prices; counts are rebuilt from catalog.db at build time",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งข้างในลูก · กะลาตาเดียวคือเปลือกที่มีตาเดียว",
+   "tell_en": "A khot kala is a stone-hard nodule found inside the nut; a kala ta diao is the shell itself with one eye. Same tree, two different finds, both natural class."
+  },
+  {
+   "id": "phra-rahu",
+   "tell_th": "ราหูเป็นเทพที่บูชา ของแกะจากกะลาตาเดียวก็ได้ อย่างอื่นก็ได้ · กะลาตาเดียวทั้งลูกไม่มีรูป",
+   "tell_en": "Phra Rahu is a venerated deva, carved from a one-eyed shell by preference but from anything at hand; the uncarved shell is a natural object with no resident. Once carved and inscribed the object is both."
+  },
+  {
+   "id": "palad-khik",
+   "tell_th": "ปลัดขิกแกะกะลาเป็นรูปอวัยวะเพศ · กะลาตาเดียวเก็บทั้งลูกหรือแกะราหู",
+   "tell_en": "A palad khik carved from shell is a phallus; the one-eyed shell is kept whole or carved as Rahu. The material term กะลา covers both, which is why the search uses the compound."
+  }
+ ],
+ "market": {
+  "search": [
+   "กะลาตาเดียว"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02 (Category:Rahu exists but is empty; coconut-charm searches return Papua New Guinea pieces). Wanted: the stem end of a one-eyed shell beside a normal three-eyed one, and a carved Rahu plaque, at one scale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "กะลามะพร้าวที่มีตาเดียวแทนที่จะมีสาม ของหายากตามธรรมชาติ ไม่ใช่ของทำ เก็บทั้งลูกหรือแกะเป็นราหู ความหายากนั่นเองคือของขลัง",
+  "what_en": "A coconut shell with a single eye where every normal shell has three — a natural anomaly, not a crafted thing, carved (often into Rahu) or kept whole. The rarity IS the charm.",
+  "story_th": "ตำราสร้างพระราหูเล่าว่าฤๅษีสองตนบนเขายุคุนธรสร้างยันต์สุริยประภาและจันทรประภาเพื่อช่วยมนุษย์ยากไร้ คำสั่งแรกคือหากะลามะพร้าวตาเดียวแกะเป็นราหูอมจันทร์และอมอาทิตย์ ลงยันต์ บูชาข้าวตอกดอกไม้อย่างละ ๖ แก่อาทิตย์ อย่างละ ๑๕ แก่จันทร์ ทำวันเพ็ญหรือวันสูรย์คาธ จันทร์คาธ แล้วใส่ตลับทองและตลับเงิน ในตลาดสายวัดศีรษะทอง นครปฐม เป็นที่รู้จักที่สุด แหวนและจี้ที่ไม่แกะเป็นแบบที่พบมากและถูกกว่า",
+  "story_en": "The treatise's Rahu chapter tells of two hermits on Mount Yugandhara who made the Suriyaprapha and Chanthaprapha yantra to relieve human poverty, and its first instruction is to find a one-eyed coconut shell and carve from it a Rahu swallowing the moon and a Rahu swallowing the sun. Offerings run to the planets' numbers — six of each for the sun, fifteen for the moon — the work is done on a full moon or an eclipse day, and the finished plaques go into gold and silver cases. The trade's best-known lineage is Wat Sisa Thong in Nakhon Pathom; uncarved rings and pendants are the commoner, cheaper form.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ถ้าแกะเป็นราหูก็บูชาแบบราหู",
+  "keeping_en": "Nobody home, nothing owed. Once carved into Rahu it takes Rahu's veneration — the deva class, not the shell's; the tradition's black offerings on Rahu's days are the Rahu record's business."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 2259–2303 (printed pp. 52–53); Wat Sisa Thong: s:amulet-reference"
+   },
+   "origin": {
+    "tier": "tradition",
+    "source": "s:amulet-reference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,271 @@
+{
+ "schema": 1,
+ "id": "chuchok",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ชูชก",
+  "roman": "chuchok",
+  "en": "Chuchok (the beggar of the Vessantara Jataka)",
+  "aliases": {
+   "th": [
+    "พ่อปู่ชูชก",
+    "ตาชูชก",
+    "พราหมณ์ชูชก"
+   ],
+   "roman": [
+    "chujok",
+    "choochok",
+    "jujaka"
+   ],
+   "en": [
+    "Jujaka",
+    "the beggar brahmin"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "kha_khai",
+   "chok_lap",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปพราหมณ์แก่ หลังค่อม พุงพลุ้ย ถือไม้เท้า สะพายย่าม บางแบบมีร่ม บางแบบจูงกัณหาชาลีด้วยเชือก · รูปหล่อบูชาตั้งร้าน และรูปหล่อเล็กห้อยคอ",
+  "shape_en": "An old, bent, pot-bellied brahmin with a staff and a shoulder bag, sometimes an umbrella, sometimes leading the two children Kanha and Jali on a cord. Shrine statuettes for shops and small cast pendants.",
+  "size_mm": null,
+  "wearable_th": "รูปหล่อเล็กห้อยคอ รูปบูชาตั้งหน้าร้าน",
+  "wearable_en": "Small cast figures at the neck; statuettes on the shop shrine",
+  "obverse_th": "รูปชูชกทั้งตัว มักมีชื่อ ชูชก และวัดที่สร้างกำกับ",
+  "obverse_en": "The whole figure, usually lettered ชูชก and the issuing temple",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The staff, bag and umbrella are the trade's standard kit for him and are marked tradition; Thai Wikipedia gives only the ugly beggar-brahmin, and the Commons procession photograph shows him with the children."
+ },
+ "iconography": [
+  {
+   "th": "พราหมณ์แก่รูปร่างน่าเกลียด อาชีพขอทาน",
+   "en": "the ugly old brahmin who lives by begging (Thai Wikipedia)"
+  },
+  {
+   "th": "ไม้เท้า ย่าม ร่ม",
+   "en": "staff, shoulder bag, umbrella (trade convention)"
+  },
+  {
+   "th": "กัณหา ชาลี ถูกจูงด้วยเชือก",
+   "en": "Kanha and Jali led on a cord — the scene the procession figures show"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "ไม่มีวัดต้นกำเนิดเดียว · วิกิพีเดียไทยเอ่ยถึงมณฑปพ่อปู่ชูชกและรูปชูชก “ใหญ่ที่สุดในโลก” ที่วัดป้อมรามัญ ตำบลสวนพริก อยุธยา",
+  "wat_en": "No single origin temple. Thai Wikipedia names a Chuchok pavilion (มณฑปพ่อปู่ชูชก) and a claimed world's-largest Chuchok at Wat Pom Raman, Tambon Suan Phrik, Ayutthaya",
+  "maker_th": "หลายวัดหลายเกจิ ไม่มีผู้สร้างต้นแบบ",
+  "maker_en": "Many temples and monks; no founding maker",
+  "era_th": "ตัวละครอยู่ในมหาเวสสันดรชาดก กัณฑ์ที่ ๕ กัณฑ์ชูชก · เครื่องรางเป็นของยุคหลัง วงการถือว่าใหม่",
+  "era_en": "The character is canonical — kan 5 of the thirteen kan of the Maha Wessandon Jataka is his. The charm is modern; the trade treats it as a recent devotion, and no dated first issue is named here",
+  "place_th": "ภาคกลาง แล้วทั่วประเทศ",
+  "place_en": "Central Thailand, then nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ชายแก่ถือของขอทาน ไม่ใช่รูปพระเกจิ ไม่ใช่องค์พระ รูปคือคำตอบ",
+   "en": "An old man with a beggar's kit, never a monk portrait or a Buddha; the figure is the tell",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หลังค่อม พุงพลุ้ย — ชาดกให้เขาตายเพราะกินจนท้องแตก พุงจึงเป็นลายเซ็น",
+   "en": "Hunched and pot-bellied: the jataka kills him by overeating, so the belly is the signature",
+   "source": "s:th-wiki-maha-wetsandon",
+   "tier": "cited"
+  },
+  {
+   "th": "มักมีเด็กสองคนถูกจูง หรือย่ามและไม้เท้า ฉากจากกัณฑ์ชูชกและกัณฑ์กุมาร",
+   "en": "Often with the two children on a cord, or bag and staff — scenes from kan 5 and kan 8",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตรรกะของการบูชาคือ “ขอแล้วไม่เคยถูกปฏิเสธ” เป็นรูปของคนขาย ไม่มีการเซ่นเลี้ยง",
+   "en": "The logic is 'asked and was never refused' — a seller's figure. Nothing is fed",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เนื้อทองเหลืองหล่อหรือเรซิน รูปเล็กโลหะหล่อ เนื้อไม่เพิ่มอะไรให้ชนิด",
+   "en": "Cast brass or resin statuettes and small cast pendants; the material adds nothing to the kind",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lersi",
+   "tell_th": "ฤๅษีเป็นผู้บำเพ็ญ นุ่งหนังเสือ สวมชฎา บูชาเป็นครู · ชูชกเป็นขอทาน สะพายย่าม ถือไม้เท้า",
+   "tell_en": "Both are bearded old men. A lersi wears a tiger skin and topknot and is venerated as a teacher; Chuchok carries a beggar's bag and staff and is asked for the asking-luck of the story's villain"
+  },
+  {
+   "id": "phra-siwali",
+   "tell_th": "พระสีวลีเป็นพระอรหันต์ห่มจีวร ถือกลด บาตร ลาภมาเอง · ชูชกเป็นพราหมณ์ฆราวาส ขอเอา",
+   "tell_en": "Phra Sivali is a robed arahant with umbrella and bowl to whom gains come unasked (class phra_khrueang); Chuchok is a lay brahmin who asks. Robe versus rags settles it"
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นหญิงกวักมือเรียกลูกค้า บูชาเป็นเทพ · ชูชกเป็นชายแก่ขอทาน",
+   "tell_en": "Both sit on shop shrines. Nang Kwak is a beckoning woman venerated as a deva; Chuchok is an old male beggar the vault has not placed"
+  }
+ ],
+ "market": {
+  "search": [
+   "ชูชก"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:ชูชกและกัณหาชาลี.jpg",
+   "File:Thai - Vessantara Jataka, Chapter 5 (Jujaka) - Walters 35250 - A T Front.jpg",
+   "File:Jali and Kanhajina are Brought Before Their Grandfather King Sanjaya Along with Their Captor, the Ugly Brahmin Jujaka, Scene from Vessantara Jataka LACMA M.76.112.21.jpg"
+  ],
+  "wanted_en": "No Commons category for the charm. The free files are the story's iconography — a Mahachat-festival procession figure with the children (CC BY 4.0, 2024) and two public-domain paintings of kan 5 and the return to Sanjaya. Still wanted: a pendant or statuette obverse and reverse, and one on a shop shrine."
+ },
+ "images": [
+  {
+   "file": "chuchok/chuchok-jpg-827e99.jpg",
+   "source": "commons",
+   "title": "File:ชูชกและกัณหาชาลี.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E0%B8%8A%E0%B8%B9%E0%B8%8A%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B1%E0%B8%93%E0%B8%AB%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%A5%E0%B8%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=146439230",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chin Jirayu",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ชูชก",
+   "alt_en": "Chuchok (the beggar of the Vessantara Jataka) — Picture of Chuchok Kanha and Charlie, characters in the story of Phra Vessantorn. Annual procession of Phra Vessantorn,",
+   "sha256": "65f937b0d59520f64f03aea9f65a19c5ac4a1a5718edae7148252824a2ad8cb3",
+   "width": 4032,
+   "height": 3024,
+   "primary": true
+  },
+  {
+   "file": "chuchok/chuchok-thai-vessantara-jataka-chapter-5-jujaka-f7645f.jpg",
+   "source": "commons",
+   "title": "File:Thai - Vessantara Jataka, Chapter 5 (Jujaka) - Walters 35250 - A T Front.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Thai_-_Vessantara_Jataka%2C_Chapter_5_%28Jujaka%29_-_Walters_35250_-_A_T_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18842628",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Anonymous (Thailand)Unknown author",
+   "credit": "Walters Art Museum:  Home page  Info about artwork",
+   "view": "other",
+   "alt_th": "ชูชก",
+   "alt_en": "Chuchok (the beggar of the Vessantara Jataka) — The old brahmin Jujaka is poor but has a young, beautiful wife named Amittatapana. When Amittatapana goes to fetch water",
+   "sha256": "8f186e347aa78140eb68aef390354faecce462b3621e4f1b76bdc8b5ab6a3f92",
+   "width": 1800,
+   "height": 1304
+  },
+  {
+   "file": "chuchok/chuchok-jali-and-kanhajina-are-brought-before-th-2f183c.jpg",
+   "source": "commons",
+   "title": "File:Jali and Kanhajina are Brought Before Their Grandfather King Sanjaya Along with Their Captor, the Ugly Brahmin Jujaka, Scene from Vessantara Jataka LACMA M.76.112.21.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jali_and_Kanhajina_are_Brought_Before_Their_Grandfather_King_Sanjaya_Along_with_Their_Captor%2C_the_Ugly_Brahmin_Jujaka%2C_Scene_from_Vessantara_Jataka_LACMA_M.76.112.21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27326252",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31957964-O3.jpg\nGallery: http://collections.lacma.org/node/227862 archive copy at the Wayback Machine",
+   "view": "other",
+   "alt_th": "ชูชก",
+   "alt_en": "Chuchok (the beggar of the Vessantara Jataka) — Thailand, 19th century\nDrawings; watercolors\nOpaque watercolor on cloth\nGift of Margot and Hans Ries (M.76.112.21)\nSouth",
+   "sha256": "921069a97e1379313a86a8ddb5d27ed63a12cafc585fd779037fd5724502944d",
+   "width": 2077,
+   "height": 2100
+  }
+ ],
+ "text": {
+  "what_th": "พราหมณ์ขอทานผู้ไม่รู้จักเหนื่อยในชาดก คนขายและคนขอพกไว้ด้วยตรรกะว่าไม่มีใครเคยปฏิเสธเขา เป็นศรัทธาของตลาด ทั้งรูปบูชาและจี้ห้อยคอ",
+  "what_en": "The jataka's tireless beggar, carried by sellers and askers on the logic that no one ever refused him. A statue-and-pendant devotion of the marketplace.",
+  "story_th": "ในมหาเวสสันดรชาดก ชูชกเป็นพราหมณ์แก่รูปร่างน่าเกลียด อาชีพขอทาน มีภรรยาสาวชื่ออมิตตดา นางถูกหญิงในหมู่บ้านรุมด่าจนไม่ยอมไปตักน้ำ จึงเคี่ยวเข็ญให้เขาไปหาคนรับใช้ ชูชกเดินทางไปขอกัณหาชาลีจากพระเวสสันดร ได้แล้วผูกเชือกจูงไป จนถึงเมืองพระเจ้าสญชัยไถ่หลานคืนด้วยทรัพย์มหาศาล ชูชกกินจนท้องแตกตายในมื้อแรกที่ร่ำรวย เรื่องนี้เทศน์กันทั้งสิบสามกัณฑ์ทุกปี กัณฑ์ที่ ๕ เป็นของเขา วงการค้าเอาเฉพาะข้อเดียวมาถือ คือขอแล้วได้",
+  "story_en": "In the Vessantara Jataka Chuchok is an ugly old brahmin beggar with a young wife, Amittada; mocked by the village women, she refuses to fetch water until he finds her servants. He walks to the forest hermitage, asks Vessantara for the children Kanha and Jali, is given them, and drags them off on a cord; at King Sanjaya's court the grandchildren are redeemed for a fortune, and at his first meal as a rich man he eats until he bursts. The thirteen kan of the story are preached every year in the Thet Mahachat, and kan 5 is his. The market keeps one line of it — he asked and was given — and a temple in Ayutthaya now houses what it calls the world's largest Chuchok. Describing the devotion is not endorsing it: the story's own verdict on him is the belly.",
+  "keeping_th": "หมวดว่าง ไม่อยู่ในคำศัพท์หมวดของคลัง พ่อค้าถือเป็นรูปสำหรับขอ — บูชา ไม่ได้เลี้ยง — จัดไว้ที่นี่ก่อนผู้รู้จะชี้",
+  "keeping_en": "Class unassigned: not in the vault's vocabulary. Traders keep him as an asking-figure — venerated with respect and offerings, not fed as a dependent — and this record files him that way ahead of a knower's ruling. Nobody is raised in the figure, so history matters less than with a kuman."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-maha-wetsandon",
+  "s:en-wiki-vessantara-jataka",
+  "s:th-wiki-wat-pom-raman",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "class null is the key's own refusal; functions are the key's 'sellers and askers' read onto the axis, inference"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "the key's fuzzy note, restated"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-vessantara-jataka",
+    "note": "the thirteen kan and kan 5 from s:th-wiki-maha-wetsandon; Wat Pom Raman from s:th-wiki-wat-pom-raman; the market line is s:holding-key"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-pom-raman",
+    "note": "era_en's 'modern' is tradition"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "staff/bag/umbrella kit"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "tier retail is inference"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

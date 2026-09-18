@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "id": "si-phueng",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "สีผึ้ง",
+  "roman": "si phueng",
+  "en": "Charm wax (lip-wax)",
+  "aliases": {
+   "th": [
+    "สีผึ้งสีปาก",
+    "ขี้ผึ้งเสน่ห์",
+    "สีผึ้งเมตตา",
+    "สีผึ้งมหาเสน่ห์"
+   ],
+   "roman": [
+    "see pheung",
+    "see phueng",
+    "sri phueng"
+   ],
+   "en": [
+    "love wax",
+    "beeswax salve",
+    "metta balm"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "maha_saneh",
+   "metta_maha_niyom",
+   "maha_laluai"
+  ],
+  "materials": [],
+  "figures": [
+   "pot"
+  ]
+ },
+ "form": {
+  "type": "wax",
+  "shape_th": "ขี้ผึ้งหุงกับน้ำมันหอมและเครื่องยา บรรจุตลับเล็ก บางตำรับปั้นขี้ผึ้งเป็นรูปคนหรือแม่ธรณีก่อนหุง",
+  "shape_en": "Beeswax cooked down with scented oil and aromatics into a small tin; several recipes first mould the wax into a figure — Mae Thorani treading Rahu, or a man and a woman — before melting it",
+  "size_mm": null,
+  "wearable_th": "ไม่ได้ห้อย พกตลับ ทาปาก แก้ม กระหม่อม เพดาน หรือติดชายผ้า",
+  "wearable_en": "Not worn; carried in a tin and touched to the lips, cheeks, crown, palate or the hem of a cloth",
+  "notes_en": "Class is null on purpose: the vault leaves สีผึ้ง unplaced because the making decides it. Formula 8 cooks by a route whose ingredients are not reproduced here; formula 10 cooks three firings in an ordination hall — same tin, different class. materials is empty because the vocabulary has no wax key."
+ },
+ "iconography": [
+  {
+   "th": "แม่พระธรณีเหยียบราหู ปั้นจากขี้ผึ้ง (แบบที่ ๑)",
+   "en": "Mae Thorani treading Rahu, moulded in wax (formula 1)"
+  },
+  {
+   "th": "รูปชายหญิงกอดกัน ลงยันต์ตัวผู้ตัวเมีย (แบบที่ ๓, ๖)",
+   "en": "a male and a female figure set embracing, each with its own yantra (formulas 3, 6)"
+  },
+  {
+   "th": "ยันต์ตรีนิสิงเหลงถมขี้ผึ้ง ๗ หน (แบบที่ ๑๑)",
+   "en": "the Trinisinghe yantra pressed into the wax seven times (formula 11)"
+  },
+  {
+   "th": "ยันต์พญาหงส์ทอง (แบบที่ ๑๓)",
+   "en": "the Golden Hamsa yantra (formula 13)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง) — ๑๔ ตำรับ",
+  "maker_en": "Anonymous treatise, manuscript 6983 — fourteen recipes",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ของข้นในตลับ ใช้ทา ไม่ใช่ห้อย — รูปแบบอย่างเดียวก็แยกจากชนิดอื่นได้",
+   "en": "A salve in a tin, used by anointing, never worn; the form alone separates it from every other kind here",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้ซื้อขี้ผึ้ง ๓ เจ้า ห้ามต่อราคา และมักใช้ขี้ผึ้ง ๓ สี ขาว แดง เหลือง",
+   "en": "Recipes buy wax from three vendors without haggling and favour three-colour wax — white, red, yellow (formulas 4, 6, 8, 9, 12, 14)",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เครื่องยาซ้ำกันทุกตำรับ: ชะมด พิมเสน กฤษณา กะลำพัก ดอกรักซ้อน น้ำมันหอม",
+   "en": "The aromatic base repeats across recipes — civet, borneol, agarwood, kalamphak, rak son flower, scented oil — so a scented wax is the type, not a sign of anything",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "แบบที่ ๑๐ แบ่งเกรดตามจำนวนไฟ: ไฟธาตุ ไฟเพลิง ไฟพระอาทิตย์ — หนึ่งไฟอย่างตรี สามไฟอย่างเอก",
+   "en": "Formula 10 grades the wax by firings — element fire, flame fire, sun fire; one firing is third grade, three is first — a grade a buyer cannot read off the tin",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หมวดขึ้นกับการทำ: แบบที่ ๘ หุงด้วยวิธีที่ตำราให้ไว้ ไม่นำส่วนผสมมาลงที่นี่ · แบบที่ ๑๐ หุงในอุโบสถ",
+   "en": "Class follows the making: formula 8 cooks by a route the treatise gives and this catalogue does not reproduce; formula 10 cooks in the ubosot. The pot does not say which; the maker's lineage does",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ใช้ตามนิ้ว: นิ้วนางกับสตรี นิ้วชี้กับท้าวพระยาและสมณะ (แบบที่ ๑๓)",
+   "en": "Applied by finger to target — ring finger for women, index for lords and monks (formula 13)",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "waan",
+   "tell_th": "ว่านเป็นพืช · สีผึ้งเป็นของหุงที่อาจใส่ว่าน",
+   "tell_en": "Waan is a plant; wax is a cooked salve that may contain waan. One is alive, one is finished."
+  }
+ ],
+ "market": {
+  "search": [
+   "สีผึ้ง"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02. Wanted: an open tin showing the wax surface, and the treatise page with the male and female yantra."
+ },
+ "images": [],
+ "text": {
+  "what_th": "ขี้ผึ้งหุงในตลับเล็ก แตะปากหรือหน้าผากก่อนพูด ขาย หรือจีบ ตำรามี ๑๔ ตำรับเสน่ห์ ของในตลับเป็นอะไรขึ้นกับมือใครหุง",
+  "what_en": "A wax or balm in a small tin, touched to lips or brow before speaking, selling, courting. The corpus's formulary holds attraction-wax recipes; what a given pot is depends on whose hands made it.",
+  "story_th": "ตำราหุงสีผึ้งมี ๑๔ แบบ แบบที่ ๑ ปั้นขี้ผึ้งเป็นแม่พระธรณีเหยียบราหู ลงเลขตามตัว เซ่น ๓ วัน ไข่วันละฟอง แล้วหุงกับไคลประตูเมือง ไคลเสาตะลุงช้าง ชะมด พิมเสน ลง งะญะพะมะ ที่ก้นหม้อ แบบที่ ๓ ปั้นรูปชายหญิงติดไม้แทงผี ซัดข้าวสารเสกให้จูบกอดกัน ใส่ดีเต่า หุงในเปลือกไข่ แบบที่ ๘ ตำราให้สูตรทำ ไม่นำส่วนผสมมาลงที่นี่ แบบที่ ๑๐ หุงสามไฟในอุโบสถ ไฟธาตุ ไฟเพลิง ไฟพระอาทิตย์ แบบที่ ๑๔ ให้เด็กพรหมจารีชื่อรักชื่อดีไปซื้อขี้ผึ้ง ปั้นก้อนเส้าเป็นนนทรี หนุมาน พญาราพ ใช้ทาปาก แก้ม กระหม่อม หรือติดชายผ้า",
+  "story_en": "Fourteen recipes. Formula 1 moulds the wax into Mae Thorani treading Rahu, numbers her limbs, makes offerings for three days with an egg a day, then cooks her with moss from the town gate and the elephant post, civet and borneol, with งะญะพะมะ written on the pot. Formula 3 moulds a man and a woman on ghost-piercing sticks, throws consecrated rice until they kiss, adds turtle gall and cooks in an eggshell. For formula 8 the treatise gives a making-recipe; its ingredients are not reproduced here; formula 10 takes the wax through three firings in the ordination hall — element, flame and sun — and grades it by how many it survived. Formula 14 sends chaste children named Rak and Di to buy the wax and shapes the hearthstones as Nonthuk, Hanuman and Ravana. It is touched to the lips, cheeks, crown or a hem; Thai Wikipedia's article on ไสยศาสตร์ gives 'consecrate wax and anoint the lips for attraction' as its stock example of a charm.",
+  "keeping_th": "หมวดไม่ระบุ — บางตลับเป็นยาหอมเฉยๆ บางตลับหุงด้วยวิธีอีกแบบ ผู้เก็บต้องรู้ที่มา ถ้าไม่มีใครบอกได้ ให้ถือเสมือนมีผู้อยู่",
+  "keeping_en": "Unplaced by the class vocabulary, and that refusal is the keeping note: a herbal wax owes nothing, one cooked by the other route wants a spirit-object's care. Ask whose hands made it; if nobody can say, treat the tin as if someone were home."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:th-wiki-saiyasat",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 1825–2157 (printed pp. 35–47), fourteen formulas"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "class null = the vault's refusal to place สีผึ้ง"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "fuzzy note in holding_key; refusal in vault classes.md"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "romanisation variants seen in listings"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

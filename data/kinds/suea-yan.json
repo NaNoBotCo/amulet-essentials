@@ -1,0 +1,256 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "suea-yan",
+ "names": {
+  "th": "เสื้อยันต์",
+  "roman": "suea yan",
+  "en": "Suea yan (yantra shirt)",
+  "aliases": {
+   "th": [
+    "เสื้อยันต์แดง",
+    "เสื้อลงยันต์"
+   ],
+   "roman": [
+    "seua yant",
+    "sua yant",
+    "yant shirt"
+   ],
+   "en": [
+    "yantra shirt",
+    "talismanic shirt",
+    "war shirt"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "maha_ut"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "เสื้อผ้าฝ้ายแขนสั้นหรือกั๊ก ขาว แดง หรือดำ เขียนหรือพิมพ์ยันต์เต็มตัวทั้งหน้าหลัง แบบโบราณเย็บจากผ้าประเจียดผืนเล็กหลายผืน",
+  "shape_en": "A cotton shirt or vest — white, red or black — covered front and back with yantra grids, Khom text and figures. th.wikipedia's definition: small prachiat cloths sewn together into a shirt. Modern temple issues are screen-printed.",
+  "size_mm": null,
+  "wearable_th": "สวมเป็นเสื้อชั้นใน หรือสวมทับเมื่อออกศึก ขึ้นชก",
+  "wearable_en": "Worn as an undershirt, or outermost going into battle or the ring",
+  "obverse_th": "ยันต์ตารางกลางอก มักมีพระ หนุมาน เสือ หรือยันต์แปดทิศ",
+  "obverse_en": "A central chest yantra, often flanked by a Buddha, Hanuman, a tiger or an eight-direction yantra",
+  "reverse_th": "หลังเต็มด้วยยันต์และอักขระ",
+  "reverse_en": "The back fully inscribed",
+  "notes_en": "Not in ms 6983 as a recipe. th.wiki อุณาโลม notes soldiers' yantra shirts inscribed with letters were found; th.wiki การสักยันต์ treats the shirt as the cloth twin of the tattoo, sharing designs (eight-direction, Hanuman, tiger)."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์แปดทิศ",
+   "en": "eight-direction yantra"
+  },
+  {
+   "th": "หนุมาน",
+   "en": "Hanuman"
+  },
+  {
+   "th": "เสือ",
+   "en": "tiger"
+  },
+  {
+   "th": "อักขระขอมและตารางเลข",
+   "en": "Khom letters and numbered grids"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "ผ้าประเจียดแจกทหารสมัยกรุงธนบุรีและ ร.๑ ตามวิกิพีเดีย; เสื้อเย็บจากผ้านั้น",
+  "era_en": "th.wikipedia dates prachiat distribution to soldiers to King Taksin (B.E. 2312) and Rama I (B.E. 2328); the shirt is those cloths sewn up. No dated shirt named.",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นเสื้อสวมได้จริง มีแขนหรือรูแขน — ไม่ใช่ผ้าผืน",
+   "en": "A garment with sleeves or armholes, not a flat cloth",
+   "source": "s:th-wiki-prachiat",
+   "tier": "cited"
+  },
+  {
+   "th": "แบบเก่าเย็บจากผ้าหลายชิ้น เห็นตะเข็บต่อ ยันต์เขียนมือด้วยหมึกดำ",
+   "en": "Older shirts show seams joining several small cloths, hand-drawn in black ink; printed one-colour yantra with no seams is a modern issue",
+   "source": "s:th-wiki-prachiat",
+   "tier": "cited"
+  },
+  {
+   "th": "ลายซ้ำกับสักยันต์: แปดทิศ หนุมาน เสือ",
+   "en": "Designs repeat the tattoo repertoire — eight-direction, Hanuman, tiger",
+   "source": "s:th-wiki-sak-yant",
+   "tier": "cited"
+  },
+  {
+   "th": "หมึกซึมทะลุด้านใน ถ้าเป็นสีพิมพ์เคลือบอยู่ผิวเดียว",
+   "en": "Hand ink soaks through to the inside; screen-print sits on one face",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์เป็นผืน เสื้อยันต์เย็บเป็นเสื้อ",
+   "tell_en": "A pha yan is a flat cloth; a suea yan is cut and sewn to be worn. Same class and keeping."
+  },
+  {
+   "id": "prachiat",
+   "tell_th": "ประเจียดเป็นแถบพันหัวหรือแขน เสื้อยันต์คือประเจียดหลายผืนเย็บรวม",
+   "tell_en": "A prachiat is a band for the head or arm; th.wikipedia defines the shirt as prachiat cloths sewn together."
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ผ้ายันต์เขมรอักขระเขมร ไม่ใช่เสื้อ",
+   "tell_en": "Khmer yantra cloth is a flat cloth in Khmer script; a Thai shirt is a garment, though the scripts overlap."
+  }
+ ],
+ "market": {
+  "search": [
+   "เสื้อยันต์"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Yantra in Thailand"
+  ],
+  "commons_files": [
+   "File:Siam Society - Bangkok - 2017-07-25 (079).jpg",
+   "File:Siam Society - Bangkok - 2017-07-25 (081).jpg",
+   "File:Siam Society - Bangkok - 2017-07-25 (083).jpg"
+  ],
+  "wanted_en": "The three CC0 files are 'yantra mystic sheets' exhibited at the Siam Society — the designs, not a shirt. No free photograph of a shirt found as of 2026-09-02 (searches: yantra shirt, เสื้อยันต์). Needed: a shirt laid flat front and back, a seam detail on a sewn one, and one worn."
+ },
+ "images": [
+  {
+   "file": "suea-yan/suea-yan-siam-society-bangkok-2017-07-25-079-d4fe47.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (079).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Siam_Society_-_Bangkok_-_2017-07-25_%28079%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443102",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เสื้อยันต์",
+   "alt_en": "Suea yan (yantra shirt) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "cc203327e4e1ddd52759a71125add424f0d389fe2d34a59fc633bd203fb2595a",
+   "width": 3024,
+   "height": 4032,
+   "primary": true
+  },
+  {
+   "file": "suea-yan/suea-yan-siam-society-bangkok-2017-07-25-081-47a274.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (081).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Siam_Society_-_Bangkok_-_2017-07-25_%28081%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443106",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เสื้อยันต์",
+   "alt_en": "Suea yan (yantra shirt) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "2911447e32a3620e142e555a7b43f0ade7c42f6422c70e09e4b62b4893a7216f",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "suea-yan/suea-yan-siam-society-bangkok-2017-07-25-083-ebb249.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (083).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Siam_Society_-_Bangkok_-_2017-07-25_%28083%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443107",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เสื้อยันต์",
+   "alt_en": "Suea yan (yantra shirt) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "273b3ca959f0c904f46a4c399d71c94c0a4fc8ecdb1baabc4d984477b233b783",
+   "width": 4032,
+   "height": 3024
+  }
+ ],
+ "text": {
+  "what_th": "เสื้อที่เขียนหรือพิมพ์ยันต์เต็มตัว แบบเก่าเย็บจากผ้าประเจียดผืนเล็กหลายผืน สวมออกศึกหรือขึ้นชก เชื่อว่าคงกระพันแคล้วคลาด ไม่มีผู้อยู่",
+  "what_en": "A shirt inscribed with yantra all over — in the old form, small prachiat cloths sewn into a garment — worn into battle or the ring for invulnerability and evasion. Power in the inscription; nobody home.",
+  "story_th": "วิกิพีเดียให้เสื้อยันต์เป็นรูปหนึ่งของประเจียด: ผ้าลงเลขยันต์ผืนเล็กเอามาเย็บเป็นเสื้อ ผ้าชนิดนี้แจกแม่ทัพนายกองสมัยพระเจ้าตากสิน และแจกทหารสมัย ร.๑ ต่อมานักมวยใส่ขึ้นเวที บทความสักยันต์บอกว่าลายบนเสื้อเป็นลายเดียวกับที่สักบนหนัง แปดทิศ หนุมาน เสือ ตำรา ๖๙๘๓ ไม่มีสูตรเสื้อ",
+  "story_en": "th.wikipedia treats the shirt as one form of prachiat: small inscribed cloths sewn into a garment. It records such cloths handed to commanders under King Taksin and to soldiers under Rama I, and their later life on boxers. The tattoo article says the shirt carries the tattoo's own repertoire — eight-direction yantra, Hanuman, tiger — on cloth instead of skin. Ms 6983 has no shirt recipe; its cloth pieces are prachiat and handkerchiefs.",
+  "keeping_th": "ไม่ต้องเลี้ยง เก็บพับไว้สูง ไม่ซักรวมกับผ้าอื่นตามธรรมเนียม",
+  "keeping_en": "Nothing to feed; kept folded and high. The custom of not washing it with ordinary laundry is tradition, not a rule this catalogue can cite."
+ },
+ "sources": [
+  "s:th-wiki-prachiat",
+  "s:th-wiki-sak-yant",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-prachiat"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "maha_ut is trade claim; th.wiki says only 'protection from danger'"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-sak-yant"
+   },
+   "form.obverse_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "text.keeping_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "market": {
+    "tier": "inference"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

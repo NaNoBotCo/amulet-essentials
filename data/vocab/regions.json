@@ -1,0 +1,21 @@
+{
+  "note": "Open list. A record may name a region not listed here; validate.py warns, it does not fail. Add a row rather than fitting a tradition into a neighbour's box.",
+  "entries": [
+    {"key": "th-central", "th": "ภาคกลาง", "en": "Central Thailand (Bangkok, Ayutthaya basin)"},
+    {"key": "th-north", "th": "ล้านนา · ภาคเหนือ", "en": "Lanna / Northern Thailand"},
+    {"key": "th-south", "th": "ภาคใต้", "en": "Southern Thailand"},
+    {"key": "th-isan", "th": "อีสาน", "en": "Northeastern Thailand"},
+    {"key": "th-east", "th": "ภาคตะวันออก", "en": "Eastern Thailand"},
+    {"key": "th", "th": "ทั่วประเทศไทย", "en": "Thailand, not regionally specific"},
+    {"key": "kh", "th": "กัมพูชา · เขมร", "en": "Cambodia / Khmer tradition"},
+    {"key": "la", "th": "ลาว", "en": "Laos"},
+    {"key": "mm", "th": "พม่า · เมียนมา", "en": "Myanmar"},
+    {"key": "my", "th": "มาเลเซีย", "en": "Malaysia"},
+    {"key": "sg", "th": "สิงคโปร์", "en": "Singapore"},
+    {"key": "id", "th": "อินโดนีเซีย", "en": "Indonesia"},
+    {"key": "vn", "th": "เวียดนาม", "en": "Vietnam"},
+    {"key": "cn-yunnan", "th": "ยูนนาน · สิบสองปันนา", "en": "Yunnan / Sipsongpanna (Tai Lue)"},
+    {"key": "shan", "th": "ไทใหญ่ · รัฐฉาน", "en": "Shan State (Tai Yai)"},
+    {"key": "diaspora", "th": "ชุมชนไทยโพ้นทะเล", "en": "Overseas Thai / Chinese-Thai collector communities"}
+  ]
+}

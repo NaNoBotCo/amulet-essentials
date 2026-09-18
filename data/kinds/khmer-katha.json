@@ -1,0 +1,276 @@
+{
+ "schema": 1,
+ "id": "khmer-katha",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ตะกรุดเขมร",
+  "roman": "katha (Khmer takrut)",
+  "en": "Khmer katha scroll (rolled inscribed talisman)",
+  "aliases": {
+   "th": [
+    "ตะกรุดขอม",
+    "คาถาเขมร",
+    "ตะกรุดกัมพูชา"
+   ],
+   "roman": [
+    "kathâ",
+    "kata khmer",
+    "gatha scroll",
+    "takrut khmer"
+   ],
+   "en": [
+    "Cambodian takrut",
+    "rolled gatha amulet",
+    "Khmer scroll charm"
+   ]
+  },
+  "other_scripts": {
+   "km": "គាថា"
+  }
+ },
+ "region": [
+  "kh"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "metta_maha_niyom",
+   "kan_phi"
+  ],
+  "materials": [
+   "takua",
+   "thongdaeng",
+   "ngoen",
+   "nuea_loha"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "tube",
+  "shape_th": "แผ่นโลหะบางจารอักขระขอม (มูล) เป็นคาถาบาลี ม้วนเป็นหลอด มักพันด้ายหรือเคลือบรัก ร้อยเชือกคาดเอวหรือห้อยคอ",
+  "shape_en": "A thin metal sheet inscribed in Khmer (Mul / Khom) letters with a Pali gatha, rolled into a tube, usually wrapped in cord or lacquer and strung at the waist or neck. Single tubes and multi-tube waist strings both occur.",
+  "size_mm": null,
+  "wearable_th": "คาดเอวเป็นพวง หรือห้อยคอ",
+  "wearable_en": "Worn on a waist cord, singly or in a set, or at the neck",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "No typical size is defended here; the tradition rolls whatever sheet the gatha needs."
+ },
+ "iconography": [
+  {
+   "th": "อักขระขอม/มูล เขียนบาลี",
+   "en": "Khmer Mul (Khom) letters carrying a Pali syllable-formula"
+  },
+  {
+   "th": "ตารางยันต์และเลข",
+   "en": "grid yantra with numerals when the gatha is set in a diagram"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ครูขแมร์ / อาจารย์ (อาจาร)",
+  "maker_en": "Made and blessed by kru khmer and achar — lay ritual specialists of the yogavacara line — and by monks",
+  "era_th": "ประเพณีสืบจากยุคพระนครและหลังพระนคร ไม่ระบุปี",
+  "era_en": "Undated tradition; the script and formula practice descend from the Angkor and post-Angkor Theravada world, damaged under the Khmer Rouge",
+  "place_th": "กัมพูชา",
+  "place_en": "Cambodia",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "อักขระเป็นตัวขอม (มูล) เขียนบาลี ไม่ใช่อักษรเขมรปัจจุบัน",
+   "en": "The letters are the Khmer Mul / Khom hand used for Pali and yantra on cloth, paper and brass in both Cambodia and Thailand, not modern Khmer print",
+   "source": "s:en-wiki-khmer-script",
+   "tier": "cited"
+  },
+  {
+   "th": "ขอมไทยเป็นอักษรเขมรที่ไทยรับมาราวศตวรรษที่ 10 และเติมรูปอักษรราวศตวรรษที่ 15 — ลายมืออย่างเดียวจึงบอกแหล่งได้ไม่ชัด",
+   "en": "Khom Thai is the Khmer script adopted in Thailand around the 10th century with letterforms added around the 15th; the hand alone rarely settles whether a tube is Cambodian or Thai",
+   "source": "s:en-wiki-khom-thai-script",
+   "tier": "cited"
+  },
+  {
+   "th": "ไทย เขมร ลาว ใช้รูปแบบใกล้กัน: บาลีผสมภาษาถิ่น แทบไม่ใช้สันสกฤต",
+   "en": "Thai, Khmer and Lao practice share the form — Pali mixed with the local language, seldom Sanskrit — so language of the formula does not separate them either",
+   "source": "s:th-wiki-saiyasat",
+   "tier": "cited"
+  },
+  {
+   "th": "แผ่นเป็นทอง เงิน นาก ตะกั่ว หรือโลหะผสม จารด้วยเหล็กจาร",
+   "en": "Sheet is gold, silver, nak, lead or an alloy, incised with a steel stylus; the same metals the Thai takrut article lists",
+   "source": "s:th-wiki-takrut",
+   "tier": "cited"
+  },
+  {
+   "th": "ในตลาดไทย “ตะกรุดเขมร” มักหมายถึงสายอีสานใต้หรือครูเขมร — คำนี้ไม่ปรากฏในชื่อสินค้าลาซาด้าเลย",
+   "en": "In the Thai trade 'takrut khmer' usually names a maker's lineage (southern Isan or a Cambodian kru) rather than a form; no Lazada TH listing title in catalog.db carries เขมร or ขอม at all",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "รูปเดียวกัน ชั้นเดียวกัน — ตะกรุดไทยสืบมาจากสายนี้ ต่างกันที่ครูผู้สร้างและลายมือ ไม่ใช่ที่รูปทรง",
+   "tell_en": "Same class, same rolled-tube form: the Thai takrut descends from this tradition and the Khom letters on it are the Khmer script. What separates them is the maker's lineage and hand, never the shape."
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ผ้ายันต์เขมรเป็นผ้าแผ่นเขียนยันต์ แขวนหรือพับ · กถาเป็นหลอดโลหะม้วน",
+   "tell_en": "A Khmer yantra cloth is a drawn square of fabric hung or folded; the katha is a rolled metal tube. Same class, different form."
+  },
+  {
+   "id": "in-yantra",
+   "tell_th": "อินพม่าเป็นแผ่นสี่เหลี่ยมพับหรือแบน ตัวอักษรพม่า · กถาม้วนเป็นหลอด ตัวขอม",
+   "tell_en": "A Burmese in is a square sheet in Burmese letters, folded or flat; the katha is rolled and written in Khmer."
+  },
+  {
+   "id": "lao-yan",
+   "tell_th": "ยันต์ลาวเขียนตัวธรรม (สายอักษรล้านนา) · กถาเขมรเขียนตัวขอม",
+   "tell_en": "Lao yantra is written in Tham letters of the Lanna family; the Khmer katha in Khom. Round Tham versus angular Khom is visible under a loupe."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Suvannasama Jataka in Khom Thai script.jpg",
+   "File:Henri Mouhot map of Sanskrit, Thai, Lao and Khmer scripts, 1860, folio 1v of 20v-20r set, British library.jpg",
+   "File:Cambodia1.jpg"
+  ],
+  "wanted_en": "No free photograph of a Khmer katha tube exists on Commons as of 2026-09-02; the listed files show the Khom / Mul hand (an 18th-century Pali manuscript, Mouhot's 1860 script comparison) and the same script tattooed on a Cambodian monk. Needed: a tube end-on, the sheet unrolled to show the letters, and a waist string in wear."
+ },
+ "images": [
+  {
+   "file": "khmer-katha/khmer-katha-suvannasama-jataka-in-khom-thai-script-821d75.jpg",
+   "source": "commons",
+   "title": "File:Suvannasama Jataka in Khom Thai script.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Suvannasama_Jataka_in_Khom_Thai_script.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=106114895",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Unknown artistUnknown artist",
+   "credit": "https://blogs.bl.uk/asian-and-african/2020/04/the-buddha-and-his-natural-environment-in-thai-manuscript-art.html",
+   "view": "other",
+   "alt_th": "ตะกรุดเขมร",
+   "alt_en": "Khmer katha scroll (rolled inscribed talisman) — the Suvannasama Jataka, in Pali language in the Khom script (Khmer Mul script). Central Thailand, 18th century, see http",
+   "sha256": "abc5a5c5ec6233e9c92673a67fe27ff295826828a63f67b02c5abd024c196c4c",
+   "width": 2728,
+   "height": 886,
+   "primary": true
+  },
+  {
+   "file": "khmer-katha/khmer-katha-cambodia1-44d76c.jpg",
+   "source": "commons",
+   "title": "File:Cambodia1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cambodia1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18277331",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Majmunka",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุดเขมร",
+   "alt_en": "Khmer katha scroll (rolled inscribed talisman) — In Cambodia. January 2012.",
+   "sha256": "42da48bcb5d896d53fc5aa9a6787d61e78a751b4046867aacc23cd11fbb26032",
+   "width": 2056,
+   "height": 3648
+  },
+  {
+   "file": "khmer-katha/khmer-katha-henri-mouhot-map-of-sanskrit-thai-lao-an-7bdde6.jpg",
+   "source": "commons",
+   "title": "File:Henri Mouhot map of Sanskrit, Thai, Lao and Khmer scripts, 1860, folio 1v of 20v-20r set, British library.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Henri_Mouhot_map_of_Sanskrit%2C_Thai%2C_Lao_and_Khmer_scripts%2C_1860%2C_folio_1v_of_20v-20r_set%2C_British_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73992293",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ms Sarah Welch",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ตะกรุดเขมร",
+   "alt_en": "Khmer katha scroll (rolled inscribed talisman) — Sanskrit language was considered as a sacred language in Southeast and East Asia. The language structure as well as some",
+   "sha256": "54c6ea9374217c2da09eab3968255fc90f04176c23a3aa705099dd1ffeef76f2",
+   "width": 1272,
+   "height": 2100
+  }
+ ],
+ "text": {
+  "what_th": "แผ่นโลหะจารคาถาบาลีด้วยตัวขอม ม้วนเป็นหลอด ของขลังเขมรที่ตะกรุดไทยสืบมา พลังอยู่ที่อักขระและพิธี ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "A metal sheet inscribed with a Pali gatha in Khmer letters and rolled into a tube: the Cambodian ancestor of the Thai takrut. Power sits in the inscription and the rite; nobody is home and nothing is owed.",
+  "story_th": "คาถา (គាថា) ในเขมรคือบทบาลีที่ใช้ทั้งสวด จารลงเครื่องราง ผ้ายันต์ และสักลงผิว เขียนด้วยตัวขอมซึ่งถือเป็นอักษรศักดิ์สิทธิ์ที่สุด ไม่ใช้ในชีวิตประจำวัน ผู้จารและเสกคือครูขแมร์และอาจารย์ผู้สืบสายโยคาวจร ประเพณีนี้ถูกทำลายหนักในยุคเขมรแดง",
+  "story_en": "In Cambodia a gatha (គាថា) is a Pali formula chanted, inscribed on amulets and cloth, and tattooed on skin, always in the Khom hand that is reserved for sacred text and held to carry power of its own. The Khmer Wikipedia article on the gatha names amulets, yantra cloth and sak yant as its three carriers. Makers are kru khmer and achar, lay specialists of the yogavacara line that François Bizot documented at Angkor; the same esoteric Theravada that gives Thailand its katha and takrut. Under the Khmer Rouge nearly every temple and library was destroyed and the monkhood fell from tens of thousands to under three thousand, so surviving lineages are thin and much of what is sold as Khmer today was made afterwards.",
+  "keeping_th": "ไม่มีผู้อยู่ พกด้วยความเคารพ ไม่ต้องเซ่นไหว้",
+  "keeping_en": "Impersonal: carried with respect, nothing fed, nothing owed. Ask which kru wrote it; that is the whole provenance question."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-khmer-script",
+  "s:en-wiki-khom-thai-script",
+  "s:th-wiki-khom-thai",
+  "s:km-wiki-gatha",
+  "s:en-wiki-southern-esoteric-buddhism",
+  "s:en-wiki-achar-khmer",
+  "s:en-wiki-kru-khmer",
+  "s:en-wiki-buddhism-cambodia",
+  "s:th-wiki-saiyasat",
+  "s:th-wiki-takrut",
+  "s:en-wiki-yantra-tattooing",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition",
+   "note": "form and wear are the regional norm; nothing here names a maker or date"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "diagnostics": {
+    "tier": "cited",
+    "note": "each entry carries its own source"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:km-wiki-gatha",
+    "note": "with s:en-wiki-southern-esoteric-buddhism and s:en-wiki-buddhism-cambodia"
+   },
+   "origin.maker_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-achar-khmer"
+   },
+   "names.other_scripts": {
+    "tier": "cited",
+    "source": "s:km-wiki-gatha"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with เขมร / ขอม / ตะกรุดเขมร on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

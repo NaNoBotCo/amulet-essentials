@@ -1,0 +1,171 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "susuk",
+ "names": {
+  "th": "เข็มฝัง",
+  "roman": "susuk",
+  "en": "Susuk (charm needles implanted under the skin)",
+  "aliases": {
+   "th": [
+    "ซูซุก",
+    "เข็มทองฝังหน้า",
+    "ฝังเข็มเสน่ห์"
+   ],
+   "roman": [
+    "susuk emas",
+    "susuk berlian",
+    "charm needles"
+   ],
+   "en": [
+    "golden needles",
+    "beauty needles",
+    "implant charms"
+   ]
+  },
+  "other_scripts": {
+   "ms": "سوسوق (Jawi) · susuk",
+   "id": "susuk"
+  }
+ },
+ "region": [
+  "my",
+  "id",
+  "sg"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "maha_saneh",
+   "metta_maha_niyom",
+   "khong_kraphan"
+  ],
+  "materials": [
+   "thongkham",
+   "ngoen"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "เข็มหรือเศษทอง เงิน เพชร ยาวไม่กี่มิลลิเมตร ฝังใต้ผิวหนัง — คาง แก้ม หน้าผาก ริมฝีปาก อก หลัง แขนขา",
+  "shape_en": "Needles or slivers of gold, silver or diamond a few millimetres long, set under the skin — chin, cheeks, forehead, lips, chest, lower back, limbs. Some are non-metal: id.wikipedia lists mercury and a 'milk' susuk.",
+  "size_mm": null,
+  "wearable_th": "อยู่ในร่างกาย มองไม่เห็น เห็นได้ในภาพเอกซเรย์",
+  "wearable_en": "Inside the body and invisible; shows on a radiograph.",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Not an object one keeps; a procedure one carries. Recorded here because Malay-world sians and clinicians both meet it, and because the Thai south shares it. Described ethnographically only."
+ },
+ "iconography": [],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "โบโมะห์ / ดุกุน ฝังพร้อมคาถา น้ำมัน และคำสั่งให้ปิดเป็นความลับ",
+  "maker_en": "A bomoh or dukun implants it with incantation and oil rubbing, and tells the wearer to keep it secret",
+  "era_th": "หลักฐานภาพรังสีครั้งแรก พ.ศ. ๒๔๗๑",
+  "era_en": "First radiographic report 1928 (en.wikipedia); id.wikipedia holds the practice came to Indonesia from Malaysia",
+  "place_th": "มาเลเซีย อินโดนีเซีย บรูไน สิงคโปร์ และชายแดนใต้ของไทย",
+  "place_en": "Malaysia, Indonesia, Brunei, Singapore; the Thai deep south by tradition",
+  "first_attested": "1928 radiographic report (en.wikipedia, Susuk)"
+ },
+ "diagnostics": [
+  {
+   "th": "เห็นได้เฉพาะในภาพเอกซเรย์ มักพบโดยบังเอิญ ต้องแยกจากสิ่งแปลกปลอมอื่น",
+   "en": "Detectable only on a radiograph, usually incidentally; clinicians must tell it from other foreign bodies",
+   "source": "s:en-wiki-susuk",
+   "tier": "cited"
+  },
+  {
+   "th": "โลหะผสมทองมีทองแดง เงิน อะลูมิเนียมเจือ",
+   "en": "Reported composition: gold alloyed with traces of copper, silver and aluminium; diamonds in some cases",
+   "source": "s:en-wiki-susuk",
+   "tier": "cited"
+  },
+  {
+   "th": "ตำแหน่ง: ใบหน้า อก หลังส่วนล่าง แขนขา — คางเป็นตำแหน่งที่รายงานบ่อย",
+   "en": "Sites: face, chest, breast, lower back and limbs; the chin is the site most often named",
+   "source": "s:en-wiki-susuk",
+   "tier": "cited"
+  },
+  {
+   "th": "ผู้ฝังถือข้อห้าม (pantangan): กล้วยบางชนิด มะละกอ ไม้เสียบสะเต๊ะ ลอดราวผ้า",
+   "en": "Wearers keep pantangan — no lady-finger bananas, papaya, satay skewers; not passing under a clothesline or a stair",
+   "source": "s:ms-wiki-susuk",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดฝังใต้ผิวหนังมีในไทย (ฝังตะกรุด) แต่เป็นหลอดยันต์ · ซูซุกเป็นเข็มเปล่า ไม่มีตัวเขียน",
+   "tell_en": "Thai practice also implants a takrut under the skin, but that is an inscribed tube; a susuk is a bare needle with no writing. Both show on X-ray; the tube is the tell."
+  },
+  {
+   "id": "jimat",
+   "tell_th": "จิมัตพกนอกตัว ถอดได้ · ซูซุกอยู่ในเนื้อ",
+   "tell_en": "A jimat is carried and can be set down; a susuk is in the flesh."
+  },
+  {
+   "id": "luk-om",
+   "tell_th": "ลูกอมเป็นเม็ดที่อมหรือพก ไม่ฝัง",
+   "tell_en": "A luk om is a bead held in the mouth or carried, never implanted."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "Nothing on Commons as of 2026-09-02; en/id/ms Wikipedia carry no photograph either. The useful image is a clinical radiograph showing facial needles — only with the patient's consent and anonymised. Never a face."
+ },
+ "images": [],
+ "text": {
+  "what_th": "เข็มทอง เงิน หรือเพชรที่โบโมะห์ฝังใต้ผิวหนัง — มักที่คางหรือแก้ม — เพื่อความงาม เสน่ห์ บารมี หรือความคงกระพัน มองไม่เห็น เห็นในเอกซเรย์ อิสลามถือว่าฮะรอม ผู้ฝังถือข้อห้ามและเชื่อว่าต้องถอดก่อนตาย",
+  "what_en": "Gold, silver or diamond needles a bomoh sets under the skin — chin and cheeks most often — for beauty, allure, presence or invulnerability. Invisible except on a radiograph. Islam rules it haram; the wearer keeps food taboos and holds that the needles must come out before death.",
+  "story_th": "ผู้ฝังถูกสั่งให้เก็บเป็นความลับ ถือข้อห้ามอาหารและกิริยา (ห้ามกินกล้วยบางชนิด มะละกอ สะเต๊ะ ห้ามลอดราวตากผ้า) หากผิดข้อห้ามซูซุกจะเสื่อมหรือกลับเป็นพิษ ความเชื่อว่าคนที่ยังฝังอยู่ตายยาก และเมื่อถอดออก ใบหน้าจะกลับสู่วัยจริงภายในหกเดือน จึงต้องให้หมอคนเดิมถอด ทางการแพทย์รู้จักมันจากภาพเอกซเรย์ที่พบโดยบังเอิญตั้งแต่ปี ๒๔๗๑",
+  "story_en": "The wearer is told to keep it secret and to keep pantangan — no certain bananas, no papaya, no satay skewers, no passing under a clothesline; break them and the susuk weakens or turns harmful. Tradition says a person still carrying susuk dies hard, and that once removed the face returns to its real age within six months, so removal is for the same practitioner who set it. Medicine knows susuk from incidental X-rays, the first reported in 1928. Malay Wikipedia's example is a named celebrity with gold needles and diamonds in her chin.",
+  "keeping_th": "ไม่มีหมวดใน vault — ไม่ใช่วัตถุที่เก็บ แต่เป็นสิ่งที่ฝังในตัว จึงปล่อยว่าง สิ่งที่ผู้ฝัง “เป็นหนี้” คือข้อห้ามและการถอดออกให้ถูกวิธี",
+  "keeping_en": "Class null: nothing in the vault covers an implant — it is not kept, it is worn inside. What the wearer owes is the taboos and a correct removal; that is the whole of the upkeep, and the whole of why the tradition says who set it matters."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-susuk",
+  "s:id-wiki-susuk",
+  "s:ms-wiki-susuk"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-susuk"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "null: implant, not a kept object"
+   },
+   "origin.place_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Thai deep south is training knowledge, hedged; the cited sources name MY / ID / BN / SG"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai; ซูซุก is the loan Thai media use"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

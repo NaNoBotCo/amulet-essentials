@@ -1,0 +1,640 @@
+{
+ "schema": 1,
+ "id": "phra-siwali",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระสีวลี",
+  "roman": "phra siwali",
+  "en": "Phra Siwali (the never-hungry monk)",
+  "aliases": {
+   "th": [
+    "พระสิวลี",
+    "พระฉิมพลี",
+    "สีวลีเถระ"
+   ],
+   "roman": [
+    "phra sivali",
+    "phra siwalee",
+    "phra chimphali"
+   ],
+   "en": [
+    "Sivali",
+    "Sivali Thera",
+    "foremost in receiving offerings"
+   ]
+  }
+ },
+ "region": [
+  "th",
+  "mm",
+  "la"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "chok_lap",
+   "kha_khai",
+   "khlaeo_khlat",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_phong"
+  ],
+  "figures": [
+   "monk"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "พระภิกษุยืน แบกกลดและไม้เท้า สะพายย่าม ถือกาน้ำหรือบาตร — รูปหล่อตั้งบูชาและจี้ มีแบบเหรียญและผงด้วย",
+  "shape_en": "A standing monk with umbrella and staff over the shoulder, a bag across the body, a kettle or alms-bowl in hand; cast shelf figure and pendant, also medallion and powder tablet",
+  "size_mm": null,
+  "wearable_th": "จี้ห้อยคอ หรือรูปตั้ง",
+  "wearable_en": "Worn as a pendant or stood on a shelf",
+  "obverse_th": "พระสีวลียืนเดินธุดงค์ ครองจีวร",
+  "obverse_en": "Sivali standing in walking-pilgrim kit, robed",
+  "reverse_th": "ยันต์ ชื่อวัด",
+  "reverse_en": "Yantra or temple name",
+  "notes_en": "The treatise's Phra Chimphali is a different body: a Phakawambodi (closed-face) figure carved from rak-son root, one finger-length and half an inch high, hollowed and filled — see story. The standing-monk type is the modern trade form."
+ },
+ "iconography": [
+  {
+   "th": "กลดและไม้เท้าพาดบ่า",
+   "en": "umbrella (klot) and staff over the shoulder"
+  },
+  {
+   "th": "ย่ามสะพาย",
+   "en": "a monk's bag slung across the body"
+  },
+  {
+   "th": "กาน้ำหรือบาตร พัด",
+   "en": "a kettle or alms-bowl, sometimes a fan"
+  },
+  {
+   "th": "ยืน ครองจีวร",
+   "en": "standing, in robes"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง) — ตำราพระฉิมพลี",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983, the Phra Chimphali manual, which traces its own lineage to King Naresuan's time",
+  "era_th": "ตำราอ้างสืบมาแต่ครั้งพระนเรศวรและพระนารายณ์ (คำอ้างของตำราเอง)",
+  "era_en": "The treatise claims descent from the reigns of Naresuan and Narai — its own claim, not a dated attestation",
+  "place_th": "ทั่วประเทศ และพม่า ลาว",
+  "place_en": "Nationwide; also Myanmar, Laos and Sri Lanka",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "พระภิกษุยืน มีกลด ไม้เท้า ย่าม — ไม่ใช่พระพุทธรูป ไม่ใช่พระเกจิรูปเหมือน",
+   "en": "A standing monk with umbrella, staff and bag: not a Buddha, and not the portrait of a named modern monk",
+   "source": "s:en-wiki-sivali",
+   "tier": "cited"
+  },
+  {
+   "th": "หมวดพระเครื่อง ไม่มีผู้อยู่ — ต่างจากเทพและผี",
+   "en": "Class phra khrueang: nobody home, unlike the deva and spirit kinds it is sold beside",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราพระฉิมพลีแกะรากรักซ้อนเป็นรูปภควัมบดี เจาะกลวง บรรจุพระธาตุห่อยันต์ อุดด้วยชันโรง",
+   "en": "The treatise type is a closed-face figure in rak-son root, hollowed, charged with relics wrapped in two yantras and sealed with stingless-bee resin — a cavity and a resin plug are its marks",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "รูปหล่อทองเหลืองและจี้โลหะเป็นของตลาดปัจจุบัน",
+   "en": "Brass shelf figures and metal pendants are the current retail form",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "หลวงปู่ทวดเป็นพระเกจิรูปเหมือน นั่ง ไม่มีกลด · พระสีวลียืน แบกกลด",
+   "tell_en": "Luang Pu Thuat is a portrait of a named monk, usually seated, no umbrella; Siwali stands under his umbrella with a staff."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อพระเกจิเป็นรูปเหมือนของพระอาจารย์ที่มีชื่อ · พระสีวลีเป็นพระอรหันต์สมัยพุทธกาล มีเครื่องธุดงค์",
+   "tell_en": "A rup lo is the likeness of a known teacher; Siwali is an arahant of the Buddha's time, marked by his pilgrim kit."
+  },
+  {
+   "id": "phra-pidta",
+   "tell_th": "ตำราพระฉิมพลีใช้รูปภควัมบดีปิดหน้า จึงเป็นปิดตาที่บรรจุพระธาตุพระสีวลี · ปิดตาทั่วไปไม่มีการบรรจุนี้",
+   "tell_en": "The treatise's Chimphali is itself a closed-face Phakawambodi figure charged with Sivali's relic, so an old wooden pidta with a resin-sealed cavity may be one; an ordinary pidta is pressed or cast and unfilled."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นหญิงนั่งกวักมือ · พระสีวลีเป็นภิกษุยืน ตำนานว่าท่านให้พรนางกวัก",
+   "tell_en": "Nang Kwak is a seated woman beckoning; Siwali is a standing monk. The legend links them — he blessed her — and her money bag may bear his name."
+  }
+ ],
+ "market": {
+  "search": [
+   "สีวลี"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Sīvali"
+  ],
+  "commons_files": [
+   "File:Phra Sivali Thera พระสิวลีเถระ Wat Ratcha Singkhon วัดราชสิงขร 01.jpg",
+   "File:Wat Tham Khao Rup Chang - 061 Phra Sivali (14662679584).jpg",
+   "File:Wat Tham Khao Rup Chang - 062 Phra Sivali (14663035644).jpg",
+   "File:Statue of Sivali Thera.jpg"
+  ],
+  "wanted_en": "Commons has temple statues showing the kit. Needed: a pendant obverse and reverse, and a carved closed-face treatise-type figure if one survives"
+ },
+ "images": [
+  {
+   "file": "phra-siwali/phra-siwali-phra-sivali-thera-wat-ratcha-singkhon-01-cd07b1.jpg",
+   "source": "commons",
+   "title": "File:Phra Sivali Thera พระสิวลีเถระ Wat Ratcha Singkhon วัดราชสิงขร 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Phra_Sivali_Thera_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%96%E0%B8%A3%E0%B8%B0_Wat_Ratcha_Singkhon_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%A3_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87826394",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Sīvalī Thera",
+   "sha256": "20fb0498434acaeaffc4c7e954a4dea6e8a03ec3cb03ac4e24aa601cfed751c0",
+   "width": 3024,
+   "height": 4032,
+   "primary": true
+  },
+  {
+   "file": "phra-siwali/phra-siwali-statue-of-sivali-thera-9b3266.jpg",
+   "source": "commons",
+   "title": "File:Statue of Sivali Thera.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Statue_of_Sivali_Thera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16000683",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "User:Millevache",
+   "credit": "File:Wat Phra That Doi Suthep7.JPG",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Statue of Sivali Thera, one of arhat and disciple of Gautama Buddha. Cropped from File:Wat_Phra_That_Doi_Suthep7.JPG",
+   "sha256": "d475a9bf1c3b3a27dd55eb2448858417878f334e69ca7fbd5bfa2f3909c8178f",
+   "width": 755,
+   "height": 1888
+  },
+  {
+   "file": "phra-siwali/phra-siwali-wat-tham-khao-rup-chang-061-phra-sivali-266ba1.jpg",
+   "source": "commons",
+   "title": "File:Wat Tham Khao Rup Chang - 061 Phra Sivali (14662679584).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wat_Tham_Khao_Rup_Chang_-_061_Phra_Sivali_%2814662679584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=40212851",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Penang, Malaysia",
+   "credit": "061 Phra Sivali",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — 061 Phra Sivali, Wat Tham Khao Rup Chang, Sadao, Thailand\n\nPhotograph from Wat Tham Khao Rup Chang in Songkhla Province,",
+   "sha256": "b3487b8184c9603b3a609b54e08e2e7783b721622e6b4b4cfaab06536dc017af",
+   "width": 2209,
+   "height": 4014
+  },
+  {
+   "file": "phra-siwali/phra-siwali-wat-tham-khao-rup-chang-062-phra-sivali-e7a735.jpg",
+   "source": "commons",
+   "title": "File:Wat Tham Khao Rup Chang - 062 Phra Sivali (14663035644).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wat_Tham_Khao_Rup_Chang_-_062_Phra_Sivali_%2814663035644%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=40212854",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Penang, Malaysia",
+   "credit": "062 Phra Sivali",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — 062 Phra Sivali, Wat Tham Khao Rup Chang, Sadao, Thailand\n\nPhotograph from Wat Tham Khao Rup Chang in Songkhla Province,",
+   "sha256": "9a2cc23a4e049bc4be3d9ab298967bf58d13bdecca46c7d4097cae1b30809fa5",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-siwali/phra-siwali-chinesstemple2-9-761527-100-007254-27-7946b9.jpg",
+   "source": "commons",
+   "title": "File:ChinessTemple2-9.761527,100.007254 (27).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/ChinessTemple2-9.761527%2C100.007254_%2827%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=28638216",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Леонид Каратасков",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — ChinessTemple",
+   "sha256": "c1a7110ff8593c6cb11230fb423f88fa6384caff9c202a3477ddf17492ddecae",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-siwali/phra-siwali-jpg-5b75b2.jpg",
+   "source": "commons",
+   "title": "File:พระสิวลี.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=34363950",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "พระใบฎีกาไพรัตน์",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — พระสิวลี",
+   "sha256": "c7eaa3e72c2f59e188211d592d7a27d2fe00099f616cabbae1645a1576301527",
+   "width": 493,
+   "height": 623
+  },
+  {
+   "file": "phra-siwali/phra-siwali-018-chedi-liam-monk-in-front-of-ubosot-9-cd247e.jpg",
+   "source": "commons",
+   "title": "File:018 Chedi Liam, Monk in Front of Ubosot (9203506279).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/018_Chedi_Liam%2C_Monk_in_Front_of_Ubosot_%289203506279%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50796977",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "018 Chedi Liam, Monk in Front of Ubosot",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — 18 Chedi Liam, Monk in Front of Ubosot, Wiang Kum Kam, Chiang Mai Province",
+   "sha256": "5fd68f2600edb27ccb28bdbf62ae0c59b5ba57ab1884b4be2e402533746279bb",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "phra-siwali/phra-siwali-057-venerable-sivali-9013027667-6d411b.jpg",
+   "source": "commons",
+   "title": "File:057 Venerable Sivali (9013027667).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/057_Venerable_Sivali_%289013027667%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50937266",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "057 Venerable Sivali",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — 057 Venerable Sivali, at Wat Olak Madu, Kedah",
+   "sha256": "4519d3817c92b759e468281f32725c404ffc12e583240d29f4e73dcc9a2645a5",
+   "width": 2736,
+   "height": 3648
+  },
+  {
+   "file": "phra-siwali/phra-siwali-statue-of-sivali-thera-cox-s-bazar-0bdc7c.jpg",
+   "source": "commons",
+   "title": "File:Statue of Sivali Thera, Cox's Bazar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Statue_of_Sivali_Thera%2C_Cox%27s_Bazar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51818679",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Khalidrahman",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — A statute at Maheshkhali Upzilla.",
+   "sha256": "c89972c57effb004c68459bf420de24de5bc4f7bf41dca344561117f997edab8",
+   "width": 1424,
+   "height": 2144
+  },
+  {
+   "file": "phra-siwali/phra-siwali-buddhist-monk-s-statue-5a7225.jpg",
+   "source": "commons",
+   "title": "File:Buddhist Monk's Statue.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Buddhist_Monk%27s_Statue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=71797723",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ခင်မောင်မောင်လွင်",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Buddhist Monk's Statue",
+   "sha256": "08fd8821b76141d52a23cdf0925e1da8b40aa1a5f626a559177a383dbd5ca276",
+   "width": 1836,
+   "height": 3264
+  },
+  {
+   "file": "phra-siwali/phra-siwali-wat-yai-thakkhinaram-wat-yai-laos-nakhon-72c554.jpg",
+   "source": "commons",
+   "title": "File:Wat Yai Thakkhinaram (Wat Yai Laos) Nakhon Nayok 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Wat_Yai_Thakkhinaram_%28Wat_Yai_Laos%29_Nakhon_Nayok_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=84811284",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — วัดใหญ่ทักขิณาราม นครนายก",
+   "sha256": "f6f02df48f25c1469bf0a81eab5523f3212c88bce76247243dfb714efe6683da",
+   "width": 1498,
+   "height": 1998
+  },
+  {
+   "file": "phra-siwali/phra-siwali-sivali-thera-shrine-wat-chedi-luang-01-a1824b.jpg",
+   "source": "commons",
+   "title": "File:Sivali Thera Shrine Wat Chedi Luang 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sivali_Thera_Shrine_Wat_Chedi_Luang_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=85102243",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Sivali Thera Shrine at Wat Chedi Luang",
+   "sha256": "6f0d88942fc38faf55f14755acd31039a06796dc270b827c1576640d7d0c4895",
+   "width": 2672,
+   "height": 3340
+  },
+  {
+   "file": "phra-siwali/phra-siwali-sivali-thera-shrine-wat-chedi-luang-02-f4a8ba.jpg",
+   "source": "commons",
+   "title": "File:Sivali Thera Shrine Wat Chedi Luang 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Sivali_Thera_Shrine_Wat_Chedi_Luang_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=85102244",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Sivali Thera Shrine at Wat Chedi Luang",
+   "sha256": "1d691d57936ec0626228bc5cd22773fb255a82feac18718c01abc4f97ef11f82",
+   "width": 1374,
+   "height": 2062
+  },
+  {
+   "file": "phra-siwali/phra-siwali-phra-sivali-thera-wat-ratcha-singkhon-cr-b506cc.png",
+   "source": "commons",
+   "title": "File:Phra Sivali Thera พระสิวลีเถระ Wat Ratcha Singkhon วัดราชสิงขร - CROPPED.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Phra_Sivali_Thera_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B5%E0%B9%80%E0%B8%96%E0%B8%A3%E0%B8%B0_Wat_Ratcha_Singkhon_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%82%E0%B8%A3_-_CROPPED.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87826393",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Sīvalī Thera",
+   "sha256": "6e0631460877b5e18e9c9631851ab74d6f16be4fc346a07c8983b75aa5025870",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-kao-nhot-vientiane-laos-e09b68.jpg",
+   "source": "commons",
+   "title": "File:Vat Kao Nhot - Vientiane - Laos.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vat_Kao_Nhot_-_Vientiane_-_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934388",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Kao Nhot - Vientiane - Laos",
+   "sha256": "7108f7d429a74caa09c06520fbb59ee038c58eb1f2dcfd8ff91df6d19348b7da",
+   "width": 1984,
+   "height": 3968
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-chan-vientiane-laos-01bdd2.jpg",
+   "source": "commons",
+   "title": "File:Vat Chan - Vientiane - Laos.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Vat_Chan_-_Vientiane_-_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934390",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Chan - Vientiane - Laos",
+   "sha256": "f34d62021df5dd653ac2495299b6d3b065849ee7c572dfebcdf81bc646c1bc8a",
+   "width": 2248,
+   "height": 4000
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-pho-sa-wan-vientiane-laos-1-e61131.jpg",
+   "source": "commons",
+   "title": "File:Vat Pho Sa Wan - Vientiane - Laos (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vat_Pho_Sa_Wan_-_Vientiane_-_Laos_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934391",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Pho Sa Wan - Vientiane - Laos",
+   "sha256": "bc2eade5c6d0e9c4f4a998d8209dfd3ff76f7c4401a1ee31dfc9af5fa7a339a9",
+   "width": 2248,
+   "height": 4000
+  },
+  {
+   "file": "phra-siwali/phra-siwali-ch-a-v-nh-nghi-m-qu-n-3-tphcm-vi-t-nam-b55d7c.jpg",
+   "source": "commons",
+   "title": "File:Chùa Vĩnh Nghiêm - Quận 3 tpHCM - Viêt Nam.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Ch%C3%B9a_V%C4%A9nh_Nghi%C3%AAm_-_Qu%E1%BA%ADn_3_tpHCM_-_Vi%C3%AAt_Nam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934393",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — chùa Vĩnh Nghiêm - Quận 3 tpHCM - Viêt Nam",
+   "sha256": "d8dabd508faf4d193026316bfb3f3708a7a8c4948b233e84214f13085f639e10",
+   "width": 2160,
+   "height": 3840
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-phonesavanh-neua-vientiane-laos-a6ae3c.jpg",
+   "source": "commons",
+   "title": "File:Vat Phonesavanh Neua - Vientiane - - Laos.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Vat_Phonesavanh_Neua_-_Vientiane_-_-_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934396",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Phonesavanh Neua - Vientiane - Laos",
+   "sha256": "85d9cb648adf293bd95022498bb53b3d03e0dc32fbf94bf0589123eb1968cebd",
+   "width": 1984,
+   "height": 3968
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-pho-sa-wan-vientiane-laos-2-76157f.jpg",
+   "source": "commons",
+   "title": "File:Vat Pho Sa Wan - Vientiane - Laos (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vat_Pho_Sa_Wan_-_Vientiane_-_Laos_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934398",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Pho Sa Wan - Vientiane - Laos",
+   "sha256": "eb4e26d89aadcfcb3b571bfcf5ef093ffe84e9f80a8019aadf40755331f35ae8",
+   "width": 2248,
+   "height": 4000
+  },
+  {
+   "file": "phra-siwali/phra-siwali-vat-than-khook-maa-ban-mai-laos-2e28dd.jpg",
+   "source": "commons",
+   "title": "File:Vat Than Khook Maa - Ban Mai - Laos.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vat_Than_Khook_Maa_-_Ban_Mai_-_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89934399",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ndoduc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — vat Than Khook Maa - Ban Mai - Laos",
+   "sha256": "f0ac471357fa322ee372889602cf0717ff8745866c119863700d31689f3e3f67",
+   "width": 2248,
+   "height": 4000
+  },
+  {
+   "file": "phra-siwali/phra-siwali-rotation-of-dsc00101-b89d04.jpg",
+   "source": "commons",
+   "title": "File:Rotation of DSC00101.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rotation_of_DSC00101.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=91413243",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Nitigor",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — พระสีวลี",
+   "sha256": "137022c96e2b3869ae3bcf8df6b4d7fa297f8fc0de6e9ef8ea47b1b74b86f200",
+   "width": 1536,
+   "height": 2048
+  },
+  {
+   "file": "phra-siwali/phra-siwali-1-85513b.jpg",
+   "source": "commons",
+   "title": "File:พระสิวลี 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B5_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=104174394",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Varatchayo",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — พระสิวลี",
+   "sha256": "45eee43ac58e38399913376a73aac62ad4ded6aa6fa753049efc188ea896d528",
+   "width": 3504,
+   "height": 3504
+  },
+  {
+   "file": "phra-siwali/phra-siwali-nakhon-nayok-wat-maniwong-temple-03-510910.jpg",
+   "source": "commons",
+   "title": "File:Nakhon Nayok - Wat Maniwong Temple วัดมณีวงศ์ จังหวัดนครนายก ภาพ 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Nakhon_Nayok_-_Wat_Maniwong_Temple_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81_%E0%B8%A0%E0%B8%B2%E0%B8%9E_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=148738339",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสีวลี",
+   "alt_en": "Phra Siwali (the never-hungry monk) — Wat Maniwong (Wat Maneewong) in Nakhon Nayok Province",
+   "sha256": "45800b00f032c13eda49575535cb3f0ce9f537e121029565da1493eccdb9ffcb",
+   "width": 3024,
+   "height": 4032
+  }
+ ],
+ "text": {
+  "what_th": "พระสีวลี พระอรหันต์ผู้เลิศทางลาภ — แบกไม้เท้า กลด และกาน้ำ — บูชาเพื่อให้ปัจจัยมาถึงทันเวลา รูปหล่อและจี้ บูชาอย่างพระเครื่องทั่วไป ไม่มีผู้อยู่",
+  "what_en": "The arahant who never lacked — staff over shoulder, umbrella and kettle — carried for provision that arrives on time. Statue and pendant, venerated as an ordinary amulet.",
+  "story_th": "พระสีวลีเป็นเอตทัคคะทางผู้มีลาภมาก อยู่ในครรภ์พระนางสุปปวาสาเจ็ดปีเจ็ดเดือนเจ็ดวัน ตำราในชุดนี้เรียกท่านว่าพระฉิมพลี ให้เอารากรักซ้อนแกะเป็นรูปภควัมบดีสูงหนึ่งองคุลีกึ่งนิ้ว เจาะกลวง บดยอดรักซ้อน ยอดสวาด ยอดกาหลง เอายันต์ห่อพระธาตุพระสารีบุตรและพระธาตุพระฉิมพลีบรรจุ อุดด้วยชันโรงใต้ดิน ตั้งบายศรี เป็ด ไก่ แหวนทองแหวนเงิน ทำขวัญ ๓ วัน บูชาทุกค่ำเช้า จุดเทียนถวายทุกค่ำกันโจรภัย อัคคีภัย อุทกภัย มีคาถาไหว้ก่อนขอลาภ",
+  "story_en": "Sivali was foremost among the Buddha's disciples in receiving offerings; his mother Suppavasa carried him seven years, seven months and seven days. Manuscript 6983 knows him as Phra Chimphali and opens its whole collection with him, claiming a lineage back through King Narai to Naresuan. Carve a closed-face Phakawambodi figure from rak-son root, one finger-length and half an inch tall, hollow it, grind shoots of rak-son, sawat and ka-long, wrap the relics of Sariputta and of Chimphali in two yantras and seal them inside with underground stingless-bee resin; then a bai-si, a duck, a chicken, gold and silver rings on the bai-si's peak, and a three-day tham-khwan. Honour it morning and evening; a candle each dusk guards against thieves, fire and flood, and the text gives a katha of homage to be said before any katha asking for gain. The standing monk with umbrella and kettle is what the shops sell now; the treatise's Chimphali looks nothing like him.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ ตำราให้บูชาค่ำเช้า แต่นั่นคือความศรัทธา ไม่ใช่การเลี้ยงผี",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; the treatise's morning-and-evening honours are devotion, not upkeep a resident demands."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:en-wiki-sivali",
+  "s:th-wiki-nang-kwak",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 1304–1470 (printed pp. 16–23); birth and etadagga from s:en-wiki-sivali"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-sivali"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:en-wiki-sivali"
+   },
+   "origin": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "lineage claim is the treatise's own"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "region": {
+    "tier": "cited",
+    "source": "s:en-wiki-sivali"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,239 @@
+{
+ "schema": 1,
+ "id": "bua",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ยันต์กระดาษเวียดนาม",
+  "roman": "bùa",
+  "en": "Vietnamese talisman (bùa)",
+  "aliases": {
+   "th": [
+    "บั่ว",
+    "บั่วโห่เหม่ง",
+    "เครื่องรางเวียดนาม"
+   ],
+   "roman": [
+    "bua",
+    "bùa hộ mệnh",
+    "bùa bình an",
+    "phù"
+   ],
+   "en": [
+    "Vietnamese amulet",
+    "protective charm (bùa hộ mệnh)",
+    "peace charm (bùa bình an)"
+   ]
+  },
+  "other_scripts": {
+   "vi": "bùa · bùa hộ mệnh",
+   "zh": "符"
+  }
+ },
+ "region": [
+  "vn"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "กระดาษแผ่นเล็กเขียนอักษรจีนหรืออักษรจื๋อโนม พับเล็กแล้วห่อผ้าเป็นถุงห้อยคอ หรือติดผนัง",
+  "shape_en": "A small paper sheet written with Chinese or Nôm characters and drawn signs, folded small and sewn into a cloth pouch to hang at the neck, or pasted up in the house; metal, jade and stone bùa hộ mệnh also exist",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในถุงผ้า พกในกระเป๋า หรือติดบ้าน",
+  "wearable_en": "Worn at the neck in a cloth pouch, carried in a wallet, or pasted in the house",
+  "obverse_th": "อักษรและลายเส้นยันต์ มักหมึกแดงหรือดำ",
+  "obverse_en": "Characters and talismanic strokes, usually red or black ink; temple issues carry a red seal stamp",
+  "reverse_th": "เปล่า",
+  "reverse_en": "Plain",
+  "notes_en": "The Vietnamese Wikipedia entry for bùa is a disambiguation page: the word covers paper talismans (phù lục), coin charms, the worn bùa hộ mệnh, and spoken spells. This record is the worn / pasted paper-and-cloth object; bùa yêu (love charms) and bùa ngải (herb sorcery) are different practices that share the word."
+ },
+ "iconography": [
+  {
+   "th": "อักษรจีน/จื๋อโนม และเส้นยันต์",
+   "en": "Chinese or Nôm characters with talismanic strokes"
+  },
+  {
+   "th": "ตราประทับแดงของวัดหรือเจ้าสำนัก",
+   "en": "Red seal of the issuing temple or master"
+  },
+  {
+   "th": "ถุงผ้าสีห่อกระดาษ",
+   "en": "Coloured cloth pouch enclosing the folded paper"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "วัด (chùa) ศาลเจ้า (đền) พระสงฆ์ หรือหมอผี (thầy)",
+  "maker_en": "Buddhist temples (chùa), shrines (đền), monks and ritual specialists (thầy pháp, thầy cúng); parents bought them for children",
+  "era_th": "ประเพณีสืบมา; ต้นศตวรรษที่ ๒๐ นิยมให้เด็กพก",
+  "era_en": "Continuing practice; early-twentieth-century accounts describe them commonly given to children for health",
+  "place_th": "เวียดนาม",
+  "place_en": "Vietnam",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "กระดาษเขียนคาถาหรืออักษรจีน พับเล็กห่อผ้าสีห้อยคอ — รูปแบบหลักของ bùa hộ mệnh",
+   "en": "A small paper written with incantations or Classical-Chinese characters, folded and wrapped in a coloured cloth pouch at the neck: the standard bùa hộ mệnh form",
+   "source": "s:vi-wiki-bua-ho-menh",
+   "tier": "cited"
+  },
+  {
+   "th": "โครงสร้างตามฮู้จีน: หัวยันต์ ตัวยันต์ ท้ายยันต์ และตราประทับ",
+   "en": "Where the paper follows the Chinese fu model it reads in three parts, header, body and foot, with a seal; the Vietnamese name for that model is phù lục",
+   "source": "s:zh-wiki-fulu",
+   "tier": "cited"
+  },
+  {
+   "th": "bùa hộ mệnh ยังมีแบบโลหะ (เหรียญ แหวน) หยก หิน และรูปเล็ก — รูปทรงไม่ได้บอกชนิด",
+   "en": "Metal (coins, rings), jade, stone and small figures are also called bùa hộ mệnh; the form does not settle what the object is",
+   "source": "s:vi-wiki-bua-ho-menh",
+   "tier": "cited"
+  },
+  {
+   "th": "ฉบับวัดแจกช่วงเต๊ตมักพิมพ์ ฉบับเขียนมือชี้ไปที่เจ้าสำนัก",
+   "en": "Temple-issued bình an charms handed out around Tết are usually printed; a hand-brushed sheet usually points to an individual master. The trade holds this; not verified against a source",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ชาวเวียดนามมักเรียกฮู้ทุกชนิดรวมกันว่า bùa Lỗ Ban",
+   "en": "Vietnamese speakers commonly lump all fu-type talismans under the name bùa Lỗ Ban (Lu Ban charms), so a seller's label may be broader than the object",
+   "source": "s:vi-wiki-phu-luc",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "fu-talisman",
+   "tell_th": "ฮู้จีนคือกระดาษเหลืองหมึกแดงตามแบบเต๋า ส่วน bùa เป็นกรอบเวียดนาม รวมถุงผ้า อักษรโนม และของโลหะด้วย",
+   "tell_en": "Same class, same paper model. The fu is the Taoist sheet itself, yellow paper and red ink; bùa is the Vietnamese frame around it, which also takes Nôm script, the sewn cloth pouch, and metal or jade objects under one word."
+  },
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ไทยเป็นผ้าผืนพิมพ์ยันต์ขอม ไม่พับใส่ถุง",
+   "tell_en": "Thai yantra cloth is a printed cloth sheet in Khom script, hung or folded in a wallet; a bùa is paper sewn into a small cloth pouch."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นแผ่นโลหะม้วนหลอด bùa เป็นกระดาษพับในผ้า",
+   "tell_en": "A takrut is rolled metal foil in a tube; a bùa is folded paper in cloth. Both impersonal, both worn."
+  },
+  {
+   "id": "jimat",
+   "tell_th": "jimat มลายูมักเป็นอักษรอาหรับ/ยาวี bùa เป็นอักษรจีนหรือโนม",
+   "tell_en": "A Malay jimat carries Arabic or Jawi writing; a bùa carries Chinese or Nôm."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Bùa bình an cầu được ở chùa tại Đông Hà năm 2016.jpg",
+   "File:Vietnamese Women's Museum, Amulet.jpg",
+   "File:AAVH AP4928 – Annam, 1926 – Amulette – Magie conjuratoire – Elimination des \"diables de la demeure\".jpg"
+  ],
+  "wanted_en": "A bùa hộ mệnh pouch closed and then opened with the folded paper unfolded beside it; a temple bình an charm with its red seal legible. No Commons category exists as of 2026-09-02."
+ },
+ "text": {
+  "what_th": "เครื่องรางเวียดนาม คำว่า bùa ครอบคลุมยันต์กระดาษแบบจีน เหรียญยันต์ และ bùa hộ mệnh ที่พกติดตัว ส่วนใหญ่เป็นกระดาษเขียนอักษรจีนหรือโนม พับใส่ถุงผ้าห้อยคอ พลังอยู่ที่อักษรและพิธี ไม่มีผู้สถิต",
+  "what_en": "The Vietnamese talisman: a paper written with Chinese or Nôm characters and talismanic strokes, folded into a cloth pouch and worn, or pasted in the house. The word bùa also covers coin charms, jade and metal pieces, and spoken spells; power sits in the writing and the rite, nobody is home.",
+  "story_th": "ต้นศตวรรษที่ ๒๐ พ่อแม่ซื้อ bùa hộ mệnh จากวัดหรือหมอผีให้ลูกพกกันโรคภัย ผู้เขียนคือดาวสือ (đạo sĩ) หมอไล่ผี หรือพระ ใช้เพื่อ trấn yểm ตรึงพื้นที่และ trừ tà ไล่สิ่งชั่วร้าย ชาวเวียดนามมักเรียกฮู้แบบจีนทุกชนิดว่า bùa Lỗ Ban",
+  "story_en": "Early-twentieth-century accounts have parents buying a bùa hộ mệnh at a temple or from a thầy for a sick or vulnerable child. The writers are Taoist priests (đạo sĩ), exorcists and monks; the stated purposes are warding a place (trấn yểm) and driving off harm (trừ tà). Older Vietnamese protective practice, tattooing water-spirit designs, sits behind the paper form. Vietnamese speakers often call every Chinese-model paper talisman a bùa Lỗ Ban.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง หมดฤทธิ์หรือขาดก็นำไปเผาหรือคืนวัด",
+  "keeping_en": "Nobody home, nothing owed: an inscribed object in the vault's yantra_wattu sense. When worn out it is burned or returned to the temple rather than thrown away, which the trade holds and the record does not verify. Bùa ngải and bùa yêu, made with herbs and directed at a person, are a different matter that shares the word."
+ },
+ "sources": [
+  "s:vi-wiki-bua-ho-menh",
+  "s:vi-wiki-phu-luc",
+  "s:zh-wiki-fulu",
+  "s:en-wiki-vietnamese-folk-religion",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:vi-wiki-bua-ho-menh"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "note": "vault class applied across the border by analogy; the vault does not name bùa"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai gloss; no Thai term is in use"
+   },
+   "form.notes_en": {
+    "tier": "cited",
+    "source": "s:vi-wiki-phu-luc"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "no Lazada Thailand title carries a Vietnamese term; counts not run"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "bua/bua-b-a-b-nh-an-c-u-c-ch-a-t-i-ng-h-n-m-2016-5ff425.jpg",
+   "source": "commons",
+   "title": "File:Bùa bình an cầu được ở chùa tại Đông Hà năm 2016.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/B%C3%B9a_b%C3%ACnh_an_c%E1%BA%A7u_%C4%91%C6%B0%E1%BB%A3c_%E1%BB%9F_ch%C3%B9a_t%E1%BA%A1i_%C4%90%C3%B4ng_H%C3%A0_n%C4%83m_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=103384983",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Phương Huy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์กระดาษเวียดนาม",
+   "alt_en": "Vietnamese talisman (bùa) — Objects of Vietnam",
+   "sha256": "1f0a327725bff846413d292e9dea72460c485e922d3124ce16b372829124d8b9",
+   "width": 2001,
+   "height": 2939,
+   "primary": true
+  },
+  {
+   "file": "bua/bua-vietnamese-women-s-museum-amulet-e0536b.jpg",
+   "source": "commons",
+   "title": "File:Vietnamese Women's Museum, Amulet.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vietnamese_Women%27s_Museum%2C_Amulet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=32119047",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Vietnamese Women's Museum",
+   "credit": "http://www.baotangphunu.org.vn/",
+   "view": "other",
+   "alt_th": "ยันต์กระดาษเวียดนาม",
+   "alt_en": "Vietnamese talisman (bùa) — Amulet of Mrs Hoang Thi Nhu Hoa Việt, \nHà Nam\n\nL.9cm",
+   "sha256": "699695d7aba91c8366a7dbb184a8f4182f35ecc7426717f3ca7355f6cd61eab3",
+   "width": 2200,
+   "height": 3300
+  }
+ ]
+}

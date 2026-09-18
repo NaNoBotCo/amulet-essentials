@@ -1,0 +1,571 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "prachiat",
+ "names": {
+  "th": "ผ้าประเจียด",
+  "roman": "pha prachiat",
+  "en": "Prachiat (yantra head-cloth / armband)",
+  "aliases": {
+   "th": [
+    "ประเจียด",
+    "ผ้าประเจียดแขน",
+    "มงคล (ผ้าโพกหัวนักมวย)"
+   ],
+   "roman": [
+    "pra jiad",
+    "prajiad",
+    "prajead",
+    "mongkhon",
+    "mongkol"
+   ],
+   "en": [
+    "yantra armband",
+    "muay thai armband",
+    "war head-cloth"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "metta_maha_niyom",
+   "kan_phi"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "ผ้าลงเลขยันต์ผืนสี่เหลี่ยมผืนผ้าหรือจัตุรัส ขาว แดง เหลือง เขียนด้วยหมึกดำหรือดินสอ ม้วนหรือพับเป็นแถบ พันศีรษะ คอ หรือต้นแขน ใส่กระเป๋าก็ได้",
+  "shape_en": "An inscribed cloth, rectangular or square, white, red or yellow, drawn in black ink or pencil, rolled or folded into a band and tied round the head, neck or upper arm, or carried in a pocket. The boxer's armband is this; the boxer's head-ring (มงคล) is its cousin.",
+  "size_mm": null,
+  "wearable_th": "พันหัว พันแขน ห้อยคอ",
+  "wearable_en": "Tied on the head or upper arm, or hung at the neck; muay thai fighters wear the armband through the bout and the head-ring only for the wai khru",
+  "obverse_th": "ยันต์และอักขระ เช่น ตรีนิสิงเห ปิโย",
+  "obverse_en": "The yantra: th.wikipedia names ตรีนิสิงเห (against spirits) and ปิโย (favour and trade) as examples",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Ms 6983 names it twice without a recipe: a carved figure held in the mouth 'as a prachiat' (line 2901), and 'ผ้าประเจียดและมงคล' among the things the waking chant rouses 'to endure and evade' (line 2932). en.wikipedia's Pra Jiad and Mongkhon articles give the boxing form and the origin story of a mother's sarong."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์ตรีนิสิงเห",
+   "en": "Trinisinghe yantra (against spirits)"
+  },
+  {
+   "th": "ยันต์ปิโย",
+   "en": "Piyo yantra (favour, trade)"
+  },
+  {
+   "th": "ผืนแดง ขาว เหลือง",
+   "en": "red, white or yellow ground"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "แจกโดยพระเจ้าตากสิน (พ.ศ. ๒๓๑๒) และ ร.๑ (พ.ศ. ๒๓๒๘) แก่แม่ทัพนายกองและทหาร ตามวิกิพีเดีย; ครูอาจารย์ทำให้ศิษย์",
+  "maker_en": "th.wikipedia records prachiat given by King Taksin (B.E. 2312) to commanders and by Rama I (B.E. 2328) to soldiers; later made by teachers for pupils and by monks",
+  "era_th": "กรุงธนบุรี–รัตนโกสินทร์",
+  "era_en": "Thonburi and early Bangkok periods by the cited dates; the practice is older than the record",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Thailand",
+  "first_attested": "B.E. 2312 (King Taksin's distribution, as recorded on th.wikipedia ประเจียด)"
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นแถบผ้าพันได้ ไม่ใช่ผืนกางแขวน — ยาวกว่ากว้างมาก หรือพับจากผืนเล็ก",
+   "en": "A band that ties: much longer than wide, or a small square folded to a strip; a large hanging sheet is a pha yan",
+   "source": "s:th-wiki-prachiat",
+   "tier": "cited"
+  },
+  {
+   "th": "หมึกดำหรือดินสอบนผ้าขาว แดง เหลือง",
+   "en": "Black ink or pencil on white, red or yellow cloth",
+   "source": "s:th-wiki-prachiat",
+   "tier": "cited"
+  },
+  {
+   "th": "ของนักมวยเป็นแถบต้นแขน ปลายผูกเป็นพู่ มงคลเป็นวงแข็งสวมหัว",
+   "en": "The boxing armband is a soft tied band, ends left as tassels; the mongkhon is a stiff hoop for the head, removed after the wai khru",
+   "source": "s:en-wiki-mongkhon",
+   "tier": "cited"
+  },
+  {
+   "th": "บางค่ายใช้สีแถบบอกชั้น — เป็นธรรมเนียมค่าย ไม่ใช่ของขลัง",
+   "en": "Some gyms colour-code armbands for rank; that is gym custom, not consecration",
+   "source": "s:en-wiki-pra-jiad",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ผืนกาง ประเจียดพันตัว หมวดเดียวกัน",
+   "tell_en": "A pha yan is a sheet to hang or fold; a prachiat is a band to tie on. Same class, same keeping; the name follows the use."
+  },
+  {
+   "id": "suea-yan",
+   "tell_th": "เสื้อยันต์คือประเจียดหลายผืนเย็บเป็นเสื้อ",
+   "tell_en": "A suea yan is prachiat cloths sewn into a shirt (th.wikipedia's own definition)."
+  },
+  {
+   "id": "sai-sin",
+   "tell_th": "สายสิญจน์เป็นด้ายเปล่าผูกข้อมือ ไม่ลงยันต์",
+   "tell_en": "Sai sin is bare thread at the wrist with no inscription."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดม้วนแผ่นโลหะ ประเจียดเป็นผ้า — ตำราให้สวมตะกรุดที่ศีรษะเหมือนกัน",
+   "tell_en": "A takrut is a rolled metal sheet; the treatise also puts a takrut on the head for the same errands, so the place on the body does not tell them apart — the material does."
+  }
+ ],
+ "market": {
+  "search": [
+   "ประเจียด",
+   "ผ้าประเจียด"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Mongkhon"
+  ],
+  "commons_files": [
+   "File:Wai khru ram muay 1-head.jpg",
+   "File:Mongkhon in Singapore (1).jpg",
+   "File:Mongkhon in Singapore (2).jpg",
+   "File:Muay Thai boxer.jpg",
+   "File:Young Thai Boxer, Thailand.jpg"
+  ],
+  "wanted_en": "Free files show the boxing mongkhon and boxers who may be wearing armbands; none shows an inscribed prachiat unrolled. Needed: a hand-drawn band flat, one tied on an upper arm, and one worn as a head-cloth outside the ring."
+ },
+ "images": [
+  {
+   "file": "prachiat/prachiat-wai-khru-ram-muay-1-head-023862.jpg",
+   "source": "commons",
+   "title": "File:Wai khru ram muay 1-head.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Wai_khru_ram_muay_1-head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=44561792",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "selbst",
+   "credit": "Bildausschnitt aus File:Wai khru ram muay 1.jpg von B20180",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Muay Thai Kämpfer mit Mongkon",
+   "sha256": "2b45c1e2ece03142d69f15527e62de929346da9cabf09505a2c5c79311b367a0",
+   "width": 772,
+   "height": 520,
+   "primary": true
+  },
+  {
+   "file": "prachiat/prachiat-bangkok-1965-043-hg-2c62c6.jpg",
+   "source": "commons",
+   "title": "File:Bangkok-1965-043 hg.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bangkok-1965-043_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12467295",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "H. Grobe",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Bangkok, Thailand",
+   "sha256": "a90c84a14445a07faab63b87a23d0057efd751aa89545333522dc6afa5dd33ab",
+   "width": 3631,
+   "height": 2282
+  },
+  {
+   "file": "prachiat/prachiat-bangkok-1965-044-hg-826722.jpg",
+   "source": "commons",
+   "title": "File:Bangkok-1965-044 hg.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bangkok-1965-044_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12467300",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "H. Grobe",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Bangkok, Thailand",
+   "sha256": "b88a7753838700e57c703932c0ffc7572bacfad093d028bbcca058e5ccb2ecb7",
+   "width": 2661,
+   "height": 3866
+  },
+  {
+   "file": "prachiat/prachiat-muay-thai-boxer-1e1c5f.jpg",
+   "source": "commons",
+   "title": "File:Muay Thai boxer.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Muay_Thai_boxer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16055965",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Dmitri Markine",
+   "credit": "Own workTransferred from en.wikipedia",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Muay Thai boxer",
+   "sha256": "6e35b51925ec3a1b5f4ffa198a51cdaae82181abf7e88c1893f783f03ee0ad54",
+   "width": 700,
+   "height": 467
+  },
+  {
+   "file": "prachiat/prachiat-mondam-s-weerapol-4-465374.jpg",
+   "source": "commons",
+   "title": "File:Mondam S.Weerapol 4.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mondam_S.Weerapol_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23360739",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Mondam S.Weerapol",
+   "sha256": "68ce597a327e5d059f77d9db6026b78251025b69abc9c2a0962ddaa3b46d6b30",
+   "width": 1632,
+   "height": 1392
+  },
+  {
+   "file": "prachiat/prachiat-mondam-s-weerapol-5-a43767.jpg",
+   "source": "commons",
+   "title": "File:Mondam S.Weerapol 5.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mondam_S.Weerapol_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=23360740",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Mondam S.Weerapol",
+   "sha256": "06dc0dc09718904c143ae96aba277dcd516ed118c08280aeef0983ee0a21a78d",
+   "width": 1034,
+   "height": 1410
+  },
+  {
+   "file": "prachiat/prachiat-farshid-haidari2-cf714d.jpg",
+   "source": "commons",
+   "title": "File:Farshid Haidari2.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Farshid_Haidari2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=25550790",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Faraz Khalvatiyan",
+   "credit": "https://www.flickr.com/photos/farazkhalvatiyan/8494849206/",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — F.Haidari's performing the leg kick",
+   "sha256": "a4a1114d6a31b54afecdbe44ee3fc75848afd37555b7d7f349da67a0d8fde696",
+   "width": 1410,
+   "height": 882
+  },
+  {
+   "file": "prachiat/prachiat-farshid-haidari-krabi-krabong-771221.jpg",
+   "source": "commons",
+   "title": "File:Farshid Haidari Krabi Krabong.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Farshid_Haidari_Krabi_Krabong.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27056782",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "IMTheAdrenaline",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Farshid Haidari Krabi Krabong",
+   "sha256": "583e38629225cd000787440bf0dd33099295e79c4da8f64f22c5d9a23d1a904e",
+   "width": 1320,
+   "height": 825
+  },
+  {
+   "file": "prachiat/prachiat-alexlee-muay-thai-c82f34.jpg",
+   "source": "commons",
+   "title": "File:AlexLee Muay Thai.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AlexLee_Muay_Thai.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=36459599",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Joni-Jo",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Александр Литвиненко демонстрирует муай-тай",
+   "sha256": "949dcb7beb12d57e03922fb4849072f152a86b4f384368c7d00915432f7ef17a",
+   "width": 4868,
+   "height": 3686
+  },
+  {
+   "file": "prachiat/prachiat-thai-sword-dance-bc5f6c.jpg",
+   "source": "commons",
+   "title": "File:Thai sword dance.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Thai_sword_dance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48684089",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Krabi Krabong Ram Daab Dance with swords",
+   "sha256": "45a94467e43fd6fc875b4c50564bb7ebe724b2c388423d265e018ea4ce4ad981",
+   "width": 5244,
+   "height": 3546
+  },
+  {
+   "file": "prachiat/prachiat-thai-weapons-dance-c45af8.jpg",
+   "source": "commons",
+   "title": "File:Thai weapons dance.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Thai_weapons_dance.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48684188",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — The Ram Daab sword dance in Krabi Krabong.",
+   "sha256": "e8cd6a096a40a624eab0b41de2fe52c5f851127bc170d725946249e8097206bb",
+   "width": 5184,
+   "height": 3456
+  },
+  {
+   "file": "prachiat/prachiat-young-thai-boxer-thailand-8c09fb.jpg",
+   "source": "commons",
+   "title": "File:Young Thai Boxer, Thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Young_Thai_Boxer%2C_Thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=49944864",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Young Thai boxer waiting for his call to the ring.",
+   "sha256": "497be9e31761b163aa2c0b0f125d5f3d6bcd3d327a87dddbdc55bd4aea7fd8dc",
+   "width": 1130,
+   "height": 1716
+  },
+  {
+   "file": "prachiat/prachiat-krabi-krabong-buddhai-swan-1-9b896c.jpg",
+   "source": "commons",
+   "title": "File:Krabi Krabong Buddhai Swan 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Krabi_Krabong_Buddhai_Swan_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=57915562",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kru Tony Moore",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Krabi Krabong sword",
+   "sha256": "f7b195b98e92be6153c26abad9d2f14f636cb6f95b74c5d8fb09b584d2e627dd",
+   "width": 1144,
+   "height": 832
+  },
+  {
+   "file": "prachiat/prachiat-tha-boxing-9daa36.jpg",
+   "source": "commons",
+   "title": "File:ThaÏ Boxing.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tha%C3%8F_Boxing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=68511419",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Jean-Yves Lemoigne",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — ThaÏ Boxing",
+   "sha256": "2f7e0638605640f7ef36751c15bedccc4e3a723517b1f5901bebdaaf436817bd",
+   "width": 1480,
+   "height": 985
+  },
+  {
+   "file": "prachiat/prachiat-2560-4cd7b7.jpg",
+   "source": "commons",
+   "title": "File:งานรำลึกนายขนมต้ม 2560.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%B3%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%95%E0%B9%89%E0%B8%A1_2560.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=91766691",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Judge761",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — A replica statue of Nai Khanom Tom, a traditional Thai Muay Thai boxer from Ayutthaya, displayed at the Nai Khanom Tom C",
+   "sha256": "d215b42226ddbda90262edf2c6b0f879046061d63847711878d11db14dde07d8",
+   "width": 1096,
+   "height": 918
+  },
+  {
+   "file": "prachiat/prachiat-nabil-anan-and-his-coach-mehdi-zatout-in-d24f81.jpg",
+   "source": "commons",
+   "title": "File:Nabil Anan and his coach Mehdi Zatout in the Super Champ (24 November 2020).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Nabil_Anan_and_his_coach_Mehdi_Zatout_in_the_Super_Champ_%2824_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=106601459",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "MMA Kid",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — Nabil Anan and his coach Mehdi Zatout in the Super Champ (24 November 2020)",
+   "sha256": "d3f9aec2e1b8c07f5b50028b019f1d9e2543bfe9f3f63d1efa2eb31afad92ad6",
+   "width": 1440,
+   "height": 1920
+  },
+  {
+   "file": "prachiat/prachiat-chintawannakhadi-p-531-2926be.jpg",
+   "source": "commons",
+   "title": "File:Chintawannakhadi (p 531).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Chintawannakhadi_%28p_531%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=133147044",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Hem Vejakorn",
+   "credit": "นายตำรา ณ เมืองใต้ (เรื่อง), เหม เวชกร (ภาพ). (๒๕๔๐). จินตวรรณคดีไทย. กรุงเทพฯ: ไทยวัฒนาพานิช. (หนังสืออนุสรณ์งานพระราชทานเพลิงศพนายบุญธรรม ต.สุวรรณ ท.จ., ท.ช. วันที่ ๓๑ กรกฎาคม พ.ศ. ๒๕๔๐ ณ เมรุวัดธาตุทอง กรุงเทพมหานคร).",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — An illustration of the book mentioned below, depicting the following:\nA French man challenged Thais to join boxing match",
+   "sha256": "99a1e7d956e9338a1e32b888ecd2845a29ee72a84443cee8869b73f7c42d413a",
+   "width": 1977,
+   "height": 2500
+  },
+  {
+   "file": "prachiat/prachiat-mongkhon-in-singapore-2-dce97a.jpg",
+   "source": "commons",
+   "title": "File:Mongkhon in Singapore (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Mongkhon_in_Singapore_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136273486",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — มงคลในประเทศสิงคโปร์",
+   "sha256": "747bb483158002f70478e58a30e3b5fab8f5add28dc16d442c26dc5f14d9e856",
+   "width": 1211,
+   "height": 809
+  },
+  {
+   "file": "prachiat/prachiat-mongkhon-in-singapore-3-7b5547.jpg",
+   "source": "commons",
+   "title": "File:Mongkhon in Singapore (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mongkhon_in_Singapore_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136273487",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — มงคลในประเทศสิงคโปร์",
+   "sha256": "2a519195cf75e8d867e7f1e6195e74abdfb73b44f0e0c84975d3d7c5f67ecb93",
+   "width": 1211,
+   "height": 809
+  },
+  {
+   "file": "prachiat/prachiat-mongkhon-in-singapore-1-629e01.jpg",
+   "source": "commons",
+   "title": "File:Mongkhon in Singapore (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Mongkhon_in_Singapore_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136273488",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — มงคลในประเทศสิงคโปร์",
+   "sha256": "4ebbb626fd36f673dd28e8f5e8b685827a4636c29eb6a6c86d831bd330b0f12f",
+   "width": 809,
+   "height": 1211
+  },
+  {
+   "file": "prachiat/prachiat-mongkhon-in-singapore-4-50057d.jpg",
+   "source": "commons",
+   "title": "File:Mongkhon in Singapore (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Mongkhon_in_Singapore_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=136273490",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "B20180",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้าประเจียด",
+   "alt_en": "Prachiat (yantra head-cloth / armband) — มงคลในประเทศสิงคโปร์",
+   "sha256": "6f3a6e637c4c589d04036b20a119414533948ecee84f22dae8d54d374f5539c5",
+   "width": 809,
+   "height": 1211
+  }
+ ],
+ "text": {
+  "what_th": "ผ้าลงเลขยันต์ผืนเล็กที่ม้วนพันศีรษะ คอ หรือต้นแขน เชื่อว่ากันอันตราย แจกทหารตั้งแต่สมัยกรุงธนบุรี ปัจจุบันเห็นบนแขนนักมวย ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "A small inscribed cloth rolled and tied on the head, neck or upper arm against harm — given to soldiers from the Thonburi period, seen today on boxers' arms. Power in the inscription; nobody home.",
+  "story_th": "วิกิพีเดียไทย: ผ้าลงเลขยันต์ถือกันว่ากันอันตรายได้ พระเจ้าตากสินแจกแม่ทัพนายกอง พ.ศ. ๒๓๑๒ ร.๑ แจกทหาร พ.ศ. ๒๓๒๘ ครูอาจารย์ทำให้ศิษย์ ผืนเล็กเย็บเป็นเสื้อยันต์ นักมวยและมวยกระจับใส่เพื่อกำลังใจ วิกิพีเดียอังกฤษเล่าว่าทหารได้ผ้านุ่งของแม่ฉีกผูกแขนก่อนออกรบ กลายเป็นประเจียดนักมวย ส่วนมงคลบนหัวครูถอดออกหลังไหว้ครูแล้ววางไว้มุมเวที ตำรา ๖๙๘๓ ให้เอารูปแกะอมในปาก 'เป็นประเจียด' และนับผ้าประเจียดกับมงคลในของที่ปลุกให้คงทนแคล้วคลาด",
+  "story_en": "th.wikipedia has the cloth as a recognised protection: King Taksin gave it to his commanders in B.E. 2312, Rama I to soldiers in 2328, teachers to pupils after; small pieces were sewn into shirts, and boxers took it up for morale. en.wikipedia adds the origin story told in the gyms — a strip of a mother's sarong tied on the arm before battle — and the ring rule that the head-ring comes off after the wai khru while the armbands stay on. Ms 6983 knows the word as the generic worn charm: a carved figure held in the mouth serves 'as a prachiat', and the waking chant rouses 'the prachiat cloths and mongkhon, to endure and evade'.",
+  "keeping_th": "ไม่ต้องเลี้ยง เก็บไว้สูง ถอดก่อนทำสิ่งไม่งาม",
+  "keeping_en": "Nothing to feed. Kept high and clean like a pha yan; a boxer's is the gym's to bless and hand over, and en.wikipedia says the trainer keeps the mongkhon."
+ },
+ "sources": [
+  "s:th-wiki-prachiat",
+  "s:en-wiki-pra-jiad",
+  "s:en-wiki-mongkhon",
+  "s:ms6983",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-prachiat"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "functions: th.wiki names ตรีนิสิงเห/ปิโย; คงกระพัน แคล้วคลาด from ms6983 line 2932"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-mongkhon"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "lines 2901, 2932"
+   },
+   "names.aliases": {
+    "tier": "cited",
+    "source": "s:en-wiki-pra-jiad",
+    "note": "มงคล is a cousin object folded in here because the boxing sources treat the pair together"
+   },
+   "market": {
+    "tier": "inference"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th",
+    "note": "licences checked 2026-09-02: CC BY-SA 3.0, CC BY-SA 4.0 ×3, CC BY 3.0; boxer photos may not show the armband"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

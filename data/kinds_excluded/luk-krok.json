@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "id": "luk-krok",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ลูกกรอก",
+  "roman": "luk krok",
+  "en": "Luk Krok (preserved-foetus spirit)",
+  "aliases": {
+   "th": [
+    "กุมาร",
+    "ลูกกรอกแห้ง"
+   ],
+   "roman": [
+    "look krok",
+    "luk krog",
+    "look grok"
+   ],
+   "en": [
+    "dried foetus-spirit",
+    "foetus effigy"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "prai",
+  "functions": [
+   "khum_khrong",
+   "kha_khai"
+  ],
+  "materials": [],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปทารกขนาดเล็ก ของแท้ตามตำราคือทารกแห้ง ปัจจุบันเป็นรูปจำลองปั้นหรือหล่อ ห่อผ้ายันต์ มักแช่น้ำมันในขวด",
+  "shape_en": "A small foetus-form. In the treatise it is a found dried foetus; the modern market sells moulded or cast effigies. Wrapped in a yantra cloth, often kept in oil in a jar or vial.",
+  "size_mm": null,
+  "wearable_th": "ไม่ห้อยคอ เก็บในขวดหรือตลับ ตั้งหิ้ง",
+  "wearable_en": "Not worn; kept in a jar, case or on a shelf",
+  "obverse_th": "รูปทารกขดตัว ลงรักปิดทองตามตำรา",
+  "obverse_en": "A curled infant form, lacquered and gilded per the treatise",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "No material key fits: the treatise object is organic (a preserved body) and the modern one is effigy plus oil. axes.materials is left empty on purpose."
+ },
+ "iconography": [
+  {
+   "th": "ผ้าย้อมดอกคำลงยันต์ ห่อกุมาร",
+   "en": "safflower-dyed cloth inscribed with a yantra, wrapping the child"
+  },
+  {
+   "th": "ยันต์วงกลมด้านหน้า ยันต์สี่เหลี่ยมครอบข้าวหลามตัดด้านหลัง",
+   "en": "a wheel yantra on the front of the cloth, a square-enclosing-diamond yantra on the back"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "รูปทารกเล็ก ไม่ใช่เด็กโตยืนหรือนั่งอย่างกุมารทอง",
+   "en": "A small curled foetus-form, not the standing or seated grown child of a kuman thong",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ห่อผ้าย้อมดอกคำที่ลงยันต์สองด้าน",
+   "en": "Wrapped in a safflower-dyed cloth carrying a yantra on each face — the treatise's one visible type mark",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้ลงรักปิดทองกุมาร",
+   "en": "The treatise lacquers and gilds the body, so a gold-over-black skin is expected on the old form",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ปัจจุบันมักขายเป็นรูปจำลองในขวดน้ำมัน",
+   "en": "The trade usually sells an effigy standing in oil in a stoppered vial; the oil is part of the object",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นรูปเด็กโตปิดทอง เลี้ยงอย่างลูก · ลูกกรอกเป็นรูปทารกห่อผ้ายันต์ ตำราตั้งต้นจาก 'ได้พบ' ไม่ใช่สร้าง",
+   "tell_en": "A kuman thong is a gilded figure of a grown child that is made; the treatise's luk krok is a found foetus, wrapped and woken. Same feeding, different origin — which is why the vault files it with prai."
+  },
+  {
+   "id": "nam-man-phrai",
+   "tell_th": "น้ำมันพรายเป็นน้ำมันในขวด ไม่มีรูป · ลูกกรอกมีรูปทารกอยู่ในน้ำมัน",
+   "tell_en": "Prai oil is oil alone in a vial; a luk krok is a foetus-form that may stand in oil"
+  },
+  {
+   "id": "nang-phrai",
+   "tell_th": "นางพรายเป็นรูปหญิง · ลูกกรอกเป็นทารก",
+   "tell_en": "A nang phrai is a woman's figure or locket; a luk krok is an infant form"
+  }
+ ],
+ "market": {
+  "search": [
+   "ลูกกรอก"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02 (searches for 'luk krok' and ลูกกรอก return nothing). Needed: a modern effigy in its vial, and a detail of the yantra wrapping cloth. A line drawing of the treatise's two yantras would serve."
+ },
+ "images": [],
+ "text": {
+  "what_th": "รูปทารกขนาดเล็ก แห้งหรือจำลอง เก็บในน้ำมันหรือห่อผ้า — เลี้ยงอย่างกุมาร แต่ต้นกำเนิดจากการตายก่อนวัยอย่างพราย ในบรรดาของทั้งหมด นี่คือชนิดที่ควรถามประวัติให้ครบที่สุด",
+  "what_en": "A small preserved or effigy foetus-form, kept in oil or cloth — kuman-adjacent in the raising, prai-adjacent in the origin. Of all the kinds on this page, the one whose history most deserves asking in full.",
+  "story_th": "ตำรา ๖๙๘๓ (หน้า ๘๓–๘๔) ตั้งต้นว่า 'ถ้าผู้ใดได้พบลูกกรอก' ให้รู้วันเดือนปีของกุมารนั้น เอาผ้าย้อมดอกคำลงยันต์ห่อ ล้อมยันต์หน้าด้วยคาถาจักราวุธ ล้อมยันต์หลังด้วยคาถานกคุ่ม ลงรักปิดทอง ปลุกตามกำลังวัน ให้ข้าวกินทุกวัน ใช้ไปทำการค้าขาย กันโรคภัย แล้วผูกด้วยคาถา ๗ ทีเมื่อเก็บ",
+  "story_en": "Manuscript 6983 (pp. 83–84) begins 'if anyone finds a luk krok' — it is found, not made. Learn the child's day, month and year; wrap it in safflower-dyed cloth carrying a wheel yantra on the front ringed by a weapons-of-victory katha, and a square yantra on the back ringed by the baby-quail Jataka's fire-averting truth-verse. Lacquer and gild it, wake it according to the day's strength, feed it rice daily with its own katha, send it to make trade prosper and ward off disease, and bind it seven times when it is put away. The vault notes the seam: raised like a kuman, sourced like a prai, filed with prai as the more careful reading.",
+  "keeping_th": "ต้องเลี้ยงและต้องผูก: ข้าวทุกวัน ปลุกก่อนกิน ผูกด้วยคาถาเมื่อเก็บ หมวดคำศัพท์วางไว้ที่พรายด้วยความระวัง ผู้รู้อาจแยก",
+  "keeping_en": "Feeding and closing. Rice every day, woken before it eats, bound with a katha when put away — the treatise gives all three. The class vocabulary files it with prai as the cautious placement and marks the line splittable by a knower; the record keeps that placement."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-kuman-thong",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3199–3237 (printed pp. 83–84)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "modern effigy-in-oil form is trade knowledge; the treatise form is catalogue"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "ลูกกรอก redirects to กุมารทอง on Thai Wikipedia; romanisations seen in listings"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

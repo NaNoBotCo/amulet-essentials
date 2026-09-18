@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "jimat",
+ "names": {
+  "th": "ยันต์มลายู",
+  "roman": "jimat",
+  "en": "Jimat / azimat (Islamic-Malay written amulet)",
+  "aliases": {
+   "th": [
+    "จิมัต",
+    "อาซิมัต",
+    "ตะกรุดมลายู"
+   ],
+   "roman": [
+    "azimat",
+    "azimah",
+    "tamimah",
+    "ta'wiz"
+   ],
+   "en": [
+    "Malay talisman",
+    "Quranic amulet",
+    "taweez"
+   ]
+  },
+  "other_scripts": {
+   "ms": "جيمت / عزيمة (Jawi) · jimat / azimat",
+   "id": "jimat / azimat",
+   "ar": "عزيمة"
+  }
+ },
+ "region": [
+  "my",
+  "id",
+  "sg"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "kan_phi",
+   "khong_kraphan",
+   "kha_khai",
+   "maha_saneh"
+  ],
+  "materials": [],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "กระดาษหรือผ้าเขียนอักษรอาหรับ/ยาวี พับเล็กใส่ซองผ้า ตลับโลหะ หรือเย็บติดเสื้อ เข็มขัด",
+  "shape_en": "A sheet of paper or cloth written in Arabic or Jawi script, folded small and sealed in a cloth pouch, a metal case, a belt or the lining of a garment; also whole talismanic shirts (baju rajah) written all over.",
+  "size_mm": null,
+  "wearable_th": "แขวนคอ ผูกแขน เหน็บเอว ติดรถ หรือแขวนในบ้าน",
+  "wearable_en": "Hung on the body, a vehicle or a building — the Indonesian definition names all three; worn at the neck, upper arm or waist.",
+  "obverse_th": "ข้อความ: อายะฮ์อัลกุรอาน พระนามอัลลอฮ์ ตารางเลข (วะฟัก) ตัวอักษรโดด",
+  "obverse_en": "Text: Quranic verses, names of God, a numbered wafq square, isolated letters; the writing is the whole object.",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Azimat is the Arabic loan (ʿazīma); jimat is its Malay/Indonesian clip. Ta'wiz is the same object in South Asia. Compare the Thai takrut: same logic of an inscribed sheet closed by a rite, different script and a different sacred language."
+ },
+ "iconography": [
+  {
+   "th": "อักษรอาหรับ / ยาวี",
+   "en": "Arabic or Jawi script, never a figure"
+  },
+  {
+   "th": "ตารางวะฟัก (magic square)",
+   "en": "a wafq — the Islamic magic square, most often 3×3 (buduh)"
+  },
+  {
+   "th": "ชื่อพระเจ้า ๙๙ พระนาม / ตราสุลัยมาน",
+   "en": "the 99 names of God; the Seal of Solomon star"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "โต๊ะครู / ดุกุน / กียาอี",
+  "maker_en": "Written by a religious teacher (tok guru, kyai), a bomoh or a dukun; the writer's standing is the object's credential",
+  "era_th": "สืบมากับอิสลามในโลกมลายู",
+  "era_en": "Arrived with Islam in the Malay world; the paper-and-Arabic form is continuous with the ta'wiz of the wider Muslim world",
+  "place_th": "คาบสมุทรมลายู สุมาตรา ชวา",
+  "place_en": "Malay peninsula, Sumatra, Java",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นข้อความ ไม่ใช่รูป — อักษรอาหรับ ยาวี เลขอาหรับ",
+   "en": "It is writing, not an image: Arabic or Jawi letters and Arabic numerals. A figure means it is something else",
+   "source": "s:en-wiki-tawiz",
+   "tier": "cited"
+  },
+  {
+   "th": "ตารางเลข (วะฟัก) ช่องละตัวเลขหรือตัวอักษร ผลรวมเท่ากันทุกแถว",
+   "en": "A grid of numbers or letters whose rows sum alike — the wafq al-a'dad, in occult use since the 13th century",
+   "source": "s:en-wiki-magic-square",
+   "tier": "cited"
+  },
+  {
+   "th": "พับเล็กใส่ซอง ตลับ หรือเย็บติดเสื้อ ไม่ม้วนเป็นหลอดแบบตะกรุด",
+   "en": "Folded flat into a pouch, locket, armband or sewn into clothing — not rolled into a tube like a takrut",
+   "source": "s:en-wiki-tawiz",
+   "tier": "cited"
+  },
+  {
+   "th": "แขวนได้ทั้งคน รถ และบ้าน",
+   "en": "Hung on a person, a vehicle or a building — the same object serves all three",
+   "source": "s:id-wiki-jimat",
+   "tier": "cited"
+  },
+  {
+   "th": "เสื้อราจะฮ์ (baju rajah) คือจิมัตทั้งตัว เขียนเต็มผืน",
+   "en": "A baju rajah is a whole shirt written over as one jimat; the Commons example belonged to a 1948–49 fighter",
+   "source": "s:id-wiki-jimat",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดม้วนแผ่นโลหะจารอักขระขอม · จิมัตพับกระดาษเขียนอาหรับ ทั้งคู่ไม่มีผู้อยู่",
+   "tell_en": "Same class, different script and fold: a takrut is a metal sheet in Khom letters rolled into a tube; a jimat is paper or cloth in Arabic folded flat. Neither is fed."
+  },
+  {
+   "id": "rajah",
+   "tell_th": "ราจาห์คือตัวเขียนที่ทำให้จิมัตขลัง จิมัตคือของที่พกไป",
+   "tell_en": "Rajah is the written formula; jimat is the carried object that holds it. Indonesian usage lets rajah stand alone on skin or a shirt, and jimat cover unwritten charms too."
+  },
+  {
+   "id": "in-yantra",
+   "tell_th": "อินพม่าเป็นตารางยันต์อักษรพม่า ในบริบทพุทธ · จิมัตเป็นอาหรับ ในบริบทอิสลาม",
+   "tell_en": "A Burmese in is a grid yantra in Burmese letters from a Buddhist weikza lineage; a jimat is Arabic in an Islamic one. Same idea of a squared diagram, different script and sacred language."
+  },
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ไทยเป็นผืนใหญ่ มีรูปพระ ฤๅษี สัตว์ · จิมัตไม่มีรูปคนหรือสัตว์",
+   "tell_en": "A Thai pha yan is a large cloth carrying figures — Buddha, hermit, animals; a jimat is aniconic, text only."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Baju Rajah (Syirik).jpg"
+  ],
+  "wanted_en": "Only the Baju Rajah shirt (CC BY-SA 4.0, id.wikipedia) is free on Commons as of 2026-09-02; Commons searches for 'azimat' and 'jimat' return nothing else Malay. Needed: a folded paper jimat open beside its cloth pouch, a wafq square in close-up, and a metal jimat case as worn."
+ },
+ "images": [
+  {
+   "file": "jimat/jimat-baju-rajah-syirik-e81a39.jpg",
+   "source": "commons",
+   "title": "File:Baju Rajah (Syirik).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Baju_Rajah_%28Syirik%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156701516",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Muhamad Izzul Fiqih",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์มลายู",
+   "alt_en": "Jimat / azimat (Islamic-Malay written amulet) — Baju Rajah ini milik Ibrahim bin Abdul Gani dengan sebutan Datuk Ahim. Ia seorang Panglima Selempang Merah dari Desa Par",
+   "sha256": "708d408beae22908cfd4dafb34e554dfa61cbe33e83a09895abe1d5173f148bb",
+   "width": 3994,
+   "height": 6643,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "เครื่องรางเขียนของโลกมลายู: กระดาษหรือผ้าจารอายะฮ์อัลกุรอาน พระนามพระเจ้า หรือตารางเลข พับเล็กพกติดตัว ผูกรถ หรือแขวนบ้าน พลังอยู่ที่ตัวเขียนและผู้เขียน ไม่มีผู้อยู่",
+  "what_en": "The written amulet of the Malay world: Quranic verses, names of God or a numbered square, set down in Arabic on paper or cloth by a teacher or bomoh, folded small and carried, tied to a vehicle or hung in a house. Power sits in the writing and the hand that wrote it; nobody is home.",
+  "story_th": "คำว่า azimat มาจากอาหรับ ʿazīma ส่วน jimat เป็นรูปย่อในภาษามลายู ของชนิดเดียวกันที่อินเดียเรียก ta'wiz วิกิพีเดียอินโดนีเซียนิยามว่าเป็นของหรือข้อความที่แขวนไว้กับร่างกาย รถ หรืออาคาร เพื่อป้องกันโรคและเคราะห์ (tolak bala) ในศาสนาอิสลามมีข้อโต้แย้งชัดเจน: สำนักที่เคร่งถือว่าเป็นชิริก ฝ่ายที่ผ่อนปรนยอมรับถ้าข้อความเป็นอัลกุรอานล้วน",
+  "story_en": "Azimat is Arabic ʿazīma; jimat is what Malay made of it, and ta'wiz is the same thing in South Asia. Indonesian Wikipedia defines it as an object or writing hung on a body, a vehicle or a building to turn aside sickness and misfortune (tolak bala). The theological fight is part of the object: stricter schools call it shirk — seeking protection from other than God — while others accept it when the text is Quran alone. The Malay trade also sells it for kebal (invulnerability), pelaris (custom for a shop) and pengasihan (attraction); those three are what the vault's function keys are doing here.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ให้เกียรติตัวเขียนตามธรรมเนียม: ไม่ให้เปียก ไม่พาเข้าที่สกปรก ผู้ถือมักถือว่าห้ามเปิดซอง",
+  "keeping_en": "Impersonal — nothing is owed and nothing is fed. Keepers treat the writing as scripture: kept dry, kept out of unclean places, and the trade holds that the fold is not opened."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:id-wiki-jimat",
+  "s:ms-wiki-azimat",
+  "s:en-wiki-tawiz",
+  "s:en-wiki-magic-square",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-tawiz"
+  },
+  "fields": {
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "impersonal inscribed object; the vault's yantra_wattu applies across the region"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "kebal / pelaris / pengasihan are trade claims, hedged"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai gloss; Thai has no settled term"
+   },
+   "text.keeping_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "origin": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

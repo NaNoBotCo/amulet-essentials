@@ -1,0 +1,629 @@
+{
+ "schema": 1,
+ "id": "hanuman",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "หนุมาน",
+  "roman": "hanuman",
+  "en": "Hanuman figure",
+  "aliases": {
+   "th": [
+    "พระหนุมาน",
+    "หนุมานเชิญธง",
+    "หนุมานแกะ"
+   ],
+   "roman": [
+    "hanuman",
+    "phra hanuman"
+   ],
+   "en": [
+    "Hanuman amulet",
+    "monkey-general charm"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "khong_kraphan",
+   "maha_ut",
+   "khlaeo_khlat",
+   "long_hon",
+   "sakot",
+   "thoi_khwam",
+   "maha_saneh",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "nuea_waan",
+   "nuea_loha",
+   "thonglueang"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "ตำรา: รูปแกะจากรากพุดซ้อนหรือปั้นจากว่านและรัก สูงหนึ่งองคุลี นั่งพับเพียง นั่งยอง หรือคุกเข่าพนมมือ · ตลาด: รูปหล่อโลหะและเหรียญ",
+  "shape_en": "In the treatise a figure one finger-breadth tall, carved from double-jasmine root or moulded from herb paste and lac, seated, squatting, or kneeling with palms joined, lacquered and gilded. In the market a cast metal figure or medallion of the crowned white monkey, often 'holding the banner'.",
+  "size_mm": null,
+  "wearable_th": "ตำราให้อมไว้ในปากหรือห่อผ้าโพกหัว · ปัจจุบันห้อยคอหรือพกกระเป๋า",
+  "wearable_en": "The treatise has it held in the mouth or wrapped in the head-cloth; today it hangs at the neck or rides in a pocket",
+  "obverse_th": "หนุมานสวมมงกุฎ อ้าปาก บางแบบปิดตา",
+  "obverse_en": "Crowned monkey, mouth open; some treatise forms cover the eyes with the hands",
+  "reverse_th": "อักขระที่ขา อก หลัง ตามตำรา หรือยันต์และชื่อวัด",
+  "reverse_en": "Syllables on legs, chest and back per the treatise; yantra and wat on modern pieces",
+  "notes_en": "Height 'one องคุลี' (finger-breadth) is the treatise's figure; no millimetre value is defended."
+ },
+ "iconography": [
+  {
+   "th": "ลิงเผือกสวมมงกุฎ",
+   "en": "white monkey with a crown"
+  },
+  {
+   "th": "สี่หน้าแปดกรเมื่อแผลงฤทธิ์",
+   "en": "four faces and eight arms when manifesting power (Ramakien)"
+  },
+  {
+   "th": "มือปิดตา (ตำรา แบบที่ 3 และ 8)",
+   "en": "hands over the eyes (treatise methods 3 and 8)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างหนุมาน 8 แบบ ใน ตำราสร้างเครื่องรางของขลัง (ms 6983) · ปัจจุบันหลายวัด",
+  "maker_en": "Eight recipes in ms 6983; modern pieces from many wats",
+  "era_th": "",
+  "era_en": "The Ramakien Hanuman of the Thai court tradition; the treatise is a nineteenth-to-twentieth-century compilation of older formulas (tradition)",
+  "place_th": "ภาคกลาง",
+  "place_en": "Central Thailand for the treatise tradition; nationwide today",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ตำรา: สูงองคุลีเดียว แกะจากรากพุดซ้อน หรือปั้นจากว่านเพชร ใบไม้รู้นอน ผสมรัก ลงรักปิดทอง",
+   "en": "Treatise figures are one finger-breadth tall, carved from double-jasmine root or moulded from diamond-herbs and nyctinastic leaves in lac, then lacquered and gilded",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "อักขระ อะกะถะตะสะ ที่ขา นะมะการา ที่อก อุปัทธะเว ที่หลัง (แบบที่ 1)",
+   "en": "Method 1 places อะกะถะตะสะ on both legs, นะมะการา on the chest, อุปัทธะเว on the back — a loupe finds the inscription where the text says",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ท่านั่ง: พับเพียบ นั่งยอง ปิดตา คุกเข่าพนมมือ",
+   "en": "Postures the recipes name: seated cross-legged, squatting, eyes covered, kneeling with palms joined",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตลาด: รูปหล่อโลหะ ‘หนุมานเชิญธง’ ยืนถือธง มีชื่อวัดที่ฐาน",
+   "en": "Market pieces are cast metal, the 'Hanuman raising the banner' pose standing with a flag, the wat on the base",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ยันต์หนุมานสักหรือลงผ้า ให้คงกระพัน เมตตามหานิยม",
+   "en": "The Hanuman as a yantra design (tattoo or cloth) is read for คงกระพัน and เมตตามหานิยม",
+   "source": "s:th-wiki-sak-yan",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เป็นหุ่นคนที่ถูกปลุกให้เฝ้าและเลี้ยงทุกวัน · หนุมานตามตำราถูกอมและสั่งใช้ คลาสส์เดียวกันตาม classes.md แต่หนุมานตลาดเป็นรูปเทพบูชา",
+   "tell_en": "A hun phayon is a man-shaped effigy animated to guard, fed daily. The treatise Hanuman, held in the mouth and commanded, belongs with it per classes.md; the market Hanuman is a venerated deity figure. The making settles the class, not the shape."
+  },
+  {
+   "id": "rup-lersi",
+   "tell_th": "ฤๅษีเป็นคนแก่หนวดยาวสวมหนังเสือ · หนุมานเป็นลิงสวมมงกุฎ",
+   "tell_en": "A hermit figure is a bearded old man in tiger skin; Hanuman is a crowned monkey"
+  },
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑมีปีกและจะงอยปาก · หนุมานหน้าลิง",
+   "tell_en": "Garuda has wings and a beak; Hanuman has a monkey's face and no wings"
+  }
+ ],
+ "market": {
+  "search": [
+   "หนุมาน"
+  ],
+  "excludes": [
+   "หัวโขน",
+   "ตุ๊กตา",
+   "หนุมาน ชาญสมร"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Hanuman in Thailand"
+  ],
+  "commons_files": [
+   "File:036 Hanuman (9190844478).jpg",
+   "File:Máscara de Hánuman.jpg",
+   "File:Thai puppet 02.jpg",
+   "File:Ramakien 19.jpg",
+   "File:Hanuman1.jpg",
+   "File:19th-century Ramayana manuscript, Ramakien, Thailand version, Khom script, Hanuman with sword reaches Ravana's palace.jpg"
+  ],
+  "wanted_en": "Free files show the Ramakien Hanuman in stone, mask, puppet, mural and manuscript, not an amulet. Needed: a carved-root or herb-paste Hanuman one finger-breadth tall with its inscriptions, and a cast 'banner' Hanuman with base."
+ },
+ "text": {
+  "what_th": "รูปหนุมาน ทหารเอกลิงเผือกของพระรามในรามเกียรติ์ ทำเป็นเครื่องราง ตำราเก่าให้แกะจากรากไม้หรือปั้นจากว่านแล้วอมไว้ในปาก ปัจจุบันเป็นรูปหล่อและเหรียญห้อยคอ",
+  "what_en": "A figure of Hanuman, Rama's white-monkey general of the Ramakien, made as a charm. The old treatise carves him from root or moulds him from herbs and has the bearer hold him in the mouth; today he is a cast figure or medallion at the neck.",
+  "story_th": "ตำราสร้างเครื่องรางของขลังให้แปดแบบ แบบที่ 1 แกะรากพุดซ้อนเป็นหนุมานนั่งพับเพียง ลงอักขระที่ขา อก หลัง เสก 108 คาบ เมื่อจะอมเสก 7 ที ฟันแทงมิถูก ท่านตีค่าไว้ชั่งทองหนึ่ง แบบที่ 3 ปั้นเป็นหนุมานนั่งยองปิดตา เสกพันคาบ — ตำราให้สูตรทำ ไม่นำส่วนผสมมาลงที่นี่ แบบที่ 7 อมไปแล้ว “สรรพถ้อยความทั้งปวงก็ถอยไป” แบบที่ 8 ทำในพระอุโบสถ",
+  "story_en": "Ms 6983 gives eight recipes. Method 1 carves double-jasmine root into a seated Hanuman, inscribes syllables on legs, chest and back, consecrates it 108 times; held in the mouth after seven recitations, blade and spear cannot strike, and the text prices it at one chang of gold. Method 3 is a squatting Hanuman with hands over his eyes, kneaded in lac and consecrated a thousand times; the treatise gives a making-recipe; its ingredients are not reproduced here. The household he enters falls asleep. Method 7 is another making whose ingredients are likewise not reproduced; it promises that held in the mouth 'all disputes withdraw' and lords fear the bearer. Method 8 is made in the ubosot and, steeped in scented oil, shuts the eyes, ears and mouths of a house.",
+  "keeping_th": "รูปหล่อสมัยใหม่บูชาอย่างเทพ ให้ความเคารพ ไม่ต้องเลี้ยง · หนุมานตามตำราถูกสั่งใช้และอมไป เป็นชั้นหุ่นพยนต์ ต้องรู้ว่าใครสร้างและสร้างจากอะไร",
+  "keeping_en": "The modern cast Hanuman is kept as a deity: respect, no feeding. The treatise Hanuman is commanded and carried in the mouth, and classes.md places that courtroom Hanuman with the hun phayon; several recipes use ingredients this catalogue does not reproduce, so its making and maker are the provenance question. Class here follows the market object; the making, not the shape, decides any given piece."
+ },
+ "sources": [
+  "s:ms6983",
+  "s:th-wiki-hanuman",
+  "s:th-wiki-sak-yan",
+  "s:vault-classes",
+  "s:vault-functions",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 2624–2810 (printed pp. 65–69), ตำราสร้างหนุมาน แบบที่ ๑–๘"
+  },
+  "fields": {
+   "axes.class": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "market object placed thep_thewada; classes.md puts the treatise's mouth-held Hanuman in hun_phayon"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "metta_maha_niyom from s:th-wiki-sak-yan (cited)"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-hanuman",
+    "note": "the eyes-covered posture is s:ms6983"
+   },
+   "form.shape_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "market forms: tradition"
+   },
+   "origin.era_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "hanuman/hanuman-036-hanuman-9190844478-ca147f.jpg",
+   "source": "commons",
+   "title": "File:036 Hanuman (9190844478).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/036_Hanuman_%289190844478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50815794",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "036 Hanuman",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — 036 Hanuman, at Wat Phananchoeng, Ayutthaya",
+   "sha256": "da91e7b0b12cb530e5b763407561a0343e894e49363ca75829eccd8a52e2940f",
+   "width": 2365,
+   "height": 2661,
+   "primary": true
+  },
+  {
+   "file": "hanuman/hanuman-hanuman1-5be038.jpg",
+   "source": "commons",
+   "title": "File:Hanuman1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hanuman1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3894752",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "No machine-readable author provided. YURiN~commonswiki assumed (based on copyright claims).",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Hanuman from mural painting in Wat Phra Kaeo, Bangkok. Taken in 2007.",
+   "sha256": "dba7cbfc842694ca9636cab169069b2fef6f40208ba1f726d1d07ec9f1f635bb",
+   "width": 724,
+   "height": 800
+  },
+  {
+   "file": "hanuman/hanuman-19th-century-ramayana-manuscript-ramakie-420442.jpg",
+   "source": "commons",
+   "title": "File:19th-century Ramayana manuscript, Ramakien, Thailand version, Khom script, Hanuman with sword reaches Ravana's palace.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/19th-century_Ramayana_manuscript%2C_Ramakien%2C_Thailand_version%2C_Khom_script%2C_Hanuman_with_sword_reaches_Ravana%27s_palace.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73991044",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ms Sarah Welch",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — The Ramayana is a Sanskrit language Hindu epic attributed to Valmiki, whose first redaction is dated between 5th-century",
+   "sha256": "9f44351cfe408c48612781c265e4ba33347daa8799b725cb43922dede93f4902",
+   "width": 2562,
+   "height": 2144
+  },
+  {
+   "file": "hanuman/hanuman-thai-puppet-02-7ba4b0.jpg",
+   "source": "commons",
+   "title": "File:Thai puppet 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thai_puppet_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=100194938",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ich Thanomsak",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — tradition Thai's puppet dancing.Performed in part to Hanuman(monkey)first solider of Ram in love with Suwanmatcha (fish)",
+   "sha256": "43f620518d8c2ed8a507a9bdb32674d4336342a6f6cb31ce59ebfe5195ff2484",
+   "width": 2960,
+   "height": 1974
+  },
+  {
+   "file": "hanuman/hanuman-m-scara-de-h-numan-d0ccd7.jpg",
+   "source": "commons",
+   "title": "File:Máscara de Hánuman.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/M%C3%A1scara_de_H%C3%A1numan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=144425921",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Jl FilpoC",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Máscara de teatro del dios mono Hánuman, hierro repujado y pintado.",
+   "sha256": "eb94d762e69d406362a4a4a4b7cdffb28af69d392262a67d631e33ec19b3bbc5",
+   "width": 3088,
+   "height": 4112
+  },
+  {
+   "file": "hanuman/hanuman-ramakien-19-edc541.jpg",
+   "source": "commons",
+   "title": "File:Ramakien 19.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ramakien_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=174853020",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Prof Ranga Sai",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — These murals are paintings from The Ramakien Gallery, painted on the walls of Wat Phra Kaeo, Thailand. These are origina",
+   "sha256": "551258f483dc5b988acc239497b0d8b2f3f068d8833030e4fdb4608869dd136e",
+   "width": 8400,
+   "height": 5233
+  },
+  {
+   "file": "hanuman/hanuman-hunamansex-1a3474.jpg",
+   "source": "commons",
+   "title": "File:Hunamansex.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hunamansex.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3894738",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "No machine-readable author provided. YURiN~commonswiki assumed (based on copyright claims).",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Mermaid Suvannamaccha, a mural painting of Bangkok Temple. Taken in 2007.",
+   "sha256": "c552b632a66a3f6d586c59d1611b88ed89e72d980b038c5f00bf72055b981be8",
+   "width": 1024,
+   "height": 768
+  },
+  {
+   "file": "hanuman/hanuman-hanuman-and-mermaid-suvannamaccha-a70a91.jpg",
+   "source": "commons",
+   "title": "File:Hanuman and Mermaid Suvannamaccha.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Hanuman_and_Mermaid_Suvannamaccha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3894743",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "No machine-readable author provided. YURiN~commonswiki assumed (based on copyright claims).",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Hanuman and Mermaid Suvannamaccha. Photocopy of a mural painting in Wat Phra Kaew, Bangkok.",
+   "sha256": "4d854355b9fba7ea47ce8789f21a38d84ae08c2c02883d232b0c7c297b6bdb85",
+   "width": 500,
+   "height": 750
+  },
+  {
+   "file": "hanuman/hanuman-201303311701b-andaman-princess-resort-sp-d50e03.jpg",
+   "source": "commons",
+   "title": "File:201303311701b Andaman Princess Resort & Spa.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/201303311701b_Andaman_Princess_Resort_%26_Spa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=25676001",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Hartmann Linge",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Andaman Princess Resort & Spa****, Koh Kho Khao, Phang Nga",
+   "sha256": "6283d0d31d14b8bd4b599a6cac2680a54b8b155409bbe86cfc1674e4c203128f",
+   "width": 2520,
+   "height": 3488
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9340360887-c286f4.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9340360887).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Wat_Thai_Village_DC_2013_%289340360887%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946213",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "52be73a68dfa9914b98e9c8922def5514a00cc1f0dac6f0425293542a44fcc52",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9340353349-fe8a5f.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9340353349).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Wat_Thai_Village_DC_2013_%289340353349%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946214",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "5d9629ba0eb4c3eb80aa7fc4f9f60f10d20434df4e53001b6d6144ad7fd1ccf2",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9340357293-e42d79.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9340357293).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Wat_Thai_Village_DC_2013_%289340357293%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946216",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "4b8fe4cb1f20f16839f3e431bc753c9efa013aef26d8aa59d7730eaae5c32f9d",
+   "width": 2736,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342716158-66cc32.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342716158).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wat_Thai_Village_DC_2013_%289342716158%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946364",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "fdfd65dafe5029fe7cb9c4459dee1471b8dc5b2f64354761ddd3ca005fa5afc0",
+   "width": 3648,
+   "height": 5472
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342709616-a63176.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342709616).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Wat_Thai_Village_DC_2013_%289342709616%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946365",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "99bef8ebb8c44f887e144259d9c71f7b7aa44dc7bf4a3814ff682a08c3c74286",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342697952-f2a442.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342697952).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Wat_Thai_Village_DC_2013_%289342697952%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946366",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "2c62a1aa3f45500a8c9c89ad2a820c0476851ecc5324b836423be02ad077b90b",
+   "width": 3648,
+   "height": 5472
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9339904749-79874c.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9339904749).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Wat_Thai_Village_DC_2013_%289339904749%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946368",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "d6fccf406c7a8a1e99d30d50daecdddf486c9789f660c291e45834220c41a7ce",
+   "width": 3648,
+   "height": 5472
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9339864647-0587df.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9339864647).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Wat_Thai_Village_DC_2013_%289339864647%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946381",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "f4702f8a2c16a86673e5dee8e4d6dc9f5902bb9a82db9c3e56846e108c7f5a06",
+   "width": 3648,
+   "height": 5472
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9339871131-7da8c3.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9339871131).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Wat_Thai_Village_DC_2013_%289339871131%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946383",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "475c80de8221f54d5ab783c1bc39c4bc008ca2208d9367dca238902f510b3cc0",
+   "width": 3648,
+   "height": 5472
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342645508-415cd2.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342645508).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wat_Thai_Village_DC_2013_%289342645508%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946396",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "80e5005131f66c39af385dae5dcfd2acb7fd70119c22eaee7b1c9cc1574e84c4",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9339853043-bfc70a.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9339853043).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wat_Thai_Village_DC_2013_%289339853043%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946397",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "d4162250fa9b3699439947c535339da4b96c32a4c98f02789632678bc6de1c50",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342633676-130b61.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342633676).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Wat_Thai_Village_DC_2013_%289342633676%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946398",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "5b0e9bfc4338fc481cca22eced579a6bb09e67112c017173b61a0141177a3707",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-thai-village-dc-2013-9342626928-ef5613.jpg",
+   "source": "commons",
+   "title": "File:Wat Thai Village DC 2013 (9342626928).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Wat_Thai_Village_DC_2013_%289342626928%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=33946399",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "S Pakhrin from DC, USA",
+   "credit": "Wat Thai Village DC 2013",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — Wat Thai Village DC 2013",
+   "sha256": "b6bc6912d2989885ce4f7fee3b9987f48cf4924553fd4c2c082e934610600dc9",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "hanuman/hanuman-wat-tree-tossathep-2-919295.jpg",
+   "source": "commons",
+   "title": "File:จิตรกรรมฝาผนัง วัดตรีทศเทพ Wat Tree Tossathep (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9D%E0%B8%B2%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%A8%E0%B9%80%E0%B8%97%E0%B8%9E_Wat_Tree_Tossathep_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35592037",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "3745f633aabcf2c005fcd2cc26389598a05f5fdbb9049180fc28c574aa6a1c08",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "hanuman/hanuman-191-hanuman-in-pol-yak-9187596195-dc5c19.jpg",
+   "source": "commons",
+   "title": "File:191 Hanuman in Pol Yak (9187596195).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/191_Hanuman_in_Pol_Yak_%289187596195%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50816059",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "191 Hanuman in Pol Yak",
+   "view": "other",
+   "alt_th": "หนุมาน",
+   "alt_en": "Hanuman figure — 191 Hanuman in Pol Yak, at Wat Phananchoeng, Ayutthaya",
+   "sha256": "beb90bdffc56b74a4844c2875cd4fcbf34565f3f00033d7de428422840b8d2c7",
+   "width": 2620,
+   "height": 2893
+  }
+ ]
+}

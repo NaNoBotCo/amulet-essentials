@@ -1,0 +1,203 @@
+{
+ "schema": 1,
+ "id": "khiao-suea",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "เขี้ยวเสือ",
+  "roman": "khiao suea",
+  "en": "Tiger fang (carved tiger charm)",
+  "aliases": {
+   "th": [
+    "เสือ",
+    "เขี้ยวเสือแกะ",
+    "เสือเขี้ยว"
+   ],
+   "roman": [
+    "khiao sua",
+    "kiew sua",
+    "suea"
+   ],
+   "en": [
+    "carved tiger",
+    "tiger tooth amulet"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "kambang",
+   "thoi_khwam",
+   "maha_saneh"
+  ],
+  "materials": [],
+  "figures": [
+   "animal",
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "เขี้ยวแกะเป็นรูปเสือ — เสือผก เสือนั่งแท่น เสือเผ่น — ลงอักขระตามตัว หรือเลี่ยมทั้งเขี้ยว",
+  "shape_en": "A canine carved into a tiger — crouching (เสือผก), seated on a pedestal (เสือนั่งแท่น) or leaping (เสือเผ่น) — with syllables on the body; or the whole fang capped in metal and worn uncarved",
+  "size_mm": null,
+  "wearable_th": "ตำราให้อมในปาก ใส่เมี่ยง หรือห่อผ้าดำโพกหัว ปัจจุบันเลี่ยมห้อยคอ",
+  "wearable_en": "The treatise holds it in the mouth, in a betel quid, or knotted into a black head-cloth; the modern piece is capped and worn at the neck",
+  "notes_en": "materials is empty because the vault has no key for fang. The class axis carries เขี้ยว as a natural talisman; the treatise's preface counts the carved tiger among man-made charms, because the carving and the 108-fold waking are the making. Both placements are recorded."
+ },
+ "iconography": [
+  {
+   "th": "เสือผก เสือนั่งแท่น เสือเผ่น",
+   "en": "three postures: crouching, seated on a pedestal, leaping"
+  },
+  {
+   "th": "พุท ที่ตาซ้าย ธะ ตาขวา สัง หน้า มิ หลัง (แบบที่ ๕)",
+   "en": "phut on the left eye, tha on the right, sang on the front, mi on the back (method 5)"
+  },
+  {
+   "th": "อักขระตามอวัยวะ: อะ หน้าผาก สัง หัว วิ คอ สุ หลัง โล หาง … มะอะอุ ที่ฐาน (แบบที่ ๖)",
+   "en": "letters placed limb by limb — forehead, head, neck, back, tail, four feet, ma-a-u on the base (method 6)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983, seven carving methods",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นเขี้ยว หรือรูปเสือแกะจากเขี้ยว ไม่ใช่รูปหล่อโลหะ",
+   "en": "A tooth, or a tiger carved from one — not a cast metal figure; the cast tiger is a รูปหล่อ",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้แช่น้ำมันหอมในขันสัมฤทธิ์หลังเสก ๑๐๘ คาบ",
+   "en": "The treatise steeps it in scented oil in a bronze bowl after 108 recitations; an oil-darkened surface is the type's expected state",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "แบบที่ ๕ ระบุ เขี้ยวเสือที่กินคนแล้ว — ที่มาของสัตว์เป็นส่วนของคำอ้าง และอ่านจากชิ้นไม่ได้",
+   "en": "Method 5 specifies the fang of a man-eating tiger: the animal's history is part of the claim and unreadable from the object",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ของใหม่ในตลาดส่วนใหญ่เป็นของแกะเลียน ผู้ขายที่ซื่อจะบอก",
+   "en": "Most modern pieces are carved substitutes; the holding key says an honest seller says so",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ฟันจริงมีเส้นการเจริญและโพรงประสาทที่โคน — เรื่องของฟัน ไม่ใช่คำตัดสินชิ้นใด",
+   "en": "Real dentine shows growth lines and a pulp cavity at the root; resin and bone do not. A statement about teeth, never about a piece",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "เสือเป็นสัตว์ป่าคุ้มครอง — ทะเบียนบันทึกชนิดนี้ไว้ แต่ไม่ช่วยให้ซื้อขายชิ้นส่วนเสือ",
+   "en": "Tigers are a protected species (CITES Appendix I; Thai wildlife law); the register records the kind and does not help move tiger parts, the stance the material axis takes on ivory",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อเสือเป็นโลหะหล่อจากพิมพ์ · เขี้ยวเสือเป็นฟันแกะมือ",
+   "tell_en": "A cast tiger is metal from a mould, usually a monk's issue; the fang tiger is carved dentine with syllables cut in by hand. Both read as เสือ in a listing title."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดหนังเสือเป็นแผ่นม้วนลงยันต์ หมวดวัตถุมงคล · เขี้ยวเป็นของธรรมชาติแกะ",
+   "tell_en": "The treatise's tiger-skin takrut is a rolled inscribed sheet in the blessed-object class; the fang is a natural object carved. Same animal, different class."
+  },
+  {
+   "id": "lek-lai",
+   "tell_th": "เหล็กไหลเป็นโลหะดำจากถ้ำ · เขี้ยวเป็นฟัน",
+   "tell_en": "Lek lai is a dark metallic mass the lore holds to be alive; a fang is a tooth. Both natural class, both favourites of the faker."
+  }
+ ],
+ "market": {
+  "search": [
+   "เขี้ยวเสือ",
+   "เขี้ยว"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02; the search was not pushed beyond the holding key's terms on purpose. Wanted: a carved tiger in the three treatise postures, from a museum or an heirloom, never from a sale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "เขี้ยว — ตามตำราคือเขี้ยวเสือ — แกะเป็นรูปเสือหรือเลี่ยมทั้งอัน ฤทธิ์อยู่ที่อำนาจของสัตว์เอง ของธรรมชาติ ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ของใหม่ในตลาดส่วนใหญ่เป็นของแกะเลียน",
+  "what_en": "A fang — tiger classically — carved or capped in metal, its power in the animal's own authority. Natural talisman: nothing conferred, nothing to feed. Modern pieces are mostly carved substitutes, which the honest seller says.",
+  "story_th": "ตำรามีเจ็ดแบบ ให้เอาเขี้ยวเสือแกะเป็นเสือผก เสือนั่งแท่น หรือเสือเผ่น ลงอักขระ แช่น้ำมันหอมในขันสัมฤทธิ์ เสก ๑๐๘ คาบ แบบที่ ๕ ใช้เขี้ยวเสือที่กินคนแล้ว ลง พุท ตาซ้าย ธะ ตาขวา สัง หน้า มิ หลัง ใช้โดยอมในปาก ใส่เมี่ยง หรือห่อผ้าดำโพกหัว — เข้าหาขุนนางมีอำนาจ ถูกว่าความเขาว่าเรามิได้ เดินกลางคืนคนมิเห็นตัว เข้าสงครามคงกระพัน ตำราให้ลองโดยแขวนเสือไว้ ปลุกให้ลุกขึ้นกระโดดกินเนื้อ แล้วเอาน้ำมันที่แช่มาทาตัว ฟันแทงมิเข้า",
+  "story_en": "The treatise gives seven carving methods. The fang is carved into one of three tigers — crouching, seated on a pedestal, leaping — inscribed limb by limb, steeped in scented oil in a bronze bowl and woken with 108 recitations; method 5 wants the fang of a man-eating tiger and puts phut and tha in the eyes, sang on the front, mi on the back. It is used by holding it in the mouth, folding it into a betel quid, or knotting it into a black head-cloth: before officials it gives authority, in a lawsuit the other side cannot speak against you, on a night road nobody sees you, in battle blades and shot miss. The proof the text offers is to hang the tiger up, wake it with the long 'I shall awaken' katha and watch it leap to eat meat; the oil it lay in is then smeared on the body against cutting.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง แต่เสือเป็นสัตว์คุ้มครอง — บันทึกชนิดได้ ซื้อขายชิ้นส่วนเสือไม่ได้",
+  "keeping_en": "Nobody home, nothing owed. The boundary is the register's, not the tradition's: tigers are protected, so this record describes the kind and does not point at tiger parts for sale. A carved substitute honestly sold is the piece to own; an heirloom fang is a thing to keep, not to trade."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 2815–2981 (printed pp. 70–75), seven methods"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "form.wearable_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "modern capped form: tradition"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "romanisation variants seen in listings"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

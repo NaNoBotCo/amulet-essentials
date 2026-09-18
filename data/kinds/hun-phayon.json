@@ -1,0 +1,232 @@
+{
+ "schema": 1,
+ "id": "hun-phayon",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "หุ่นพยนต์",
+  "roman": "hun phayon",
+  "en": "Hun Payon (animated effigy)",
+  "aliases": {
+   "th": [
+    "พยนต์",
+    "หุ่นพยนต์เฝ้าทรัพย์",
+    "หุ่นฟาง"
+   ],
+   "roman": [
+    "hun payon",
+    "hoon payon",
+    "hun payont",
+    "hun phayont"
+   ],
+   "en": [
+    "servant effigy",
+    "straw golem",
+    "guardian effigy"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "hun_phayon",
+  "functions": [
+   "khum_khrong",
+   "kan_phi"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปคนถือกระบอง ปั้นจากดิน หรือหุ่นผูกจากซังข้าว ๓๒ เส้น ถือหอก",
+  "shape_en": "A man-shaped figure: moulded from earth, holding a club (method 1), or bound from 32 rice-straw stalks with a spear (method 2). Modern retail pieces are small cloth or straw figures, sometimes wrapped in a yantra cloth and cased.",
+  "size_mm": null,
+  "wearable_th": "ไม่ได้ห้อยคอ ตั้งไว้ในโรงศาลเล็กๆ",
+  "wearable_en": "Not worn in the treatise form; it is housed in a small shrine. Cased pocket versions exist in the modern market.",
+  "obverse_th": "รูปคนทั้งตัว มักมีผ้ายันต์พันหรือหุ้ม",
+  "obverse_en": "A whole figure, often wrapped or clothed in cloth inscribed with yantra",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "The treatise seals a yantra wrapped around one fueang of quicksilver inside the belly, with further ingredients that are not reproduced here."
+ },
+ "iconography": [
+  {
+   "th": "รูปคนถือกระบองหรือหอก",
+   "en": "a man holding a club or spear"
+  },
+  {
+   "th": "ยันต์สี่เหลี่ยมครอบข้าวหลามตัด (ตารางเลข ๑–๘)",
+   "en": "square yantra enclosing a diamond magic square numbered 1–8"
+  },
+  {
+   "th": "ห่อผ้าตามตำรา (วิธีที่ ๒)",
+   "en": "a cloth wrapping per the treatise (method 2)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; the practice is older than any surviving print of it",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นรูปคน ไม่ใช่องค์พระ ไม่ใช่เหรียญ",
+   "en": "It is a person-shaped figure, never a Buddha image or a medallion",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "วัสดุคือดิน ฟาง ผ้า หรือโลหะหล่อ ไม่ใช่ผงอัดพิมพ์",
+   "en": "Body is earth, straw, cloth or cast metal, not pressed powder",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มักมีผ้ายันต์พันหรือรูที่ท้องสำหรับบรรจุ",
+   "en": "Look for a yantra wrapping and a sealed cavity in the belly where the charge sits",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราให้ทำโรงศาลเล็กๆ และเซ่นเหล้าข้าวทุกวัน — ของที่ต้องเลี้ยงคือหุ่นพยนต์ ไม่ใช่พระเครื่อง",
+   "en": "The treatise houses it in a small shrine and feeds it liquor and rice daily. A kept-and-fed object is a hun payon or a kuman, never a phra khrueang",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-somdet",
+   "tell_th": "หุ่นพยนต์คือหุ่นที่ถูกปลุกให้ทำงาน ต้องเซ่น · พระสมเด็จคือองค์พระอัดผง ไม่มีผู้อยู่",
+   "tell_en": "A hun payon is a figure compelled to serve and fed; a somdej is a pressed Buddha tablet with nobody home. Ask what the object is shaped like and whether its keeper feeds it — both answers separate them."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นรูปเด็กที่มีวิญญาณเด็กเลี้ยงไว้อย่างลูก · หุ่นพยนต์เป็นรูปผู้ใหญ่ถืออาวุธ เป็นการปลุกให้ขยับ ไม่ใช่ผีที่มีชื่อ",
+   "tell_en": "A kuman thong is a child figure housing a raised child-spirit, kept as family; a hun payon is an armed adult figure whose occupant is an animation, not a named ghost. Class and upkeep differ."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักเป็นรูปหญิงกวักมือ เป็นเทพที่บูชา · หุ่นพยนต์เฝ้าทรัพย์และขู่โจร",
+   "tell_en": "Nang Kwak is a beckoning woman venerated for trade; a hun payon guards property and frightens thieves"
+  }
+ ],
+ "market": {
+  "search": [
+   "หุ่นพยนต์",
+   "พยนต์"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:ฤาษีหมูตัน หุ่นพยนต์.jpg",
+   "File:ฤาษีหมูตัน หุ่นพยนต์ไผ่สาน.jpg"
+  ],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02. Needed: a straw or cloth figure whole, and a detail of the yantra wrapping. Nan's own photograph, or a line drawing from the treatise's description, fills this."
+ },
+ "images": [
+  {
+   "file": "hun-phayon/hun-phayon-jpg-37450d.jpg",
+   "source": "commons",
+   "title": "File:ฤาษีหมูตัน หุ่นพยนต์.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%95%E0%B8%B1%E0%B8%99_%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=149191229",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "วิถีชนเผ่า",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หุ่นพยนต์",
+   "alt_en": "Hun Payon (animated effigy) — Hoonphayon",
+   "sha256": "aeb7c0f63953dc29d01809edd868cb3b8a2d0e09f15eb116c5e31c6cdc3d91f4",
+   "width": 2296,
+   "height": 4080,
+   "primary": true
+  },
+  {
+   "file": "hun-phayon/hun-phayon-jpg-3156de.jpg",
+   "source": "commons",
+   "title": "File:ฤาษีหมูตัน หุ่นพยนต์ไผ่สาน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/%E0%B8%A4%E0%B8%B2%E0%B8%A9%E0%B8%B5%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B8%95%E0%B8%B1%E0%B8%99_%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%9E%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B9%84%E0%B8%9C%E0%B9%88%E0%B8%AA%E0%B8%B2%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=149191240",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "วิถีชนเผ่า",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หุ่นพยนต์",
+   "alt_en": "Hun Payon (animated effigy) — Phayon",
+   "sha256": "fb763138a73c75022118f4b710b4b82493cd83cd0f1be0ec9691bcf2974e7dc9",
+   "width": 1712,
+   "height": 3712
+  }
+ ],
+ "text": {
+  "what_th": "หุ่นรูปคน — ดิน ฟาง ผ้า หรือโลหะ — ที่ถูกปลุกด้วยยันต์และคาถาให้ทำหน้าที่เป็นผู้รับใช้หรือผู้เฝ้า ผู้อยู่ในหุ่นคือสิ่งที่ถูกบังคับให้ขยับ ไม่ใช่ผีที่มีชื่อหรือเทพที่บูชา จึงเป็นหมวดของตัวเอง",
+  "what_en": "An effigy — figure, cloth, or metal — animated by yantra and spell to act as a servant or guardian. The occupant is a compelled animation rather than a named ghost or venerated deva, which is what makes it its own class.",
+  "story_th": "ตำราให้สองวิธี วิธีแรกปั้นดินเป็นรูปคนถือกระบอง ลงยันต์ห่อปรอทหนักหนึ่งเฟื้องยัดลงท้อง แล้วอธิษฐานให้เฝ้าคนร้าย “ให้ทำแต่เพียงลำบาก อย่าให้ถึงตาย” วิธีที่สองผูกหุ่นจากซังข้าว ๓๒ เส้น ใส่ตอก ห่อผ้า ถือหอก ภาวนาอาการ ๓๒ จนเสร็จ แล้วปลุกด้วยคาถา “ปลุก ปลุก ปลุก” ทั้งสองวิธีตำราให้สูตรทำ ไม่นำส่วนผสมมาลงที่นี่",
+  "story_en": "The treatise gives two recipes. In the first, earth is moulded into a man holding a club; a yantra wrapped round a fueang of quicksilver goes into the belly, and the maker resolves aloud that it should watch for thieves and cause them only hardship, never death. In the second, thirty-two stalks of rice straw are bound with splints, wrapped in cloth, given a spear, and the maker meditates through the thirty-two parts of the body while binding, then wakes it with a katha whose Thai words are simply 'wake, wake, wake'. For both, the treatise gives a making-recipe; its ingredients are not reproduced here. It goes into a small shrine, gets liquor and rice every day, and is told its instructions. Thieves, the text says, see it as a living person.",
+  "keeping_th": "ถวายความเคารพ เซ่นเหล้าข้าวตามตำรา และสั่งความให้รู้หน้าที่",
+  "keeping_en": "Kept with respect: offerings and regard, and told its job. Worth asking who kept it before you."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:ms6983",
+  "s:holding-key",
+  "s:amulet-reference"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3034–3092 (printed pp. 77–78)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "modern retail forms: tradition"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "romanisation variants seen in listings and on the wichaa /hun page"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

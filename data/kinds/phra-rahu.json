@@ -1,0 +1,516 @@
+{
+ "schema": 1,
+ "id": "phra-rahu",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระราหู",
+  "roman": "phra rahu",
+  "en": "Phra Rahu (the eclipse-swallower)",
+  "aliases": {
+   "th": [
+    "ราหู",
+    "ราหูอมจันทร์",
+    "ราหูอมอาทิตย์",
+    "ราหูกะลาตาเดียว"
+   ],
+   "roman": [
+    "rahu",
+    "phra rahoo",
+    "rahu om chan"
+   ],
+   "en": [
+    "Rahu amulet",
+    "Rahu swallowing the moon",
+    "eclipse demon"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "khlaeo_khlat",
+   "chok_lap",
+   "khum_khrong"
+  ],
+  "materials": [
+   "kala",
+   "nuea_loha"
+  ],
+  "figures": [
+   "deity",
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "หัวราหูอ้าปากอมดวงจันทร์หรือดวงอาทิตย์ แกะจากกะลามะพร้าวตาเดียว มีแบบหล่อโลหะและเหรียญด้วย",
+  "shape_en": "A Rahu head, mouth open around a moon or sun disc, carved into one-eyed coconut shell; cast-metal figures and medallions carry the same image",
+  "size_mm": [
+   40,
+   45,
+   8
+  ],
+  "wearable_th": "ห้อยคอในกรอบ หรือพกติดตัว",
+  "wearable_en": "Worn at the neck in a frame, or carried",
+  "obverse_th": "หัวราหู มือสองข้างจับดวงที่อม อกลงยันต์",
+  "obverse_en": "Rahu's head and hands gripping the disc he swallows; the treatise puts a 4×4 numeral yantra on the chest",
+  "reverse_th": "ยันต์วงกลมแบ่ง ๖ ช่อง หรือชื่อวัด",
+  "reverse_en": "In the treatise, a circular yantra of six sectors; on temple issues, the temple and run",
+  "notes_en": "The treatise makes a pair: Rahu swallowing the sun bears the Suriyaprapha yantra, Rahu swallowing the moon the Chanthaprapha yantra. Size is an inference for the shell-carved type, which follows the shell."
+ },
+ "iconography": [
+  {
+   "th": "หัวไม่มีตัว อ้าปากอมดวง",
+   "en": "a bodiless head, mouth open around a disc"
+  },
+  {
+   "th": "ราหูอมจันทร์ · ราหูอมอาทิตย์",
+   "en": "swallowing the moon or the sun, made as a pair in the treatise"
+  },
+  {
+   "th": "ยันต์สุริยประภา จันทรประภา",
+   "en": "the Suriyaprapha (solar) and Chanthaprapha (lunar) yantras"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง)",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983, for the yantra pair; temple issues are many and uncredited here",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เนื้อกะลา — ผิวดำมัน เห็นเสี้ยนกะลา ตาเดียวคือกะลาที่มีตาเดียว",
+   "en": "Shell body: dark, oily surface with the coconut's own grain; 'one-eyed' means a shell showing a single germination eye",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หัวอย่างเดียว ไม่มีตัว — ต่างจากเทพองค์อื่น",
+   "en": "Head only, no body: the one deva in the market with no torso",
+   "source": "s:en-wiki-rahu",
+   "tier": "cited"
+  },
+  {
+   "th": "ตำราลงยันต์ตาราง ๔×๔ ที่อก และยันต์กลม ๖ ช่องด้านหลัง",
+   "en": "Treatise pieces carry a 4×4 numeral square on the chest and a six-sector circle on the back",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "แบบโลหะและเหรียญมีมาก — เนื้อไม่ใช่ตัวตัดสิน ภาพราหูอมดวงต่างหาก",
+   "en": "Metal and medallion types are common; the image, not the material, names the kind",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kala-ta-diao",
+   "tell_th": "กะลาตาเดียวเปล่าๆ เป็นของธรรมชาติ ไม่มีผู้อยู่ · แกะเป็นราหูแล้วจึงเป็นเทพที่บูชา",
+   "tell_en": "A plain one-eyed coconut shell is a natural talisman, nobody home; once carved into Rahu and inscribed it becomes a deva object. Same shell, different class."
+  },
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งที่เกิดในกะลา ไม่แกะรูป · ราหูเป็นรูปแกะ",
+   "tell_en": "A khot kala is a natural concretion found inside a shell, uncarved; Rahu is a carved image."
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามมีราหู ๘ ตนล้อมรอบเทพนั่งกลาง เป็นเหรียญกลมใหญ่ · ราหูเดี่ยวเป็นหัวเดียวอมดวง",
+   "tell_en": "A Jatukham disc rings its seated deva with eight small Rahu heads; a Rahu amulet is one head, one disc, and no one in the middle."
+  },
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑเต็มตัวกางปีก · ราหูเป็นหัวอย่างเดียว",
+   "tell_en": "The garuda is a whole winged figure; Rahu is a head alone."
+  }
+ ],
+ "market": {
+  "search": [
+   "ราหู"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Rahu in Thailand"
+  ],
+  "commons_files": [
+   "File:Phra Rahu.gif",
+   "File:Prarahu.jpg",
+   "File:Pharahu in Thailand.JPG",
+   "File:Wat Pangla - 049 Rahu swallowing the Moon (10684670235).jpg",
+   "File:Wiki Loves Folklore 2020 in Thailand 20.jpg"
+  ],
+  "wanted_en": "Commons has statues and murals, not the shell amulet. Needed: a carved one-eyed-shell Rahu obverse and reverse, and the sun/moon pair side by side"
+ },
+ "images": [
+  {
+   "file": "phra-rahu/phra-rahu-phra-rahu-3bad80.gif",
+   "source": "commons",
+   "title": "File:Phra Rahu.gif",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Phra_Rahu.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18658408",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Unknown authorUnknown author",
+   "credit": "1900 Album of Photography in Siam",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Phra Rahu riding Krat (garuda) holding a mallet a Brahminical diety to whom offerings are made in Siam",
+   "sha256": "656695f3703f2a60ae25e3b280b6e5cb291d4564c1bed4704461f4661c955cfe",
+   "width": 1311,
+   "height": 1685,
+   "primary": true
+  },
+  {
+   "file": "phra-rahu/phra-rahu-salakeokou-3-8e330f.jpg",
+   "source": "commons",
+   "title": "File:SalaKeoKou 3.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/SalaKeoKou_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3461077",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Der aus Uebersee kommt",
+   "credit": "Fotografiert am 11. November 2003",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Sculpture in en:Sala Keoku near Nong Khai, northeastern Thailand",
+   "sha256": "4999b1de1f00d9f46f9f029c65d7cadbb886ed5f9d0e594fb39d6efa2dd8b309",
+   "width": 787,
+   "height": 600
+  },
+  {
+   "file": "phra-rahu/phra-rahu-pharahu-in-thailand-076c49.jpg",
+   "source": "commons",
+   "title": "File:Pharahu in Thailand.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Pharahu_in_Thailand.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5008314",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "LigerCommon",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Rahu in Wat Chiangkang Sarapee Chiang Mai Thailand",
+   "sha256": "25c1db089ee31564179f6f40e99b9b21d52220371c748dec97121ee2092a6893",
+   "width": 2848,
+   "height": 4272
+  },
+  {
+   "file": "phra-rahu/phra-rahu-prarahu-3dbdf6.jpg",
+   "source": "commons",
+   "title": "File:Prarahu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Prarahu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=9030014",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Watkhunchan",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Phra Rahu, Wat Khun Chan, Talat Phlu, Thonburi, Bangkok",
+   "sha256": "74247c4e09dcb1d9f8e70aad516f7c00e8b1618096113476faa6c82f37a28985",
+   "width": 800,
+   "height": 600
+  },
+  {
+   "file": "phra-rahu/phra-rahu-wat-mahathat-worawihan-petchaburi-020-cb5064.jpg",
+   "source": "commons",
+   "title": "File:Wat Mahathat Worawihan (Petchaburi)-020.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Wat_Mahathat_Worawihan_%28Petchaburi%29-020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11111416",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Wat Mahathat Worawihan is a buddhist temple located in the province of Phetchaburi, Thailand",
+   "sha256": "45861073e3511a177eb0ee176a86cd75c75169112d858c4c0db4d9b30cd5b120",
+   "width": 3769,
+   "height": 2513
+  },
+  {
+   "file": "phra-rahu/phra-rahu-wat-mahathat-worawihan-petchaburi-045-882214.jpg",
+   "source": "commons",
+   "title": "File:Wat Mahathat Worawihan (Petchaburi)-045.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Wat_Mahathat_Worawihan_%28Petchaburi%29-045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11112033",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Wat Mahathat Worawihan is a buddhist temple located in the province of Phetchaburi, Thailand",
+   "sha256": "0fd45486e71a4390c272925d5b65dd016c47eed1ebd130d3aff3b816cf463334",
+   "width": 3745,
+   "height": 2497
+  },
+  {
+   "file": "phra-rahu/phra-rahu-buddha-park-head-b7f5b9.jpg",
+   "source": "commons",
+   "title": "File:Buddha Park Head.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Buddha_Park_Head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=15540632",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Paul Stevenson",
+   "credit": "Flickr: Buddha Park Head",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — In 1958 priest-shaman Luang Pu Bunleua Sulilat, who integrated Hinduism and Buddhism, built this park full of concrete s",
+   "sha256": "ad669fc3e069daa676166110012ea00ca359a6aeebfccae89b0e97fd9cb6a730",
+   "width": 1200,
+   "height": 1800
+  },
+  {
+   "file": "phra-rahu/phra-rahu-sala-kaeo-ku-c4d83e.jpg",
+   "source": "commons",
+   "title": "File:Sala Kaeo Ku.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Sala_Kaeo_Ku.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16258354",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Sogyto",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Nong Khai, Rahu",
+   "sha256": "dbe41ecd9fe21ddd75fdf2564df879dbf6c7b873c4ab7f7a07a3483927015503",
+   "width": 3072,
+   "height": 2304
+  },
+  {
+   "file": "phra-rahu/phra-rahu-sala-keoku-buddha-park-6032177061-88390c.jpg",
+   "source": "commons",
+   "title": "File:Sala Keoku, Buddha Park (6032177061).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sala_Keoku%2C_Buddha_Park_%286032177061%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=29401461",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Nick Hubbard",
+   "credit": "Sala Keoku, Buddha Park\n\nUploaded by AlbertHerring",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Sala Keoku, Buddha Park",
+   "sha256": "e10a2be9677974a4bf5fbcba232fa9b39522b46a470bc95fded372fd1a9a570a",
+   "width": 683,
+   "height": 1024
+  },
+  {
+   "file": "phra-rahu/phra-rahu-wat-pangla-047-sakka-and-rahu-1068474740-098306.jpg",
+   "source": "commons",
+   "title": "File:Wat Pangla - 047 Sakka and Rahu (10684747406).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Wat_Pangla_-_047_Sakka_and_Rahu_%2810684747406%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=40081528",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Penang, Malaysia",
+   "credit": "047 Sakka and Rahu",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — 47 Sakka and Rahu, Wat Pangla, Sadao Dt., Songkhla Province, Thailand\n\nPhotograph from Wat Pangla in Songhkla, Southern",
+   "sha256": "6d4f5d9f695a40b6779eb16bdb614a1c82f5bc99e51a32b1f4eb5ef11124f564",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-rahu/phra-rahu-wat-pangla-049-rahu-swallowing-the-moon-4ed7b5.jpg",
+   "source": "commons",
+   "title": "File:Wat Pangla - 049 Rahu swallowing the Moon (10684670235).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Wat_Pangla_-_049_Rahu_swallowing_the_Moon_%2810684670235%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=40081542",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Penang, Malaysia",
+   "credit": "049 Rahu swallowing the Moon",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — 49 Rahu swallowing the Moon, Wat Pangla, Sadao Dt., Songkhla Province, Thailand\n\nPhotograph from Wat Pangla in Songhkla,",
+   "sha256": "867b61cb34659a732dafaa6dd8df9003b6f1f5d721969e6be9a8abd46073562c",
+   "width": 4181,
+   "height": 3145
+  },
+  {
+   "file": "phra-rahu/phra-rahu-9-771019.jpg",
+   "source": "commons",
+   "title": "File:วัดพระลอย อ.เมือง จ.สุพรรณบุรี (9).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A5%E0%B8%AD%E0%B8%A2_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%AA%E0%B8%B8%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_%289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51122835",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "59e65309899d9a9192db437265abec576638fa142cb1ee7c611602335732e23d",
+   "width": 4320,
+   "height": 3240
+  },
+  {
+   "file": "phra-rahu/phra-rahu-15-24abd4.jpg",
+   "source": "commons",
+   "title": "File:วัดวรามาตยภัณฑสาราราม (วัดขุนจันทร์) เขตธนบุรี กรุงเทพมหานคร (15).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A2%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%28%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%29_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2815%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51277340",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "82b8d0dbea73bc0170a414ba47540645de84e349368b6e576ae4513d0d59cc46",
+   "width": 4320,
+   "height": 3240
+  },
+  {
+   "file": "phra-rahu/phra-rahu-wiki-loves-folklore-2020-in-thailand-20-5ade5f.jpg",
+   "source": "commons",
+   "title": "File:Wiki Loves Folklore 2020 in Thailand 20.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Wiki_Loves_Folklore_2020_in_Thailand_20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87563767",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Tris T7",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Thai Folk",
+   "sha256": "103faf6fe270c6ac001c768507dcbd71cf74999f8ef92812834583a6b524d48f",
+   "width": 5504,
+   "height": 8256
+  },
+  {
+   "file": "phra-rahu/phra-rahu-sala-keoku-1-5ebc01.jpg",
+   "source": "commons",
+   "title": "File:Sala Keoku 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Sala_Keoku_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89325915",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Christophe95",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Sala Keoku in Nong Khai.",
+   "sha256": "e4986265251f97eb6e537330be94c6b198389ff35168e690919145ae699ef46f",
+   "width": 5149,
+   "height": 3056
+  },
+  {
+   "file": "phra-rahu/phra-rahu-march-2022-img-11-845115.jpg",
+   "source": "commons",
+   "title": "File:วัดตาปะขาวหาย (March 2022) - img 11.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B8%9B%E0%B8%B0%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%AB%E0%B8%B2%E0%B8%A2_%28March_2022%29_-_img_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=115851613",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Wat Ta Pa Khao Hai",
+   "sha256": "a2552a0095847c5e69feb9f18abfa83bb67be6ec7cdc33106598a60492d4764f",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phra-rahu/phra-rahu-temple-wat-si-sawai-5-439d28.jpg",
+   "source": "commons",
+   "title": "File:Temple Wat Si Sawai 5.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Temple_Wat_Si_Sawai_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=160580528",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Welcome to Thailand",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระราหู",
+   "alt_en": "Phra Rahu (the eclipse-swallower) — Détail du prang recouvert de stuc  avec Kala (Rahu) au-dessus d'un bas-relief de Bouddha",
+   "sha256": "7ff782699b16b300a10051f2f2e0e6cd220ba499261776782d1cf5f1f8671efa",
+   "width": 4945,
+   "height": 3297
+  }
+ ],
+ "text": {
+  "what_th": "ราหูอมจันทร์ แกะจากกะลามะพร้าวตาเดียวเป็นหลัก — เครื่องแก้เคล็ดทางโหราศาสตร์ของผู้ที่อยู่ในช่วงพระราหูเสวยอายุ เป็นเทพที่บูชา ไม่ใช่ผีที่เลี้ยง",
+  "what_en": "Rahu swallowing the moon, classically carved into a one-eyed coconut shell — the astrological remedy worn by those in a Rahu period. This site's almanac pages keep the sky half of the story.",
+  "story_th": "ตำราเล่าว่าฤๅษีสองตนบนเขายุคุนธรเห็นว่ามนุษย์ในกาลหน้าจะยากจน จึงสร้างยันต์สุริยประภาและจันทรประภา ผู้จะทำให้หากะลามะพร้าวตาเดียว แกะเป็นราหูอมพระจันทร์อันหนึ่ง ราหูอมพระอาทิตย์อันหนึ่ง ลงยันต์สุริยประภาที่องค์อมอาทิตย์ จันทรประภาที่องค์อมจันทร์ ตำรายกว่าค่าเทียบสมบัติจักรพรรดิและแก้วมณีโชติ",
+  "story_en": "In the myth Rahu's head was cut off by Vishnu's discus after he drank the amrita, so when he swallows the sun or moon it passes out through his throat: the eclipse. Manuscript 6983 gives the amulet as a pair. Two hermits on Mount Yugandhara, foreseeing a poor age, made the Suriyaprapha (solar) and Chanthaprapha (lunar) yantras; the maker finds a one-eyed coconut shell, carves one Rahu swallowing the moon and one swallowing the sun, and inscribes the solar yantra on the sun-figure and the lunar on the moon-figure, with homage verses to each. The treatise sells it for wealth; the modern trade sells it as the remedy for a Rahu period in the horoscope, and the Buddhist protective verses against Rahu from the Candima and Suriya suttas sit behind both.",
+  "keeping_th": "เทพสถิตในความหมายของการบูชา ถวายเครื่องสักการะและความเคารพ ไม่เลี้ยง วางลงได้ ธรรมเนียมถวายของดำเป็นของประเพณี ตำรานี้ไม่ได้กล่าว",
+  "keeping_en": "Deva tier: veneration, not feeding; can be set down. The trade's rule of offering black things to Rahu is tradition, not in this treatise."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:ms6983",
+  "s:en-wiki-rahu",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 2255–2390 (printed pp. 52–55); eclipse myth and sutta verses from s:en-wiki-rahu"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.obverse_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "form.reverse_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical shell-carved pendant; follows the shell, not measured"
+   },
+   "origin": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

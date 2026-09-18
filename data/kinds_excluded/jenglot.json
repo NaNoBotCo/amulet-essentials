@@ -1,0 +1,186 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "jenglot",
+ "names": {
+  "th": "เจงล็อต",
+  "roman": "jenglot",
+  "en": "Jenglot (the small mummy-like figure sold as a spirit vessel)",
+  "aliases": {
+   "th": [
+    "เจงโลต",
+    "ตุ๊กตามัมมี่ชวา"
+   ],
+   "roman": [
+    "jengglot",
+    "bethara karang"
+   ],
+   "en": [
+    "Javanese mummy doll",
+    "jenglot doll"
+   ]
+  },
+  "other_scripts": {
+   "id": "jenglot",
+   "ms": "جڠلوت · jenglot",
+   "jv": "jenglot"
+  }
+ },
+ "region": [
+  "id",
+  "my"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [
+   "khum_khrong",
+   "chok_lap"
+  ],
+  "materials": [],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปคนแคระผิวดำแห้งคล้ายมัมมี่ สูง ๑๐–๒๐ ซม. หน้าคล้ายกะโหลก เขี้ยวยื่น เล็บยาว ผมยาวห้อยถึงเท้า",
+  "shape_en": "A dwarf humanoid, dark and dried like a mummy, 10–20 cm tall, with a skull-like face, protruding fangs, long nails and stiff hair hanging past the feet.",
+  "size_mm": [
+   null,
+   150,
+   null
+  ],
+  "wearable_th": "ไม่ได้พก ตั้งในกล่องหรือตู้ ห่อผ้า",
+  "wearable_en": "Not carried; boxed or cased, often wrapped in cloth.",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Height is the only defensible dimension: id.wikipedia gives 10–20 cm, en.wikipedia about 12 cm. Width and depth left null."
+ },
+ "iconography": [
+  {
+   "th": "เขี้ยว เล็บยาว ผมยาวเกินตัว",
+   "en": "fangs, long claws, hair longer than the body"
+  },
+  {
+   "th": "ท่ายืนหรือนั่งแขนแนบ",
+   "en": "a rigid standing or seated pose, arms held to the body"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ผู้ขายอ้างว่า “พบ” — ใต้ต้นไม้ ในดิน — ไม่ยอมรับว่าสร้าง",
+  "maker_en": "Sellers say it was found — under a tree, in the earth — never that it was made; forensic findings say otherwise",
+  "era_th": "ปรากฏการณ์ยุคสื่อ: การตรวจพิสูจน์ที่อ้างถึงอยู่ในทศวรรษ ๒๕๔๐–๒๕๕๐ หนังปี ๒๕๕๔",
+  "era_en": "A media-age phenomenon: the examinations both wikis cite fall in the 2000s (a 2008 Malaysian test; RS Cipto Mangunkusumo in Jakarta), and a feature film followed in 2011",
+  "place_th": "ชวา สุมาตรา กาลีมันตัน บาหลี; แสดงในพิพิธภัณฑ์รัฐสลังงอร์",
+  "place_en": "Java, Sumatra, Kalimantan, Bali; exhibited at the Sultan Alam Shah Museum, Shah Alam, Malaysia",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "สูง ๑๐–๒๐ ซม. ผิวดำหยาบ หน้ากะโหลก เขี้ยว เล็บยาว",
+   "en": "10–20 cm, dark rough skin, skull face, fangs and long nails",
+   "source": "s:id-wiki-jenglot",
+   "tier": "cited"
+  },
+  {
+   "th": "เอกซเรย์ไม่พบโครงกระดูก",
+   "en": "Radiographs of examined specimens showed no skeleton inside",
+   "source": "s:id-wiki-jenglot",
+   "tier": "cited"
+  },
+  {
+   "th": "ผมมนุษย์ปลูกกลับหัว — DNA ชี้ว่ามาจากคนคนเดียว (มาเลเซีย ๒๕๕๑)",
+   "en": "Human hair implanted upside down, DNA from one person — the 2008 Malaysian examination",
+   "source": "s:en-wiki-jenglot",
+   "tier": "cited"
+  },
+  {
+   "th": "หลายชิ้นเป็นงานสตัฟฟ์: หัวลิง หางม้าเป็นผม ชิ้นส่วนปลา",
+   "en": "Many are taxidermy composites — a monkey head, horse tail for hair, fish parts",
+   "source": "s:en-wiki-jenglot",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "luk-krok",
+   "tell_th": "ลูกกรอกเป็นรูปทารกห่อผ้ายันต์ แช่น้ำมัน · เจงล็อตเป็นคนแคระผมยาวมีเขี้ยว ตั้งแห้ง",
+   "tell_en": "A luk krok is a foetus-form wrapped in yantra cloth and often kept in oil; a jenglot is a long-haired fanged dwarf kept dry. Both are sold as fed spirit vessels; the form separates them at a glance."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นเด็กปิดทอง เลี้ยงอย่างลูก · เจงล็อตเป็นสิ่งดุ ผู้ขายให้เลี้ยงด้วยเลือด",
+   "tell_en": "A kuman thong is a gilded child raised as family; a jenglot is a fierce thing its sellers feed on blood. Parenting versus placating."
+  },
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เป็นหุ่นดินหรือฟางที่ปลุกให้ทำงาน รู้ว่าสร้าง · เจงล็อตอ้างว่าเป็นซาก",
+   "tell_en": "A hun phayon is openly a made effigy animated to serve; a jenglot is sold as a found remains. Declared making versus denied making."
+  },
+  {
+   "id": "nang-phrai",
+   "tell_th": "นางพรายเป็นรูปหญิงงามที่มีผีตายท้องกลม · เจงล็อตไม่มีเพศ ไม่มีเรื่องเล่าที่มา",
+   "tell_en": "A nang phrai is a beautiful woman-figure housing a named childbirth ghost; a jenglot has no gender and no origin story beyond 'found'."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "Nothing on Commons as of 2026-09-02 (searches for jenglot / jengglot / batara karang return zero; id.wikipedia illustrates the article with a Victorian fairy painting). Needed: a figure whole against a scale, and a close-up of the hair root line — the upside-down implant is the published tell."
+ },
+ "images": [],
+ "text": {
+  "what_th": "รูปคนแคระผิวดำแห้ง สูงราวฝ่ามือ ผมยาว เขี้ยวยื่น ที่ตลาดชวา-มลายูขายเป็น “ภาชนะวิญญาณ” และให้เลี้ยงด้วยเลือดหรือน้ำมัน ผลตรวจที่มีชี้ว่าเป็นของประกอบจากชิ้นส่วนสัตว์และผมคน vault ไม่มีหมวดสำหรับของมลายูชนิดนี้ จึงปล่อยหมวดว่าง",
+  "what_en": "A palm-high dried dwarf figure with long hair and fangs, sold on the Javanese-Malay market as a spirit vessel to be fed blood or oil. The examinations on record found composites of animal parts and human hair, no skeleton. The vault has no Malay category for a prai-like vessel; class is left null and the seller's claim is recorded as a claim.",
+  "story_th": "ผู้ขายเล่าว่าเจงล็อตเคยเป็นคน พบในดินหรือใต้ต้นไม้ และเมื่อ “ใส่วิชา” แล้วจะคุ้มครองเจ้าของ แก้แค้นศัตรู หรือนำโชค ผู้เลี้ยงหยดเลือดแพะหรือเลือดคนไว้ใกล้ตัวมัน — วิกิพีเดียอินโดนีเซียเสริมว่าไม่จำเป็นต้องเลือดเสมอ ให้น้ำมันที่ไม่มีแอลกอฮอล์ก็ได้ ราคาถึงหลักพันริงกิตหรือหลายล้านรูเปียห์ การตรวจในมาเลเซีย ปี ๒๕๕๑ พบผมมนุษย์ปลูกกลับหัว DNA จากคนคนเดียว โรงพยาบาลจิปโตในจาการ์ตาเอกซเรย์ไม่พบกระดูก เจ้าของปฏิเสธการตรวจต่อ",
+  "story_en": "Sellers say a jenglot was once human, was found in the soil or under a tree, and once charged with knowledge guards its keeper, avenges them, or draws luck; the keeper sets goat or human blood near it, and Indonesian Wikipedia adds that non-alcoholic oil serves as well. Prices reach thousands of ringgit or millions of rupiah. The 2008 Malaysian examination found human hair implanted upside down with DNA from a single person; a Jakarta hospital X-ray found no bones, and the owner refused further tests. A 2011 feature film fixed it in popular culture.",
+  "keeping_th": "หมวดว่าง: มันขายในตรรกะของพราย (ผีดุที่ต้องเลี้ยงและต้องปิดให้ถูก) แต่ vault ไม่มีหมวดมลายู และหลักฐานที่มีไม่รับรองว่ามีผู้อยู่ ถ้ารับมา: ถามให้ครบว่าใครเลี้ยง เลี้ยงด้วยอะไร และคนขายบอกวิธี “ปิด” ไว้หรือไม่ — ถามอย่างที่ถามพราย",
+  "keeping_en": "Null class: it is sold on prai logic — a fierce resident that must be fed and correctly closed — but the vault has no Malay category and the evidence on record does not support a resident at all. If one is taken in, ask the prai questions anyway: who fed it, on what, and whether the seller gave a way to set it down. The answer costs nothing and the object is sold on it."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-jenglot",
+  "s:id-wiki-jenglot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-jenglot"
+  },
+  "fields": {
+   "form.size_mm": {
+    "tier": "cited",
+    "source": "s:id-wiki-jenglot",
+    "note": "height 10–20 cm; width/depth null"
+   },
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "null: prai-like by trade logic, no Malay class, evidence against a resident"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:en-wiki-jenglot",
+    "note": "the seller's claims (protection, luck, revenge) mapped to vault keys; revenge has no key"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "Thai transliteration in use online"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

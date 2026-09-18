@@ -1,0 +1,181 @@
+{
+ "schema": 1,
+ "id": "khot-kala",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "คดกะลา",
+  "roman": "khot kala",
+  "en": "Coconut-shell concretion",
+  "aliases": {
+   "th": [
+    "คด",
+    "คต",
+    "คดมะพร้าว"
+   ],
+   "roman": [
+    "khod kala",
+    "kod kala"
+   ],
+   "en": [
+    "coconut bezoar",
+    "khot stone"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "khum_khrong",
+   "khong_kraphan"
+  ],
+  "materials": [
+   "kala"
+  ],
+  "figures": [
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "ก้อนแข็งคล้ายหินที่พบเกิดในลูกมะพร้าว เก็บทั้งก้อน เลี่ยมหรือใส่ตลับ",
+  "shape_en": "A stone-hard nodule found grown inside a coconut, kept as found; capped or cased for wearing",
+  "size_mm": null,
+  "wearable_th": "ใส่ตลับหรือเลี่ยมห้อยคอ",
+  "wearable_en": "Cased or capped at the neck",
+  "notes_en": "The search term is carried only as the compound คดกะลา: bare คด was 98% noise (โชคดี, โบราณคดี, คดี, พระโคดม). The treatise spells the family คต."
+ },
+ "iconography": [
+  {
+   "th": "ไม่มีรูป — ก้อนตามธรรมชาติ",
+   "en": "no figure; a natural nodule"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "",
+  "era_en": "",
+  "place_th": "ทั่วไป",
+  "place_en": "Thailand generally",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ตำราจัด คต ไว้ในของทนสิทธิ์ที่เกิดเองตามธรรมชาติ ร่วมกับเขี้ยว เขา และแร่ธาตุ — เครื่องรางชนิดแรกที่มนุษย์ใช้",
+   "en": "The treatise's own classification puts คต among the self-potent natural objects (ของทนสิทธิ์) beside fangs, horns and minerals — the first amulets humans used, it says",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "คดเป็นตระกูล ตั้งชื่อตามที่พบ: คดกะลา คดหิน คดหอย คดปลวก",
+   "en": "คด is a family named by host — coconut, stone, shell, termite mound and more; the trade holds that the host names the virtue",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ก้อนแข็ง หนัก ผิวด้านหรือมัน ไม่มีรอยแกะ",
+   "en": "Hard, dense, matte or glassy, with no tool marks; a nodule that shows carving is something else",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ก้อนคดที่ยังมีเศษกะลาติดอยู่บอกที่มาของตัวเอง",
+   "en": "A nodule still carrying a fragment of shell carries its own provenance; the material axis dates shell by wear",
+   "source": "s:vault-materials",
+   "tier": "inference"
+  },
+  {
+   "th": "คำสองตัวอักษรค้นเดี่ยวไม่ได้ — ๔๗๔ จาก ๔๘๔ ที่พบเป็นคำอื่น จึงใช้แต่คำประสม",
+   "en": "The bare word cannot be searched: 474 of 484 corpus hits were other words, so only the compound is carried",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kala-ta-diao",
+   "tell_th": "กะลาตาเดียวคือเปลือกที่มีตาเดียว · คดกะลาคือก้อนแข็งข้างใน",
+   "tell_en": "The one-eyed shell is the husk with a single eye; the khot is a stone-hard nodule from inside the nut. Same tree, two finds."
+  },
+  {
+   "id": "lek-lai",
+   "tell_th": "เหล็กไหลเป็นโลหะดำมันวาวจากถ้ำ · คดไม่มีประกายโลหะ",
+   "tell_en": "Lek lai is a lustrous dark metal claimed from caves; a khot has no metallic sheen and a named plant or animal host."
+  },
+  {
+   "id": "bia-kae",
+   "tell_th": "เบี้ยแก้เป็นหอยเบี้ยบรรจุปรอทโดยพระ — ของทำ · คดเป็นของพบ",
+   "tell_en": "A bia kae is a cowrie a monk fills and seals — made; a khot is found. Both small, hard and cased."
+  }
+ ],
+ "market": {
+  "search": [
+   "คดกะลา"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02. Wanted: a nodule beside the split coconut it came from, with a scale."
+ },
+ "images": [],
+ "text": {
+  "what_th": "ก้อนแข็งเหมือนหินที่พบเกิดในลูกมะพร้าว หนึ่งในตระกูลคด — หินที่ไม่น่าจะมีในสิ่งมีชีวิต เก็บทั้งก้อนตามที่พบ ฤทธิ์อยู่ในตัว ไม่ต้องเลี้ยง",
+  "what_en": "A stone-hard concretion found grown inside a coconut — one of the คด family of impossible stones found in living things. Kept whole as found; power inherent, none to feed.",
+  "story_th": "ตำราไม่มีสูตรทำคด เพราะทำไม่ได้ มันเกิดเอง คำนำของตำราจัด คต ไว้กับเขี้ยว เขา แร่ธาตุ เป็นของทนสิทธิ์ที่มนุษย์ใช้ก่อนของทำทั้งหมด วงการเรียกคดตามที่พบ คดกะลาคือคดในมะพร้าว ถือกันว่าคงกระพันและคุ้มครอง — เป็นคำอ้างของประเพณี ตำราว่าแต่เพียงว่ามีฤทธิ์ในตัว",
+  "story_en": "There is no recipe for a khot and cannot be: it is found, not made. The treatise's preface files คต with fangs, horns and minerals as the self-potent natural objects people carried before anyone inscribed anything. The trade names each by its host — a khot kala grew inside a coconut — and holds it for protection and hardness against blades; those functions are the tradition's claim, not the treatise's, which says only that the thing has power in itself.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง เก็บตามที่พบ",
+  "keeping_en": "Nobody home, nothing owed. Keep it as it was found; safe to adopt with no history at all, since it never had a maker."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "functions are the trade's claim: tradition"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "compound only; bare คด is 98% noise per vault classes.md"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 943–944 (printed p. 9), the treatise's own classification"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

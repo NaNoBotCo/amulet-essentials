@@ -1,0 +1,542 @@
+{
+ "schema": 1,
+ "id": "luang-pu-thuat",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "หลวงปู่ทวด",
+  "roman": "luang pu thuat",
+  "en": "Luang Pu Thuat amulet",
+  "aliases": {
+   "th": [
+    "หลวงพ่อทวด",
+    "หลวงปู่ทวดเหยียบน้ำทะเลจืด",
+    "หลวงพ่อทวดวัดช้างให้",
+    "หลังเตารีด"
+   ],
+   "roman": [
+    "luang phor thuad",
+    "luang pu tuad",
+    "lp thuad"
+   ],
+   "en": [
+    "Luang Phor Thuad",
+    "the monk who walked on water"
+   ]
+  }
+ },
+ "region": [
+  "th-south",
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khlaeo_khlat",
+   "khum_khrong",
+   "khong_kraphan"
+  ],
+  "materials": [
+   "nuea_waan",
+   "nuea_loha",
+   "thonglueang",
+   "samrit",
+   "ngoen"
+  ],
+  "figures": [
+   "monk"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "รุ่นแรกเป็นพระเนื้อว่านพิมพ์รูปท่านนั่ง รุ่นหลังมีทั้งเหรียญ รูปหล่อ และหลังเตารีดหล่อโลหะ",
+  "shape_en": "The first run is a pressed wan-powder tablet of the monk seated; later runs add struck medallions, cast figures, and the cast 'flat-iron back' (หลังเตารีด) form",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอ และวางบนแผงหน้ารถ",
+  "wearable_en": "Worn at the neck; also kept on car dashboards as accident protection",
+  "obverse_th": "รูปหลวงปู่ทวดนั่ง ศีรษะโล้น ห่มจีวร",
+  "obverse_en": "Luang Pu Thuat seated, bald, in robes",
+  "reverse_th": "เรียบ ยันต์ หรือหลังนูนทรงเตารีด ตามรุ่น",
+  "reverse_en": "Plain, a yantra, or the raised flat-iron back, by run",
+  "notes_en": "form.type records the canonical 2497 wan tablet; medallion and cast forms are the same kind by figure. No single size."
+ },
+ "iconography": [
+  {
+   "th": "หลวงปู่ทวดนั่ง ศีรษะโล้น",
+   "en": "the monk seated, bald-headed, in monastic robes"
+  },
+  {
+   "th": "หลังเตารีด — ด้านหลังนูนทรงเตารีด (แต่ พ.ศ. ๒๕๐๕)",
+   "en": "the flat-iron back: a raised reverse shaped like an iron, from BE 2505"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดช้างให้ จังหวัดปัตตานี",
+  "wat_en": "Wat Chang Hai, Pattani",
+  "maker_th": "พระอาจารย์ทิม ธมฺมธโร เจ้าอาวาสวัดช้างให้",
+  "maker_en": "Phra Ajahn Tim Dhammadharo, abbot of Wat Chang Hai",
+  "era_th": "ตัวท่านสมัยอยุธยา (พ.ศ. ๒๑๒๕–๒๒๒๕) พระเครื่องรุ่นแรก พ.ศ. ๒๔๙๗",
+  "era_en": "The monk is Ayutthaya-period (1582–1682); the amulets begin in 1954",
+  "place_th": "ภาคใต้",
+  "place_en": "Southern Thailand",
+  "first_attested": "BE 2497 (1954) first batch, entirely herbal (wan) material, per en.wikipedia Luang Pu Thuat"
+ },
+ "diagnostics": [
+  {
+   "th": "รูปพระสงฆ์นั่ง หัวโล้น — ไม่ใช่พระพุทธรูป",
+   "en": "A seated bald monk, not a Buddha",
+   "source": "s:en-wiki-luang-pu-thuat",
+   "tier": "cited"
+  },
+  {
+   "th": "รุ่นแรกเนื้อว่านล้วน ผิวเนื้อพืชสีน้ำตาล ไม่ใช่ผงขาว ไม่ใช่โลหะ",
+   "en": "The first batch is wan (herbal) material through and through: a brown vegetable body, not white powder and not metal",
+   "source": "s:en-wiki-luang-pu-thuat",
+   "tier": "cited"
+  },
+  {
+   "th": "หลังเตารีดคือหล่อโลหะ ด้านหลังนูน มีแต่ พ.ศ. ๒๕๐๕",
+   "en": "The flat-iron back is a metal casting with a raised reverse and exists only from 2505 on",
+   "source": "s:en-wiki-luang-pu-thuat",
+   "tier": "cited"
+  },
+  {
+   "th": "เหรียญของท่านอ่านชื่อวัดช้างให้และปีได้",
+   "en": "The medallions read Wat Chang Hai and a year, like any rian kechi",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญหลวงปู่ทวดคือเหรียญเกจิของท่าน · แต่กินดที่นี่รวมเนื้อว่านและหล่อ",
+   "tell_en": "A Luang Pu Thuat medallion is a rian kechi of him; this kind also covers the wan tablets and castings the medallion form does not"
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อหลวงปู่ทวดมีรูปแบบเฉพาะ หลังเตารีด",
+   "tell_en": "A cast Luang Pu Thuat is a rup lo with its own canonical form, the flat-iron back; other monks' castings do not have it"
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามเป็นเทพ เหรียญใหญ่ นครศรีธรรมราช · หลวงปู่ทวดเป็นพระสงฆ์ ปัตตานี",
+   "tell_en": "Both are southern; Jatukham is a large deity medallion from Nakhon Si Thammarat, Luang Pu Thuat a monk from Pattani"
+  }
+ ],
+ "market": {
+  "search": [
+   "หลวงปู่ทวด",
+   "หลวงพ่อทวด"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Luang Pu Thuat"
+  ],
+  "commons_files": [
+   "File:Luang Phor Thuad 2497.png",
+   "File:หลวงพ่อทวด วัดพระสิงห์.JPG",
+   "File:ปกหลังแท้.JPG"
+  ],
+  "wanted_en": "A 2497 wan tablet and a 2505 flat-iron-back casting side by side at matched scale, with a reverse of each"
+ },
+ "images": [
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-luang-phor-thuad-2497-d05eaf.png",
+   "source": "commons",
+   "title": "File:Luang Phor Thuad 2497.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Luang_Phor_Thuad_2497.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=124458460",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — Luang Phor Thuad 2497",
+   "sha256": "e5eb63d6b499da1103ab64ddd06a6a21ca5316a76d0b07a9f3c1422fb8657981",
+   "width": 1919,
+   "height": 927,
+   "primary": true
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-jpg-59b43c.jpg",
+   "source": "commons",
+   "title": "File:หลวงปู่ทวด วัดห้วยมงคล.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%A7%E0%B8%94_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=6960771",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — The biggest statue of Luang Pu Thuat (born 2125 BE (1582 CE), died 2225 BE (1682 CE)) at Wat Huai Mongkhon, Hua Hin, Pra",
+   "sha256": "8833b5c42abac1eb321eeb0c1499cbfd30104f7a4cbf4d44b61558e81b02c35d",
+   "width": 1280,
+   "height": 960
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-great-statue-of-luang-pu-thuat-wat-huai-d31ef8.jpg",
+   "source": "commons",
+   "title": "File:Great statue of Luang Pu Thuat, Wat Huai Mongkol, Prachuap Khiri Khan.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Great_statue_of_Luang_Pu_Thuat%2C_Wat_Huai_Mongkol%2C_Prachuap_Khiri_Khan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16194747",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "user:Octahedron80",
+   "credit": "file:หลวงปู่ทวด_วัดห้วยมงคล.jpg",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — The biggest statue of Luang Pu Thuat (born 2125 BE (1582 CE), died 2225 BE (1682 CE)) at Wat Huai Mongkhon, Hua Hin, Pra",
+   "sha256": "79cfe07ef289047431602c0dfc797af6b713f7b26842116c749ab8877fd74199",
+   "width": 401,
+   "height": 502
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-tha-ga-rong-5-6770dc.jpg",
+   "source": "commons",
+   "title": "File:Wat Tha Ga Rong-5.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Wat_Tha_Ga_Rong-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=28090347",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Battery2029",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "43f03ccf5da177485901d9250fd96d1131a17cb8e652bffe236fade4f3647d9c",
+   "width": 5180,
+   "height": 2914
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-jpg-d416ba.jpg",
+   "source": "commons",
+   "title": "File:หลวงพ่อทวด วัดพระสิงห์.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%A7%E0%B8%94_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38177308",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "โจสุโข",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — หลวงพ่อทวด วัดพระสิงห์ พิมพ์ใหญ่ ฐานพระบาท",
+   "sha256": "c43dff5e26735ac592cc3779fd57c3fdcf34e40ef09176ef33f78ee0116832a8",
+   "width": 1973,
+   "height": 3387
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-jpg-27acc6.jpg",
+   "source": "commons",
+   "title": "File:ปกหลังแท้.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/%E0%B8%9B%E0%B8%81%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%97%E0%B9%89.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38194907",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Jijeruni",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — หลวงปู่ทวดวัดพระสิงห์",
+   "sha256": "cad63222f830f37f1e2e58e2c92a472df357a9a914fa10c43c15df47624520da",
+   "width": 3140,
+   "height": 3957
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-yannawa-023-luang-por-thot-121302595-90eaa5.jpg",
+   "source": "commons",
+   "title": "File:Wat Yannawa - 023 Luang Por Thot (12130259586).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Wat_Yannawa_-_023_Luang_Por_Thot_%2812130259586%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=40192720",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Penang, Malaysia",
+   "credit": "023 Luang Por Thot",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — 023 Luang Por Thot, Wat Yannava, Bangkok, Thailand\n\nPhotograph from Wat Yannawa in Bangkok, Thailand taken by Anandajoti",
+   "sha256": "da466e3b923a8e3f9790095075838715b5a5cf1d947cd14b6a79dacec1634ae3",
+   "width": 4320,
+   "height": 3240
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-jpg-605ca5.jpg",
+   "source": "commons",
+   "title": "File:องค์หลวงปุ่ทวด.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%97%E0%B8%A7%E0%B8%94.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=47181230",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Jaran pitagtum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — ภาพองค์หลวงปู่ทวด ที่ประดิษฐานอยู่ ณ วัดช้างไห้ ปัตตานี",
+   "sha256": "efea264a94501f7a5fc7b12648304e35d7dcf79b179b13f7ebf7dab308bd0f03",
+   "width": 1365,
+   "height": 2048
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-017-luang-por-tor-9213456709-ca5b73.jpg",
+   "source": "commons",
+   "title": "File:017 Luang Por Tor (9213456709).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/017_Luang_Por_Tor_%289213456709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50795788",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "017 Luang Por Tor",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — 17 Luang Por Tor, Magificent Dharma Temple, Sadao",
+   "sha256": "6f58f772a49ec878a3295608488ff62b1685c234215aa6a0bef4201b287580b1",
+   "width": 3264,
+   "height": 2448
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-60-e2e3cc.jpg",
+   "source": "commons",
+   "title": "File:วัดสุทัศนเทพวรารามราชวรมหาวิหาร เขตพระนคร กรุงเทพมหานคร (60).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2860%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51238614",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "dc3f88e2b8c96c9e9bbc57fdcd0f2233bb641c5d54c9e333dc95d6b045fc8085",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-huaymongkol-panoramio-365037.jpg",
+   "source": "commons",
+   "title": "File:Wat Huaymongkol - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Wat_Huaymongkol_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=53934221",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "josef knecht",
+   "credit": "https://web.archive.org/web/20161021024317/http://www.panoramio.com/photo/58068195",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — Wat Huaymongkol",
+   "sha256": "9c9fb1ac43cc718bb680ad7da70222150634696a51441335f7a06c1fdf57f218",
+   "width": 1024,
+   "height": 768
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-phra-sing-ubosot-wax-statues-north-p-fc6ecf.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra Sing - Ubosot - Wax statues north - P1140269.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Wat_Phra_Sing_-_Ubosot_-_Wax_statues_north_-_P1140269.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=66417256",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "FredTC",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — Aan de noordelijke zijde van het Ubosot-gebouw, bij de ingang voor nonnen, zijn deze vier wassenbeelden geplaatst. Het b",
+   "sha256": "0952db1e28e516ede1496b73008fa55f9e8d6bf24d38b24a9339e39b6977b9bf",
+   "width": 4000,
+   "height": 3000
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-phra-sing-ubosot-wax-statues-north-p-857518.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra Sing - Ubosot - Wax statues north - P1140270.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Wat_Phra_Sing_-_Ubosot_-_Wax_statues_north_-_P1140270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=66417258",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "FredTC",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — Aan de noordelijke zijde van het Ubosot-gebouw, bij de ingang voor nonnen, zijn deze vier wassenbeelden geplaatst. Het b",
+   "sha256": "b6b68550966cae32f8d222d91aa8914c2d85f2f040bf20546217bf6b5fac9619",
+   "width": 4000,
+   "height": 3000
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-wat-donsak-a6e6b0.jpg",
+   "source": "commons",
+   "title": "File:Wat Donsak.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Wat_Donsak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=123340814",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "samfotograf",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "acde6a1e87502ee8ecf4f26751228247876d4adfee5c28b5c4d8ea725acee2d9",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-2023-24-262aef.jpg",
+   "source": "commons",
+   "title": "File:(2023) วัดเสมียนนารี เขตจตุจักร กรุงเทพมหานคร (24).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/%282023%29_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B5_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%88%E0%B8%95%E0%B8%B8%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2824%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=137887458",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "6ff3f3ebc66eb0df6c1c94461c162d853e4ac5eeca590bb7d964e24cac5e0a77",
+   "width": 3448,
+   "height": 4592
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-thai-human-imagery-museum-18-d1eeba.jpg",
+   "source": "commons",
+   "title": "File:Thai Human Imagery Museum พิพิธภัณฑ์หุ่นขี้ผึ้งไทย อ.นครชัยศรี จ.นครปฐม (18).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Thai_Human_Imagery_Museum_%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%AD.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5_%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1_%2818%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147750384",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet",
+   "sha256": "ae39b94a0c4d00115e99af1ae682667d2c29b774ad93fb74735b998fe01fccd2",
+   "width": 4592,
+   "height": 3448
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-thai-human-imagery-museum-21-4d7d96.jpg",
+   "source": "commons",
+   "title": "File:Thai Human Imagery Museum พิพิธภัณฑ์หุ่นขี้ผึ้งไทย อ.นครชัยศรี จ.นครปฐม (21).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Thai_Human_Imagery_Museum_%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%AD.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5_%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1_%2821%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147750387",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet",
+   "sha256": "ae74f717ed2b3c32f2a2dd06c2cc8ebea31cf90d357c60db8f25b502bd234677",
+   "width": 3448,
+   "height": 4592
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-thai-human-imagery-museum-19-301f39.jpg",
+   "source": "commons",
+   "title": "File:Thai Human Imagery Museum พิพิธภัณฑ์หุ่นขี้ผึ้งไทย อ.นครชัยศรี จ.นครปฐม (19).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Thai_Human_Imagery_Museum_%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%AD.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5_%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1_%2819%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147750388",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet",
+   "sha256": "456870e9562a097c59ea076be173bddf75f3cb359be36b4a1c62f88f040c0913",
+   "width": 4592,
+   "height": 3448
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-thai-human-imagery-museum-20-bff18f.jpg",
+   "source": "commons",
+   "title": "File:Thai Human Imagery Museum พิพิธภัณฑ์หุ่นขี้ผึ้งไทย อ.นครชัยศรี จ.นครปฐม (20).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thai_Human_Imagery_Museum_%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B4%E0%B8%98%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AB%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B8%9C%E0%B8%B6%E0%B9%89%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2_%E0%B8%AD.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%A3%E0%B8%B5_%E0%B8%88.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%9B%E0%B8%90%E0%B8%A1_%2820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147750390",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet",
+   "sha256": "deddc83fb054a5c9e57b0069e571d5fb952133bab59f4d19a85b6232bb96a4ff",
+   "width": 3448,
+   "height": 4592
+  },
+  {
+   "file": "luang-pu-thuat/luang-pu-thuat-nasatta-74-fea0b4.jpg",
+   "source": "commons",
+   "title": "File:ณ สัทธา อุทยานไทย Nasatta (74).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E0%B8%93_%E0%B8%AA%E0%B8%B1%E0%B8%97%E0%B8%98%E0%B8%B2_%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2_Nasatta_%2874%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147751527",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "หลวงปู่ทวด",
+   "alt_en": "Luang Pu Thuat amulet — ณ สัทธา อุทยานไทย หลวงปู่ทวด",
+   "sha256": "12c839f536dca02b64313bf313abfcfa78bf0087aab52a5c44c5c54ace6cc50f",
+   "width": 4592,
+   "height": 3448
+  }
+ ],
+ "text": {
+  "what_th": "พระเครื่องรูปหลวงปู่ทวด พระเถระสมัยอยุธยาแห่งภาคใต้ ผู้เหยียบน้ำทะเลจืด รุ่นแรกเนื้อว่านจากวัดช้างให้ พ.ศ. ๒๔๙๗ รุ่นหลังเป็นเหรียญและหลังเตารีด นับถือทางแคล้วคลาด",
+  "what_en": "Amulets bearing Luang Pu Thuat, the Ayutthaya-period southern monk who is said to have turned seawater fresh. The first run is a wan-powder tablet from Wat Chang Hai in 1954; later runs are medallions and cast figures, carried for narrow escape.",
+  "story_th": "พระอาจารย์ทิม วัดช้างให้ สร้างพระหลวงปู่ทวดรุ่นแรกเนื้อว่านล้วน พ.ศ. ๒๔๙๗ ต่อมามีเหรียญ และหลังเตารีดหล่อโลหะแต่ พ.ศ. ๒๕๐๕ ผู้บูชาเชื่อว่ารอดจากอุบัติเหตุร้ายแรง จึงติดแผงหน้ารถกันทั่วประเทศ",
+  "story_en": "Phra Ajahn Tim, abbot of Wat Chang Hai in Pattani, made the first batch in 1954 entirely of wan herbal material; medallions followed, and the cast flat-iron-back form from 1962. Devotees credit the amulet with surviving fatal road accidents, which is why it rides on dashboards nationwide. The tradition holds that the bearer cannot die a violent or untimely death.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "keeping_en": "Nobody home, nothing owed; a phra khrueang of a monk."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:en-wiki-luang-pu-thuat",
+  "s:amulet-reference",
+  "s:commons-amulets-th",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-luang-pu-thuat"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "inference",
+    "note": "no holding_key entry; composed from s:en-wiki-luang-pu-thuat and card A·03"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "no holding_key entry; search terms are the two common name spellings"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:amulet-reference",
+    "note": "card A·03: no violent or untimely death; accident protection"
+   },
+   "form.wearable_en": {
+    "tier": "tradition",
+    "source": "s:amulet-reference"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

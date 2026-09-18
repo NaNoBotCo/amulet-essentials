@@ -1,0 +1,602 @@
+{
+ "schema": 1,
+ "id": "nat-figure",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "นัต",
+  "roman": "nat",
+  "en": "Nat figure (Burmese spirit-deity)",
+  "aliases": {
+   "th": [
+    "รูปนัต",
+    "เทพนัต",
+    "เทพทันใจ",
+    "โบโบจี",
+    "ตะจาหมิ่น",
+    "มหาคีรี"
+   ],
+   "roman": [
+    "nat",
+    "nat rupa",
+    "Bo Bo Gyi",
+    "Thagyamin",
+    "Mahagiri",
+    "thep than chai"
+   ],
+   "en": [
+    "nat statue",
+    "Burmese spirit figure",
+    "Bo Bo Gyi",
+    "Thagyamin",
+    "Mahagiri"
+   ]
+  },
+  "other_scripts": {
+   "my": "နတ်"
+  }
+ },
+ "region": [
+  "mm",
+  "shan"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "khum_khrong",
+   "kan_phi",
+   "chok_lap",
+   "kha_khai"
+  ],
+  "materials": [],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปเทพในชุดราชสำนักพม่า ไม้ ปูนปั้น หรือโลหะ ปิดทองหรือทาสี ตั้งในศาลนัตในบ้าน ร้าน หรือวัด ที่บ้านมักเป็นมะพร้าวแขวนเสาเรือนแทนรูป",
+  "shape_en": "A figure in Burmese royal or elder's dress — wood, plaster or metal, gilt or painted — kept in a house or shop shrine (nat sin) or a pagoda niche. The household form is often no figure at all but a coconut hung on a house post for Mahagiri, dressed with perfume and offerings.",
+  "size_mm": null,
+  "wearable_th": "ส่วนใหญ่ตั้งหิ้ง เทพทันใจมีแบบจี้ห้อยคอในตลาดไทย",
+  "wearable_en": "Mostly a shrine figure; Bo Bo Gyi travels as a pendant in the Thai market as เทพทันใจ",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Three named types head the kind: Thagyamin (Sakka, first of the 37), Mahagiri (the house nat, second), and Bo Bo Gyi (guardian of a pagoda, one per pagoda). Pagoda-guardian Bo Bo Gyi is the type that crossed into Thailand."
+ },
+ "iconography": [
+  {
+   "th": "ตะจาหมิ่นยืนหรือนั่งบนช้างเผือกสามเศียร ถือสังข์และแส้จามรี",
+   "en": "Thagyamin standing or seated on a three-headed white elephant, conch in one hand, yak-tail fly-whisk in the other"
+  },
+  {
+   "th": "มหาคีรีนั่งบนช้างเผือก ถือผ้าโพกและดาบ",
+   "en": "Mahagiri seated on a white elephant holding a turban and a sword"
+  },
+  {
+   "th": "โบโบจี ชายชราสวมหมวกโค้ง ถือไม้เท้า ชี้นิ้ว",
+   "en": "Bo Bo Gyi as a near life-size elder in a curved cap, sometimes with a cane, one finger pointing"
+  },
+  {
+   "th": "มะพร้าวแขวนเสาเรือนสำหรับมหาคีรี",
+   "en": "a coconut on the house post as the household Mahagiri"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "พระเจ้าอโนรธา (พ.ศ. ๑๕๘๗–๑๖๒๐) กำหนดนัตหลวง ๓๗ ตน",
+  "era_en": "King Anawrahta (r. 1044–1077) fixed the official pantheon of 37 Great Nats; Thagyamin was set at its head",
+  "place_th": "ทั่วพม่า ศูนย์กลางที่ภูเขาโปปา",
+  "place_en": "Across Myanmar; Mount Popa is the centre of nat worship",
+  "first_attested": "11th century — Anawrahta's pantheon (en-wiki Nat)"
+ },
+ "diagnostics": [
+  {
+   "th": "ช้างเผือกสามเศียร สังข์ แส้ — คือตะจาหมิ่น",
+   "en": "Three-headed white elephant, conch and fly-whisk: Thagyamin, the one nat who never died a violent death",
+   "source": "s:en-wiki-thagyamin",
+   "tier": "cited"
+  },
+  {
+   "th": "ชายชราหมวกโค้ง ไม้เท้า ชี้นิ้ว — คือโบโบจี",
+   "en": "Elderly man, curved cap, cane, pointing finger: Bo Bo Gyi, the pagoda guardian; the finger points to where Shwedagon should stand",
+   "source": "s:en-wiki-bo-bo-gyi",
+   "tier": "cited"
+  },
+  {
+   "th": "นัตส่วนใหญ่แต่งกายอย่างราชสำนักพม่า แม้ตนที่มีเชื้อไทยหรือไทใหญ่",
+   "en": "Nats wear Burmese royal dress even when the pantheon records them as Thai or Shan; the dress does not say where the figure was made",
+   "source": "s:en-wiki-nat-spirit",
+   "tier": "cited"
+  },
+  {
+   "th": "ในบ้าน รูปมักถูกแทนด้วยมะพร้าวแขวนเสา ประพรมน้ำหอม",
+   "en": "In a house the figure is often replaced by a coconut hung at a corner or post and dressed with perfume; a coconut in a hanger is a nat shrine, not litter",
+   "source": "s:en-wiki-nat-spirit",
+   "tier": "cited"
+  },
+  {
+   "th": "ของถวายคือผ้าพันคอ ผ้าโสร่ง กล้วย มะพร้าว",
+   "en": "Offerings are scarves and paso for Bo Bo Gyi, bananas and coconuts generally; a figure with a scarf tied on has been asked something",
+   "source": "s:en-wiki-bo-bo-gyi",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "thao-wessuwan",
+   "tell_th": "ท้าวเวสสุวรรณเป็นยักษ์ถือกระบอง · นัตเป็นคนในชุดราชสำนักพม่า",
+   "tell_en": "Thao Wessuwan is a yaksha with a club; a nat is a human figure in Burmese court dress. Same class — a venerated deva-tier being — different pantheon."
+  },
+  {
+   "id": "nang-kwak",
+   "tell_th": "นางกวักกวักมือ นั่งพับเพียบ · นัตหญิงยืนหรือนั่งบัลลังก์ ไม่กวัก",
+   "tell_en": "Nang Kwak beckons with one raised hand; a female nat sits or stands enthroned and does not beckon."
+  },
+  {
+   "id": "phra-phrom",
+   "tell_th": "พระพรหมสี่หน้า · นัตหน้าเดียว",
+   "tell_en": "Phra Phrom has four faces; every nat has one."
+  },
+  {
+   "id": "tua-pek-kong",
+   "tell_th": "ตั่วเป็กกงเป็นเทพจีน ชุดจีน หนวดยาว · โบโบจีเป็นชายชราชุดพม่าชี้นิ้ว",
+   "tell_en": "Tua Pek Kong is a Chinese elder in Chinese dress with a long beard; Bo Bo Gyi is an elder in Burmese dress with a pointing finger. Both are shop guardians, so the dress is the tell."
+  }
+ ],
+ "market": {
+  "search": [
+   "เทพทันใจ"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Nats (spirit)",
+   "Category:Thagyamin",
+   "Category:Mahagiri",
+   "Category:Bo Bo Gyi",
+   "Category:Nats of Mount Popa"
+  ],
+  "commons_files": [
+   "File:Thagyamin at Shwedagon Pagoda.jpg",
+   "File:Mahagiri & Hnamadawgyi.jpg",
+   "File:Bo Bo Gyi, Botahtaung Pagoda, Yangon.jpg",
+   "File:Nat oun.JPG",
+   "File:Nat-ein.jpg",
+   "File:Nats, Myanmar.jpg"
+  ],
+  "wanted_en": "A shop-counter nat shrine with the figure and its offerings in one frame, and a Thai-market เทพทันใจ pendant straight on; Commons covers the pagoda figures and the household coconut well."
+ },
+ "images": [
+  {
+   "file": "nat-figure/nat-figure-thagyamin-at-shwedagon-pagoda-39834c.jpg",
+   "source": "commons",
+   "title": "File:Thagyamin at Shwedagon Pagoda.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Thagyamin_at_Shwedagon_Pagoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11323007",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Roger Price from Antwerp, Belgium",
+   "credit": "In the Shwedagon",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Statue of Thagyamin, Lord of the Nats at Shwedagon Pagoda, Yangon",
+   "sha256": "4c565ab5ff464a8b5ed16cccb76a82657ca367aeca3eaf0b908f8c19c48b11a7",
+   "width": 788,
+   "height": 1050,
+   "primary": true
+  },
+  {
+   "file": "nat-figure/nat-figure-nat-ein-cfe37f.jpg",
+   "source": "commons",
+   "title": "File:Nat-ein.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nat-ein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=879854",
+   "license": "CC BY-SA 2.5",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+   "author": "Hintha",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — A nat ein (spirit house) in Lanmadaw Township, Downtown Yangon",
+   "sha256": "98ad11d8d2271908a45606963b5dfaab6f07293768523c26ecb10485da1a36a4",
+   "width": 480,
+   "height": 640
+  },
+  {
+   "file": "nat-figure/nat-figure-nats-myanmar-00e769.jpg",
+   "source": "commons",
+   "title": "File:Nats, Myanmar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Nats%2C_Myanmar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4485109",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "sluj78",
+   "credit": "https://www.flickr.com/photos/juls78/2424553343/",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Nat statues",
+   "sha256": "fe886885214f78e701597dc8013652889da85066c6c6fbefc24e8537955b7c1a",
+   "width": 2048,
+   "height": 1542
+  },
+  {
+   "file": "nat-figure/nat-figure-bo-bo-gyi-botahtaung-pagoda-yangon-ddd1c7.jpg",
+   "source": "commons",
+   "title": "File:Bo Bo Gyi, Botahtaung Pagoda, Yangon.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bo_Bo_Gyi%2C_Botahtaung_Pagoda%2C_Yangon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11309984",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hintha",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Bo Bo Gyi (guardian spirit) of the Botahtaung Pagoda in Yangon",
+   "sha256": "31a36bf86dc2bf4704fb4e943f8ebe02719ef5a8fe58ce24367c9578f7db4cfa",
+   "width": 960,
+   "height": 1280
+  },
+  {
+   "file": "nat-figure/nat-figure-nat-oun-ffc7e9.jpg",
+   "source": "commons",
+   "title": "File:Nat oun.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Nat_oun.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18144533",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "User:Wagaung",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Nat oun coconut with its stalk intact hung in the southeast corner of a private home in Mandalay, in a gilded hanging ba",
+   "sha256": "1940a389b7543a9c44a0024cefd7a35e51d2ef027aa7aa7b9c876c274094e87c",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "nat-figure/nat-figure-mahagiri-hnamadawgyi-4a6f24.jpg",
+   "source": "commons",
+   "title": "File:Mahagiri & Hnamadawgyi.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Mahagiri_%26_Hnamadawgyi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=72259853",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Mayor mt",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — မဟာဂီရိနတ် နှင့် နှမတော် မမြတ်လှနတ်  (ပုဂံရှိ ရွှေစည်းခုံဘုရားအတွင်းမှ)",
+   "sha256": "ca53e439aa379cefc8753b08bc18b8a0156e24d80e9e56b38a385d391f1825c7",
+   "width": 1200,
+   "height": 800
+  },
+  {
+   "file": "nat-figure/nat-figure-nats-on-mount-popa-feve-17631a.jpg",
+   "source": "commons",
+   "title": "File:Nats on Mount Popa-feve.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Nats_on_Mount_Popa-feve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2295098",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Mijnnaam (Wikifrits 14:07, 24 June 2007 (UTC))",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — 'Nats' (ghost figures) on Mount Popa, Myanmar.",
+   "sha256": "23606542008a214573ff45457e09f4674b7c70664a45f20b9ef4e47441423622",
+   "width": 537,
+   "height": 399
+  },
+  {
+   "file": "nat-figure/nat-figure-inga-gyo-taing-yangon-myanmar-67a7cb.jpg",
+   "source": "commons",
+   "title": "File:Inga Gyo Taing, Yangon, Myanmar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Inga_Gyo_Taing%2C_Yangon%2C_Myanmar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4485162",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "yeowatzup",
+   "credit": "https://www.flickr.com/photos/yeowatzup/169491633/in/set-72157594169292160/",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Planet guardian nat (gyo saung nat), Shwedagon Paya, Yangon, Myanmar",
+   "sha256": "d32db166843efcff9dea0b7ef607fc6f05dd950a159d83c13a0d512148dcde30",
+   "width": 2256,
+   "height": 1496
+  },
+  {
+   "file": "nat-figure/nat-figure-gyo-nat-yangon-myanmar-846998.jpg",
+   "source": "commons",
+   "title": "File:Gyo nat, Yangon, Myanmar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gyo_nat%2C_Yangon%2C_Myanmar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4485164",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "yeowatzup",
+   "credit": "https://www.flickr.com/photos/yeowatzup/169492104/in/set-72157594169292160",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Planet guardian nat (gyo saung nat), Shwedagon Paya, Yangon, Myanmar",
+   "sha256": "d970d90923adc1ef13de2eeca9394ce05a033c6a55c758e46b4542cb2f2ab745",
+   "width": 1543,
+   "height": 832
+  },
+  {
+   "file": "nat-figure/nat-figure-sanda-muhki-mandalay-hill-myanmar-6e39c8.jpg",
+   "source": "commons",
+   "title": "File:Sanda Muhki, Mandalay Hill, Myanmar.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sanda_Muhki%2C_Mandalay_Hill%2C_Myanmar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4485940",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "User:Hintha",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Sanda Muhki, the ogress, offering her own breasts to the Buddha",
+   "sha256": "162e411925a8ed35788e1780ff380d83ae3b0c16f8944025cfcb802ad474fa6d",
+   "width": 480,
+   "height": 640
+  },
+  {
+   "file": "nat-figure/nat-figure-mount-popa-002-936205.jpg",
+   "source": "commons",
+   "title": "File:Mount Popa 002.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Mount_Popa_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4739804",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "YashiWong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Nats on Mount Popa, Myammar",
+   "sha256": "66cf551dfec24eb980ae931909353ee36a651b58ea11b1c5e009ca148418667b",
+   "width": 2560,
+   "height": 1920
+  },
+  {
+   "file": "nat-figure/nat-figure-mount-popa-004-5efa98.jpg",
+   "source": "commons",
+   "title": "File:Mount Popa 004.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Mount_Popa_004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4739923",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "YashiWong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — female nat, Mount Popa, Myammar",
+   "sha256": "6e48257b602d0e0872dda6dd8ac6725ad75d07cd283d4e6c50c82702327c2ae4",
+   "width": 1920,
+   "height": 2560
+  },
+  {
+   "file": "nat-figure/nat-figure-img-banana-offering-ed2278.jpg",
+   "source": "commons",
+   "title": "File:IMG banana-offering.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/IMG_banana-offering.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8392065",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Wagaung at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons using CommonsHelper.",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Traditional offerings of bananas and coconut at a Nat shrine in Myanmar",
+   "sha256": "f5d35f805bdb3ba6d301c895c31e12622e4136ed4353aaa2162f576eed7c16a9",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "nat-figure/nat-figure-nat-pwe-in-amarapura-064d33.jpg",
+   "source": "commons",
+   "title": "File:Nat pwe in Amarapura.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nat_pwe_in_Amarapura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11324583",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "vive le vélo",
+   "credit": "nat pwe in amarapura",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — in the evening the atmosphere in the nat festival turns even jollier, with the crowd jumping around. according to animis",
+   "sha256": "3988aca81afb182dac4eff5ab560e1337bb1efeb0e2377af7f763bf4ced6c778",
+   "width": 1024,
+   "height": 710
+  },
+  {
+   "file": "nat-figure/nat-figure-nats-taunggyi-70b8f3.jpg",
+   "source": "commons",
+   "title": "File:Nats, Taunggyi.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nats%2C_Taunggyi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11340557",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hintha",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Nat images in Taunggyi, Myanmar",
+   "sha256": "3185f93398aeb7eae64ddcea68bd9472f2d060fb4d6d94287d4df004f6e6f796",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "nat-figure/nat-figure-beikthano-vishnu-nat-d74938.jpg",
+   "source": "commons",
+   "title": "File:Beikthano (Vishnu) Nat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Beikthano_%28Vishnu%29_Nat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11475550",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Vishnu (Beikthano) in Burmese representation, on his mount (vehicle), the garuda (galone)",
+   "sha256": "0ebfcf0a8e94e0221aaea03ae1d238c6db168e463b83fefb73bfd52e3297f9b3",
+   "width": 640,
+   "height": 849
+  },
+  {
+   "file": "nat-figure/nat-figure-maha-peinne-ganesha-nat-e18b71.jpg",
+   "source": "commons",
+   "title": "File:Maha Peinne (Ganesha) nat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Maha_Peinne_%28Ganesha%29_nat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11475558",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Ganesha (Maha Peinne) in Burmese representation",
+   "sha256": "98d741b6c045094a0dd2db1f907a5ca3518816a27894949a8af498761dad351d",
+   "width": 686,
+   "height": 853
+  },
+  {
+   "file": "nat-figure/nat-figure-sandi-dewi-chandi-nat-f91665.jpg",
+   "source": "commons",
+   "title": "File:Sandi Dewi (Chandi) Nat.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Sandi_Dewi_%28Chandi%29_Nat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11475564",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats. A Phase of Sprit-Worship prevailing in Burma, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Chandi (Sandi Dewi) in Burmese representation",
+   "sha256": "bfb5516a840419665627fa520578fdfa73e9df600b7a4b1f2a491393f4c7aa19",
+   "width": 833,
+   "height": 869
+  },
+  {
+   "file": "nat-figure/nat-figure-mani-meghalawara-nat-rain-goddess-3c3ee2.jpg",
+   "source": "commons",
+   "title": "File:Mani Meghalawara Nat (rain goddess).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mani_Meghalawara_Nat_%28rain_goddess%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11476002",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Mani Meghalawara Nat (Rain Goddess) in Burmese representation",
+   "sha256": "9c4c13157cef453115d790956646f94e6e0703dd072c198167390165ecb9cd21",
+   "width": 866,
+   "height": 904
+  },
+  {
+   "file": "nat-figure/nat-figure-akathaso-c63dae.jpg",
+   "source": "commons",
+   "title": "File:Akathaso.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Akathaso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11476069",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Akathaso in Burmese representation",
+   "sha256": "50489903eec0b2cebc48202ad1269fe0e82acd74de602c4a479a854877b74351",
+   "width": 1076,
+   "height": 1071
+  },
+  {
+   "file": "nat-figure/nat-figure-bhummaso-92f35c.jpg",
+   "source": "commons",
+   "title": "File:Bhummaso.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bhummaso.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11476134",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Temple, Richard Carnac, Sir",
+   "credit": "The Thirty Seven Nats, from Southeast Asia Digital Library",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Bhummaso (guardian spirit of the soil) in Burmese representation",
+   "sha256": "51110ccaecfab042b3b062c9ff329cecd31833284f0dd20c0423177158370e88",
+   "width": 792,
+   "height": 1014
+  },
+  {
+   "file": "nat-figure/nat-figure-offering-for-nats-spirits-6e1aa5.jpg",
+   "source": "commons",
+   "title": "File:Offering for Nats (Spirits).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Offering_for_Nats_%28Spirits%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=17903348",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Maung Maung San",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นัต",
+   "alt_en": "Nat figure (Burmese spirit-deity) — Bowl of bananas and coconuts for offering for Nat (spirit).",
+   "sha256": "4edecb2fa261656e52e2875b14756df4ad6f0cc3021d4e842445c3d650b1fe62",
+   "width": 5184,
+   "height": 3456
+  }
+ ],
+ "text": {
+  "what_th": "รูปนัต เทพารักษ์ของพม่าที่บูชาควบคู่กับพุทธศาสนา มีนัตหลวง ๓๗ ตน นำโดยตะจาหมิ่น (ท้าวสักกะ) มีมหาคีรีเป็นนัตประจำบ้าน และโบโบจีเป็นนัตประจำเจดีย์ ตั้งในศาลที่บ้าน ร้าน และวัด เป็นเทพที่บูชา ไม่ใช่ผีที่เลี้ยง",
+  "what_en": "Figures of the nats, the spirit-deities venerated in Myanmar alongside Buddhism: the 37 Great Nats headed by Thagyamin (Sakka), Mahagiri the house nat, and Bo Bo Gyi the guardian of each pagoda, kept in shrines at home, in shops and at pagodas. A deva-tier being venerated through the object — worship, not necromancy.",
+  "story_th": "พระเจ้าอโนรธากำหนดนัตหลวง ๓๗ ตน ส่วนใหญ่เป็นคนที่ตายร้าย มหาคีรีเดิมเป็นลูกช่างเหล็กชื่อหม่องตินเด ถูกเผาทั้งเป็นกับต้นจำปา วิญญาณสิงต้นไม้ ต้นนั้นถูกย้ายไปภูเขาโปปาแล้วแกะเป็นรูป ทุกวันนี้บ้านพม่าแขวนมะพร้าวที่เสาเรือนให้มหาคีรี โบโบจีชี้นิ้วบอกที่สร้างชเวดากอง คนไทยเรียกท่านว่าเทพทันใจ",
+  "story_en": "Anawrahta fixed the pantheon at 37; most were humans who died violently. Mahagiri was Maung Tint De, a blacksmith's son of Tagaung, burned alive bound to a champak tree by a suspicious king; his sister died with him and both haunted the tree, which was carried to Mount Popa and carved into their figures. Burmese houses still hang a coconut on a post for him. Bo Bo Gyi, an avatar of Indra in the Shwedagon story, pointed to where the pagoda should rise; Thai devotees call him thep than chai, the deity who grants at once, and offer scarves and paso.",
+  "keeping_th": "บูชาอย่างเทพ ผลไม้ มะพร้าว น้ำหอม ผ้าพันคอ ไม่ใช่การเลี้ยงอย่างกุมาร ไม่ต้องปิด",
+  "keeping_en": "Veneration: fruit, coconut, perfume, a scarf; respect at festivals. Worship, not parenting — nothing raised, nothing fed, nothing closed. The nat's own history (a violent death, a grievance) is the pantheon's, not the object's."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-nat-spirit",
+  "s:en-wiki-thagyamin",
+  "s:en-wiki-mahagiri",
+  "s:en-wiki-bo-bo-gyi",
+  "s:my-wiki-nat",
+  "s:catalog-db"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-nat-spirit"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "thep_thewada per brief and resident/upkeep test"
+   },
+   "form.wearable_en": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "เทพทันใจ pendants in Thai listing titles"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "เทพทันใจ = Bo Bo Gyi; นัต alone hits nothing"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "Thai spellings of the three named types"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

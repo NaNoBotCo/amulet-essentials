@@ -1,0 +1,313 @@
+{
+ "schema": 1,
+ "id": "bo-min-gaung",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "โบมินกอง",
+  "roman": "Bo Min Gaung",
+  "en": "Bo Min Gaung image (weikza saint)",
+  "aliases": {
+   "th": [
+    "โบมินกอง",
+    "อองมินกอง",
+    "รูปวิชชาพม่า"
+   ],
+   "roman": [
+    "Bo Min Gaung",
+    "Bo Min Kaung",
+    "Aung Min Gaung",
+    "Bodaw Aung Min Gaung"
+   ],
+   "en": [
+    "Bo Min Gaung statue",
+    "weizza saint image"
+   ]
+  },
+  "other_scripts": {
+   "my": "ဘိုးမင်းခေါင်"
+  }
+ },
+ "region": [
+  "mm"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat",
+   "chok_lap"
+  ],
+  "materials": [],
+  "figures": [
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปชายชราวัยกลางคนในชุดพม่า เสื้อไตปง เสื้อกล้าม ผ้าโสร่งลายตาราง มีทั้งรูปหล่อ รูปปั้น รูปถ่ายใส่กรอบ ล็อกเก็ต และเหรียญ",
+  "shape_en": "A man in lay Burmese dress — taikpon jacket, singlet and checked paso — as a cast or plaster statue on the altar, a framed photograph, a pocket locket or a stamped medallion. Often shown seated, and often paired with Bo Bo Aung.",
+  "size_mm": null,
+  "wearable_th": "ล็อกเก็ตหรือเหรียญห้อยคอ รูปใหญ่ตั้งหิ้ง",
+  "wearable_en": "Lockets and medallions at the neck; statues and photographs on the household altar",
+  "obverse_th": "รูปโบมินกอง",
+  "obverse_en": "The saint",
+  "reverse_th": "ว่าง หรือมีอักษรพม่า",
+  "reverse_en": "Plain, or Burmese text on medallions",
+  "notes_en": "The cheroot many images put in his hand is a trade observation, not something either Wikipedia article states."
+ },
+ "iconography": [
+  {
+   "th": "ชุดฆราวาสพม่า ไม่ใช่จีวร",
+   "en": "lay Burmese dress, never a monk's robe"
+  },
+  {
+   "th": "คู่กับโบโบออง",
+   "en": "paired with Bo Bo Aung, the other great weikza"
+  },
+  {
+   "th": "ภูเขาโปปา",
+   "en": "Mount Popa, where he lived, built his last pagoda and died"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "โบมินกอง เกิด พ.ศ. ๒๔๒๓ (ค.ศ. 1880) มรณภาพ พ.ศ. ๒๔๙๕ (1952) ที่ภูเขาโปปา",
+  "era_en": "Bo Min Gaung: born 2 May 1880 near Mount Popa, Kyaukpadaung Township; died 5 September 1952 at Mount Popa. Images are twentieth century onward.",
+  "place_th": "ภูเขาโปปาและทั่วพม่า",
+  "place_en": "Mount Popa, and altars across Myanmar",
+  "first_attested": "1952 — the Pyi Lone Chan Thar Kat Kyaw pagoda he oversaw at Mount Popa (en-wiki)"
+ },
+ "diagnostics": [
+  {
+   "th": "แต่งกายอย่างฆราวาส เสื้อไตปง เสื้อกล้าม โสร่งลายตาราง — ไม่ใช่พระ",
+   "en": "Lay dress: taikpon jacket, singlet, checked paso. A robed figure is a monk image, not Bo Min Gaung",
+   "source": "s:my-wiki-bo-min-gaung",
+   "tier": "cited"
+  },
+  {
+   "th": "มักอยู่คู่กับรูปโบโบออง",
+   "en": "Statues of Bo Bo Aung stand beside his on Burmese altars; two lay figures together is the weikza pair",
+   "source": "s:en-wiki-bo-bo-aung",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปถ่ายเป็นสื่อหลัก — เชื่อกันว่าท่านปรากฏในภาพถ่ายของศิษย์บางคนเท่านั้น",
+   "en": "Photographs are a primary medium: the tradition holds he appeared only in photographs taken by certain devotees, so framed prints and photo-lockets are as common as cast figures",
+   "source": "s:en-wiki-bo-min-gaung",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปประดิษฐานที่เจดีย์ชเวดากอง — รูปนอกวัดถ่ายแบบจากรูปนั้น",
+   "en": "His statue is enshrined at Shwedagon; commercial pieces copy the enshrined type",
+   "source": "s:en-wiki-bo-min-gaung",
+   "tier": "cited"
+  },
+  {
+   "th": "ในมือมักมีบุหรี่ซิการ์พม่า",
+   "en": "A cheroot in the hand is usual in the trade's images; treat it as a habit of the type, not a rule",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lersi",
+   "tell_th": "ฤๅษีไทยสวมหนังเสือ เกล้าผม มีเขา · โบมินกองใส่เสื้อโสร่งพม่า",
+   "tell_en": "A Thai lersi wears a tiger skin and a topknot or antlered cap; Bo Min Gaung wears a Burmese jacket and paso. Both are non-monk sages kept for protection; Thai class leaves the lersi unplaced, this record venerates a named being."
+  },
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "หลวงปู่ทวดครองจีวร · โบมินกองเป็นฆราวาส",
+   "tell_en": "Luang Pu Thuat is a robed monk on a tablet or medallion; Bo Min Gaung is a layman. The robe decides it."
+  },
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญเกจิเป็นพระสงฆ์ไทย · เหรียญโบมินกองเป็นฆราวาสพม่า อักษรพม่า",
+   "tell_en": "A Thai monk medallion shows a robed monk with Thai text; a Bo Min Gaung medallion shows a layman with Burmese text."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อไทยหล่อพระเกจิ · รูปหล่อโบมินกองหล่อฆราวาสนั่ง",
+   "tell_en": "Thai cast figures are of monks; a cast Bo Min Gaung is a seated layman, often with Bo Bo Aung beside."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Weizzas"
+  ],
+  "commons_files": [
+   "File:Bo Min Gaung statue at Shwedagon Pagoda.JPG",
+   "File:Bo Min Gaung.JPG",
+   "File:Mount Popa 006.jpg",
+   "File:Mount Popa 003.jpg",
+   "File:Burmese Weizzas.jpg",
+   "File:Dat Poung Su pagoda 2023.jpg"
+  ],
+  "wanted_en": "A pocket locket or medallion straight on, and a household altar with his photograph beside Bo Bo Aung; Commons has the Shwedagon statue and Mount Popa shrine figures."
+ },
+ "images": [
+  {
+   "file": "bo-min-gaung/bo-min-gaung-bo-min-gaung-statue-at-shwedagon-pagoda-86d9f9.jpg",
+   "source": "commons",
+   "title": "File:Bo Min Gaung statue at Shwedagon Pagoda.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bo_Min_Gaung_statue_at_Shwedagon_Pagoda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73561897",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ladybesttruthful at Burmese Wikipedia",
+   "credit": "Transferred from my.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint) — ဖော်ပြပါ ဘိုးမင်းခေါင် ရုပ်တုသည် ရွှေတိဂုံဘုရား၊ အလယ်ပစ္စယံပေါ်တွင် ရှိသည်။ နောင်တော်ကြီးဘုရားနှင့် ဓမ္မစေတီကျောက်စာအနီး",
+   "sha256": "67081ea16d6cd0c438591548e5bf215f35c86ae19e6229ad071dbdf32c04bb5b",
+   "width": 1280,
+   "height": 960,
+   "primary": true
+  },
+  {
+   "file": "bo-min-gaung/bo-min-gaung-mount-popa-003-7132e8.jpg",
+   "source": "commons",
+   "title": "File:Mount Popa 003.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Mount_Popa_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4739848",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "YashiWong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint) — Nats and weizza (Taw Bo Bo Aung, Bodaw Aung Mingaung), Mount Popa, Myammar",
+   "sha256": "fa0aab5655fcba6d08a33427ae5d636c782e3f6d9338679393b9cdc87cf2a398",
+   "width": 2560,
+   "height": 1920
+  },
+  {
+   "file": "bo-min-gaung/bo-min-gaung-mount-popa-006-6e0752.jpg",
+   "source": "commons",
+   "title": "File:Mount Popa 006.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Mount_Popa_006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4740037",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "YashiWong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint) — Weikza Bo Min Gaung, Mount Popa, Myammar",
+   "sha256": "c672d047c02b490acb399b35ad9918f110776c6a587e13ca56ffc85696280388",
+   "width": 1920,
+   "height": 2560
+  },
+  {
+   "file": "bo-min-gaung/bo-min-gaung-burmese-weizzas-453b93.jpg",
+   "source": "commons",
+   "title": "File:Burmese Weizzas.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Burmese_Weizzas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=72214358",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Emily Khine",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint) — Famous Weizzas from Myanmar",
+   "sha256": "f352dd88d6956cc32d42091e32ac22cbaf9e78b2f84cfb02ccf17c425609e439",
+   "width": 3993,
+   "height": 2504
+  },
+  {
+   "file": "bo-min-gaung/bo-min-gaung-dat-poung-su-pagoda-2023-66b0fb.jpg",
+   "source": "commons",
+   "title": "File:Dat Poung Su pagoda 2023.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Dat_Poung_Su_pagoda_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=143216569",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Ladybesttruthful",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint) — It is Dat Poung Su pagoda which belong to Burmese 'weizza' (wizard) Bo Min Gaung (aka) Aung Min Gaung. The pagoda is loc",
+   "sha256": "b088990d90171583774a93b21080849311103ccb44a96b3950a8bb76a4d8b95b",
+   "width": 1844,
+   "height": 3941
+  },
+  {
+   "file": "bo-min-gaung/bo-min-gaung-bo-min-gaung-015bee.jpg",
+   "source": "commons",
+   "title": "File:Bo Min Gaung.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bo_Min_Gaung.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=157549862",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "",
+   "credit": "",
+   "view": "other",
+   "alt_th": "โบมินกอง",
+   "alt_en": "Bo Min Gaung image (weikza saint)",
+   "sha256": "c36f4b2d2c807a3bacd4814a3f64035d077e02a9220d1624008e5b784bbf2f70",
+   "width": 436,
+   "height": 638
+  }
+ ],
+ "text": {
+  "what_th": "รูปของโบมินกอง วิชชาผู้เป็นที่นับถือที่สุดของพม่ายุคใหม่ เกิดใกล้ภูเขาโปปา มรณภาพที่นั่นเมื่อ พ.ศ. ๒๔๙๕ ศิษย์เชื่อว่าท่านยังอยู่ ให้ความฝัน โชคลาภ และความคุ้มครอง จึงตั้งรูปไว้บนหิ้งและพกติดตัว",
+  "what_en": "Images of Bo Min Gaung, the most venerated weikza of modern Burmese Buddhism: born near Mount Popa in 1880, died there in 1952. Devotees hold that he did not die as others do, that he bestows dreams, wealth and protection, and his image sits on household altars and travels as a locket. A named being venerated through the object, which is what places it with the devas rather than with Buddha amulets.",
+  "story_th": "ท่านเกิดในเขตจอกปะดอง ใกล้ภูเขาโปปา ปีสุดท้ายของชีวิตท่านดูแลการสร้างเจดีย์ปยีโลนจันตาที่โปปา และมรณภาพที่นั่น รูปของท่านประดิษฐานที่ชเวดากอง ศิษย์เล่าว่าท่านปรากฏในภาพถ่ายของบางคนเท่านั้น ทางไทยไม่มีชื่อเรียกอื่นนอกจากทับศัพท์",
+  "story_en": "Born in Kyaukpadaung Township in 1880, he spent his last years at Mount Popa, oversaw the Pyi Lone Chan Thar Kat Kyaw pagoda there in 1952, and died that September. His statue is enshrined at Shwedagon and his photograph on altars across the country. The tradition tells that he appeared only in photographs taken by certain devotees, and that he could send dreams, wealth and protection. Thai has no name for him beyond the transliteration.",
+  "keeping_th": "บูชาอย่างเทพ ถวายดอกไม้ น้ำ และความเคารพ ไม่ใช่การเลี้ยงอย่างกุมาร",
+  "keeping_en": "Veneration: flowers, water, respect, a place on the altar. Worship, not parenting — nothing is fed and nothing is closed."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-bo-min-gaung",
+  "s:my-wiki-bo-min-gaung",
+  "s:en-wiki-bo-bo-aung",
+  "s:en-wiki-weikza",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-bo-min-gaung"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "thep_thewada by resident/upkeep test: venerated named being, offerings, no feeding"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:my-wiki-bo-min-gaung",
+    "note": "dress cited; medium range from Commons files and tradition"
+   },
+   "form.notes_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "inference",
+    "note": "romanisations seen in Commons file titles and en-wiki"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "no Thai listing title carries โบมินกอง or Bo Min Gaung"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

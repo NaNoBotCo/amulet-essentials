@@ -1,0 +1,427 @@
+{
+ "schema": 1,
+ "id": "phra-kring",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระกริ่ง",
+  "roman": "phra kring",
+  "en": "Phra Kring (rattling cast Buddha)",
+  "aliases": {
+   "th": [
+    "กริ่ง",
+    "พระกริ่งปวเรศ",
+    "พระกริ่งวัดสุทัศน์"
+   ],
+   "roman": [
+    "phra kring",
+    "phra gring",
+    "kring"
+   ],
+   "en": [
+    "Medicine Buddha amulet",
+    "ringing Buddha"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nawaloha",
+   "samrit",
+   "thonglueang",
+   "nuea_loha"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "พระพุทธรูปลอยองค์ขนาดเล็ก ประทับนั่งบนฐานบัวคว่ำ ภายในกลวงบรรจุเม็ดกริ่ง อุดก้นฐาน",
+  "shape_en": "A small free-standing cast Buddha seated on an inverted-lotus base; the body is hollow, a metal pellet is sealed inside and the base is plugged",
+  "size_mm": [
+   20,
+   35,
+   15
+  ],
+  "wearable_th": "ห้อยคอในตลับ หรือตั้งบูชา",
+  "wearable_en": "Worn at the neck in a case, or set on the altar",
+  "obverse_th": "ปางมารวิชัย มือซ้ายถือหม้อยาหรือผลไม้",
+  "obverse_en": "Right hand in the earth-touching (Mara-subduing) gesture; the left rests in the lap holding a medicine pot or fruit",
+  "reverse_th": "ด้านหลังและใต้ฐานมักมีรอยอุดก้น บางสำนักตอกโค้ด",
+  "reverse_en": "Back is the figure itself; the underside carries the base plug and, in some lineages, a stamped code",
+  "notes_en": "Size is a typical pendant piece; altar-size castings exist. The pellet is the defining feature — the kind is named for its sound."
+ },
+ "iconography": [
+  {
+   "th": "ประทับนั่งบนฐานบัวคว่ำ",
+   "en": "seated on an inverted-lotus base"
+  },
+  {
+   "th": "มือซ้ายถือหม้อยา — พระไภษัชยคุรุ",
+   "en": "left hand holds a medicine pot: the Bhaisajyaguru (Medicine Buddha) reference"
+  },
+  {
+   "th": "เม็ดกริ่งในองค์พระ",
+   "en": "a sealed pellet that chimes when shaken"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดบวรนิเวศวิหาร · วัดสุทัศนเทพวราราม",
+  "wat_en": "Wat Bowonniwet (Phra Kring Pawaret line) and Wat Suthat (Somdet Phra Sangkharat Pae line), Bangkok",
+  "maker_th": "สมเด็จพระมหาสมณเจ้า กรมพระยาปวเรศวริยาลงกรณ์ · สมเด็จพระสังฆราช (แพ ติสฺสเทโว)",
+  "maker_en": "Somdet Phra Maha Samana Chao Krom Phraya Pawaret Wariyalongkon (Wat Bowon); Somdet Phra Sangkharat Pae Tissadevo (Wat Suthat)",
+  "era_th": "แบบทิเบต–จีน–เขมรมาก่อน ในไทยมีหลักฐานแต่สุโขทัย–อยุธยา ที่นิยมคือยุครัตนโกสินทร์",
+  "era_en": "Tibetan, Chinese and Khmer forms precede it; Thai evidence from Sukhothai–Ayutthaya, the collected lineages are Rattanakosin",
+  "place_th": "กรุงเทพฯ",
+  "place_en": "Bangkok",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เขย่าแล้วมีเสียงกริ่ง — องค์กลวง มีเม็ดโลหะ อุดก้น",
+   "en": "Shaken, it chimes: the body is hollow with a pellet, and the base is plugged. A silent piece is some other kind of cast Buddha",
+   "source": "s:th-wiki-kring",
+   "tier": "cited"
+  },
+  {
+   "th": "ฐานบัวคว่ำ มือขวาปางมารวิชัย มือซ้ายถือหม้อยา",
+   "en": "Inverted-lotus base, right hand touching earth, left holding a pot or fruit",
+   "source": "s:th-wiki-kring",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อนวโลหะหรือสัมฤทธิ์ หล่อ ไม่ใช่ปั๊ม — ดูรอยหล่อและผิวกลับดำตามอายุ",
+   "en": "Cast in nawaloha or bronze, never struck; look for casting texture and the dark patina the trade calls กลับดำ on aged nawaloha",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "สายวัดสุทัศน์และวัดบวรฯ มักตอกโค้ดหรืออักขระใต้ฐาน",
+   "en": "Wat Suthat and Wat Bowon lineage pieces usually carry a code or Khom letters under the base; a type mark, not a proof of anything",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lo",
+   "tell_th": "พระกริ่งเป็นองค์พระพุทธรูปมีเม็ดกริ่ง · รูปหล่อเป็นรูปพระสงฆ์ หัวโล้น ไม่มีอุษณีษะ",
+   "tell_en": "A phra kring is a Buddha (ushnisha, lotus base, pellet inside); a rup lo is a cast monk, bald, in robes, and normally silent. Same class and material, different figure"
+  },
+  {
+   "id": "phra-pidta",
+   "tell_th": "พระปิดตายกมือปิดหน้า · พระกริ่งมือขวาลงมารวิชัย มือซ้ายถือหม้อยา",
+   "tell_en": "A pidta covers its face with its hands; a kring's hands are in the earth-touching pose with a pot. Both can be cast metal, so read the hands"
+  },
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จเป็นแผ่นผงอัดพิมพ์ · พระกริ่งเป็นโลหะหล่อลอยองค์",
+   "tell_en": "A somdej is a pressed powder tablet with the figure in relief; a kring is a free-standing metal casting"
+  }
+ ],
+ "market": {
+  "search": [
+   "พระกริ่ง"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Phra Kring"
+  ],
+  "commons_files": [
+   "File:Wat Suthat วัดสุทัศน์ - Phra Kring.jpg",
+   "File:Phra Kring Wat Bowon 2395 - 2411.png",
+   "File:พระกริ่ง 2395 - 2411.png",
+   "File:2 x kring 1.png",
+   "File:CHINAPUNCHON.jpg",
+   "File:พระกริ่งปวเรศ Phra Kring Pawaret.png",
+   "File:Pawaret พระกริ่งปวเรศ.png",
+   "File:Phra Kring 2395 - 2411.png",
+   "File:พระกริ่งปวเรศวัดบวรหน้า.jpg",
+   "File:พระกริ่งปวเรศแต่งขอบ.jpg",
+   "File:พระกริ่งปวเรศวัดบวรหลัง.jpg",
+   "File:องค์ที่16 (statue).jpg"
+  ],
+  "wanted_en": "Front, side and underside (the base plug) at matched scale; the FAL-licensed Wat Bowon รุ่น 1 front/back pair on Commons is not free and was left out"
+ },
+ "images": [
+  {
+   "file": "phra-kring/phra-kring-wat-suthat-phra-kring-f2de3d.jpg",
+   "source": "commons",
+   "title": "File:Wat Suthat วัดสุทัศน์ - Phra Kring.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wat_Suthat_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%8C_-_Phra_Kring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=114652406",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — Phra Kring , Wat Suthat",
+   "sha256": "93191c2b838b89a644b3dc294a21a4de1d3c2906291430a0972d20bd0ed3ca67",
+   "width": 2291,
+   "height": 3054,
+   "primary": true
+  },
+  {
+   "file": "phra-kring/phra-kring-chinapunchon-a52360.jpg",
+   "source": "commons",
+   "title": "File:CHINAPUNCHON.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/CHINAPUNCHON.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=57408969",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "หลวงปู่วิเวียร",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — พระกริ่งชินบัญชร หลวงปู่วิเวียร บุญมาก พ.ศ. 2537",
+   "sha256": "755c3b38db86686206a50e4745798e4361a8f9cab43c9e95c6a7aa245fc6fdda",
+   "width": 576,
+   "height": 864
+  },
+  {
+   "file": "phra-kring/phra-kring-phra-kring-2395-2411-f88834.png",
+   "source": "commons",
+   "title": "File:Phra Kring 2395 - 2411.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Phra_Kring_2395_-_2411.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99826408",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — Phra Kring 2395 - 2411",
+   "sha256": "3f0aa94374bc9dee1fbd23325d2d8e5bd9c3fd4fb1a6aff2d4f0cf3742c4b05b",
+   "width": 1646,
+   "height": 920
+  },
+  {
+   "file": "phra-kring/phra-kring-phra-kring-pawaret-31f81e.png",
+   "source": "commons",
+   "title": "File:พระกริ่งปวเรศ Phra Kring Pawaret.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%A8_Phra_Kring_Pawaret.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=112392756",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — พระกริ่งปวเรศ Phra Kring Pawaret",
+   "sha256": "1327230656669342b4d5e5547a180bc6835c5f7cb3631bac151865c04629f89d",
+   "width": 1845,
+   "height": 921
+  },
+  {
+   "file": "phra-kring/phra-kring-2395-2411-334704.png",
+   "source": "commons",
+   "title": "File:พระกริ่ง 2395 - 2411.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87_2395_-_2411.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=112700897",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — พระกริ่ง 2395 - 2411",
+   "sha256": "9f03b253092c621277d7b8919b0c8dd2f6f702161b56fea6eaed525ce4e837a9",
+   "width": 1904,
+   "height": 857
+  },
+  {
+   "file": "phra-kring/phra-kring-2-x-kring-1-2b72eb.png",
+   "source": "commons",
+   "title": "File:2 x kring 1.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/2_x_kring_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=123475226",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — Pawaret",
+   "sha256": "956bc685089141b021e1e7c53ddd6e112aa901c18944af8812fd9a564753bfde",
+   "width": 1146,
+   "height": 764
+  },
+  {
+   "file": "phra-kring/phra-kring-phra-kring-wat-bowon-2395-2411-f80398.png",
+   "source": "commons",
+   "title": "File:Phra Kring Wat Bowon 2395 - 2411.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Phra_Kring_Wat_Bowon_2395_-_2411.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=123475661",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — Phra Kring Wat Bowon 2395 - 2411 (Same Piece Different Angle)",
+   "sha256": "f1d5559476a5c0dbc7376237a73726b4369e01006e0083195d50c7b5c608ba77",
+   "width": 1130,
+   "height": 752
+  },
+  {
+   "file": "phra-kring/phra-kring-pawaret-8d3f11.png",
+   "source": "commons",
+   "title": "File:Pawaret พระกริ่งปวเรศ.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Pawaret_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%A8.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=124439901",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — Pawaret พระกริ่งปวเรศ",
+   "sha256": "b22bee5d00d1ebd1c1d46b541592a87948f3f72452265c0940a3db111c773997",
+   "width": 1546,
+   "height": 715
+  },
+  {
+   "file": "phra-kring/phra-kring-jpg-d84f34.jpg",
+   "source": "commons",
+   "title": "File:พระกริ่งปวเรศแต่งขอบ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%9A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12262001",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "ของฉัน",
+   "credit": "ของฉัน",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — natachai",
+   "sha256": "be1c70bf43e0d1bda906bd9306d8557bddba94797c70923c59473214346e1989",
+   "width": 403,
+   "height": 630
+  },
+  {
+   "file": "phra-kring/phra-kring-jpg-b77f82.jpg",
+   "source": "commons",
+   "title": "File:พระกริ่งปวเรศวัดบวรหน้า.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12277103",
+   "license": "FAL",
+   "license_url": "http://artlibre.org/licence/lal/en",
+   "author": "Natachai",
+   "credit": "Template:วัดบวรนิเวศ",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — ภาพจากพระกริ่งปวเรศ รุ่น 1 ของวัดบวรนิเวศ",
+   "sha256": "a38dd723ec3019fcf8ae2fefd31bc895ecac7755926dbf8f3cd64ac15e327e2a",
+   "width": 488,
+   "height": 735
+  },
+  {
+   "file": "phra-kring/phra-kring-jpg-122191.jpg",
+   "source": "commons",
+   "title": "File:พระกริ่งปวเรศวัดบวรหลัง.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9B%E0%B8%A7%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9A%E0%B8%A7%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12277122",
+   "license": "FAL",
+   "license_url": "http://artlibre.org/licence/lal/en",
+   "author": "Natachai",
+   "credit": "Template:วัดบวรนิเวศ",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — ภาพจากพระกริ่งปวเรศ รุ่น 1 ของวัดบวรนิเวศ",
+   "sha256": "ad277fc53a80e3f5957df63e788fe6ef21eb1bcdbb7dec9efb326354d7d1002e",
+   "width": 387,
+   "height": 664
+  },
+  {
+   "file": "phra-kring/phra-kring-16-statue-235c2c.jpg",
+   "source": "commons",
+   "title": "File:องค์ที่16 (statue).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%8816_%28statue%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=96176389",
+   "license": "FAL",
+   "license_url": "http://artlibre.org/licence/lal/en",
+   "author": "Natachai",
+   "credit": "Natachai",
+   "view": "other",
+   "alt_th": "พระกริ่ง",
+   "alt_en": "Phra Kring (rattling cast Buddha) — พระกริ่งปวเรศ เนื้อนวโลหะ พ.ศ.2434 ทดสอบด้วยเครื่อง XRF รุ่น EDX-720 พบโลหะธาตุ 9 ชนิดตามตำราของสมเด็จพระพนรัต วัดป่าแก้",
+   "sha256": "98fc74cc3206aa500d1ffb14160f674e56c5cb1153bf3068c128638508b7c941",
+   "width": 279,
+   "height": 472
+  }
+ ],
+ "text": {
+  "what_th": "พระพุทธรูปหล่อโลหะขนาดเล็ก ภายในกลวงบรรจุเม็ดกริ่ง เขย่าแล้วดัง สืบสายมาจากพระไภษัชยคุรุแบบจีน–ทิเบต หล่อด้วยนวโลหะหรือสัมฤทธิ์ พลังอยู่ที่ผู้สร้างและพิธี ไม่มีผู้อยู่",
+  "what_en": "A small cast Buddha with a pellet sealed inside — shake it and it chimes. Cast in bronze or nawaloha in the Chinese-Tibetan medicine-Buddha line.",
+  "story_th": "ต้นแบบคือพระไภษัชยคุรุของทิเบตและจีน ผ่านเขมรเข้ามาไทย ในไทยที่นับถือกันคือสายวัดบวรฯ ที่กรมพระยาปวเรศฯ ทรงหล่อ (พระกริ่งปวเรศ) และสายวัดสุทัศน์ของสมเด็จพระสังฆราชแพ นวโลหะคือโลหะเก้าชนิดผสมกัน วงการถือกันว่าเสียงกริ่งใช้ทำน้ำมนต์และเกี่ยวกับการรักษาโรค",
+  "story_en": "The model is the Medicine Buddha of Tibet and China, reaching Siam by way of Khmer castings; Thai evidence runs from Sukhothai onward. The lineages the trade collects are Rattanakosin: Wat Bowon's Phra Kring Pawaret and Wat Suthat's castings under Somdet Phra Sangkharat Pae, with a Phitsanulok Wat Wang Chan group (the Naresuan series) alongside. Nawaloha is a nine-metal alloy — gold, silver, copper, bronze, tin, zinc, lead, mercury and pewter are the ones named. The trade holds that the chime is used when blessing water and links the kind to healing and vitality, which is the Bhaisajyaguru dedication carried into Thai practice.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้ตามปกติ",
+  "keeping_en": "Nobody home, nothing owed; a phra khrueang. Its only provenance question is authenticity and price."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:th-wiki-kring",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-kring"
+   },
+   "form.obverse_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-kring"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical pendant casting; not measured on a reference piece"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-kring",
+    "note": "chime-in-blessing-water and healing: s:amulet-reference card D·11, tradition"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

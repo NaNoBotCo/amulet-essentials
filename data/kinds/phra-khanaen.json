@@ -1,0 +1,175 @@
+{
+ "schema": 1,
+ "id": "phra-khanaen",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระคะแนน",
+  "roman": "phra khanaen",
+  "en": "Phra Khanaen (counting piece)",
+  "aliases": {
+   "th": [
+    "คะแนน",
+    "องค์คะแนน"
+   ],
+   "roman": [
+    "phra kanaen",
+    "phra khanan"
+   ],
+   "en": [
+    "tally amulet",
+    "counter piece"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [],
+  "materials": [
+   "nuea_din",
+   "nuea_chin",
+   "nuea_phong"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "องค์เล็กกว่าพระหลักในชุดเดียวกันอย่างเห็นได้ชัด ทรงตามพระหลัก",
+  "shape_en": "Deliberately smaller than the main pieces of the same batch, usually in the same form as them",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "ตามพิมพ์ของรุ่นหรือกรุที่นับ",
+  "obverse_en": "Follows the mould of the run or cache it counted",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Defined by role and size, not by a mould of its own. One counting piece per batch (Thai Wikipedia's example: one per hundred)."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระย่อส่วนจากพิมพ์หลัก",
+   "en": "a reduced version of the batch's principal image"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "ประเพณีนับจำนวนพระที่สร้าง ทั้งในกรุโบราณและรุ่นวัดสมัยหลัง ปัจจุบันไม่แพร่หลาย",
+  "era_en": "A counting convention used both in old caches and in later temple runs; Thai Wikipedia notes the practice is no longer widespread",
+  "place_th": "",
+  "place_en": "",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ขนาดเล็กกว่าพระหลักในชุดจนแยกได้ด้วยตา",
+   "en": "Visibly undersized against the main pieces of its batch; that difference is the whole definition",
+   "source": "s:th-wiki-khanaen",
+   "tier": "cited"
+  },
+  {
+   "th": "หนึ่งองค์แทนพระหลักจำนวนหนึ่ง เช่น ร้อยองค์",
+   "en": "One piece stands for a fixed count of main pieces, a hundred in the dictionary example",
+   "source": "s:th-wiki-khanaen",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อและพิมพ์ตามชุด — ไม่มีวัสดุประจำหมวด",
+   "en": "Body and mould follow the batch; the category has no material of its own",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ราคาสูงกว่าพระหลักเพราะจำนวนน้อย — เป็นคำอธิบายหมวด ไม่ใช่องค์",
+   "en": "The trade prices them above the main pieces because there are fewer; a statement about the category, never about an object",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุคือพระที่ออกจากกรุ · พระคะแนนคือองค์เล็กที่ใช้นับ อาจอยู่ในกรุหรือรุ่นใหม่ก็ได้",
+   "tell_en": "Phra kru is anything recovered from a cache; a khanaen is an undersized counting piece, which may come from a cache or a modern run. Role and size, not crust."
+  },
+  {
+   "id": "phra-somdet",
+   "tell_th": "สมเด็จองค์เล็กไม่ใช่คะแนนโดยอัตโนมัติ — ต้องมีชุดที่มันนับ",
+   "tell_en": "A small somdej is not automatically a khanaen; it is one only if it stands in a counting relation to a batch. Same class, same material, different role."
+  },
+  {
+   "id": "phra-pidta",
+   "tell_th": "ปิดตาองค์จิ๋วเป็นพิมพ์ของตัวเอง ไม่ใช่คะแนน",
+   "tell_en": "Tiny Pidta are a mould type in their own right, not counters; a khanaen mirrors its batch's main mould."
+  }
+ ],
+ "market": {
+  "search": [
+   "พระคะแนน"
+  ],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph found on Wikimedia Commons as of 2026-09-02. Needed: a counting piece beside a main piece of the same run at matched scale, which is the only photograph that shows what it is."
+ },
+ "images": [],
+ "text": {
+  "what_th": "พระเครื่ององค์เล็กที่สร้างไว้ใช้นับจำนวนพระในชุดเดียวกัน หนึ่งองค์แทนพระหลักจำนวนหนึ่ง ทำให้เล็กกว่าเพื่อแยกออกได้ชัด ไม่มีผู้ใดสถิตอยู่",
+  "what_en": "A small amulet made to tally a batch: one counting piece stands for a fixed number of main pieces, and it is made smaller so the two never mix. Nobody is home.",
+  "story_th": "พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ. ๒๕๔๒ ให้ความหมายว่าพระเครื่องขนาดเล็กใช้กำหนดนับจำนวนพระที่สร้าง เช่น หนึ่งองค์ต่อร้อย วงการจึงถือว่าหายากกว่าพระหลัก ปัจจุบันการสร้างพระคะแนนไม่แพร่หลายนัก",
+  "story_en": "The Royal Institute Dictionary of B.E. 2542, as quoted by Thai Wikipedia, defines it as a small amulet used to fix the count of amulets made, one per hundred in the example. Because a batch yields far fewer counters than main pieces the trade prizes them, and because modern runs are counted by other means the practice has thinned out.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is which batch it counted and whether the size relation holds, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:th-wiki-khanaen"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-khanaen"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.materials": {
+    "tier": "inference",
+    "note": "follows the batch; listed as the three bodies a batch is likely to be"
+   },
+   "axes.functions": {
+    "tier": "inference",
+    "note": "left empty: the kind is defined by role, not by a claimed power"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen by this record; bare คะแนน is 'score'"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

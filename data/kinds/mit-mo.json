@@ -1,0 +1,224 @@
+{
+ "schema": 1,
+ "id": "mit-mo",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "มีดหมอ",
+  "roman": "mit mo",
+  "en": "Mit mo (ritual knife)",
+  "aliases": {
+   "th": [
+    "มีดครู"
+   ],
+   "roman": [
+    "meed mor",
+    "mid mo",
+    "mit mor"
+   ],
+   "en": [
+    "exorcist's knife",
+    "doctor's knife",
+    "spirit knife"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "kan_phi",
+   "chang_ngang",
+   "sakot",
+   "kambang",
+   "khong_kraphan"
+  ],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": [
+   "blade"
+  ]
+ },
+ "form": {
+  "type": "blade",
+  "shape_th": "มีดใบโค้งขนาดกลาง ตำราให้ใบยาว ๗ นิ้ว กั่นลงองค์พระ ๔ องค์ ด้ามไม้มงคลบรรจุผง มีกั้นมีดโลหะลงยันต์ มีฝัก",
+  "shape_en": "A medium curved blade — the treatise gives 7 inches — with four Buddha figures on the tang, a wooden handle hollowed and charged with powder, a metal guard inscribed with yantra, and a sheath",
+  "size_mm": null,
+  "wearable_th": "ไม่ห้อยคอ พกในฝัก ตั้งบนหิ้ง",
+  "wearable_en": "Not worn; carried sheathed or kept on the altar",
+  "obverse_th": "ใบมีดลงอักขระขอมเป็นแถวและตัวเลข ๑๓",
+  "obverse_en": "Khom glyphs in a row along the blade face, two lines curving to the tip, the numeral 13",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Thai Wikipedia describes a handle carved as Thao Wessuwan and 108 hammer strokes while inscribing 369; the treatise's own handle is a powder-charged cavity sealed with a 6x6 yantra."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระ ๔ องค์ที่กั่น",
+   "en": "four Buddha figures on the tang"
+  },
+  {
+   "th": "ยันต์ตาราง ๖×๖ ประจุด้าม",
+   "en": "a 6x6 magic square sealing the handle charge"
+  },
+  {
+   "th": "ด้ามแกะเป็นท้าวเวสสุวรรณ (แบบตลาด)",
+   "en": "handle carved as Thao Wessuwan on many modern pieces"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดประดู่ทรงธรรม",
+  "wat_en": "Wat Pradu Song Tham, Ayutthaya",
+  "maker_th": "หลวงพ่อม่วง ตราพระขรรค์เพชร ตามที่ตำราระบุ",
+  "maker_en": "Luang Pho Muang, 'seal of the Diamond Sword', per the treatise's ascription of Method 1",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; the knife appears in the poem Krai Thong among the hero's weapons per Thai Wikipedia",
+  "place_th": "อยุธยา ภาคกลาง",
+  "place_en": "Ayutthaya, Central Thailand",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ใบโค้งคล้ายมีดหมอผ่า ไม่ใช่ดาบ ไม่ใช่มีดครัว",
+   "en": "A curved lancet-like blade, neither a sword nor a kitchen knife",
+   "source": "s:th-wiki-mit-mo",
+   "tier": "cited"
+  },
+  {
+   "th": "มีอักขระบนใบและกั่น — ของที่ไม่ลงอักขระเลยไม่ใช่มีดหมอ",
+   "en": "Glyphs on the blade and tang; an uninscribed blade is a knife, not a mit mo",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ด้ามมักกลวงบรรจุผง อุดปิด",
+   "en": "The handle is usually a sealed cavity holding powder; look for the plug",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "กั้นมีดเป็นแผ่นโลหะลงเลขยันต์",
+   "en": "A metal guard plate engraved with yantra numerals",
+   "source": "s:th-wiki-mit-mo",
+   "tier": "cited"
+  },
+  {
+   "th": "เหล็กสิบชนิดหลอมรวม — ตาเปล่าดูไม่ออก อย่าอ้างจากผิว",
+   "en": "The ten-iron alloy is not visible on the surface; nobody can read the forge from the skin",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "ตำราสร้างหุ่นพยนต์อยู่ข้างมีดหมอ มีดเป็นเครื่องมือของหมอ หุ่นเป็นของที่ถูกปลุกและต้องเซ่น",
+   "tell_en": "The treatise puts the knife beside the effigy recipes: the knife is the doctor's instrument with nobody home, the effigy is animated and fed."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นหลอดม้วน มีดหมอเป็นใบมีด หมวดเดียวกัน",
+   "tell_en": "Same class, different form: a rolled tube versus a forged blade."
+  },
+  {
+   "id": "wua-thanu",
+   "tell_th": "วัวธนูเป็นรูปวัวที่เลี้ยงด้วยหญ้าน้ำ มีดหมอไม่เลี้ยง",
+   "tell_en": "A wua thanu is a bull figure fed grass and water; the knife is fed nothing."
+  }
+ ],
+ "market": {
+  "search": [
+   "มีดหมอ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:MitmorKnife.jpg"
+  ],
+  "wanted_en": "No free photograph on Wikimedia Commons as of 2026-09-02 (searches on มีดหมอ, mit mo, ritual knife thai returned nothing). Needed: blade side-on showing the glyph row, the tang figures, and the handle plug."
+ },
+ "images": [
+  {
+   "file": "mit-mo/mit-mo-mitmorknife-1a2187.jpg",
+   "source": "commons",
+   "title": "File:MitmorKnife.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/MitmorKnife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=173338719",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Gavin Symahanou",
+   "credit": "This work was uploaded by Gavin Symahanou of esoterictheravada.com.",
+   "view": "other",
+   "alt_th": "มีดหมอ",
+   "alt_en": "Mit mo (ritual knife) — Mitmor spirit knife used in Boran Kammatthana, an esoteric Theravadan tradition practiced in the Tai-Khmer cultural sphe",
+   "sha256": "be7f4a2af3f04275cf05d6a8a621648890dd8b56f7a80284b6a723b157fef794",
+   "width": 3859,
+   "height": 925,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "มีดที่ตีและลงอักขระเป็นเครื่องมือของหมอผี ใช้ตัดสิ่งที่ผูกมัด ไม่ใช่ตัดให้เลือดออก ตำรา ๖๙๘๓ ในคลังนี้บันทึกตำรับเหล็กสิบชนิดจากวัดประดู่ทรงธรรม",
+  "what_en": "A knife forged and inscribed as an instrument of the doctor-of-spirits — for cutting what binds, not what bleeds. Manuscript 6983 in this corpus records a ten-iron forge recipe from Wat Pradu Song Tham.",
+  "story_th": "ตำรับหลวงพ่อม่วงรวมเหล็กสิบชนิดจากที่มาที่ตำราระบุ ยอดเจดีย์ ยอดปรางค์ ยอดปราสาท เหล็กน้ำพี้ เหล็กประตูวัง ให้ช่างถือศีล ๕ หรือ ๘ ตีวันเสาร์วันอังคาร มีบายศรีซ้ายขวา พระสวดกรณี ๗ จบ ตีแล้วชุบ ๓ หน ๗ หน ผสมผงยาบรรจุด้าม ตำราระบุน้ำที่ใช้ชุบ ไม่นำมาลงที่นี่ ตำรับที่ ๒ ใช้เหล็กเก่าและเหล็กหัก แช่น้ำมันหอมในขันสัมฤทธิ์แล้วปลุก ใช้ขีดวงหยุดศัตรู ปักให้หลับ บังหน้าให้กำบัง",
+  "story_en": "Method 1, ascribed to Luang Pho Muang, alloys ten irons from sources the treatise names — stupa, prang and prasat finials, Nam Phi iron, palace-gate iron and more — forged on a Saturday or Tuesday by a smith keeping the precepts, with bai-si trays left and right and monks chanting the Karaniya seven times, then quenched three and seven times and given a handle packed with consecrated powders; the treatise names the quenching liquid and it is not reproduced here. Method 2 forges old iron and broken blades, steeps the knife in scented oil in a bronze bowl and wakes it with a long vernacular rousing-katha. In use it scratches a line the enemy cannot cross, is planted at a hole to put a household to sleep, and is held before the face to pass unseen.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง แต่วิกิพีเดียไทยว่ามีดของหมอที่ตายไปต้องส่งต่อผู้ที่คุมได้",
+  "keeping_en": "Nobody home, nothing owed, by class. The trade adds a custom Thai Wikipedia records: a dead practitioner's knife passes to someone able to command it. The treatise recipe packs the handle with consecrated powder and names other ingredients not reproduced here, so ask what went into it."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-mit-mo",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "catalogue",
+   "source": "s:ms6983",
+   "note": "bilingual.md lines 3090–3198 (printed pp. 79–82)"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "names.aliases": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "form.notes_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-mit-mo"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-mit-mo"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

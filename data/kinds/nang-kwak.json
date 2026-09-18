@@ -1,0 +1,456 @@
+{
+ "schema": 1,
+ "id": "nang-kwak",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "นางกวัก",
+  "roman": "nang kwak",
+  "en": "Nang Kwak (the beckoning lady)",
+  "aliases": {
+   "th": [
+    "แม่นางกวัก",
+    "นางสุภาวดี"
+   ],
+   "roman": [
+    "nang kwak",
+    "nang gwak",
+    "mae nang kwak"
+   ],
+   "en": [
+    "beckoning lady",
+    "Lady Kwak",
+    "shopkeeper's goddess"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "kha_khai",
+   "metta_maha_niyom",
+   "chok_lap",
+   "maha_saneh"
+  ],
+  "materials": [
+   "nuea_loha",
+   "nuea_din",
+   "nuea_phong",
+   "nuea_waan"
+  ],
+  "figures": [
+   "deity",
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "หญิงนั่งพับเพียบ มือขวายกกวัก มือซ้ายวางบนตักหรือถือถุงเงิน — รูปตั้งหิ้ง จี้ และผ้ายันต์",
+  "shape_en": "A woman seated with legs folded to one side (นั่งพับเพียบ), right hand raised in the beckoning gesture, left hand on the lap or holding a money bag; shelf statue, pendant, and yantra cloth",
+  "size_mm": null,
+  "wearable_th": "รูปตั้งที่หิ้งหน้าร้าน จี้ห้อยคอ หรือใส่ตลับพกติดตัวตามตำรา",
+  "wearable_en": "Stood at the shop shelf or till; worn as a pendant; the treatise keeps the carved figure in a money bag or a small case of lip-wax",
+  "obverse_th": "หญิงนั่งกวักมือ ชุดไทย บางแบบสวมมงกุฎ",
+  "obverse_en": "The seated lady beckoning, in Thai dress, often crowned and in red",
+  "reverse_th": "ยันต์ ชื่อวัด หรือเรียบ",
+  "reverse_en": "A yantra, the temple, or plain",
+  "notes_en": "Wood is the treatise material — rak-son root, fig mistletoe (กาฝากมะเดื่อ), or the nang-kwak tuber — and the material vocabulary has no key for carved wood; nuea_waan stands in for the tuber. The trade's stock statue is cast or moulded and painted."
+ },
+ "iconography": [
+  {
+   "th": "มือขวากวัก ฝ่ามือคว่ำ",
+   "en": "right hand raised, palm curved downward, in the Thai beckoning gesture"
+  },
+  {
+   "th": "ถุงเงินในมือซ้าย",
+   "en": "a money bag in the left hand"
+  },
+  {
+   "th": "นั่งพับเพียบ ชุดไทย มงกุฎ",
+   "en": "seated with legs folded aside, in Thai dress, often crowned"
+  },
+  {
+   "th": "ยันต์นางกวักในวงกลมและดอกบัวแปดกลีบ",
+   "en": "the treatise yantra: the lady in a circle inside an eight-petalled lotus of Khom syllables"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ไม่ระบุผู้แต่ง) ให้ ๖ วิธี",
+  "maker_en": "Anonymous amulet-making treatise, manuscript 6983, six methods",
+  "era_th": "ตำราไม่ระบุปี",
+  "era_en": "Undated treatise; the figure is older than any dated print",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ผู้หญิงนั่ง มือกวัก — ไม่ใช่องค์พระ ไม่ใช่รูปผี",
+   "en": "A seated woman beckoning: never a Buddha, and not a ghost figure",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำราลงอักขระ ทุ สะ มะ นิ ที่หน้าผาก นม หลัง และ ธะนัง โภคัง ที่แขนขวา ซ้าย",
+   "en": "The treatise inscribes ทุ-สะ-มะ-นิ on forehead, breasts and back, and ธะนัง / โภคัง on the right and left arms; look for syllables on the body of an old carved piece",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ของแกะไม้ตามตำรา ใส่ตลับสีผึ้ง มีแผ่นเงินลงยันต์รองก้น",
+   "en": "Treatise pieces are carved wood kept in a wax case with a silver yantra plate lining the bottom; the case and plate are part of the object",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "มือยกสูงกว่าปาก = ไม่มีวันเต็ม ต่ำกว่าปาก = ไม่มีวันพอ ตามคติร้านค้า",
+   "en": "Shop lore reads the hand height: above the mouth 'never full', below it 'never enough'",
+   "source": "s:th-wiki-nang-kwak",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปตั้งหน้าร้านมักเป็นเรซิ่นทาสีแดงทอง จี้เป็นโลหะหรือผง",
+   "en": "Shopfront statues are usually painted resin or plaster in red and gold; pendants are metal or pressed powder",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เฝ้าทรัพย์ ขู่โจร ต้องเซ่นทุกวัน · นางกวักเรียกลูกค้า",
+   "tell_en": "A hun phayon guards property and frightens thieves and is fed daily; Nang Kwak calls customers in. One is a servant, one a patroness."
+  },
+  {
+   "id": "phra-siwali",
+   "tell_th": "พระสีวลีเป็นพระภิกษุยืนถือไม้เท้า กลด ถุงย่าม · นางกวักเป็นหญิงนั่ง ตำนานว่าท่านให้พรนาง",
+   "tell_en": "Phra Siwali is a standing monk with staff, umbrella and bag; Nang Kwak is a seated woman. The legend has Sivali bless her, and some money bags carry his name."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นเด็กชาย เลี้ยงอย่างลูก · นางกวักเป็นหญิงผู้ใหญ่ เทพที่บูชา",
+   "tell_en": "A kuman thong is a boy figure raised as family; Nang Kwak is an adult woman venerated as a deva."
+  }
+ ],
+ "market": {
+  "search": [
+   "นางกวัก"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Nang Kwak"
+  ],
+  "commons_files": [
+   "File:Nang Kwak นางกวัก for sell at a shop in Wat Prasitthiwet.jpg",
+   "File:Nang Kwak of Koon Ngam Ching Yuen.JPG",
+   "File:Nang Gwak Cha Am.jpg",
+   "File:Nang Kwak in Bangkok49.JPG",
+   "File:NANG KWAK67.jpg"
+  ],
+  "wanted_en": "Shelf statues exist on Commons. Needed: a carved-wood treatise-type figure in its wax case with the silver yantra plate, and a pendant obverse and reverse"
+ },
+ "images": [
+  {
+   "file": "nang-kwak/nang-kwak-nang-kwak-for-sell-at-a-shop-in-wat-pras-5d2715.jpg",
+   "source": "commons",
+   "title": "File:Nang Kwak นางกวัก for sell at a shop in Wat Prasitthiwet.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Nang_Kwak_%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B8%B1%E0%B8%81_for_sell_at_a_shop_in_Wat_Prasitthiwet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=83747178",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Nang Kwak (นางกวัก)",
+   "sha256": "cd5927be7278fb576b97913846dfb1067174ac2f74f47f214479b083c47f9294",
+   "width": 4032,
+   "height": 3024,
+   "primary": true
+  },
+  {
+   "file": "nang-kwak/nang-kwak-nang-gwak-cha-am-16a453.jpg",
+   "source": "commons",
+   "title": "File:Nang Gwak Cha Am.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nang_Gwak_Cha_Am.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3756236",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Günter Trageser",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Nang Gwak (นางกวัก) at Cha Am, Thailand",
+   "sha256": "ba594c43c8babb93ee08f3ba2d608978b74e1b67f5ab6117fcf3bec6797dab84",
+   "width": 700,
+   "height": 700
+  },
+  {
+   "file": "nang-kwak/nang-kwak-wat-phra-that-ruang-rong-018-5407cf.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra That Ruang Rong-018.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Wat_Phra_That_Ruang_Rong-018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11318563",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Wat Phra That Ruang Rong is a buddhist temple located in the Province of Sisaket",
+   "sha256": "417dacdf9041230ec96ddc42f6ee96d1b2ab4ecbdf530aa5dd817dab623ee770",
+   "width": 2480,
+   "height": 3718
+  },
+  {
+   "file": "nang-kwak/nang-kwak-wat-phra-that-ruang-rong-020-3a8efd.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra That Ruang Rong-020.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wat_Phra_That_Ruang_Rong-020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11318566",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Wat Phra That Ruang Rong is a buddhist temple located in the Province of Sisaket",
+   "sha256": "83ae507fc487a0cf7206ef97c5c6d7f2b3d57e6d33729fbbe86fbf0607a624a6",
+   "width": 3456,
+   "height": 5184
+  },
+  {
+   "file": "nang-kwak/nang-kwak-wat-phra-that-ruang-rong-019-955226.jpg",
+   "source": "commons",
+   "title": "File:Wat Phra That Ruang Rong-019.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wat_Phra_That_Ruang_Rong-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11318568",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Wat Phra That Ruang Rong is a buddhist temple located in the Province of Sisaket",
+   "sha256": "2aada5773e45f4ef30ba210bff4cbad870585ab4b0d6c79788f601cc6689a651",
+   "width": 3409,
+   "height": 5112
+  },
+  {
+   "file": "nang-kwak/nang-kwak-nang-kwak-of-koon-ngam-ching-yuen-1bf071.jpg",
+   "source": "commons",
+   "title": "File:Nang Kwak of Koon Ngam Ching Yuen.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Nang_Kwak_of_Koon_Ngam_Ching_Yuen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=14038196",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "hkgalbert",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Nang Kwak Statue of Koon Ngam Ching Yuen, Sha Tin, New Territories, Hong Kong",
+   "sha256": "14073a1f2cbcc8305c32367bdf308d1ff72abcfe430ec320db1efe4ce57d696a",
+   "width": 1536,
+   "height": 2048
+  },
+  {
+   "file": "nang-kwak/nang-kwak-nang-kwak67-ece521.jpg",
+   "source": "commons",
+   "title": "File:NANG KWAK67.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/NANG_KWAK67.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16058994",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Xufanc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Nang Kwak charm to attract customers at a shop in Bangkok",
+   "sha256": "a7b51aa1996b045368cb0289d2ec522a1b0166e2e6e1e2324b6c9c102d7fdf7a",
+   "width": 641,
+   "height": 633
+  },
+  {
+   "file": "nang-kwak/nang-kwak-nang-kwak-in-bangkok49-44bfe0.jpg",
+   "source": "commons",
+   "title": "File:Nang Kwak in Bangkok49.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Nang_Kwak_in_Bangkok49.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18219701",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Xufanc",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Nang Kwak shopkeeper luck-bringing charm in Bangkok",
+   "sha256": "d667b4248faf42e910785e824ba285673161ff6798b2a532cb3e58d478fa6b96",
+   "width": 893,
+   "height": 1124
+  },
+  {
+   "file": "nang-kwak/nang-kwak-khao-takiap-hua-hin-thailand-panoramio-3-3a655f.jpg",
+   "source": "commons",
+   "title": "File:Khao Takiap - Hua hin Thailand - panoramio (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Khao_Takiap_-_Hua_hin_Thailand_-_panoramio_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54400007",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "rudy.rijen Dav",
+   "credit": "https://web.archive.org/web/20161021230930/http://www.panoramio.com/photo/62029772",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Khao Takiap - Hua hin Thailand",
+   "sha256": "1a10e00134dd18f588e08ef047c3de478ca772dc25c6281621cba2df320f87fd",
+   "width": 2304,
+   "height": 3456
+  },
+  {
+   "file": "nang-kwak/nang-kwak-thai-charoen-phat-thai-2017-04-15-015-ff3068.jpg",
+   "source": "commons",
+   "title": "File:Thai Charoen Phat Thai - 2017-04-15 (015).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Thai_Charoen_Phat_Thai_-_2017-04-15_%28015%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=58303080",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Thai Charoen (ไทยเจริญ) is a bizarre food shop in Chum Phon Province, Thailand. They offer strange, but still very delic",
+   "sha256": "4a0f286819bc500942ac1007e7cc14ea667749db91ad133c11b2fe09b3c05a3b",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "nang-kwak/nang-kwak-thailand-3558b-3696884901-3c9cdf.jpg",
+   "source": "commons",
+   "title": "File:Thailand-3558B (3696884901).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Thailand-3558B_%283696884901%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=66986396",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Dennis G. Jarvis",
+   "credit": "Thailand-3558B",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — May lovely ladies work at the floating market, a wonderful place.",
+   "sha256": "8346fc445b429c05a62a2b5ffdc54beb6bc5468c68d86c26fda11e1b9c12d705",
+   "width": 2848,
+   "height": 4288
+  },
+  {
+   "file": "nang-kwak/nang-kwak-iconsiam-khlongsan-bangkok-thailand-138-9a85dc.jpg",
+   "source": "commons",
+   "title": "File:ศูนย์การค้าไอคอนสยาม เขตคลองสาน กรุงเทพมหานคร Iconsiam,Khlongsan,Bangkok,Thailand (138).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B9%84%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%99_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_Iconsiam%2CKhlongsan%2CBangkok%2CThailand_%28138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=132071909",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Cartoon-style Nang Kwak in ICONSIAM",
+   "sha256": "fcb9026469bd4826391c05a5e7576597ecd6534c4473d24797af40571aab87f7",
+   "width": 3448,
+   "height": 4592
+  },
+  {
+   "file": "nang-kwak/nang-kwak-parade-one-bangkok-retails-2024-10-26-im-95883e.jpg",
+   "source": "commons",
+   "title": "File:Parade - One Bangkok Retails (2024-10-26) - img 10.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Parade_-_One_Bangkok_Retails_%282024-10-26%29_-_img_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=154352123",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "นางกวัก",
+   "alt_en": "Nang Kwak (the beckoning lady) — Parade, One Bangkok",
+   "sha256": "db05d53df651d62fec70560faeeb237133cb835d607f25c9cdd23997f17a6378",
+   "width": 3024,
+   "height": 4032
+  }
+ ],
+ "text": {
+  "what_th": "นางกวัก หญิงนั่งยกมือกวักเรียกลูกค้า — ทั้งรูปตั้งหิ้งและจี้ เป็นเทพที่บูชาด้วยความเคารพและเครื่องสักการะเล็กน้อย ตลาดทุกแห่งในประเทศทำมาค้าขายใต้มือของนาง",
+  "what_en": "The shop-keeper's lady, hand raised in the customer-calling gesture — shelf statue and pendant both. Venerated with respect and small offerings; every market in the country works under her hand.",
+  "story_th": "ตำราให้ ๖ วิธี วัสดุคือรากรักซ้อน ว่านนางกวัก หรือกาฝากมะเดื่อกิ่งที่ชี้ไปทางตะวันออก ผู้แกะนุ่งขาวห่มขาว ตั้งบายศรี แกะให้เสร็จในวันเดียว ลงอักขระ ทุ สะ มะ นิ ที่หน้าผากและหลัง ธะนัง โภคัง ที่แขน เสก ๑๐๘ คาบ ใส่ถุงเงินหรือตลับสีผึ้งน้ำมันหอมกระแจะ รองก้นด้วยแผ่นเงินลงยันต์ ให้ข้าวน้ำบูชาทุกวัน เรียกนางกวักมากินข้าวด้วย เอาน้ำที่อาบรูปมาพรมสินค้าและหัวเรือ คาถาขึ้นต้นว่า ปู่เจ้าเขาเขียว มีลูกคนเดียว ชื่อว่านางกวัก",
+  "story_en": "Manuscript 6983 gives six recipes. Carve her from rak-son root, the nang-kwak tuber, or the mistletoe of a fig tree taken from the branch that points east, after offering puffed rice, flowers, banana and sugarcane to the tree; the carver dresses in white, keeps the five precepts, sets a bai-si, and finishes in one day at a good hour. Then inscribe ทุ สะ มะ นิ on forehead and back (or breasts) and ธะนัง โภคัง on the arms, consecrate 108 times, and keep her in a money bag (method 1) or in a case of lip-wax with fragrant oil and krajae paste, a silver plate bearing her yantra lining the bottom (methods 3–6). She is given rice and water daily, called to eat with the household, and in method 6 bathed so the water can be sprinkled on the goods and the boat's prow; the same bath water on your own skin makes her a love charm. The katha names her as the only daughter of Pu Chao Khao Khiao, the forest lord, which is the origin Thai Wikipedia also records beside the Indianised tale of Supawadee blessed by the arahants Kassapa and Sivali.",
+  "keeping_th": "เทพที่บูชา ถวายน้ำแดง พวงมาลัย ข้าวน้ำ ด้วยความเคารพ ตำราสั่งอย่าให้ขาด แต่ไม่ใช่การเลี้ยงผีอย่างกุมาร วางลงได้",
+  "keeping_en": "Deva tier — the vault says 'arguably'. Owed veneration: red drink, a garland, rice and water, and the treatise says without fail; still worship, not the parenting a kuman needs. Can be set down; the shop that keeps her feeds her out of courtesy."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-nang-kwak",
+  "s:en-wiki-nang-kwak",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 2421–2580 (printed pp. 58–63), methods 1–6; origin legends from s:th-wiki-nang-kwak and s:en-wiki-nang-kwak"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-nang-kwak"
+   },
+   "form.wearable_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:en-wiki-nang-kwak",
+    "note": "yantra description from s:ms6983 diagram captions"
+   },
+   "origin": {
+    "tier": "catalogue",
+    "source": "s:ms6983"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "maha_saneh from method 6's bath-water use"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

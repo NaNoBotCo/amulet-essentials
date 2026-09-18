@@ -1,0 +1,340 @@
+{
+ "schema": 1,
+ "id": "khmer-bronze-amulet",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระเครื่องเขมร",
+  "roman": "phra khrueang khmer",
+  "en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines)",
+  "aliases": {
+   "th": [
+    "พระขอม",
+    "พระเขมรโบราณ",
+    "พระนาคปรกขอม",
+    "พระบูชาขอม"
+   ],
+   "roman": [
+    "phra khom",
+    "Angkorian bronze",
+    "Lopburi-style bronze",
+    "Khmer bronze Buddha"
+   ],
+   "en": [
+    "Angkor bronze pendant",
+    "Khmer bronze figurine",
+    "Bayon-style bronze"
+   ]
+  },
+  "other_scripts": {
+   "km": "ព្រះពុទ្ធរូប"
+  }
+ },
+ "region": [
+  "kh",
+  "th-isan",
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong"
+  ],
+  "materials": [
+   "samrit",
+   "nuea_loha"
+  ],
+  "figures": [
+   "buddha",
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหล่อสำริดลอยตัวขนาดเล็ก พระพุทธรูปนาคปรก พระยืนทรงเครื่อง หรือเทวรูป (โลเกศวร ปรัชญาปารมิตา เหวัชระ วิษณุ) ใส่ตลับหรือกรอบห้อยคอ",
+  "shape_en": "A small solid-cast bronze in the round — naga-enthroned Buddha, crowned standing Buddha, or a deity (Lokeshvara, Prajnaparamita, Hevajra, Vishnu) — worn cased or framed, or kept on the altar. Museum pieces run from a few centimetres to half a metre; the worn ones are the small end.",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในกรอบ หรือบูชาบนหิ้ง",
+  "wearable_en": "Worn framed at the neck, or kept as an altar image",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Deity figures worn as amulets sit in the deva class (venerated, not fed); the Buddha figures are phra khrueang. The record keeps the Buddha class and flags the other."
+ },
+ "iconography": [
+  {
+   "th": "พระนาคปรก นาคเจ็ดเศียร ขนดสามชั้น",
+   "en": "naga-enthroned Buddha (Mucalinda): seven-headed hood, coiled base — the Angkor favourite, and the form Jayavarman VII took as his own"
+  },
+  {
+   "th": "พระยืนทรงเครื่อง ยกสองพระหัตถ์",
+   "en": "crowned standing Buddha with both hands raised in the same gesture"
+  },
+  {
+   "th": "โลเกศวร ปรัชญาปารมิตา",
+   "en": "Lokeshvara (Avalokiteshvara) and Prajnaparamita, the bronze-casters' favoured subjects"
+  },
+  {
+   "th": "เหวัชระ วัชรสัตว์",
+   "en": "Hevajra and Vajrasattva — the esoteric layer of the Bayon period"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ช่างหล่อขอม (หล่อแบบสูญขี้ผึ้งแปดขั้น) และช่างรุ่นหลัง",
+  "maker_en": "Khmer founders using the eight-step lost-wax method in use since at least the sixth century; modern casters in the same style",
+  "era_th": "สำริดฮินดู-พุทธตั้งแต่ศตวรรษที่ 7 · ยุคพระนคร 9–13 · หลังพระนครเป็นเถรวาท",
+  "era_en": "Hindu and Buddhist bronzes from the seventh century; Angkor period ninth to thirteenth; post-Angkor Theravada commissions of ancestors and Buddhist figures as merit",
+  "place_th": "กัมพูชาและอีสาน-ภาคกลางเขตอิทธิพลขอม (ลพบุรี พิมาย ประโคนชัย)",
+  "place_en": "Cambodia and the Khmer-influenced Thai provinces — Lopburi, Phimai, and the 1964 Prakhon Chai find in Buriram",
+  "first_attested": "611 — oldest dated Khmer inscription (Angkor Borei); the bronzes themselves are undated as a kind"
+ },
+ "diagnostics": [
+  {
+   "th": "หล่อสูญขี้ผึ้งตัน ลายละเอียดทุกขนาด",
+   "en": "Lost-wax solid casting with fine detail at every size — the Khmer method since at least the sixth century, still demonstrated by Cambodian artisans today",
+   "source": "s:en-wiki-cambodian-art",
+   "tier": "cited"
+  },
+  {
+   "th": "นาคปรก: ขนดเจ็ดรอบ เศียรเจ็ดแผ่พังพาน",
+   "en": "Mucalinda marks: coils (canonically seven) and a spread cobra hood, usually seven heads",
+   "source": "s:en-wiki-mucalinda",
+   "tier": "cited"
+  },
+  {
+   "th": "หลังพระนคร ชาวบ้านสั่งหล่อรูปบรรพบุรุษและพระเถรวาทเป็นบุญ — ของขนาดกลางใช้ในพิธีและแห่ ของเล็กไว้ที่บ้าน",
+   "en": "Post-Angkor believers commissioned metal figures of ancestors and Theravada divinities as merit; mid-size bronzes served rites and processions, small ones were kept at home — the home-size piece is the ancestor of the worn amulet",
+   "source": "s:en-wiki-cambodian-art",
+   "tier": "cited"
+  },
+  {
+   "th": "สำริดพระนครถูกลักลอบขุดขายมหาศาล (แลตช์ฟอร์ด ค.ศ. 1970 เป็นต้นมา) — คำถามที่มาของชิ้นเก่าเป็นเรื่องกฎหมายก่อนเรื่องขลัง",
+   "en": "Angkorian bronzes were trafficked at scale from the 1970s (the Latchford case names bronzes and bells; museums returned pieces 2021–2026); for any old piece the provenance question is legal before it is spiritual",
+   "source": "s:en-wiki-douglas-latchford",
+   "tier": "cited"
+  },
+  {
+   "th": "ประโคนชัย พ.ศ. 2507 พบสำริดก่อนพระนครเป็นกรุ (โลเกศวร) — คู่ขนานกับพระกรุไทย",
+   "en": "The 1964 Prakhon Chai find in Buriram — pre-Angkor bronzes including Avalokitesvara — is the Khmer-world parallel to a Thai cache find",
+   "source": "s:en-wiki-prakhon-chai-district",
+   "tier": "cited"
+  },
+  {
+   "th": "ของในตลาดไทยที่เรียกพระขอมส่วนมากเป็นของหล่อใหม่แบบลพบุรี — คำว่า ขอม/เขมร ไม่ปรากฏในชื่อสินค้าลาซาด้าเลย",
+   "en": "Most of what the Thai trade calls phra khom is modern casting in Lopburi style, the trade holds; catalog.db has no Lazada TH title with ขอม or เขมร at all",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุเป็นพระพิมพ์แบนกดพิมพ์ ดินหรือชิน · พระเขมรเป็นรูปหล่อลอยตัวสำริด — แต่ประโคนชัยคือกรุสำริด",
+   "tell_en": "A phra kru is a flat pressed tablet of clay or chin from a sealed cache; this is a bronze in the round. The Prakhon Chai hoard shows bronzes can be cache finds too, so ask form first, findspot second."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อไทยเป็นพระเกจิที่มีชื่อ · สำริดเขมรเป็นพระพุทธหรือเทพแบบขอม",
+   "tell_en": "A Thai rup lo is a cast portrait of a named monk; the Khmer bronze is a Buddha or deity in Angkorian style. Same material, different figure."
+  },
+  {
+   "id": "phra-hu-yan",
+   "tell_th": "พระหูยานลพบุรีเป็นพระพิมพ์ชินแบน ศิลปะขอม · ไม่ใช่รูปหล่อลอยตัว",
+   "tell_en": "Phra Hu Yan of Lopburi is Khmer-style too, but a flat chin tablet from a cache, not a figure in the round."
+  },
+  {
+   "id": "phra-chiang-saen",
+   "tell_th": "พระเชียงแสนเป็นสำริดล้านนา พระพักตร์กลม เกตุดอกบัวตูม · ขอมมีนาคปรก มงกุฎ และหน้าสี่เหลี่ยม",
+   "tell_en": "Chiang Saen bronzes are Lanna: round face, lotus-bud finial. Khmer pieces show the naga throne, the crown and diadem, and the squarer Bayon face."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Naga-enthroned Buddha - Beyond Angkor - Cleveland Museum of Art (40887945882).jpg",
+   "File:Buddha Muchalinda, Cambodia, Angkor period, 1200s AD, bronze - Norton Simon Museum - Pasadena, CA - DSC03949.jpg",
+   "File:Cambodian - Naga-Protected Buddha - Walters 542730.jpg",
+   "File:Cambodian - Standing Buddha - Walters 542724.jpg",
+   "File:Bouddha art Khmer XIIe siècle.jpg",
+   "File:MET 85 11 13.jpeg"
+  ],
+  "wanted_en": "All six are museum bronzes: the Banteay Chhmar naga-enthroned Buddha (Cleveland), a Norton Simon Muchalinda, two Walters pieces, a 41 cm Angkor Wat-style crowned Buddha that its own uploader calls an old copy, and a Met statuette. Needed: a worn-size piece in its frame, and the same subject old and modern side by side. The Scott Semans silver 'amulets' of 19th-century Cambodia (CC BY 3.0) are a different, coin-like object and are left out."
+ },
+ "images": [
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-naga-enthroned-buddha-beyond-angkor-clev-c96f42.jpg",
+   "source": "commons",
+   "title": "File:Naga-enthroned Buddha - Beyond Angkor - Cleveland Museum of Art (40887945882).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Naga-enthroned_Buddha_-_Beyond_Angkor_-_Cleveland_Museum_of_Art_%2840887945882%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=75642106",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "Tim Evanson from Cleveland Heights, Ohio, USA",
+   "credit": "naga-enthroned Buddha - Beyond Angkor - Cleveland Museum of Art",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — Naga-enthroned Buddha.\nBronze, about 1100 AD.\nBanteay Chhmar, Cambodia\nThe Buddha represents the union of compassion and",
+   "sha256": "554f147a12d4310752e4158bbc8b8710f9e8e039c1a9617040d1c504986aafe5",
+   "width": 1523,
+   "height": 2500,
+   "primary": true
+  },
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-cambodian-standing-buddha-walters-542724-ca1eac.jpg",
+   "source": "commons",
+   "title": "File:Cambodian - Standing Buddha - Walters 542724.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Cambodian_-_Standing_Buddha_-_Walters_542724.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18763492",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Anonymous (Cambodia)Unknown author",
+   "credit": "Walters Art Museum:  Home page  Info about artwork",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — This bronze may be one of the older images of the standing crowned Buddha; among the features that may be considered eal",
+   "sha256": "4fa6ce0bc8a64b36ce85d27819da23c47b047c71d231313e50dbd4d2c74d421a",
+   "width": 768,
+   "height": 1991
+  },
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-cambodian-naga-protected-buddha-walters-93ff91.jpg",
+   "source": "commons",
+   "title": "File:Cambodian - Naga-Protected Buddha - Walters 542730.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cambodian_-_Naga-Protected_Buddha_-_Walters_542730.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18763496",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Anonymous (Cambodia or Thailand)Unknown author",
+   "credit": "Walters Art Museum:  Home page  Info about artwork",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — This bronze Buddha holds an object in his hands, a container or a gem- possibly but not certainly an attribute of the he",
+   "sha256": "15fa79c449952f92d308ff5db75f9d8e1d22dda494353d134f3d4ae6dff06fa0",
+   "width": 768,
+   "height": 1598
+  },
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-met-85-11-13-e08a7a.jpg",
+   "source": "commons",
+   "title": "File:MET 85 11 13.jpeg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/MET_85_11_13.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=57865435",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "",
+   "credit": "This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — Cambodia; Statuette; Sculpture",
+   "sha256": "f9b227b38c82f2ae1b08ac771c51117dba4920689eec5066dbe93fecb5ed9048",
+   "width": 487,
+   "height": 900
+  },
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-bouddha-art-khmer-xiie-si-cle-9b7d4e.jpg",
+   "source": "commons",
+   "title": "File:Bouddha art Khmer XIIe siècle.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bouddha_art_Khmer_XIIe_si%C3%A8cle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=76233715",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Siren-Com",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — Statuette en bronze massif, hauteur 41 cm. Style d'Angkor Vat, XIIe siècle. Bouddha couronné, Posture abhayamudrâ (Boudd",
+   "sha256": "fa6a8c45df9c5fced0e6a1cc034da427da01a4fe791578d4e8c980760e75ab1b",
+   "width": 1900,
+   "height": 3869
+  },
+  {
+   "file": "khmer-bronze-amulet/khmer-bronze-amulet-buddha-muchalinda-cambodia-angkor-period-8a7b5c.jpg",
+   "source": "commons",
+   "title": "File:Buddha Muchalinda, Cambodia, Angkor period, 1200s AD, bronze - Norton Simon Museum - Pasadena, CA - DSC03949.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Buddha_Muchalinda%2C_Cambodia%2C_Angkor_period%2C_1200s_AD%2C_bronze_-_Norton_Simon_Museum_-_Pasadena%2C_CA_-_DSC03949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=198352812",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Daderot",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเครื่องเขมร",
+   "alt_en": "Khmer bronze amulet (Angkorian and post-Angkorian figurines) — Exhibit in the Norton Simon Museum - Pasadena, California, USA.",
+   "sha256": "d6328a0f69d23315482684d6c600fe422a4bb710b5d3d3b9f73d6355d975d3c0",
+   "width": 2073,
+   "height": 2788
+  }
+ ],
+ "text": {
+  "what_th": "รูปหล่อสำริดขนาดเล็กศิลปะขอม — นาคปรก พระทรงเครื่อง หรือเทวรูป — ที่นำมาห้อยคอหรือบูชา ของแท้ยุคพระนครเป็นโบราณวัตถุที่มีปัญหากฎหมาย ของในตลาดส่วนมากหล่อใหม่",
+  "what_en": "A small Khmer-style bronze — naga-enthroned Buddha, crowned Buddha, or deity — worn as an amulet or kept on the altar. Genuine Angkorian pieces are antiquities with a legal problem attached; most of what circulates is modern casting in the style.",
+  "story_th": "สำริดเป็นวัสดุที่ขอมถือว่าสูงส่ง ผูกกับความรุ่งเรือง หล่อแบบสูญขี้ผึ้งมาตั้งแต่ศตวรรษที่ 6 ยุคพระนครนิยมพระนาคปรก โลเกศวร และปรัชญาปารมิตา พระเจ้าชัยวรมันที่ 7 ส่งรูปโลเกศวร 23 องค์ไปทั่วอาณาจักรใน ค.ศ. 1191 และผูกพระองค์กับพระนาคปรก เมื่อเถรวาทเข้ามาหลังศตวรรษที่ 13 ชาวบ้านสั่งหล่อรูปเล็กไว้ที่บ้านและถวายวัดเป็นบุญ รูปเล็กเหล่านี้คือต้นทางของพระห้อยคอ ในศตวรรษที่ 20 สำริดพระนครถูกขุดขายจำนวนมาก",
+  "story_en": "Bronze was a noble material to the Khmer, tied to prosperity, and cast by lost wax since at least the sixth century. Angkor favoured the naga-sheltered Buddha, Lokeshvara and Prajnaparamita; Jayavarman VII sent twenty-three Avalokiteshvara images across the kingdom in 1191 and took the naga-enthroned Buddha as the form under which he would be honoured — the Cleveland bronze from Banteay Chhmar is that image. When Theravada prevailed after the thirteenth century, believers commissioned small metal figures for the home and as offerings to temples, and those home-size pieces are the ancestors of the worn amulet. In the twentieth century the same bronzes were looted and sold at scale, which is why an old one now carries a question that a consecration cannot answer.",
+  "keeping_th": "พระพุทธรูปไม่มีผู้อยู่ บูชาตามปกติ · เทวรูปอยู่ชั้นเทพ บูชาแต่ไม่ต้องเลี้ยง · ถามที่มาเสมอ",
+  "keeping_en": "Buddha figures: nobody home, ordinary veneration. Deity figures fall to the deva class — venerated, never fed. For any piece claimed as old, the keeper owes a paper trail before a prayer."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-cambodian-art",
+  "s:en-wiki-khmer-empire",
+  "s:en-wiki-mucalinda",
+  "s:en-wiki-buddhism-cambodia",
+  "s:en-wiki-khmer-script",
+  "s:en-wiki-douglas-latchford",
+  "s:en-wiki-prakhon-chai-district",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-cambodian-art"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "which subjects are worn small is the trade's habit, not a citation"
+   },
+   "names": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Thai trade names; the Khmer script entry is the generic word for a Buddha image, not an amulet term"
+   },
+   "origin.first_attested": {
+    "tier": "cited",
+    "source": "s:en-wiki-khmer-script"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-khmer-empire",
+    "note": "with s:en-wiki-cambodian-art and s:en-wiki-douglas-latchford"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with ขอม / เขมร on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

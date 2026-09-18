@@ -1,0 +1,589 @@
+{
+ "schema": 1,
+ "id": "phra-phikkhanet",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระพิฆเนศ",
+  "roman": "phra phikkhanet",
+  "en": "Ganesha pendant",
+  "aliases": {
+   "th": [
+    "พระพิฆเนศวร",
+    "พระคเณศ",
+    "องค์พิฆเนศ"
+   ],
+   "roman": [
+    "phra phikanet",
+    "phra pikanet",
+    "phra kanet"
+   ],
+   "en": [
+    "Ganesh amulet",
+    "Phra Pikanet"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "metta_maha_niyom",
+   "kha_khai",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_phong"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหล่อองค์เล็กหรือเหรียญ องค์เศียรช้างประทับนั่ง หลายกร",
+  "shape_en": "Small cast figure or struck medallion of the elephant-headed god, seated, with several arms; larger cast images for desk and shrine",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ หรือตั้งบูชา",
+  "wearable_en": "Worn at the neck in a case, or set on a shrine shelf",
+  "obverse_th": "พระพิฆเนศ เศียรช้าง งาเดียว พุงพลุ้ย สี่กร มีหนูเป็นพาหนะ",
+  "obverse_en": "Ganesha: elephant head, single (broken) tusk, round belly, four arms, the mouse as vehicle",
+  "reverse_th": "ยันต์หรือชื่อวัดและรุ่น",
+  "reverse_en": "Yantra, or the issuing wat and run",
+  "notes_en": "Iconography per Thai Wikipedia; the pendant forms and their reverse are tradition."
+ },
+ "iconography": [
+  {
+   "th": "เศียรช้าง งาหัก",
+   "en": "elephant head with one broken tusk"
+  },
+  {
+   "th": "สี่กร",
+   "en": "four arms"
+  },
+  {
+   "th": "หนู (มุสิกะ) พาหนะ",
+   "en": "the mouse as vehicle"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "หลายวัดและสำนัก",
+  "maker_en": "Issued by many wats and shrines; no single maker",
+  "era_th": "ความนิยมยุคใหม่ต่อจากการที่กรมศิลปากรและมหาวิทยาลัยศิลปากรใช้เป็นตรา",
+  "era_en": "Modern popularity follows the Fine Arts Department and Silpakorn University adopting Ganesha as emblem, itself inherited from King Vajiravudh's literary society",
+  "place_th": "ทั่วประเทศ ศาลใหญ่ที่ราชประสงค์และห้วยขวาง",
+  "place_en": "Nationwide; major Bangkok shrines at Ratchaprasong (CentralWorld) and Huai Khwang",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เศียรช้าง งาเดียว สี่กร มักถือขนม บ่วง ขอช้าง งาหัก",
+   "en": "Elephant head, one tusk, four arms; the hands usually hold a sweet, a noose, an elephant goad and the broken tusk",
+   "source": "s:th-wiki-phikkhanet",
+   "tier": "cited"
+  },
+  {
+   "th": "หนูอยู่ที่ฐาน",
+   "en": "A mouse at the base marks the vehicle; its absence is common on small pendants",
+   "source": "s:th-wiki-phikkhanet",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปหล่อโลหะมีรอยตะไบใต้ฐานและรอยอุดกริ่งบ้าง เหรียญมีขอบตัด",
+   "en": "Cast figures show file marks under the base; medallions show a struck edge — the material axis is the first gate",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  },
+  {
+   "th": "รูปแบบไทยตามแบบฮินดู ไม่มีรูปแบบพิเศษของไทยที่แยกได้ด้วยตา",
+   "en": "Thai renderings follow the Hindu standard; there is no distinct Thai type the eye can separate, so the run and wat on the reverse carry the identity",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-phrom",
+   "tell_th": "พระพรหมสี่หน้า ไม่ใช่เศียรช้าง · พระพิฆเนศเศียรช้าง ทั้งคู่ชั้นเทพ บูชาไม่ต้องเลี้ยง",
+   "tell_en": "Both are deva-tier pendants kept by veneration. Brahma has four human faces; Ganesha has an elephant head. Different god, same class."
+  },
+  {
+   "id": "thao-wessuwan",
+   "tell_th": "ท้าวเวสสุวรรณเป็นยักษ์ถือกระบอง ไม่ใช่ช้าง",
+   "tell_en": "Wessuwan is a club-bearing giant; Ganesha is the elephant-headed god. Same class, different figure"
+  },
+  {
+   "id": "phaya-khrut",
+   "tell_th": "ครุฑเป็นครึ่งนกครึ่งคน กางปีก",
+   "tell_en": "Garuda is a winged bird-man, usually shown wings out; Ganesha sits with an elephant's head"
+  }
+ ],
+ "market": {
+  "search": [
+   "พิฆเนศ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Ganesha in Thailand",
+   "Category:Sculptures of Ganesha in Thailand"
+  ],
+  "commons_files": [
+   "File:พระพิฆเนศ.JPG",
+   "File:พระพิฆเนศ Ganesha.jpg",
+   "File:Bkknattheatr0205b.jpg",
+   "File:Fine Arts Department - Seal - 001.jpg",
+   "File:Khon Mask Phikanet.JPG",
+   "File:Ganesh Shrine at Huai Khwang, Bangkok ศาลพระพิฆเนศ สี่แยกห้วยขวาง (April2021) 01.jpg"
+  ],
+  "wanted_en": "Free files show Thai shrine statues, the Fine Arts Department seal and a khon mask, not a pendant. Needed: a cast Ganesha pendant obverse and reverse in the hand for scale."
+ },
+ "text": {
+  "what_th": "จี้หรือรูปหล่อพระพิฆเนศ เทพเศียรช้างผู้ขจัดอุปสรรค เจ้าแห่งศิลปวิทยา บูชากันในไทยทั้งในกรอบพุทธและพราหมณ์",
+  "what_en": "A pendant or small cast image of Ganesha, the elephant-headed remover of obstacles and patron of the arts, venerated in Thailand inside Buddhist practice as much as Hindu.",
+  "story_th": "ความเป็นเทพแห่งศิลปะในไทยมาจากรัชกาลที่ 6 ทรงตั้งเทวาลัยคเณศที่พระราชวังสนามจันทร์และใช้เป็นตราวรรณคดีสโมสร กรมศิลปากรรับตรานี้ต่อ มหาวิทยาลัยศิลปากรก็ใช้ ศาลใหญ่กลางกรุงที่ราชประสงค์และห้วยขวางทำให้เป็นเทพยอดนิยมของคนทำงานศิลปะ ค้าขาย และนักเรียน",
+  "story_en": "Thailand's Ganesha is the god of the arts because King Vajiravudh built a Ganesha shrine at Sanam Chan Palace and made him the emblem of his literary society; the Fine Arts Department inherited the seal and Silpakorn University uses it still. Big city shrines at Ratchaprasong and Huai Khwang made him the everyday god of artists, traders and students, and the pendant trade followed the shrines.",
+  "keeping_th": "บูชาด้วยดอกไม้ ผลไม้ ขนม และความเคารพ ไม่ต้องเลี้ยงอย่างกุมาร ไม่ใช่ผี",
+  "keeping_en": "Kept by veneration: flowers, fruit, sweets and respect. Not fed like a kuman and not a ghost; the cleanest resident class."
+ },
+ "sources": [
+  "s:th-wiki-phikkhanet",
+  "s:vault-classes",
+  "s:tradition",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-phikkhanet"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phikkhanet"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phikkhanet",
+    "note": "the last clause on the pendant trade is tradition"
+   },
+   "axes.class": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-jpg-ae0fdc.jpg",
+   "source": "commons",
+   "title": "File:พระพิฆเนศ.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B9%80%E0%B8%99%E0%B8%A8.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=43849377",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Odinz thegod49",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "32f9350843a2c5247f5c0f01ccd8ecc4ca3b842ece22cf4e842a7cb2c1b835e9",
+   "width": 5093,
+   "height": 3400,
+   "primary": true
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-bkknattheatr0205b-036cfb.jpg",
+   "source": "commons",
+   "title": "File:Bkknattheatr0205b.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bkknattheatr0205b.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3602937",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Heinrich Damm (User:Hdamm, Hdamm at de.wikipedia.org)",
+   "credit": "Self-photographed",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Statue of Ganesha at National Theatre in Bangkok, Thailand",
+   "sha256": "c7b1949e54095569c79fa128a71a625721886ee5db7daf2d6217000686a36425",
+   "width": 1394,
+   "height": 768
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-satitdhava-ade7b2.jpg",
+   "source": "commons",
+   "title": "File:Satitdhava.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Satitdhava.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5773555",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Zenwave",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Shrine for Ganesha, guardian deity of the arts at \"The Demonstration School of Silpakorn University\", Nakhon Pathom",
+   "sha256": "f285db777c954dd7352f45b3c9689c413013ec77fb3cfcd78fe736cbfb99e889",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-khon-mask-phikanet-1f65a9.jpg",
+   "source": "commons",
+   "title": "File:Khon Mask Phikanet.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Khon_Mask_Phikanet.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11398001",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Saerin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — ภาพถ่ายหัวโขนฝ่ายเทวดา หน้าพระพิฆเนศ ถ่ายจากงาน \"กรุงเทพฯ ถนนวัฒนธรรม\" ของดีเขตบางพลัด ระหว่างวันที่ 1-5 กันยายน 2553",
+   "sha256": "8d55acc5b86cf0819b8e2f68c8d70a3f50818b605e745a3b0cb843eed0a95a39",
+   "width": 2736,
+   "height": 3648
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-fine-arts-department-seal-001-dfa247.jpg",
+   "source": "commons",
+   "title": "File:Fine Arts Department - Seal - 001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Fine_Arts_Department_-_Seal_-_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=17475966",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "สมเด็จพระเจ้าบรมวงศ์เธอ เจ้าฟ้าจิตรเจริญ กรมพระยานริศรานุวัดติวงศ์. \nPrince Narisara Nuvadtivongs.",
+   "credit": "เจ้าฟ้าธรรมธิเบศรไชยเชษฐสุริยวงศ์ กรมขุนเสนาพิทักษ์. (๒๔๙๑). พระมาลัยคำหลวง. พระนครฯ: โรงพิมพ์อุดม.\nThammathibet Chaiyachetsuriyawong Krommakhun Senaphithak. (1948). Phra Malai Kham Luang. Bangkok: Udom Publishing House.",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — The Seal of the Fine Arts Department of Thailand, depicting Ganesha on the clouds.",
+   "sha256": "180ef6be6c71a6977e3320ab5a2cf6bede3c8bbe1d11b72717da93b5e8ed0ccd",
+   "width": 2426,
+   "height": 2429
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-joe-louis-puppet-theatre-tha-lande-70502-b8cf7a.jpg",
+   "source": "commons",
+   "title": "File:Joe Louis Puppet Theatre (Thaïlande) (7050258713).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Joe_Louis_Puppet_Theatre_%28Tha%C3%AFlande%29_%287050258713%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=24666736",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jean-Pierre Dalbéra from Paris, France",
+   "credit": "Joe Louis Puppet Theatre (Thaïlande)",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — La marionnette du dieu Ganesh avec ses manipulateurs dans le hall de la Cité de la musique après le spectacle\nLa Double",
+   "sha256": "1993bad9a19155e86c7bd3e24dd3268a1f0a923f101c65ca4d23309730cfa2c8",
+   "width": 1388,
+   "height": 2082
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-the-hindu-god-shiva-flanked-by-ganesha-a-3d6b0a.jpg",
+   "source": "commons",
+   "title": "File:The Hindu God Shiva Flanked by Ganesha and Durga LACMA M.86.120 (1 of 2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/The_Hindu_God_Shiva_Flanked_by_Ganesha_and_Durga_LACMA_M.86.120_%281_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27349212",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-17273748-O3.jpg\nGallery: http://collections.lacma.org/node/252161 archive copy at the Wayback Machine",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Thailand, Prakhon Chai District, 8th century\nSculpture\nCopper alloy\nPurchased with funds provided by Christian Humann an",
+   "sha256": "51aa47be144a9873cf04888e511d750f0c210bc7e8ae2780d88605b59193e598",
+   "width": 1573,
+   "height": 2100
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-the-hindu-god-shiva-flanked-by-ganesha-a-ee489d.jpg",
+   "source": "commons",
+   "title": "File:The Hindu God Shiva Flanked by Ganesha and Durga LACMA M.86.120 (2 of 2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/The_Hindu_God_Shiva_Flanked_by_Ganesha_and_Durga_LACMA_M.86.120_%282_of_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27349215",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "",
+   "credit": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-33981928-O3.jpg\nGallery: http://collections.lacma.org/node/252161 archive copy at the Wayback Machine",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Thailand, Prakhon Chai District, 8th century\nSculpture\nCopper alloy\nPurchased with funds provided by Christian Humann an",
+   "sha256": "c24bab6d581fd3b942484c300df942095d0fa0d135f4af370aab2fac49517de9",
+   "width": 1573,
+   "height": 2100
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-ganesha-24154e.jpg",
+   "source": "commons",
+   "title": "File:พระพิฆเนศ Ganesha.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B9%80%E0%B8%99%E0%B8%A8_Ganesha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35363140",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "4ca44c3b6d7159587d6a6ec98146d12b4b55d52429da5e81ac3b6e324bf268de",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-33-be8825.jpg",
+   "source": "commons",
+   "title": "File:วัดราชบูรณะ อ.เมือง จ.พิษณุโลก (33).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B8%B0_%E0%B8%AD.%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B8%88.%E0%B8%9E%E0%B8%B4%E0%B8%A9%E0%B8%93%E0%B8%B8%E0%B9%82%E0%B8%A5%E0%B8%81_%2833%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42825333",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "4ce42deac031a364b10606af53a0e33a5d30d785bc7788a0bfb24728a54d72e2",
+   "width": 4288,
+   "height": 3216
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-jpg-9ac942.jpg",
+   "source": "commons",
+   "title": "File:ศาลเจ้าพ่อหลักเมืองพระประแดง อ.พระประแดง จ.สมุทรปราการ.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AD.%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%88.%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42853098",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "14c0770ff58fc1dd4d5e630089f3ed7f3c84e31bc202f15873cff70aea4f59b0",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-3-e666cf.jpg",
+   "source": "commons",
+   "title": "File:ศาลเจ้าพ่อหลักเมืองพระประแดง อ.พระประแดง จ.สมุทรปราการ (3).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AD.%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%88.%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3_%283%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42853099",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "3f6e25ba91ee30a38685c32c7cb96960992c05816063ba29da8bf8db1a1bac12",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-2-c7289c.jpg",
+   "source": "commons",
+   "title": "File:ศาลเจ้าพ่อหลักเมืองพระประแดง อ.พระประแดง จ.สมุทรปราการ (2).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AD.%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%88.%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3_%282%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42853100",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "e398046570c1e46449a327448d95af8dc698b52690695a8dd3f29643b5a668b8",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-6-027bb4.jpg",
+   "source": "commons",
+   "title": "File:ศาลเจ้าพ่อหลักเมืองพระประแดง อ.พระประแดง จ.สมุทรปราการ (6).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%AD.%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%94%E0%B8%87_%E0%B8%88.%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3_%286%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42853103",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "d46be75c2f2c7ee51a0bc6d073b2595ab592891017f78a32fd50ad8625571d1a",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-19-bf7515.jpg",
+   "source": "commons",
+   "title": "File:วัดสุทัศนเทพวรารามราชวรมหาวิหาร เขตพระนคร กรุงเทพมหานคร (19).JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%84%E0%B8%A3_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2819%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=42898143",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "f58a0c79271c92d3fd8ce61093843abf53011c4905021eabcb51d0c8b67e1cd5",
+   "width": 4288,
+   "height": 3216
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-jpg-f938a6.jpg",
+   "source": "commons",
+   "title": "File:วัดจอมสุดาราม เขตดุสิต กรุงเทพมหานคร.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51149235",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "f683e30ff2ad9464783ccf4d1b98d6cdb1bfd4c5ecc493aaee8d3744121634ec",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-thewakamnoet-1959-p-123-2e7cea.jpg",
+   "source": "commons",
+   "title": "File:Thewakamnoet (1959, p. 123).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Thewakamnoet_%281959%2C_p._123%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=98323531",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sat Kaeosin (dates of birth & date unknown)",
+   "credit": "This image has been extracted from another file",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Thai depiction of Hindu god Gaṇeśa",
+   "sha256": "bc25f7933e1407451f718c7ef4e08196ae835aabe03840705bceb40ee87cacdb",
+   "width": 2135,
+   "height": 3000
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-ganesh-shrine-at-huai-khwang-bangkok-apr-621bd3.jpg",
+   "source": "commons",
+   "title": "File:Ganesh Shrine at Huai Khwang, Bangkok ศาลพระพิฆเนศ สี่แยกห้วยขวาง (April2021) 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ganesh_Shrine_at_Huai_Khwang%2C_Bangkok_%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B9%80%E0%B8%99%E0%B8%A8_%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%AB%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%82%E0%B8%A7%E0%B8%B2%E0%B8%87_%28April2021%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=103884481",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Ganesh Shrine at Huai Khwang Intersection, Bangkok",
+   "sha256": "6767317d1a4ccb2cc775bf2596de4f8d3972f2f3e5b86653ae2c96e4fc37960a",
+   "width": 2816,
+   "height": 3754
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-roek-ngam-yam-di-1966-p-1-svg-182f39.png",
+   "source": "commons",
+   "title": "File:Roek Ngam Yam Di (1966, p 1).svg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Roek_Ngam_Yam_Di_%281966%2C_p_1%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=116167920",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Unknown authorUnknown author",
+   "credit": "This image has been extracted from another file",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Illustrations of the book mentioned in the source",
+   "sha256": "834fe158247b23f84152a02dd7fa0207a3537a119a9d902cd84988e8b2ddc6a4",
+   "width": 375,
+   "height": 464
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-ganesha-park-chachoengsao-3-bfa56b.jpg",
+   "source": "commons",
+   "title": "File:Ganesha Park,Chachoengsao (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ganesha_Park%2CChachoengsao_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147533274",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant",
+   "sha256": "6e2a394f1bfbd24873b73e9e5f4d0f88b80794f1c83b4cd0be7f55175b6fdf52",
+   "width": 4592,
+   "height": 3448
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-ganesha-park-chachoengsao-4-27509d.jpg",
+   "source": "commons",
+   "title": "File:Ganesha Park,Chachoengsao (4).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Ganesha_Park%2CChachoengsao_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147625039",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant",
+   "sha256": "1d4a68159eba9b92f6865b7a6cb7b8e98d995fa3bd7703edf168a4fbf2f628ca",
+   "width": 3448,
+   "height": 4592
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-bangkok-wat-bowon-sathan-sutthawat-inter-032f89.jpg",
+   "source": "commons",
+   "title": "File:Bangkok - Wat Bowon Sathan Sutthawat - interior วัดพระแก้ววังหน้า (2026) - IMG 44.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Bangkok_-_Wat_Bowon_Sathan_Sutthawat_-_interior_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2_%282026%29_-_IMG_44.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=198209578",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — Ganesha as Maha Vighaneshavara: Ganesha on a turtle during Samudra Manthan (left), and Ganesha on his rat subduing a dem",
+   "sha256": "fc90d2cbfcfbb50d6546f6a5eeddd409b45c407f374102360e6aa8724fca71fe",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phra-phikkhanet/phra-phikkhanet-bangkok-national-theatre-2026-img-02-c3125f.jpg",
+   "source": "commons",
+   "title": "File:Bangkok - National Theatre โรงละครแห่งชาติ (2026) - IMG 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bangkok_-_National_Theatre_%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4_%282026%29_-_IMG_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=198260362",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพิฆเนศ",
+   "alt_en": "Ganesha pendant — National Theatre, Bangkok",
+   "sha256": "28fb67f29aa281f792f0f8d95f9f4bb2f8e75aaec5069080a04efa0c28bd1f9a",
+   "width": 4032,
+   "height": 3024
+  }
+ ]
+}

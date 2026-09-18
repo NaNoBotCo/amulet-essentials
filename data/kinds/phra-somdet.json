@@ -1,0 +1,787 @@
+{
+ "schema": 1,
+ "id": "phra-somdet",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระสมเด็จ",
+  "roman": "phra somdet",
+  "en": "Phra Somdej",
+  "aliases": {
+   "th": [
+    "สมเด็จ",
+    "พระสมเด็จวัดระฆัง",
+    "สมเด็จวัดระฆังโฆสิตาราม"
+   ],
+   "roman": [
+    "phra somdej",
+    "somdej",
+    "somdet wat rakhang"
+   ],
+   "en": [
+    "Somdej amulet",
+    "King of Amulets",
+    "Somdej Wat Rakang"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "metta_maha_niyom",
+   "khlaeo_khlat",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_phong",
+   "phong_phuttakhun"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "แผ่นสี่เหลี่ยมผืนผ้า ขอบตัดตรง ด้านหน้ามีซุ้มครอบแก้ว",
+  "shape_en": "Rectangular pressed tablet with straight cut edges; the obverse carries an arched bell-glass frame (ซุ้มครอบแก้ว)",
+  "size_mm": [
+   24,
+   36,
+   5
+  ],
+  "wearable_th": "ห้อยคอในตลับหรือกรอบ",
+  "wearable_en": "Worn at the neck in a case or frame",
+  "obverse_th": "องค์พระประทับนั่งสมาธิบนฐานเป็นชั้น ภายในซุ้มครอบแก้ว",
+  "obverse_en": "A seated Buddha in meditation on a tiered base, inside the arch",
+  "reverse_th": "เรียบ อาจมีคราบหรือรอยนิ้ว",
+  "reverse_en": "Plain; may carry surface crust or a finger impression",
+  "notes_en": "Size given is a typical range for the Wat Rakhang form, not a rule; runs and moulds vary."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระนั่งสมาธิ",
+   "en": "seated Buddha in meditation posture"
+  },
+  {
+   "th": "ซุ้มครอบแก้ว",
+   "en": "bell-glass arch framing the figure"
+  },
+  {
+   "th": "ฐานสามชั้น",
+   "en": "three-tier base (พิมพ์ใหญ่ and most moulds)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดระฆังโฆสิตาราม",
+  "wat_en": "Wat Rakhang Kositaram, Thonburi side of Bangkok",
+  "maker_th": "สมเด็จพระพุฒาจารย์ (โต พฺรหฺมรํสี)",
+  "maker_en": "Somdet Phra Phutthachan (To Phromrangsi), 'Somdej To'",
+  "era_th": "สร้างในช่วง พ.ศ. ๒๓๕๕–๒๔๑๕ (แบ่งเป็น ๓ ยุค ตามวิกิพีเดียไทย)",
+  "era_en": "Made across roughly 1812–1872, in three periods per Thai Wikipedia; the famous runs fall in the 1860s",
+  "place_th": "กรุงเทพฯ ฝั่งธนบุรี",
+  "place_en": "Bangkok",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "พิมพ์ทรงของวัดระฆังตามวิกิพีเดียไทย ๖ พิมพ์: พิมพ์ทรงพระประธาน (พิมพ์ใหญ่) · ทรงเจดีย์ · ฐานแซม · เกศบัวตูม · ปรกโพธิ์ · เศียรบาตรอกครุฑ",
+   "en": "Six Wat Rakhang mould-types per Thai Wikipedia: Phra Prathan / Phim Yai (large), Chedi, Than Saem, Ket Bua Tum, Prok Pho, Sian Bat Ok Khrut. The trade usually counts five, folding the last into the others",
+   "source": "s:th-wiki-somdet-rakhang",
+   "tier": "cited"
+  },
+  {
+   "th": "มวลสารหลักคือปูนขาวเปลือกหอย ผสมข้าวสุก กล้วย น้ำมัน ทราย ผงวิเศษ ๕ ประการ และว่านยา ๑๐๘",
+   "en": "Body is calcined shell-lime bound with cooked rice, banana, oil and sand, carrying the five sacred powders (ผงวิเศษ ๕ ประการ) and 108 herbal ingredients",
+   "source": "s:th-wiki-somdet-rakhang",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อผงขาวอมเหลือง มีมวลสารเป็นเม็ดหลากสี",
+   "en": "Off-white to yellowish powder body flecked with coloured inclusions; the material is the first gate, the mould the second",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  },
+  {
+   "th": "ผิวมีคราบ (surface crust) ตามอายุ — เนื้อผงไม่เกิดสนิม",
+   "en": "Age reads as a surface crust, never as rust: the powder body's dating signal per the material axis",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หมวดเนื้อผงเป็นหมวดที่ถูกทำเลียนแบบมากที่สุด จึงเป็นหมวดที่ต้องส่องให้ถ้วนถี่",
+   "en": "The most reproduced material category in the trade; a careful eye is the norm here, which is a statement about the category, never about an object",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hun-phayon",
+   "tell_th": "พระสมเด็จเป็นองค์พระในซุ้ม ไม่มีผู้อยู่ ไม่ต้องเลี้ยง · หุ่นพยนต์เป็นรูปคนหรือหุ่นฟาง มีสิ่งที่ถูกปลุกให้อยู่ ต้องเซ่นทุกวัน",
+   "tell_en": "A somdej is a Buddha in an arch with nobody home and nothing owed; a hun payon is a man-shaped figure of earth, straw or cloth that has been animated and is fed daily. Different class, different keeping, different provenance question."
+  },
+  {
+   "id": "khun-phaen",
+   "tell_th": "ขุนแผนเป็นพิมพ์ทรงห้าเหลี่ยม/ซุ้มเรือนแก้วแบบอยุธยา",
+   "tell_en": "Khun Phaen tablets use an Ayutthaya-style pentagonal or ruean-kaeo arch; the somdej form is a straight-edged rectangle with a bell-glass arch"
+  },
+  {
+   "id": "phra-phong-bai-lan",
+   "tell_th": "ผงใบลานเนื้อดำเทาจากใบลานเผา ส่วนพระสมเด็จเนื้อขาว",
+   "tell_en": "Palm-leaf-ash tablets are black-grey; the somdej body is white to cream"
+  }
+ ],
+ "market": {
+  "search": [
+   "สมเด็จ"
+  ],
+  "excludes": [
+   "องค์สมเด็จ",
+   "บาทสมเด็จ"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Phra Somdet"
+  ],
+  "commons_files": [
+   "File:Somdej.jpg",
+   "File:พระสมเด็จหลวงภาษาจีน 2411 Somdej Wat Rakang 2411.jpg",
+   "File:03.Black Jade Phra Somdej with Green Translucency (Carved with Chinabanchorn Mantra) – Nephrite.jpg",
+   "File:พระสมเด็จ 22.1.jpg",
+   "File:พระสมเด็จ 21.1.jpg",
+   "File:พระสมเด็จ 19.1.jpg",
+   "File:พระสมเด็จ 19.2.jpg",
+   "File:พระสมเด็จ 5.1.jpg",
+   "File:พระสมเด็จ 14.1.jpg",
+   "File:พระสมเด็จ 16.1.jpg",
+   "File:พระผงสมเด็จพระพุทธโฆษาจารย์ (โต พรหมรังษี).jpg",
+   "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล).jpg",
+   "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล)02.jpg",
+   "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล) 01.jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล.jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล (เนื้อเดิม).jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล (ด้านหลัง).jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน 01.jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน.jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน แตกลายงา.jpg",
+   "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน ด้านหลัง.jpg",
+   "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6380.jpg",
+   "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6375.jpg",
+   "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6370.jpg",
+   "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6383.jpg",
+   "File:พระสมเด็จ 22.1.jpg",
+   "File:พระสมเด็จ 21.1.jpg",
+   "File:พระสมเด็จ 5.1.jpg",
+   "File:พระสมเด็จ 14.1.jpg",
+   "File:พระสมเด็จ 23.1.jpg",
+   "File:พระสมเด็จ 26.1.jpg",
+   "File:พระสมเด็จ 36.1.jpg"
+  ],
+  "wanted_en": "Obverse straight on, reverse, and one edge view; a Wat Rakhang พิมพ์ใหญ่ beside a later temple issue at matched scale"
+ },
+ "images": [
+  {
+   "file": "phra-somdet/phra-somdet-somdej-jpg-166702.jpg",
+   "source": "commons",
+   "title": "File:Somdej.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Somdej.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=74781400",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Supachai9",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — This is  Somdej  of  Phrawimondhammaphan",
+   "sha256": "75ddae261e813a7f8cbcf68f4c569c7e7f8d4663a418c937a714d3e09e0e8487",
+   "width": 656,
+   "height": 960,
+   "primary": true
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-8049e6.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%28214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62805422",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ....#นี้คือคลังความรู้ที่ทำให้ผมตัดสินใจในการเก็บสะสมสมเด็จวัดระฆัง รุ่นอนุสรณ์ 214 ปีชาตกาล..กราบนมัสการขอบพระคุณท่านพร",
+   "sha256": "e72cab3a986a182f2480a46f217306e10556c74e306d4e62de69b2b397c42fa7",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-02-jpg-f06f58.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล)02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%28214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5%2902.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62805428",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ....#นี้คือคลังความรู้ที่ทำให้ผมตัดสินใจในการเก็บสะสมสมเด็จวัดระฆัง รุ่นอนุสรณ์ 214 ปีชาตกาล..กราบนมัสการขอบพระคุณท่านพร",
+   "sha256": "6153fa2ac3e1c67d44a2d920af65736b8af07645125039510db18dc9f37dfb32",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-01-jpg-c4c78d.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง (214 ปีชาตกาล) 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%28214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62805429",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ....#นี้คือคลังความรู้ที่ทำให้ผมตัดสินใจในการเก็บสะสมสมเด็จวัดระฆัง รุ่นอนุสรณ์ 214 ปีชาตกาล..กราบนมัสการขอบพระคุณท่านพร",
+   "sha256": "eca16f3614eb31298535b628c09a611c5e66248c1d2048f3163c7d81791a3e8b",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-795288.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99_214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62806506",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — .........#ขออนุญาตแอดมินแชร์ประสบการณ์และแลกเปลี่ยนเรียนรู้....สมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้ม (วันหน้าจะเอาพิม",
+   "sha256": "e77571993dc0b6c61cdbfef743fc82319fbd13afe95cc59d2946402b741100f1",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-642976.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล (เนื้อเดิม).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99_214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%28%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%A1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62806507",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — .........#ขออนุญาตแอดมินแชร์ประสบการณ์และแลกเปลี่ยนเรียนรู้....สมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้ม (วันหน้าจะเอาพิม",
+   "sha256": "53127b38148040bc5c9d4defb41c4241d3736997b2401bc0bd919f6c6bf0e082",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-926d94.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น 214 ปีชาตกาล (ด้านหลัง).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99_214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%28%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62806508",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — .........#ขออนุญาตแอดมินแชร์ประสบการณ์และแลกเปลี่ยนเรียนรู้....สมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้ม (วันหน้าจะเอาพิม",
+   "sha256": "8d96ea9a1d5ed50097c472ed9ca5fbe944b16d7c2f4e870911ae5875b4796dbd",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-01-jpg-da1019.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62807066",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ...ขออนุญาตแอดมินเผยแพร่บุญบารมีสมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้มและพิมพ์ใหญ่เกศจรดซุ้ม(พระประธาน)...\n...วันนี้ขอ",
+   "sha256": "69e2bfeabce38e33a5ab9db5f43ac89cadb8a54db2e0db728eb0abed9fa4fe52",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-7bb0fe.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62807067",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ...ขออนุญาตแอดมินเผยแพร่บุญบารมีสมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้มและพิมพ์ใหญ่เกศจรดซุ้ม(พระประธาน)...\n...วันนี้ขอ",
+   "sha256": "bf841cef401bab6e2c4f46b5d464cedb13e8f42feda61ce3e453fed11d355a27",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-30aad4.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน แตกลายงา.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99_%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%87%E0%B8%B2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62807068",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ...ขออนุญาตแอดมินเผยแพร่บุญบารมีสมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้มและพิมพ์ใหญ่เกศจรดซุ้ม(พระประธาน)...\n...วันนี้ขอ",
+   "sha256": "828d9b9b0fd76a994e460ced08a32fb972d3369c846a72ec329510b2e09ff7f5",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-214-jpg-b06f91.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จวัดระฆัง รุ่น214 ปีชาตกาล พิมพ์พระประธาน ด้านหลัง.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99214_%E0%B8%9B%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A5_%E0%B8%9E%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B9%8C%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99_%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62807070",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ...ขออนุญาตแอดมินเผยแพร่บุญบารมีสมเด็จ 214 ปีชาตกาล พิมพ์นิยมเกศทะลุซุ้มและพิมพ์ใหญ่เกศจรดซุ้ม(พระประธาน)...\n...วันนี้ขอ",
+   "sha256": "0c1630e2a3c01b32a6373a5c5d71048a69da043abdca71fe4cff07b281347c84",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-by-peak-hora-dscn6380-jpg-00db5d.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6380.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_by_Peak_Hora_DSCN6380.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87743412",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "PEAK99",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — Phra Somdej Luang Pho Thong, Traimit Wittayaram Worawihan Temple",
+   "sha256": "1b49c55da3c49ade3314ca54a983fa87dddb7ede2d3bc81ed40ae38ff6556284",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "file": "phra-somdet/phra-somdet-by-peak-hora-dscn6375-a35e0c.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6375.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_by_Peak_Hora_DSCN6375.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87743413",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "PEAK99",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — Phra Somdej Luang Pho Thong, Traimit Wittayaram Worawihan Temple",
+   "sha256": "60c4d6e724972434a448b68b15238029f531cd1e70ac0364805470aeea6c3c0b",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "file": "phra-somdet/phra-somdet-by-peak-hora-dscn6370-669d6b.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6370.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_by_Peak_Hora_DSCN6370.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87743414",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "PEAK99",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — Phra Somdej Luang Pho Thong, Traimit Wittayaram Worawihan Temple",
+   "sha256": "aad8e7066aad9be8ea57c1762258d55e69526bcf12dedb441b45d6e9433fe6cd",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "file": "phra-somdet/phra-somdet-by-peak-hora-dscn6383-429e08.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จหลวงพ่อทองคำ รุ่นสมปรารถนา by Peak Hora DSCN6383.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B3_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%99%E0%B8%B2_by_Peak_Hora_DSCN6383.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87743416",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "PEAK99",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — Phra Somdej Luang Pho Thong, Traimit Wittayaram Worawihan Temple",
+   "sha256": "32c1501769d6fbdde85932488eb35bb602599481b5dec0e32ac7667f56e4e1ee",
+   "width": 4608,
+   "height": 3456
+  },
+  {
+   "file": "phra-somdet/phra-somdet-jpg-2d2d0e.jpg",
+   "source": "commons",
+   "title": "File:พระผงสมเด็จพระพุทธโฆษาจารย์ (โต พรหมรังษี).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9C%E0%B8%87%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%82%E0%B8%86%E0%B8%A9%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B9%8C_%28%E0%B9%82%E0%B8%95_%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%A9%E0%B8%B5%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=127102299",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Dogmuy2521",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระผงสมเด็จพระพุทธโฆษาจารย์  (โต พรหมรังษี)",
+   "sha256": "316dd35cce19450fab0790a3ac97022773059a0f900805f164727deab673936c",
+   "width": 720,
+   "height": 865
+  },
+  {
+   "file": "phra-somdet/phra-somdet-22-1-7fae38.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 22.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_22.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=155191957",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่",
+   "sha256": "3f061016fe2f0ba9ba8c56c962571c5c23065ec9a1f8e7053c74e975d311a606",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-21-1-6573a0.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 21.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_21.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=155194925",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ภาพที่ 2 พระสมเด็จวัดระฆังพิมพ์ใหญ่เกศทะลุซุ้มลงรักปิดทองทั้งองค์",
+   "sha256": "5e05f26479e555811849671d7a942665ef72f7c838f7c0fc818bda38089edfa3",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-19-1-478ebe.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 19.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_19.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=155257649",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่",
+   "sha256": "eee8d8640321c407460e345225c61d483f41069dc879aa5c47f8e0f17bcd8cb5",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-19-2-a7214e.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 19.2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_19.2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=155257700",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ภาพด้านหลัง พระสมเด็จวัดระฆังพิมพ์ใหญ่ หลังอักษรจีน",
+   "sha256": "3418d73e50d8cf4fca3bcada04ffcb5911ae1f7906382b60099d0466878ba928",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-5-1-e51766.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 5.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_5.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156000922",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่ เนื้อปูนนุ่ม",
+   "sha256": "f6be6f4da981bd23e335fd7321e847a6c44269d5785ded7bb437973676d89fba",
+   "width": 3000,
+   "height": 4500
+  },
+  {
+   "file": "phra-somdet/phra-somdet-14-1-f5a88b.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 14.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_14.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156001056",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่ เนื้อขนมตุ้บตั้บ",
+   "sha256": "1e02cc479413d9cdaf4c19726b58654b223b8f2c38c843cecf10705614ad7723",
+   "width": 3000,
+   "height": 4500
+  },
+  {
+   "file": "phra-somdet/phra-somdet-16-1-d72ef7.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 16.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_16.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156204455",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่ เนื้อกระแจะจันทน์",
+   "sha256": "611319a62f8fdd0c50e01053f6f2d2f9a5a4a8eb10c4ed9116d3b9993710d2cf",
+   "width": 3000,
+   "height": 4500
+  },
+  {
+   "file": "phra-somdet/phra-somdet-23-1-64ef44.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 23.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_23.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156218141",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่ เศียรโต พุทธศิลป์ยุคกลาง",
+   "sha256": "1024bd70e02612d4d59657a7e615953ca5b8e42eda4a7e9e9e02843162470561",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-26-1-b95518.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 26.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_26.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=156218482",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ใหญ่ ผิวฟูบาง เนื้อปูนแกร่ง",
+   "sha256": "5058976dbc72c722dce0dbd034c0b9c18c1aca7c9138fc54566153a617662c95",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-36-1-1420a8.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จ 36.1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88_36.1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=166274792",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sundara Doy",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จวัดระฆังพิมพ์ทรงฐานแซม",
+   "sha256": "a68275a70bd350f632cbd9eb635f399a0aa68d94ce56f22e86a8481a1a9e6124",
+   "width": 3712,
+   "height": 5568
+  },
+  {
+   "file": "phra-somdet/phra-somdet-03-black-jade-phra-somdej-with-green-tra-95d373.jpg",
+   "source": "commons",
+   "title": "File:03.Black Jade Phra Somdej with Green Translucency (Carved with Chinabanchorn Mantra) – Nephrite.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/03.Black_Jade_Phra_Somdej_with_Green_Translucency_%28Carved_with_Chinabanchorn_Mantra%29_%E2%80%93_Nephrite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=196552532",
+   "license": "CC BY 4.0",
+   "license_url": "https://creativecommons.org/licenses/by/4.0",
+   "author": "Notenatdanai0311",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จหยกดำส่องเขียว (สลักชินบัญชร) Nephrite",
+   "sha256": "8d7110e4ef7bad6e7151c300109da35f385199211c91b21714629d270cfd9bcb",
+   "width": 1413,
+   "height": 1413
+  },
+  {
+   "file": "phra-somdet/phra-somdet-jpg-2bb6eb.jpg",
+   "source": "commons",
+   "title": "File:สมเด็จหลวงปู่ทองรุ่นหนึ่ง.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B6%E0%B9%88%E0%B8%87.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=22137839",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Koikiichi",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — หลวงปู่ทอง วัดราชโยธา พระสมเด็จ รุ่นหนึ่ง",
+   "sha256": "9e4f37b71473bd8429466a5a3dafe40b8548dd046373e0d70a23e3314de07a56",
+   "width": 907,
+   "height": 631
+  },
+  {
+   "file": "phra-somdet/phra-somdet-jpg-46b0ee.jpg",
+   "source": "commons",
+   "title": "File:พระสมเด็จอุณาโลม ทรงจิตรลดา ปี ๒๕๑๙ ที่สุดแห่งมงคลสักการะในรัชกาลที่ ๙.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B8%AD%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%A1_%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%A5%E0%B8%94%E0%B8%B2_%E0%B8%9B%E0%B8%B5_%E0%B9%92%E0%B9%95%E0%B9%91%E0%B9%99_%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%81%E0%B8%AB%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5%E0%B8%AA%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A5%E0%B8%97%E0%B8%B5%E0%B9%88_%E0%B9%99.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54775380",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Kaichicky",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — พระสมเด็จอุณาโลมทรงจิตรลดาถือเป็นพระเครื่องที่มีบันทึกว่า ในหลวงรับสั่งให้นำกระเบื้องวัดบวรนิเวศวิหารไปทำพระจะดีไม่น้อย",
+   "sha256": "d1b728d16b140b44c45869ea0cfcfa9e8956846aa8ef10df5cf70aeb088e74a9",
+   "width": 720,
+   "height": 479
+  },
+  {
+   "file": "phra-somdet/phra-somdet-01-jpg-f1937f.jpg",
+   "source": "commons",
+   "title": "File:สมเด็จเข่าอุ 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B8_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62804099",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ถามมาจัดไป...\nสมเด็จเข่าอุ\nสมเด็จหลวงพ่อรอด\nรุ่นแรก วัดบ้านหนองหล่ม \n๛หลวงปู่หมุน + หลวงปู่หงษ์๛ \n\n   ร่วมปลุกเสก\n\n   หล",
+   "sha256": "8dbef88335f3b6e207781ab923e7ebac268bca607c2b3e75b17a8cd7b91834d1",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-03-jpg-f062d8.jpg",
+   "source": "commons",
+   "title": "File:สมเด็จเข่าอุ 03.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B8_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62804100",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ถามมาจัดไป...\nสมเด็จเข่าอุ\nสมเด็จหลวงพ่อรอด\nรุ่นแรก วัดบ้านหนองหล่ม \n๛หลวงปู่หมุน + หลวงปู่หงษ์๛ \n\n   ร่วมปลุกเสก\n\n   หล",
+   "sha256": "705dba8204b2f0f5e73dd8a061d5d61529c89726e86c3a5612c28394c85307d5",
+   "width": 2976,
+   "height": 3968
+  },
+  {
+   "file": "phra-somdet/phra-somdet-02-jpg-9e2586.jpg",
+   "source": "commons",
+   "title": "File:สมเด็จเข่าอุ 02.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88%E0%B9%80%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%AD%E0%B8%B8_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62804101",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ya thonawanik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จ",
+   "alt_en": "Phra Somdej — ถามมาจัดไป...\nสมเด็จเข่าอุ\nสมเด็จหลวงพ่อรอด\nรุ่นแรก วัดบ้านหนองหล่ม \n๛หลวงปู่หมุน + หลวงปู่หงษ์๛ \n\n   ร่วมปลุกเสก\n\n   หล",
+   "sha256": "3c44d8c2c5dd0ea74699cd46ef0c93a63d805294e3ef36d82524d59ddd095b7f",
+   "width": 2976,
+   "height": 3968
+  }
+ ],
+ "text": {
+  "what_th": "แผ่นผงพุทธคุณอัดพิมพ์ทรงสี่เหลี่ยม มีองค์พระประทับนั่งในซุ้มครอบแก้ว เป็นพระเครื่องที่ถูกสร้างตามและสะสมมากที่สุด พลังอยู่ที่บารมีของผู้สร้างและการปลุกเสก ไม่มีผู้ใดสถิตอยู่ในองค์พระ",
+  "what_en": "A rectangular pressed tablet of sacred powder bearing a seated Buddha in an arch — the most copied, most collected amulet form there is. Power is the maker's barami and the consecration; nobody is home.",
+  "story_th": "สมเด็จโต วัดระฆัง สร้างพระผงในช่วงปลายรัชกาลที่ ๔ ถึงต้นรัชกาลที่ ๕ วงการยกให้เป็น “จักรพรรดิแห่งพระเครื่อง” และเป็นหนึ่งในชุดเบญจภาคี",
+  "story_en": "Somdej To of Wat Rakhang pressed these tablets in the last years of Rama IV and the first of Rama V. The trade calls the Wat Rakhang pieces the emperor of amulets and counts them among the Benjaphakhi, the canonical five. Almost every temple issue since borrows the form, which is why the form alone tells you little and the material tells you more.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is price and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-somdet-rakhang",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical range, not measured on a reference piece"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-somdet-rakhang"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

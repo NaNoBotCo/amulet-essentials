@@ -1,0 +1,524 @@
+{
+ "schema": 1,
+ "id": "lao-yan",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ยันต์ลาว",
+  "roman": "yan (Lao Tham-script yantra)",
+  "en": "Lao yantra in Tham script",
+  "aliases": {
+   "th": [
+    "ยันต์ธรรมลาว",
+    "ยันต์อีสาน",
+    "ยันต์ตัวธรรม",
+    "ยันต์ล้านช้าง"
+   ],
+   "roman": [
+    "yan lao",
+    "yan tham lao",
+    "yan isan",
+    "yantra lao"
+   ],
+   "en": [
+    "Lao Tham yantra",
+    "Isan yantra",
+    "Lan Xang yantra"
+   ]
+  },
+  "other_scripts": {
+   "lo": "ຍັນ"
+  }
+ },
+ "region": [
+  "la",
+  "th-isan"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "khong_kraphan",
+   "kan_phi",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "pha_yan",
+   "takua",
+   "thongdaeng"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "ลายยันต์เขียนด้วยตัวธรรมลาว — บนผ้า แผ่นตะกรุด ใบลาน หรือสักลงผิว — ตารางเลขและอักขระบาลีผสมลาว",
+  "shape_en": "A yantra design written in the Lao Tham hand and realised on cloth, a takrut sheet, a palm-leaf or paper manuscript, or the skin: grids of numerals and Pali-with-Lao syllables. The script is the kind; the carrier varies.",
+  "size_mm": null,
+  "wearable_th": "ตามวัตถุที่รองรับ: แขวน คาด พก หรือสัก",
+  "wearable_en": "As its carrier allows — hung, worn as a tube, folded, or tattooed",
+  "obverse_th": "",
+  "obverse_en": "",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Form type 'other' because the record is the written design, not one object."
+ },
+ "iconography": [
+  {
+   "th": "อักษรธรรมลาว (โตธรรม) ตัวกลม",
+   "en": "round Lao Tham letters, the Lanna-derived sacred hand"
+  },
+  {
+   "th": "เลขโหราและเลขในธรรม",
+   "en": "two numeral sets — Lek Hora for general use, Lek Nai Tham for scripture"
+  },
+  {
+   "th": "ตารางยันต์",
+   "en": "numbered grids"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "พระและหมอธรรมลาว-อีสาน",
+  "maker_en": "Lao and Isan monks and mo tham, the lay ritualists who read Tham",
+  "era_th": "อักษรธรรมลาวปรับจากธรรมล้านนา จารึกเก่าสุดในอีสานที่ฐานพระประธานวัดพระธาตุพนม พ.ศ. 2046",
+  "era_en": "Lao Tham is an adaptation of Lanna Tham; the oldest dated Isan example is the inscription on the base of the principal Buddha at Wat Phra That Phanom, 1503 (BE 2046), under Lan Xang",
+  "place_th": "ล้านช้าง หลวงพระบาง เวียงจันทน์ และอีสาน",
+  "place_en": "Lan Xang — Luang Prabang, Vientiane — and Isan",
+  "first_attested": "1503 — Wat Phra That Phanom Buddha-base inscription in Tham Lao (per Thai Wikipedia)"
+ },
+ "diagnostics": [
+  {
+   "th": "ภาคอีสานเขียนยันต์ด้วยอักษรธรรมอีสาน ภาคเหนือธรรมล้านนา ภาคกลางขอม",
+   "en": "The Northeast writes its yantra in the Isan / Lao Tham script, the North in Lanna Tham, the Centre in Khom — the script names the region before the design does",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "ธรรมลาวดัดแปลงจากธรรมล้านนา ลาวเรียกแบบล้านนาว่าอักษรยวน/โยน",
+   "en": "Lao Tham is an adaptation of Lanna Tham in both structure and letter shape; Lao speakers call the Lanna form aksorn yuan — the two are one family and a loupe separates them by hand, not by system",
+   "source": "s:th-wiki-tham-lao",
+   "tier": "cited"
+  },
+  {
+   "th": "ตัวธรรมมีเลขสองชุด: เลขโหรากับเลขในธรรม",
+   "en": "Tai Tham carries two numeral systems, Lek Hora for general use and Lek Nai Tham for liturgy; a Tham yantra may use either",
+   "source": "s:en-wiki-tai-tham",
+   "tier": "cited"
+  },
+  {
+   "th": "บาลีผสมภาษาถิ่น แทบไม่มีสันสกฤต เหมือนไทยและเขมร",
+   "en": "Pali mixed with the vernacular and almost no Sanskrit, as in the Thai and Khmer traditions",
+   "source": "s:th-wiki-saiyasat",
+   "tier": "cited"
+  },
+  {
+   "th": "ตัวธรรมในลาวเหลืออยู่กับพระบวชนาน — ยันต์ที่เขียนใหม่และอ่านได้จึงหายากขึ้น",
+   "en": "In Laos the script's use is limited to long-term monks, so freshly written and correctly read Tham yantra are scarcer each decade",
+   "source": "s:en-wiki-tai-tham",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "yan-lanna",
+   "tell_th": "สายอักษรเดียวกัน — ล้านนาเป็นต้นทาง ลาวเป็นสาขา ต่างที่รูปอักษรและภาษาผสม (คำเมือง vs ลาว)",
+   "tell_en": "Same Tham family: Lanna is the source, Lao the adaptation. Tell by letter shapes and by the vernacular mixed into the Pali — Kam Mueang against Lao — and by where it was made."
+  },
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ภาคกลางเขียนตัวขอม · ยันต์ลาวเขียนตัวธรรม",
+   "tell_en": "A Central Thai pha yan is in Khom; a Lao yantra in Tham. Angular versus round under the loupe."
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ผ้ายันต์เขมรใช้ตัวขอม/มูล · ยันต์ลาวใช้ตัวธรรม",
+   "tell_en": "The Khmer cloth is in Khom / Mul letters; the Lao design in Tham."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดคือรูปหลอด · ยันต์ลาวคือลายที่อาจอยู่ในหลอดนั้น",
+   "tell_en": "A takrut is a form; a Lao yantra is the design that may be rolled inside one. If the sheet is in Tham, it is both."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Tai Tham script",
+   "Category:Tattoos in Laos"
+  ],
+  "commons_files": [
+   "File:Tham Lao.jpg",
+   "File:Kammavāca palm leaf manuscript from Laos.png",
+   "File:QB-TT 001 - Morceau de peau tatoué, Laos, 19e-20e siècle ; MNHN-HA-27994.JPG",
+   "File:Henri Mouhot map of Sanskrit, Thai, Lao and Khmer scripts, 1860, folio 1v of 20v-20r set, British library.jpg",
+   "File:Novice monks making palm leaf manuscripts, Vat Manolom, Luang Prabang, Laos.jpg"
+  ],
+  "wanted_en": "Files show the Tham Lao hand (a script sample, a 19th-century Lao Kammavaca manuscript, Mouhot's 1860 comparison), a tattooed Lao skin fragment of the 19th–20th century in the Musée de l'Homme, and Luang Prabang novices making palm-leaf folios. No Lao yantra cloth or takrut sheet is free on Commons as of 2026-09-02; that is what is needed."
+ },
+ "images": [
+  {
+   "file": "lao-yan/lao-yan-tham-lao-d7ea14.jpg",
+   "source": "commons",
+   "title": "File:Tham Lao.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tham_Lao.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=187748318",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Aikhut",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — \"ທຳລາວ\" text in Tham Lao script",
+   "sha256": "706cc3b373466e88c839266e7a6d3717db3161c418824bcd9de332b0016d6402",
+   "width": 1024,
+   "height": 589,
+   "primary": true
+  },
+  {
+   "file": "lao-yan/lao-yan-qb-tt-001-morceau-de-peau-tatou-laos-19e-bbfb0f.jpg",
+   "source": "commons",
+   "title": "File:QB-TT 001 - Morceau de peau tatoué, Laos, 19e-20e siècle ; MNHN-HA-27994.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/QB-TT_001_-_Morceau_de_peau_tatou%C3%A9%2C_Laos%2C_19e-20e_si%C3%A8cle_%3B_MNHN-HA-27994.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=41225449",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "X-Javier",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Peau humaine, encre. Laos, XIXe-XXe siècle. Collection d'anthropologie, Muséum national d'Histoire naturelle / Musée de",
+   "sha256": "be908eddd297967bfc7856d56003640a8d80ab5e010ff6a2b1fa553bf9da081e",
+   "width": 4608,
+   "height": 2868
+  },
+  {
+   "file": "lao-yan/lao-yan-kammav-ca-palm-leaf-manuscript-from-laos-25d556.png",
+   "source": "commons",
+   "title": "File:Kammavāca palm leaf manuscript from Laos.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Kammav%C4%81ca_palm_leaf_manuscript_from_Laos.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=47103675",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "The British Library (Jana Igunma, curator)",
+   "credit": "http://britishlibrary.typepad.co.uk/asian-and-african/2015/02/lao-collection-at-the-british-library-now-fully-catalogued.html",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Nineteenth century Kammavāca palm leaf manuscript from Laos written in Tham Script. The wooden covers are decorated with",
+   "sha256": "30e958c0d1da875c0340f912f5b3460ede5955f9003764c7ec450842af691a37",
+   "width": 580,
+   "height": 326
+  },
+  {
+   "file": "lao-yan/lao-yan-novice-monks-making-palm-leaf-manuscript-dee686.jpg",
+   "source": "commons",
+   "title": "File:Novice monks making palm leaf manuscripts, Vat Manolom, Luang Prabang, Laos.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Novice_monks_making_palm_leaf_manuscripts%2C_Vat_Manolom%2C_Luang_Prabang%2C_Laos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55125846",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "PLMP, National Library of Laos",
+   "credit": "http://www.laomanuscripts.net/en/about/project",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Novice monks practicing the art of making palm-leaf folios. 1. Selecting suitable leaves from palm tree fronds. Vat Mano",
+   "sha256": "0b74708aa1c248e23606effa1ef62eaacfe8463c5495764dae1ea5b1a7476567",
+   "width": 600,
+   "height": 404
+  },
+  {
+   "file": "lao-yan/lao-yan-henri-mouhot-map-of-sanskrit-thai-lao-an-7bdde6.jpg",
+   "source": "commons",
+   "title": "File:Henri Mouhot map of Sanskrit, Thai, Lao and Khmer scripts, 1860, folio 1v of 20v-20r set, British library.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Henri_Mouhot_map_of_Sanskrit%2C_Thai%2C_Lao_and_Khmer_scripts%2C_1860%2C_folio_1v_of_20v-20r_set%2C_British_library.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=73992293",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Ms Sarah Welch",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Sanskrit language was considered as a sacred language in Southeast and East Asia. The language structure as well as some",
+   "sha256": "54c6ea9374217c2da09eab3968255fc90f04176c23a3aa705099dd1ffeef76f2",
+   "width": 1272,
+   "height": 2100
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-tham-orthography-375a35.png",
+   "source": "commons",
+   "title": "File:Tai Tham orthography.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Tai_Tham_orthography.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11068520",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Some Tai Tham script orthography (how to type correctly). Presented in Lanna Unicode UI.",
+   "sha256": "8dfb9743488c9a800c8f172eff3b7433812094f8481d1c79152979d5b2861241",
+   "width": 319,
+   "height": 259
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-tham-script-sample-97fc57.png",
+   "source": "commons",
+   "title": "File:Tai Tham script sample.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tai_Tham_script_sample.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=30350399",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Alifshinobi",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Tai Tham script \"akkhara dhamma\".",
+   "sha256": "f9104dab1f1ebf23c6e1d4a9f790a44167a1f989f7b14284d3ac855280ada90e",
+   "width": 2053,
+   "height": 1079
+  },
+  {
+   "file": "lao-yan/lao-yan-tan-sum-thm-79ac81.jpg",
+   "source": "commons",
+   "title": "File:Tan Sum Thm.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Tan_Sum_Thm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48658114",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Nakaileader",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Tan Sum by Tham Lanxang",
+   "sha256": "e2e784f911d050d464e226aef4922d679a2db55a97c5ea12ef8207d8103f86e1",
+   "width": 283,
+   "height": 125
+  },
+  {
+   "file": "lao-yan/lao-yan-tak-in-lanna-97c9c0.png",
+   "source": "commons",
+   "title": "File:Tak in Lanna.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Tak_in_Lanna.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=67709759",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "พชรกมล หิรัญวิทย์",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Lanna-Name of Tak Province",
+   "sha256": "98df6895692e5955343040dcd24df64ac187a05974d4c4ba4585df41af952118",
+   "width": 67,
+   "height": 55
+  },
+  {
+   "file": "lao-yan/lao-yan-png-d7c5e5.png",
+   "source": "commons",
+   "title": "File:ตั๋วเมือง แพร่.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/%E0%B8%95%E0%B8%B1%E0%B9%8B%E0%B8%A7%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87_%E0%B9%81%E0%B8%9E%E0%B8%A3%E0%B9%88.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=70813299",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Subsin11G",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — -",
+   "sha256": "0d70ca4d060df1dfbd9ac38be5001358d046f84b62cbab60baeb46bf5bf4291f",
+   "width": 214,
+   "height": 154
+  },
+  {
+   "file": "lao-yan/lao-yan-png-92f415.png",
+   "source": "commons",
+   "title": "File:ตั๋วเมืองชื่อวัด.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/%E0%B8%95%E0%B8%B1%E0%B9%8B%E0%B8%A7%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%94.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=75200434",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Elfidee",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — ชื่อวัด",
+   "sha256": "b134eb1f85c883400c727fc66f702d83bbdf6127b9bcdb061fa771556e12b56d",
+   "width": 547,
+   "height": 122
+  },
+  {
+   "file": "lao-yan/lao-yan-dhamma-tai-tham-script-61a3ff.png",
+   "source": "commons",
+   "title": "File:Dhamma - Tai Tham script.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Dhamma_-_Tai_Tham_script.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=105509527",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Hermes Antinous",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — ​參照以下網頁製成\nhttps://en.wiktionary.org/wiki/%E1%A8%B5%E1%A8%BE%E1%A9%A0%E1%A8%BE#Declension\nhttps://viss.wordpress.com/2015",
+   "sha256": "948a2a3f5139c3318a086882f505107c0ee23d832ea3c187b968b45b75e13db1",
+   "width": 482,
+   "height": 354
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-laing-sa-variant-1-ff540d.png",
+   "source": "commons",
+   "title": "File:Tai Laing sa variant 1.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Tai_Laing_sa_variant_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=108378344",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Tai Laing sa variant 1",
+   "sha256": "8d91157adfb675d226211f08c033a445d29d691b7ff9117a2b308dddb395b4c6",
+   "width": 194,
+   "height": 80
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-laing-sa-variant-2-1d06a5.png",
+   "source": "commons",
+   "title": "File:Tai Laing sa variant 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tai_Laing_sa_variant_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=108378850",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Tai Laing sa variant 2",
+   "sha256": "2a5c11589967ade7c8ee5f94dc14435641998ee6e35fdd9c3f3a961b106d51c4",
+   "width": 138,
+   "height": 80
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-laing-a-variant-c1e638.png",
+   "source": "commons",
+   "title": "File:Tai Laing a variant.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Tai_Laing_a_variant.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=108568562",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — Tai Laing a variant",
+   "sha256": "978d2b42e7de3a489dbeb314ca3aa064e0132b7a557aafa9553a32a0162c733b",
+   "width": 194,
+   "height": 80
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-tham-bhaasaa-340eb9.png",
+   "source": "commons",
+   "title": "File:Tai Tham bhaasaa.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Tai_Tham_bhaasaa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=108659977",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Octahedron80",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — \"bhaasaa\" in Tai Tham script, used by Northern Thai, Lü, Khün, and Pali",
+   "sha256": "6e785c5042c742e07797594d79e3d5671dac6375763bd23acc4cd3e1ee7bad8f",
+   "width": 327,
+   "height": 87
+  },
+  {
+   "file": "lao-yan/lao-yan-tai-tham-display-76ad4e.png",
+   "source": "commons",
+   "title": "File:Tai tham display.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Tai_tham_display.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=112418716",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "KLITE789",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์ลาว",
+   "alt_en": "Lao yantra in Tham script — An example of Tai Tham glyphs.",
+   "sha256": "516a2c692edff3da2672ed4940f4096b2f4f270720086c26af65a692b4e7d8a6",
+   "width": 713,
+   "height": 370
+  }
+ ],
+ "text": {
+  "what_th": "ยันต์ที่เขียนด้วยตัวธรรมลาว สายอักษรเดียวกับล้านนา ใช้บนผ้า ตะกรุด ใบลาน และผิวหนัง พลังอยู่ที่อักขระและพิธี ไม่มีผู้อยู่",
+  "what_en": "A yantra written in Lao Tham, the Lanna-family sacred script of Lan Xang and Isan, carried on cloth, in a takrut, on palm leaf, or on skin. Power lives in the letters and the rite; nobody is home.",
+  "story_th": "อักษรธรรมลาว (โตธรรม) ปรับจากธรรมล้านนา ใช้เขียนพระไตรปิฎก ชาดก และหนังสือผูก ตัวอย่างเก่าสุดในอีสานคือจารึกฐานพระประธานวัดพระธาตุพนม พ.ศ. 2046 หลังล้านนาเสียแก่พม่าในศตวรรษที่ 15 เวียงจันทน์และหลวงพระบางกลายเป็นศูนย์คัมภีร์ วิกิพีเดียลาวว่าปี 1910 ที่ประชุมกำหนดให้ตัวธรรมใช้กับคัมภีร์ ส่วนอักษรลาวใช้ราชการ ปัจจุบันเหลืออยู่กับพระบวชนานและหมอธรรม",
+  "story_en": "Lao Tham — to tham, 'the dhamma letters' — is the Lanna script adapted for Lao and reserved for scripture: Pali texts, Jataka, and the bound manuscripts of village temples. The oldest dated Isan example is the 1503 inscription at Wat Phra That Phanom, written under Lan Xang. After the Burmese took Lanna in the sixteenth century, Vientiane and Luang Prabang became the manuscript centres, and the Lao Wikipedia records a 1910 assembly that assigned Tham to religious text and the modern Lao script to the state. Today its use in Laos is limited to long-term monks, so the yantra written in it is as much a survival of literacy as of magic.",
+  "keeping_th": "ไม่มีผู้อยู่ เก็บไว้ที่สูง ไม่เหยียบ ไม่ต้องเซ่น",
+  "keeping_en": "Impersonal: kept high, never stepped over, nothing fed. What the keeper owes is care for the letters."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-tai-tham",
+  "s:th-wiki-tham-lao",
+  "s:th-wiki-tai-tham",
+  "s:lo-wiki-to-tham-lao",
+  "s:th-wiki-lek-yan",
+  "s:th-wiki-saiyasat",
+  "s:en-wiki-yantra-tattooing",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-tham-lao"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "the functions are the regional norm for written yantra, not a Lao-specific citation"
+   },
+   "form": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "origin.maker_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.other_scripts": {
+    "tier": "inference",
+    "note": "Lao spelling of yan; no Lao Wikipedia article on the object"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-tham-lao",
+    "note": "with s:en-wiki-tai-tham and s:lo-wiki-to-tham-lao"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with ยันต์ลาว / อักษรธรรม / ตัวธรรม on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

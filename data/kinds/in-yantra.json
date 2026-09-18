@@ -1,0 +1,579 @@
+{
+ "schema": 1,
+ "id": "in-yantra",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ยันต์พม่า",
+  "roman": "in",
+  "en": "In (Burmese cabalistic square)",
+  "aliases": {
+   "th": [
+    "อินพม่า",
+    "ยันต์อิน",
+    "ตารางยันต์พม่า"
+   ],
+   "roman": [
+    "inn",
+    "in yantra",
+    "in-saya work"
+   ],
+   "en": [
+    "Burmese yantra",
+    "Burmese magic square",
+    "cabalistic square"
+   ]
+  },
+  "other_scripts": {
+   "my": "အင်း"
+  }
+ },
+ "region": [
+  "mm",
+  "shan"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat",
+   "kan_phi",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "ตารางสี่เหลี่ยมแบ่งเป็นช่อง ในช่องเป็นเลขและอักษรพม่า เขียนบนกระดาษหรือผ้า สลักบนโลหะหรือหิน หรือสักลงบนผิวหนัง",
+  "shape_en": "A square grid of cells filled with Burmese numerals and letters. Drawn in ink on paper or cloth, engraved on metal or stone, or tattooed into the skin; nineteenth-century cotton shirts covered in grids survive in museum collections.",
+  "size_mm": null,
+  "wearable_th": "พับใส่กระเป๋า เย็บเป็นเสื้อ ใส่ตลับห้อยคอ หรือสักติดตัว",
+  "wearable_en": "Folded in a pocket, sewn into a shirt, cased and hung at the neck, or carried permanently as a tattoo",
+  "obverse_th": "ตารางเลขและอักษร บางแบบมีรูปสัตว์หรือกินรีประกอบ",
+  "obverse_en": "The numbered grid; manuscript pattern-books add creatures such as kinnara and the three-headed peacock beside the squares",
+  "reverse_th": "เรียบ",
+  "reverse_en": "Plain",
+  "notes_en": "The Thai record name ยันต์พม่า is a descriptive gloss; Thai speakers have no settled word for the in. The Burmese term is one syllable, အင်း, and the practitioner is an in-saya."
+ },
+ "iconography": [
+  {
+   "th": "ตารางเลข",
+   "en": "numbered grid whose cells are fixed by the recipient's birth date and time"
+  },
+  {
+   "th": "อักษรพม่าและบาลี",
+   "en": "Burmese and Pali syllables in the cells"
+  },
+  {
+   "th": "กินรีและนกยูงสามหัว",
+   "en": "kinnara and a three-headed peacock in a Burmese pattern-book of talismans and tattoos"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ครูอิน (in-saya) และวิชชา (weikza) สายอิน",
+  "maker_en": "In-saya (square-masters) and weikza of the in path; the tradition holds the in path the most powerful beside the iron path",
+  "era_th": "ไม่ระบุ",
+  "era_en": "Undated; the weikza movement as now known is placed in the Konbaung period",
+  "place_th": "พม่าและรัฐฉาน",
+  "place_en": "Myanmar and Shan State",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นตารางช่องเลข ไม่ใช่ลายเส้นและอักขระขอม — อักษรบอกถิ่น",
+   "en": "A grid of numerals in Burmese script. Thai yantra carry Khom or Tham letters around figures; the script alone places the sheet",
+   "source": "s:en-wiki-weikza",
+   "tier": "cited"
+  },
+  {
+   "th": "พบทั้งบนกระดาษ ผ้า โลหะ หิน และผิวหนัง",
+   "en": "Drawn, engraved in stone or metal, or tattooed; the same square travels across media",
+   "source": "s:en-wiki-weikza",
+   "tier": "cited"
+  },
+  {
+   "th": "ผูกกับวันเวลาเกิดของผู้รับ สองแผ่นชนิดเดียวกันจึงต่างกันได้",
+   "en": "Cast from the recipient's birth date and time, so two squares of the same purpose need not match cell for cell",
+   "source": "s:en-wiki-weikza",
+   "tier": "cited"
+  },
+  {
+   "th": "เสื้อผ้าฝ้ายเขียนตารางเต็มตัวแบบมัณฑะเลย์ศตวรรษที่ ๑๙ มีอยู่ในพิพิธภัณฑ์",
+   "en": "Cotton shirts written edge to edge with squares, attributed to Mandalay in the nineteenth century, sit in the Textile Museum at George Washington University (Commons file titles below)",
+   "source": "s:tradition",
+   "tier": "inference"
+  },
+  {
+   "th": "การสักในพม่าเรียก โท้ะกวิน คนละสายกับสักยันต์ไทย",
+   "en": "Burmese tattooing is htoe kwin; the yantra-tattooing article names it apart from Thai sak yant",
+   "source": "s:en-wiki-yantra-tattooing",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ไทยเป็นลายเส้นกับอักขระขอม มักมีรูปพระหรือฤๅษีกลางผืน · อินพม่าเป็นตารางเลขอักษรพม่า",
+   "tell_en": "Both are impersonal inscribed objects. A Thai pha yan draws lines and Khom letters round a Buddha, lersi or animal; a Burmese in is a numbered grid in Burmese script with no central figure."
+  },
+  {
+   "id": "yan-lanna",
+   "tell_th": "ยันต์ล้านนาใช้อักษรธรรม · อินใช้อักษรพม่าและเลขพม่า",
+   "tell_en": "A Lanna yan is written in Tham script; an in is written in Burmese script and numerals. Shan cloths sit between the two, so read the letters."
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดม้วนเป็นหลอด · อินเป็นแผ่นแบนหรือรอยสัก",
+   "tell_en": "A takrut is a rolled tube; an in stays flat on paper, cloth or skin."
+  },
+  {
+   "id": "khmer-yantra-cloth",
+   "tell_th": "ผ้ายันต์เขมรเป็นอักขระขอมและรูป · อินเป็นตารางเลข",
+   "tell_en": "Khmer yantra cloth is Khom letters and figures; the in is a grid of numbers."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Yantra tattooing"
+  ],
+  "commons_files": [
+   "File:Burmese Kinnara and three-headed peacock.jpg",
+   "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 1 - Textile Museum, George Washington University - DSC09644.JPG",
+   "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 2 - Textile Museum, George Washington University - DSC09646.JPG",
+   "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 3 - Textile Museum, George Washington University - DSC09649.JPG",
+   "File:Yantra amulets.jpg",
+   "File:Ka Gee and his client.jpg"
+  ],
+  "wanted_en": "No free close-up of a single paper or metal in exists on Commons as of 2026-09-02. Needed: one square straight on, large enough to read the numerals, and a tattooed in on skin. The talismanic shirt and the pattern-book page are the best available."
+ },
+ "images": [
+  {
+   "file": "in-yantra/in-yantra-burmese-kinnara-and-three-headed-peacock-e8af8c.jpg",
+   "source": "commons",
+   "title": "File:Burmese Kinnara and three-headed peacock.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Burmese_Kinnara_and_three-headed_peacock.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2656859",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Unknown authorUnknown author",
+   "credit": "Library of Congress, Asian Division (2), Washington, D.C., USA, published online at https://www.loc.gov/exhibits/treasures/wb-dream.html (wb0002s-th.jpg), section \"BURMESE WINGED CREATURE\"",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Illustrations in a Manuscript of talismans and tattoos from Burma.\nupper image: half-human, half-bird creature and is kn",
+   "sha256": "623e0f13f1fe42501aa782def44f8418d8312ea50134d9fd8902162aa96324ce",
+   "width": 424,
+   "height": 640,
+   "primary": true
+  },
+  {
+   "file": "in-yantra/in-yantra-talismanic-shirt-burma-probably-mandalay-aa1d76.jpg",
+   "source": "commons",
+   "title": "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 1 - Textile Museum, George Washington University - DSC09644.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Talismanic_shirt%2C_Burma%2C_probably_Mandalay%2C_19th_century_AD%2C_cotton%2C_view_1_-_Textile_Museum%2C_George_Washington_University_-_DSC09644.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48618970",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Daderot",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Exhibit in the Textile Museum, George Washington University, Washington, DC, USA. Photography was permitted in the museu",
+   "sha256": "996b5105b2441aae7801730d1a6b4fefd787a293a92314ed02e51ffc483a5df9",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "in-yantra/in-yantra-talismanic-shirt-burma-probably-mandalay-a25439.jpg",
+   "source": "commons",
+   "title": "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 2 - Textile Museum, George Washington University - DSC09646.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Talismanic_shirt%2C_Burma%2C_probably_Mandalay%2C_19th_century_AD%2C_cotton%2C_view_2_-_Textile_Museum%2C_George_Washington_University_-_DSC09646.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48618971",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Daderot",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Exhibit in the Textile Museum, George Washington University, Washington, DC, USA. Photography was permitted in the museu",
+   "sha256": "94e942c5098a85745fcec1560ef6dd88c2309b8d3217d78807dbd1f5e15811aa",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "in-yantra/in-yantra-talismanic-shirt-burma-probably-mandalay-2e95de.jpg",
+   "source": "commons",
+   "title": "File:Talismanic shirt, Burma, probably Mandalay, 19th century AD, cotton, view 3 - Textile Museum, George Washington University - DSC09649.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Talismanic_shirt%2C_Burma%2C_probably_Mandalay%2C_19th_century_AD%2C_cotton%2C_view_3_-_Textile_Museum%2C_George_Washington_University_-_DSC09649.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=48618972",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Daderot",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Exhibit in the Textile Museum, George Washington University, Washington, DC, USA. Photography was permitted in the museu",
+   "sha256": "1581e0e522bb6781b4b598ef98a1cbbf1b51ead9f2e7cdf02bcf6874b42ecfc4",
+   "width": 5472,
+   "height": 3648
+  },
+  {
+   "file": "in-yantra/in-yantra-ka-gee-and-his-client-b93cd0.jpg",
+   "source": "commons",
+   "title": "File:Ka Gee and his client.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ka_Gee_and_his_client.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=117586786",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Tun Dipa",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Ka Gee reintroduces the Myanmar traditional art of Htoe Kwin to the contemporary tattoo scene. Ironically, the client wh",
+   "sha256": "334c4878a9f388243db116e6d2112441761f5ead369b00367f3c262c88c0f13e",
+   "width": 1365,
+   "height": 2048
+  },
+  {
+   "file": "in-yantra/in-yantra-yantra-amulets-0e4f37.jpg",
+   "source": "commons",
+   "title": "File:Yantra amulets.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yantra_amulets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=181969699",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Myanmar Wik",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — အန္တရာယ်ကင်းချမ်းသာကြွယ်ဝစေတဲ့မန္တရားအဆောင်",
+   "sha256": "907a855953520854f7fb93303a0551b11ab18ec4908dfa1d15f0be38bf8dbeab",
+   "width": 3060,
+   "height": 3060
+  },
+  {
+   "file": "in-yantra/in-yantra-yant-tattoo-69ae3b.jpg",
+   "source": "commons",
+   "title": "File:Yant-tattoo.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Yant-tattoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2732156",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sakyant at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Devotee of Wat Bang Pra covered in Yant Tattoos\n\nfotographer; Spencer Littlewood",
+   "sha256": "70421191202845f784a4a62323f7171a2a145f80fbb9f1d9658c291dc0874ddf",
+   "width": 524,
+   "height": 699
+  },
+  {
+   "file": "in-yantra/in-yantra-wat-bang-phra-bf756e.jpg",
+   "source": "commons",
+   "title": "File:Wat-bang-phra.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wat-bang-phra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2732163",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sakyant at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Hlwong Pi Nan tattooing Yant at Wat Bang Phra Temple",
+   "sha256": "af933b9e6bd8fe0f267bef3b33ffebc0fa7745876d7db7430854374b6fe883d6",
+   "width": 699,
+   "height": 524
+  },
+  {
+   "file": "in-yantra/in-yantra-hlwongpipant-josh-668f90.jpg",
+   "source": "commons",
+   "title": "File:Hlwongpipant-josh.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Hlwongpipant-josh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2732178",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sakyant at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Hlwong Pi Pant tattooing a Yant in Ang Tong Province.\n\nFotographer - Spencer Littlewood",
+   "sha256": "8cfcef9b034bf95b11c0c337b1d079c9bf271478a06c8f5d5a1b57f7f488898b",
+   "width": 640,
+   "height": 480
+  },
+  {
+   "file": "in-yantra/in-yantra-thai-tattoos-1-d91879.jpg",
+   "source": "commons",
+   "title": "File:Thai tattoos 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Thai_tattoos_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2941046",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Love Krittaya",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Thai tattoos (สักยันต์)",
+   "sha256": "599860b0f644ccedf9cb337c0e3faa1b8a6d1421324cf63fe7947b8d1aa3459c",
+   "width": 1024,
+   "height": 768
+  },
+  {
+   "file": "in-yantra/in-yantra-thai-tattoos-2-2f5a7f.jpg",
+   "source": "commons",
+   "title": "File:Thai tattoos 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Thai_tattoos_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2941054",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Love Krittaya",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Thai tattoos (สักยันต์)",
+   "sha256": "f7e5235d4c1c72dea632e6851f65e980086462462551f01d7be6e06fad33561a",
+   "width": 768,
+   "height": 1024
+  },
+  {
+   "file": "in-yantra/in-yantra-thai-tattoo-chiang-mai-2005-058-f5ae87.jpg",
+   "source": "commons",
+   "title": "File:Thai tattoo Chiang Mai 2005 058.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Thai_tattoo_Chiang_Mai_2005_058.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5789648",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "YashiWong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Thai tattoos. Chiang Mai 2005",
+   "sha256": "22f800ac8738d273a0864babb7234f0acfd9a2a715f924acd131d79578da390b",
+   "width": 1920,
+   "height": 2560
+  },
+  {
+   "file": "in-yantra/in-yantra-sak-yant-gow-yord-a79278.jpg",
+   "source": "commons",
+   "title": "File:Sak-yant-gow-yord.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sak-yant-gow-yord.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=15561392",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Mikhailovich",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Typical \"sak yant gow yord\" tattoo for use on Wikipedia's Yantra tattooing article",
+   "sha256": "f9a3631953f9b4f14fb58e0ff3255f12316ad551a37e2685fa6fd06509c1c1e4",
+   "width": 692,
+   "height": 665
+  },
+  {
+   "file": "in-yantra/in-yantra-needles-wat-bang-phra-4f64f7.jpg",
+   "source": "commons",
+   "title": "File:Needles Wat Bang Phra.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Needles_Wat_Bang_Phra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=55252880",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "User:Phydoughx",
+   "credit": "Own work by the original uploader",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — Tattpoing at Wat Bang Phra temple",
+   "sha256": "699fb35cf92a1597ec342132fa3562446a274e3ae8b6c0d0a1f2842b74e3520b",
+   "width": 2560,
+   "height": 1920
+  },
+  {
+   "file": "in-yantra/in-yantra-yant-tattoos2-b36833.jpg",
+   "source": "commons",
+   "title": "File:Yant-tattoos2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Yant-tattoos2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=61515050",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sakyant at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square)",
+   "sha256": "21b487deaf6b1a9a36d0fd23a1586cf17a9eee083b9091db4d24f31bdd061653",
+   "width": 450,
+   "height": 600
+  },
+  {
+   "file": "in-yantra/in-yantra-siam-society-bangkok-2017-07-25-073-a14a8a.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (073).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Siam_Society_-_Bangkok_-_2017-07-25_%28073%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443096",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra tattooing needles.",
+   "sha256": "f661379fe7fc0dc1c5993b6d64bf3ecd8f5a41665e3d70629e450950eb3a88ab",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "in-yantra/in-yantra-siam-society-bangkok-2017-07-25-074-6f58c8.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (074).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Siam_Society_-_Bangkok_-_2017-07-25_%28074%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443097",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra tattooing needles.",
+   "sha256": "9044c7e59569667cdad7b22c12b449a2e50474268752f3ea00f85c0bfa91d167",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "in-yantra/in-yantra-siam-society-bangkok-2017-07-25-075-47708c.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (075).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Siam_Society_-_Bangkok_-_2017-07-25_%28075%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443098",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra tattooing needles.",
+   "sha256": "9fa6ec2d86c8c157b5efccd86c1e958bfb4c2803d6e9657327d4d5a178cbc526",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "in-yantra/in-yantra-siam-society-bangkok-2017-07-25-076-9035a3.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (076).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Siam_Society_-_Bangkok_-_2017-07-25_%28076%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443100",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Traditional swords and yantra tattooing needles.",
+   "sha256": "50a26ccfbc94017d35354e684757d1807ff73eb5bd0a8bf06bbb091ae4ab6bb8",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "in-yantra/in-yantra-siam-society-bangkok-2017-07-25-078-2524b7.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (078).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Siam_Society_-_Bangkok_-_2017-07-25_%28078%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443101",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra tattooing model.",
+   "sha256": "ca055ed494e5902c0ae745764f2200e85e27c040df257dc00d75a7e8f8fd38f7",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "in-yantra/in-yantra-sak-yant-tattoo-performed-in-thailand-501739.jpg",
+   "source": "commons",
+   "title": "File:Sak Yant Tattoo performed in thailand.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Sak_Yant_Tattoo_performed_in_thailand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=92977566",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ryaninuk",
+   "credit": "bottom two by machine, top traditional method",
+   "view": "other",
+   "alt_th": "ยันต์พม่า",
+   "alt_en": "In (Burmese cabalistic square) — sak yant performed in thailand by ajarn nakhon pathom, bottom tattoo by Jirst tattoo pattaya and middle tattoo apple ink",
+   "sha256": "051997efd840eddba163babbd568f69ee277ec8c3d2492d2e721f4595a06bf28",
+   "width": 720,
+   "height": 960
+  }
+ ],
+ "text": {
+  "what_th": "ตารางยันต์ของพม่า เรียกว่า อิน แบ่งเป็นช่องใส่เลขและอักษร คำนวณจากวันเวลาเกิดของผู้รับ เขียนบนกระดาษหรือผ้า สลักบนโลหะ หรือสักลงบนผิว ถือกันว่าคุ้มครอง กันภัย และให้เมตตา",
+  "what_en": "The Burmese in: a cabalistic square whose cells hold numerals and letters, cast from the recipient's birth date and time by an in-saya or weikza of the in path. Drawn on paper or cloth, engraved on metal, or tattooed. The Burmese counterpart of the Thai yantra, with a grid where the Thai sheet has figures.",
+  "story_th": "สายวิชชาพม่าแบ่งเป็นหลายทาง ทางอินคือทางของตารางเลข ถือกันว่าแรงที่สุดคู่กับทางเหล็ก เล่ากันว่าอินที่ขีดไว้บนบ้านหรือต้นไม้ทำให้ฟ้าผ่าได้ อินจึงเป็นทั้งของคุ้มครองและของที่ต้องเขียนให้ถูก",
+  "story_en": "The weikza paths divide by medium: mercury, iron, medicine, and the in. The in path and the iron path are held the most powerful. The square is calculated from the wearer's birth date and time, and the tradition credits a square scratched on a house or tree with drawing lightning to it. That cuts both ways: an in protects, and an in written wrong is a hazard, which is why the square-master is a specialist.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง เก็บให้สะอาดและสูงเหมือนของมงคลทั่วไป",
+  "keeping_en": "Nobody home and nothing owed: an inscribed object, kept clean and high like any blessed thing. What matters is who wrote it and whether it was written for you."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-weikza",
+  "s:en-wiki-yantra-tattooing",
+  "s:my-wiki-in-talisman",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-weikza"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "impersonal inscribed object; Thai class applied across the border"
+   },
+   "names.th": {
+    "tier": "inference",
+    "note": "descriptive Thai gloss; no settled Thai term"
+   },
+   "names.other_scripts": {
+    "tier": "cited",
+    "source": "s:my-wiki-in-talisman"
+   },
+   "form": {
+    "tier": "cited",
+    "source": "s:en-wiki-weikza",
+    "note": "media list cited; shirt and pattern-book from Commons file descriptions"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:en-wiki-weikza"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-weikza"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "no Thai listing title carries ยันต์พม่า or อิน"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

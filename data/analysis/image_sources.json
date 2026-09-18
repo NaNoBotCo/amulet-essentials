@@ -1,0 +1,165 @@
+{
+ "built": "2026-09-03",
+ "question": "Which external sources hold free-to-use pictures of the catalogue's kinds, and what did each actually yield?",
+ "licence_rule": "Accepted: CC0, public domain, CC BY, CC BY-SA. Refused by validate.py: any NC or ND licence.",
+ "sources": [
+  {
+   "source": "Wikimedia Commons",
+   "access": "API, no key",
+   "licence": "per file; CC0/PD/BY/BY-SA harvested",
+   "probe": "systematic: 14 name/alias/extra terms × 87 kinds = ~1,200 searches; 9,387 free files returned, 1,735 naming a kind by loose match; re-scored with whole-word rules; 55 leads reviewed on contact sheets by eye",
+   "yield": "33 verified pictures for 13 kinds (incl. first pictures for hun-phayon, mit-mo, waan; +8 somdej; 4 Phra Kring; 3 Chiang Saen; 2 takrut tubes)",
+   "verdict": "the main vein; automated matching is unsafe (waan→Cantonese street names, rajah→pitcher plant, bua→Swedish church) so every pick was looked at"
+  },
+  {
+   "source": "Europeana (aggregator)",
+   "access": "API, demo key api2demo",
+   "licence": "filtered reusability=open",
+   "probe": "15 words × 17 places; 533 open records with media",
+   "yield": "8 CC0 photographs from the Swedish Museum of Ethnography's 1887 Bangkok purchases: 6 child's modesty plates (a NEW kind, จะปิ้ง), 1 takrut pair on its waist cord, 1 tied stack of yantra sheets",
+   "verdict": "one real find; the Dutch and Swedish world-culture museums' amulets are mostly Sulawesi, Borneo and Bali child amulets, not our kinds"
+  },
+  {
+   "source": "Smithsonian Open Access",
+   "access": "API, key held (api.data.gov)",
+   "licence": "CC0 flag per record",
+   "probe": "21 queries, 60 rows each",
+   "yield": "0 — CC0 hits are Chinese steles, Thai Buddha heads, Borobudur; 'amulet Thailand' returns 10 records, none an amulet with an image",
+   "verdict": "dead end for object-level kinds"
+  },
+  {
+   "source": "Metropolitan Museum",
+   "access": "API, no key",
+   "licence": "public domain flag",
+   "probe": "7 queries",
+   "yield": "kris/keris only (130), a kind already capped",
+   "verdict": "nothing new"
+  },
+  {
+   "source": "Cleveland Museum of Art",
+   "access": "API, no key, cc0=1",
+   "probe": "4 queries",
+   "yield": "0 amulet-scale objects (one Vishnu plaque)",
+   "verdict": "nothing"
+  },
+  {
+   "source": "Wellcome Collection",
+   "access": "API, no key, cc-by filter",
+   "probe": "7 queries",
+   "yield": "kris 62 (capped kind), 1 Malay amulet",
+   "verdict": "nothing new"
+  },
+  {
+   "source": "Internet Archive",
+   "access": "advancedsearch, no key",
+   "probe": "7 queries, image mediatype",
+   "yield": "0 CC-free items",
+   "verdict": "nothing"
+  },
+  {
+   "source": "Wikidata 'depicts' on Commons (haswbstatement:P180)",
+   "access": "API, no key",
+   "probe": "36 kinds mapped to QIDs by label search",
+   "yield": "0 usable — label search lands on wrong entities (a film, a village, a beetle); the right QIDs have no depicts files",
+   "verdict": "needs hand-curated QIDs to be worth anything"
+  },
+  {
+   "source": "Openverse (Flickr + museums aggregator)",
+   "access": "API; anonymous use blocked by a Cloudflare challenge after ~25 calls; registered key = 10,000/day, needs an email-verification click",
+   "probe": "26 count probes before the block",
+   "yield": "counts only: 'thai amulet' 32, 'amulet thailand' 40, 'phra somdej' 37, 'พระสมเด็จ' 21, 'tha phra chan' 19, 'burmese nat' 70, 'jimat' 22, 'kris dagger' 134, 'nang kwak' 7, 'takrut' 7, 'bagua mirror' 8 — CC0/BY/BY-SA, mostly Flickr photographs not on Commons",
+   "verdict": "the largest untapped pool of amateur photographs of amulets in hand and on stalls; blocked on one free registration (Nan)"
+  },
+  {
+   "source": "Flickr API directly",
+   "access": "key required (free)",
+   "yield": "same pool as above",
+   "verdict": "alternative to Openverse; one signup"
+  },
+  {
+   "source": "Unsplash / Pexels / Pixabay",
+   "access": "keys required (free)",
+   "licence": "their own free-to-use licences (not CC; commercial use allowed, resale barred)",
+   "yield": "unmeasured; likely a few dozen 'Thai amulet' stock photos",
+   "verdict": "would need the allowlist widened to their licences; Nan's call"
+  },
+  {
+   "source": "British Museum",
+   "access": "no API; site JS",
+   "licence": "CC BY-NC-SA 4.0",
+   "yield": "a large Thai amulet holding, unmeasured",
+   "verdict": "NC conflicts with the register's paid-claim revenue; excluded unless Nan decides otherwise"
+  },
+  {
+   "source": "Science Museum Group / Wellcome objects",
+   "licence": "CC BY-NC-SA",
+   "yield": "2,123 'amulet' objects, few Thai",
+   "verdict": "NC, excluded"
+  },
+  {
+   "source": "Penn Museum, Yale Peabody, Walters, LACMA",
+   "access": "no usable API (Cloudflare challenge / JS search)",
+   "verdict": "not probed further"
+  },
+  {
+   "source": "Old printed plates (Coedès 1926 'Siamese votive tablets', JSS)",
+   "licence": "public domain in Thailand (life+50) and the US (pre-1929); not in the EU until 2040",
+   "verdict": "usable with a jurisdiction note; not done — Nan's call"
+  }
+ ],
+ "state_after": {
+  "kinds": 88,
+  "pictures": 683,
+  "kinds_without_picture": 27,
+  "ids_without_picture": [
+   "bia-kae",
+   "chan-mak",
+   "jatukham",
+   "jenglot",
+   "kala-ta-diao",
+   "khiao-suea",
+   "khot-kala",
+   "lek-lai",
+   "luk-krok",
+   "luk-om",
+   "luk-sakot",
+   "nam-man-phrai",
+   "nang-phrai",
+   "phat-ban-menh",
+   "phaya-tao-ruean",
+   "phra-hu-yan",
+   "phra-khanaen",
+   "phra-khong",
+   "phra-phong-bai-lan",
+   "rup-lo",
+   "rup-suea",
+   "salika",
+   "si-phueng",
+   "susuk",
+   "tangkal",
+   "waen-phirot",
+   "wua-thanu"
+  ],
+  "note": "after the 2026-09-03 hunt"
+ },
+ "forks_for_nan": [
+  {
+   "fork": "Openverse or Flickr key",
+   "chore": "one free registration with an email-verification click",
+   "stakes": "unlocks the largest pool of CC photographs of amulets in hand, on stalls and in cases — the pictures a Lens arrival most resembles; without it the bank stays museum-and-Commons flavoured",
+   "worst_case_if_never": "nothing breaks; coverage of the 30 picture-less kinds stays at zero until Nan photographs them"
+  },
+  {
+   "fork": "Widen the allowlist to Unsplash/Pexels/Pixabay licences",
+   "stakes": "a few dozen glossy stock photos; licences are free-to-use but not CC, so the site's 'CC0/BY/BY-SA only' promise would need rewording"
+  },
+  {
+   "fork": "Admit CC BY-NC-SA (British Museum, SMG)",
+   "stakes": "museum-grade Thai amulet photographs; conflicts with dealer-paid claims on the register"
+  },
+  {
+   "fork": "Nan's own photographs",
+   "stakes": "the strongest bank possible and the only source for the 30 kinds nobody has photographed freely — a phone camera and an afternoon at Tha Phra Chan"
+  }
+ ]
+}

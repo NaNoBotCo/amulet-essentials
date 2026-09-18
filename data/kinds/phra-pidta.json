@@ -1,0 +1,236 @@
+{
+ "schema": 1,
+ "id": "phra-pidta",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระปิดตา",
+  "roman": "phra pidta",
+  "en": "Phra Pidta (eyes-covered Buddha)",
+  "aliases": {
+   "th": [
+    "ปิดตา",
+    "พระภควัม",
+    "พระภควัมบดี",
+    "ปิดทวารทั้งเก้า",
+    "พระปิดตามหาอุตม์"
+   ],
+   "roman": [
+    "phra pid ta",
+    "pidta",
+    "phakawam",
+    "phra pakawam"
+   ],
+   "en": [
+    "closed-eyes Buddha",
+    "Phra Pakawam"
+   ]
+  }
+ },
+ "region": [
+  "th-central",
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "kambang",
+   "khong_kraphan",
+   "khlaeo_khlat",
+   "maha_ut",
+   "chok_lap"
+  ],
+  "materials": [
+   "nuea_phong",
+   "nuea_loha",
+   "takua"
+  ],
+  "figures": [
+   "buddha",
+   "human"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปนั่งขัดสมาธิ ยกมือทั้งสองปิดหน้า บางแบบมีหลายมือปิดหู ปิดทวาร (ปิดทวารทั้งเก้า) เนื้อผงคลุกรักหรือโลหะหล่อ",
+  "shape_en": "A seated cross-legged figure lifting both hands over its face; the nine-gate variant adds arms that cover the ears and the lower body. Pressed powder (often lacquer-bound) or cast metal; older treatise pieces are carved",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ ตำราให้อมไว้ในปากเมื่อออกเดินทาง",
+  "wearable_en": "Worn at the neck in a case; the treatise has the bearer hold it in the cheek when travelling",
+  "obverse_th": "รูปนั่ง มือปิดตา ไม่เห็นใบหน้า",
+  "obverse_en": "The seated figure with hands over the eyes; no face is shown",
+  "reverse_th": "เรียบ หรือลงยันต์ บางองค์อุดผงหรือตะกรุดที่ก้น",
+  "reverse_en": "Plain or inscribed with a yantra; some carry a filled cavity or a takrut in the base",
+  "notes_en": "No single size: pendant pieces run from thumbnail to matchbox. The treatise fixes carved pieces at one angkuli (finger-joint) tall."
+ },
+ "iconography": [
+  {
+   "th": "มือปิดตา / ปิดหน้า",
+   "en": "hands covering the eyes or the whole face"
+  },
+  {
+   "th": "ปิดทวารทั้งเก้า — มือหลายคู่ปิดตา หู จมูก ปาก และทวารล่าง",
+   "en": "nine gates closed: several pairs of arms sealing eyes, ears, nose, mouth and the lower openings"
+  },
+  {
+   "th": "รูปพระสังกัจจายน์ อ้วน ท้องพลุ้ย",
+   "en": "the stout, pot-bellied body of Phra Sangkachai (Mahakaccayana), whom the figure is held to depict"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตำราสร้างเครื่องรางของขลัง (ตำราสร้างพระภควัมบดี ๙ แบบ) · สำนักที่วงการยกให้ เช่น หลวงพ่อแก้ว วัดเครือวัลย์",
+  "maker_en": "The amulet-making treatise gives nine Phakawambodi recipes; the trade's named lineages include Luang Pho Kaeo of Wat Khruea Wan (Chachoengsao) and Luang Pho To of Wat Thong, early Rattanakosin",
+  "era_th": "ยุคต้นเป็นโลหะหล่อ ยุคหลังเป็นเนื้อผง",
+  "era_en": "Early pieces cast metal, later ones pressed powder",
+  "place_th": "ประเพณีภาคกลาง",
+  "place_en": "Central Thai tradition",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "มือปิดตาหรือปิดหน้า ไม่มีใบหน้าให้เห็น — คือลักษณะจำแนก",
+   "en": "The hands over the face are the kind's whole identity; a figure with a visible face is not a pidta",
+   "source": "s:th-wiki-pidta",
+   "tier": "cited"
+  },
+  {
+   "th": "แบบปิดทวารทั้งเก้ามีแขนมากกว่าสองข้าง",
+   "en": "The nine-gate type has more than two arms; count them",
+   "source": "s:th-wiki-pidta",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อผงมักคลุกรัก สีดำหรือน้ำตาลเข้ม ต่างจากผงขาวของพระสมเด็จ",
+   "en": "Powder bodies are usually lacquer-bound and dark brown to black, unlike the white somdej powder; metal ones are cast lead, bronze or alloy",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ตำราให้ล้วงก้นบรรจุยันต์และยา อุดด้วยชันโรง แล้วลงรักปิดทอง — ดูรอยอุดใต้ฐาน",
+   "en": "The treatise hollows the base, packs in a yantra and ground medicine, seals it with stingless-bee resin and lacquers and gilds the piece; a plugged base and gilt-over-lacquer are the marks of that recipe",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตำรากำหนดสูงหนึ่งองคุลี",
+   "en": "Carved treatise pieces are one finger-joint tall",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จเห็นหน้า นั่งในซุ้ม เนื้อผงขาว · พระปิดตาไม่เห็นหน้า เนื้อผงดำหรือโลหะ",
+   "tell_en": "A somdej shows its face inside an arch on a white tablet; a pidta hides its face and is usually a dark lacquered powder or a metal casting"
+  },
+  {
+   "id": "phra-kring",
+   "tell_th": "พระกริ่งมือลงมารวิชัย มีเม็ดกริ่ง · พระปิดตามือปิดหน้า",
+   "tell_en": "A kring's hands are in the earth-touching pose and it chimes; a pidta's hands are over its face"
+  },
+  {
+   "id": "rup-lersi",
+   "tell_th": "ฤๅษีมีหนวดเครา สวมหนังเสือ หน้าเปิด · พระปิดตาปิดหน้า",
+   "tell_en": "A lersi has a beard, a topknot or tiger skin and an open face; a pidta has none of these and covers its face"
+  }
+ ],
+ "market": {
+  "search": [
+   "ปิดตา"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:ปิดตาไก่.jpg"
+  ],
+  "wanted_en": "One free file only (a powder pidta). Needed: a nine-gate metal piece front and side showing the extra arms, and a base view of a plugged cavity"
+ },
+ "images": [
+  {
+   "file": "phra-pidta/phra-pidta-jpg-9e842a.jpg",
+   "source": "commons",
+   "title": "File:ปิดตาไก่.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E0%B8%9B%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B2%E0%B9%84%E0%B8%81%E0%B9%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=57309281",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "หลวงปู่วิเวียร",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระปิดตา",
+   "alt_en": "Phra Pidta (eyes-covered Buddha) — พระผงปิดตา",
+   "sha256": "c24e2c3cc05df5b19fb1a264368e0f7f6b36dfdd98daaef969cc82ff69fe7b90",
+   "width": 671,
+   "height": 894,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "รูปนั่งยกมือปิดตาหรือปิดหน้า — ปิดทวารไม่ให้กิเลสและอันตรายเข้า ถือกันว่าเป็นพระสังกัจจายน์ เนื้อผงคลุกรักหรือโลหะหล่อ ใช้ทางกำบัง คงกระพัน และโชคลาภที่มาเงียบๆ",
+  "what_en": "A figure with hands over its eyes — the shut-away senses. Pressed powder or cast metal; worked for warding and for wealth that slips past notice.",
+  "story_th": "ตำราสร้างเครื่องรางของขลังเรียกว่าพระภควัมบดี ให้ไว้เก้าแบบ วัสดุคือเขี้ยวหมูตัน รากรักซ้อน กาฝากโพธิ์ กาฝากชุมแสง และวัสดุอื่นที่ไม่นำมาลงที่นี่ แกะสูงหนึ่งองคุลี ล้วงก้นใส่ยันต์กับยาบด อุดชันโรง ลงรักปิดทอง บางแบบห่อด้วยตะกั่วลงคาถา แช่น้ำมันหอมในขันสัมฤทธิ์เสกจนพระลุกขึ้นนั่ง ใช้ทางกำบัง คงกระพัน แคล้วคลาด และปิดปากคน",
+  "story_en": "The treatise calls it Phra Phakawambodi and gives nine recipes. The figure is carved from a solid pig's tusk, from the root of the rak-son vine on the east side, from mistletoe of a Bodhi or chumsaeng tree, or from a material not reproduced here, one finger-joint tall; the base is hollowed, a yantra and ground 'sleeping-leaf' medicine go in, stingless-bee resin seals it, and the piece is lacquered and gilded. One version wraps three figures — eyes, ears, mouth each covered — in thin lead inscribed nga-ya-na-ma; another lays the figure in fragrant oil in a bronze bowl and recites until it 'rises up and sits'. Uses named are concealment, invulnerability, evasion, and shutting the mouths of those who see you. Wikipedia's account is the gentler one: the figure is Phra Sangkachai entering cessation, the nine gates closed against defilement, later pressed in powder by named Rattanakosin masters.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง — วัสดุตามตำราเป็นวัสดุ ไม่ใช่ผู้อยู่",
+  "keeping_en": "Nobody home, nothing owed: a phra khrueang. Whatever the treatise carves it from is material, not a resident; the vault keeps the kind in the Buddha-amulet class."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:ms6983",
+  "s:th-wiki-pidta",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "bilingual.md lines 1600–1765 (printed pp. 28–33), ตำราสร้างพระภควัมบดี แบบที่ ๑–๙"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-pidta"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-pidta",
+    "note": "treatise recipes: s:ms6983"
+   },
+   "axes.functions": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "kambang / khong_kraphan / khlaeo_khlat from the treatise; maha_ut and chok_lap are trade attributions"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

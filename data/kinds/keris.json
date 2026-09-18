@@ -1,0 +1,626 @@
+{
+ "schema": 1,
+ "level": "kind",
+ "parent": null,
+ "id": "keris",
+ "names": {
+  "th": "กริช",
+  "roman": "keris",
+  "en": "Keris / kris (the heirloom dagger)",
+  "aliases": {
+   "th": [
+    "กริชมลายู",
+    "กริชชวา",
+    "กริชปัตตานี"
+   ],
+   "roman": [
+    "kris",
+    "kriss",
+    "creese",
+    "dhuwung",
+    "wangkingan",
+    "karih"
+   ],
+   "en": [
+    "kris dagger",
+    "pusaka blade"
+   ]
+  },
+  "other_scripts": {
+   "ms": "كريس (Jawi) · keris",
+   "id": "keris",
+   "jv": "ꦏꦼꦫꦶꦱ꧀ · keris (ngoko) / dhuwung (krama)"
+  }
+ },
+ "region": [
+  "id",
+  "my",
+  "th-south",
+  "sg"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": [
+   "object"
+  ]
+ },
+ "form": {
+  "type": "blade",
+  "shape_th": "มีดสองคมโคนกว้างไม่สมมาตร ใบตรงหรือคด (ลุก) จำนวนคดเป็นเลขคี่ ลายพามอร์จากการตีเหล็กซ้อนชั้น ด้ามงอ ฝักไม้",
+  "shape_en": "A double-edged dagger with a wide, asymmetric base, blade straight or waved (luk, always an odd count), the surface pattern-welded (pamor) from layered iron and nickel, a curved pistol-grip hilt and a wooden sheath.",
+  "size_mm": null,
+  "wearable_th": "เหน็บเอวด้านหลัง (ชวา บาหลี) หรือด้านหน้า (บูกิส มลายู) ในบ้านตั้งบูชาในที่สูง",
+  "wearable_en": "Worn at the waist — at the back in Java and Bali, at the front among Bugis and Malays; kept at home on a high shelf or in a pusaka chest.",
+  "obverse_th": "ใบ (wilah) โคน (ganja) เดือย (pesi) ด้าม (hulu/ukiran) ฝัก (warangka) ปลอกโลหะ (pendok)",
+  "obverse_en": "Parts: wilah (blade), ganja (crosspiece at the base), pesi (tang), hulu or ukiran (hilt), warangka (sheath), pendok (metal sheath cover), mendak (hilt ring).",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Blade length runs from roughly 15 to 50 inches per en.wikipedia — too wide a spread for a typical size; left null. The Thai กริช of Pattani and Songkhla is the same object in the southern Malay tradition, which is why th-south is a region here."
+ },
+ "iconography": [
+  {
+   "th": "ลายพามอร์ — beras wutah, udan mas, kembang kacang ฯลฯ ราว ๖๐ แบบ",
+   "en": "Pamor patterns, some 60 named — beras wutah (spilled rice), udan mas (golden rain), kembang kacang"
+  },
+  {
+   "th": "ทรงใบ (dhapur) ตามจำนวนคด: jalak ตรง · jangkung ๓ · sempana ๗ · sengkelat ๑๓",
+   "en": "Dhapur, the blade type by luk count: jalak (straight), jangkung (3), sempana (7), sengkelat (13)"
+  },
+  {
+   "th": "ด้ามรูปเทวดานั่ง (บาหลี) นกทะเล (สุลาเวสี) หรือด้ามนามธรรม (ชวา มลายู)",
+   "en": "Hilts as a seated deity (Bali), a seabird (Sulawesi), or an abstracted figure (Java, Malay peninsula)"
+  },
+  {
+   "th": "นาคทอดตัวตามใบ (keris naga)",
+   "en": "A naga running the length of the blade, often gilt (keris naga)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "เอิมปู (empu) ช่างตีที่ต้องมีทั้งฝีมือและบารมี",
+  "maker_en": "The empu, a smith expected to hold technical skill and spiritual standing together; Javanese tradition credits him with literature, history and the occult besides",
+  "era_th": "ชวาโบราณ; จารึกราว พ.ศ. ๑๔๔๔–๑๔๔๗ กล่าวถึงกริช; รูปแบบชัดเจนสมัยมัชปาหิต",
+  "era_en": "Old Java: inscriptions of 901–904 CE name keris among offerings (id.wikipedia); the recognisable form is attested by 1361 under Majapahit (en.wikipedia). UNESCO intangible heritage list, 2008.",
+  "place_th": "ชวา แล้วแพร่ทั่วหมู่เกาะ คาบสมุทร และภาคใต้ของไทย",
+  "place_en": "Java, then across the archipelago, the peninsula and southern Thailand",
+  "first_attested": "Old Javanese inscriptions 901–904 CE (id.wikipedia, Keris); Majapahit, 1361 (en.wikipedia, Kris)"
+ },
+ "diagnostics": [
+  {
+   "th": "โคนใบกว้างข้างเดียว (ไม่สมมาตร) มี ganja เป็นชิ้นขวาง",
+   "en": "The base is asymmetric — one side flares wider — with the ganja as a separate crosspiece",
+   "source": "s:en-wiki-kris",
+   "tier": "cited"
+  },
+  {
+   "th": "นับคด: ต้องเป็นเลขคี่ ๓–๑๓ ปกติ บางเล่มถึง ๒๙",
+   "en": "Count the waves: always odd, usually 3 to 13, rarely up to 29. An even count is a mark against the type",
+   "source": "s:en-wiki-kris",
+   "tier": "cited"
+  },
+  {
+   "th": "พามอร์คือชั้นเหล็กกับนิกเกิล ปรากฏหลังกัด warangan (สารหนู) กับน้ำมะนาว",
+   "en": "Pamor is laminated iron and nickelous iron, brought up by etching with warangan (arsenic) and lime juice; a painted-on pattern has no depth under a loupe",
+   "source": "s:id-wiki-keris",
+   "tier": "cited"
+  },
+  {
+   "th": "เดือย (pesi) เสียบเข้าด้าม ถอดได้ ด้ามกับฝักมักคนละอายุกับใบ",
+   "en": "The tang (pesi) seats in the hilt and comes apart; hilt and sheath are routinely younger than the blade, so date the blade alone",
+   "source": "s:id-wiki-keris",
+   "tier": "cited"
+  },
+  {
+   "th": "tangguh คือการประมาณยุค/ถิ่นของใบ ซ้อนทับกันมาก",
+   "en": "Tangguh is the trade's dating of a blade by period and region; the categories overlap and the source says so",
+   "source": "s:id-wiki-keris",
+   "tier": "cited"
+  },
+  {
+   "th": "ชวา/บาหลีเหน็บหลัง บูกิส/มลายูเหน็บหน้า — ท่าใส่บอกถิ่น",
+   "en": "Worn at the back in Java and Bali, at the front by Bugis and Malays — how it is worn in a photograph places it",
+   "source": "s:id-wiki-keris",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "mit-mo",
+   "tell_th": "มีดหมอเป็นมีดพิธีของหมอไทย ใบตรง ด้ามยันต์ ใช้ทำของ · กริชเป็นมรดกประจำตระกูล ใบไม่สมมาตร มีพามอร์",
+   "tell_en": "A mit mo is a Thai ritual knife the maker uses on other objects — straight blade, yantra on the hilt; a keris is an heirloom in its own right, asymmetric base, pamor, an odd count of waves."
+  },
+  {
+   "id": "jimat",
+   "tell_th": "จิมัตคือตัวเขียนพกได้ · กริชคือใบมีดที่ถือว่ามีทัวะห์ในตัว",
+   "tell_en": "A jimat is carried writing; a keris is a blade held to carry its own tuah. One is scripture, the other is a pusaka."
+  },
+  {
+   "id": "mustika",
+   "tell_th": "หินมุสติกาบางทีฝังในด้ามกริช — หินเป็นมุสติกา เล่มเป็นกริช",
+   "tell_en": "A mustika stone is sometimes set into a keris hilt or ring; the stone is the mustika, the blade is the keris, and each carries its own claim."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Kris",
+   "Category:Kris of Bali",
+   "Category:Kris hilts",
+   "Category:Kris sheaths"
+  ],
+  "commons_files": [
+   "File:Javanese Keris (DSCF0867).jpg",
+   "File:Balinese Kris (DSCF0885).jpg",
+   "File:Keris Alang.jpg",
+   "File:Kris pamor.jpg",
+   "File:Jamasan Pusaka.jpg",
+   "File:Alat-alatan untuk mencuci keris – Muzium Negeri Terengganu, K. Terengganu, Terengganu.jpg"
+  ],
+  "wanted_en": "Commons is rich (Category:Kris, hundreds of files). Listed: a Javanese five-luk blade, a Balinese deity-hilt piece, an 18th-century Pahang keris alang, a pamor close-up, the jamasan washing rite, and the Terengganu museum's cleaning kit (CC0). Still wanted: a Pattani/Songkhla กริช with its distinctive hilt, photographed obverse and with sheath."
+ },
+ "images": [
+  {
+   "file": "keris/keris-javanese-keris-dscf0867-1bb8b3.jpg",
+   "source": "commons",
+   "title": "File:Javanese Keris (DSCF0867).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Javanese_Keris_%28DSCF0867%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=181810364",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Yu Chu Chin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — The blade of this Javanese Keris has five bends (luk) and is \"beras tumpah\" damascened (pamor). The hilt features a coat",
+   "sha256": "1b35cc871b0d52fb3f2d681923a8ede9bd6ac3e9c7bef1eabeb077fe6f5872a1",
+   "width": 5152,
+   "height": 6950,
+   "primary": true
+  },
+  {
+   "file": "keris/keris-kris-pamor-c719d0.jpg",
+   "source": "commons",
+   "title": "File:Kris pamor.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kris_pamor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=34361861",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "de:User:Gwes",
+   "credit": "This file was derived from:  Kris bali (landscape version).jpg:",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Cropped image of a Kris dagger from Yogyakarta (Java)- Dapur Carubuk",
+   "sha256": "07492c34c8435b1d6aca1af7559466d2b4ab31d12a62626807a041af4ca49598",
+   "width": 855,
+   "height": 246
+  },
+  {
+   "file": "keris/keris-keris-alang-b1d622.jpg",
+   "source": "commons",
+   "title": "File:Keris Alang.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Keris_Alang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=68479074",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Orhanghazi",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Keris Alang of Pahang. This is a ceremonial Keris awarded by the Sultan to territorial chiefs to represent the power and",
+   "sha256": "40e1b4b95ce34aec4708c7454fd0a55fa9a3321d0965e44cdbbc04a2f10f80e4",
+   "width": 2450,
+   "height": 1657
+  },
+  {
+   "file": "keris/keris-jamasan-pusaka-ae161f.jpg",
+   "source": "commons",
+   "title": "File:Jamasan Pusaka.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Jamasan_Pusaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=109490267",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "DANAR ISWOYO",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Jamasan Pusaka is a hereditary ritual from the ancestors.  Jamasan Pusaka is a ritual of purifying or cleaning inherited",
+   "sha256": "14f9810b812a458a66b9e74b28415ada90db233af44f719bb4425b95fdf017bc",
+   "width": 3872,
+   "height": 2486
+  },
+  {
+   "file": "keris/keris-alat-alatan-untuk-mencuci-keris-muzium-n-14c998.jpg",
+   "source": "commons",
+   "title": "File:Alat-alatan untuk mencuci keris – Muzium Negeri Terengganu, K. Terengganu, Terengganu.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Alat-alatan_untuk_mencuci_keris_%E2%80%93_Muzium_Negeri_Terengganu%2C_K._Terengganu%2C_Terengganu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=146213450",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Farishhamka",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Alatan untuk mencuci keris yang dipamerkan di Muzium Negeri Terengganu.",
+   "sha256": "639a1ec04de5b1dbab038027c67f06ef06f4e3210c358215653fa6bc05bd70e1",
+   "width": 2448,
+   "height": 3264
+  },
+  {
+   "file": "keris/keris-balinese-kris-dscf0885-f48ce3.jpg",
+   "source": "commons",
+   "title": "File:Balinese Kris (DSCF0885).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Balinese_Kris_%28DSCF0885%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=181857524",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Yu Chu Chin",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — The hilt has a copper ring at its base and is shaped like a squatting Hindu deity. The crosspiece is made of ivory and h",
+   "sha256": "7048f8599d50103be9e78767a63e1d8b89facb8941cd8c74460f49b2b7656734",
+   "width": 5152,
+   "height": 7728
+  },
+  {
+   "file": "keris/keris-hausaltar-kris-helfferich-sammlung-0f1e4f.jpg",
+   "source": "commons",
+   "title": "File:Hausaltar Kris Helfferich-Sammlung.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hausaltar_Kris_Helfferich-Sammlung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=561238",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Immanuel Giel",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — altar in the East Asia Institute of Ludwigshafen in Germany",
+   "sha256": "8b22f85c87a334d716f96d8d9e012488a3ef81d910c0af0866dfce0a42e28d59",
+   "width": 948,
+   "height": 1106
+  },
+  {
+   "file": "keris/keris-hasekuradaggers-31780f.jpg",
+   "source": "commons",
+   "title": "File:HasekuraDaggers.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/HasekuraDaggers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=892900",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "No machine-readable author provided. World Imaging assumed (based on copyright claims).",
+   "credit": "No machine-readable source provided. Own work assumed (based on copyright claims).",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Kris and Kastane (acquired in the Philippines), presented by Hasekura to Date Masamune upon his return. Sendai City Muse",
+   "sha256": "ef3b70b3c13523241b0ecf302e7d69f20e681a34eba3a745fe63628485fbb17e",
+   "width": 1431,
+   "height": 837
+  },
+  {
+   "file": "keris/keris-3-kris-and-scabbard-sf-asian-art-museum-d7e132.jpg",
+   "source": "commons",
+   "title": "File:3 kris and scabbard SF Asian Art Museum.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/3_kris_and_scabbard_SF_Asian_Art_Museum.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3596723",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Three kris and a scabbard on display at the Asian Art Museum in San Francisco, California.",
+   "sha256": "a5a0dd916122b4a1b600db18bd67748014aa4f86243863a870357ad5b11e2dae",
+   "width": 1566,
+   "height": 2128
+  },
+  {
+   "file": "keris/keris-basih-weapons-4bcf83.jpg",
+   "source": "commons",
+   "title": "File:Basih weapons.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Basih_weapons.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=4538991",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Jjarivera",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Examples of finely crafted Moro blades made from Basilan \"basih\" (iron).",
+   "sha256": "d5c8b685ff891ed4ffdd98c2682bf84dc29cb6da67d7c451687aee878d0c7f1f",
+   "width": 800,
+   "height": 533
+  },
+  {
+   "file": "keris/keris-benda-pusaka-e59258.jpg",
+   "source": "commons",
+   "title": "File:Benda Pusaka.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Benda_Pusaka.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=8338802",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Mahsuri",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Keris Mahsuri",
+   "sha256": "9f72b32cbd100952dbe90ffb6575adcb3261b02f37bfb81e4b0c27b0fd3839d7",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-kris-met-houten-g-5bc7d9.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Kris met houten greep en houten schede TMnr A-3916c.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/COLLECTIE_TROPENMUSEUM_Kris_met_houten_greep_en_houten_schede_TMnr_A-3916c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11029381",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Kris. Kris met houten greep en houten schede",
+   "sha256": "f363f709d32697ca9e379e6fe1bc146927fc91156458405911f3b3734efb670a",
+   "width": 800,
+   "height": 620
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-kris-met-houten-g-8d81c2.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Kris met houten greep en houten schede TMnr A-3929.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/COLLECTIE_TROPENMUSEUM_Kris_met_houten_greep_en_houten_schede_TMnr_A-3929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11029384",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Kris. Kris met houten greep en houten schede",
+   "sha256": "14ab7264b5c3558d7917de6b9033a57bb00bb865ac406c157e0a01fda2204abc",
+   "width": 800,
+   "height": 385
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-kris-met-koperen-32a75e.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Kris met koperen greep zonder schede TMnr 61-83.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/COLLECTIE_TROPENMUSEUM_Kris_met_koperen_greep_zonder_schede_TMnr_61-83.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11029388",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Kris. Kris met koperen greep zonder schede",
+   "sha256": "f903c992c77c24dbd62347153582e5e0139f162d67ff7b966e3dbfb58a8f015d",
+   "width": 800,
+   "height": 496
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-kris-met-schede-t-03410b.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Kris met schede TMnr A-1448.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/COLLECTIE_TROPENMUSEUM_Kris_met_schede_TMnr_A-1448.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11029394",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Kris met schede",
+   "sha256": "4c9f5b2a21209672280cd598b6ed49d6a75577d8887266b040146349b9053815",
+   "width": 600,
+   "height": 800
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-staatsiekris-met-fcda2e.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Staatsiekris met versierde schede TMnr A-5864.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/COLLECTIE_TROPENMUSEUM_Staatsiekris_met_versierde_schede_TMnr_A-5864.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11031942",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Ceremonial kris with sheath",
+   "sha256": "cd032d6ca3647a21b4afcf0a19d9468fa8afefa04f5885158c0a628d9d2a9857",
+   "width": 480,
+   "height": 800
+  },
+  {
+   "file": "keris/keris-collectie-tropenmuseum-stalen-kris-met-h-efce2d.jpg",
+   "source": "commons",
+   "title": "File:COLLECTIE TROPENMUSEUM Stalen kris met houten greep en schede TMnr 214-61.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/COLLECTIE_TROPENMUSEUM_Stalen_kris_met_houten_greep_en_schede_TMnr_214-61.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11031945",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Tropenmuseum",
+   "credit": "Wereldmuseum Amsterdam",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Dolk. Stalen kris met houten greep en schede",
+   "sha256": "1a4512c68480258a445d61e7f5b08a8e22c027e4f1a6a4823d2f620fa2f12f5c",
+   "width": 800,
+   "height": 408
+  },
+  {
+   "file": "keris/keris-begriffe-des-kris-klingenbereiche-34d67b.jpg",
+   "source": "commons",
+   "title": "File:Begriffe des Kris, Klingenbereiche.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Begriffe_des_Kris%2C_Klingenbereiche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12089867",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Parts of the keris 1",
+   "sha256": "105d39d33c13953b9bfc5dac323054a49cd6081255dfa8be4776d846f008a772",
+   "width": 672,
+   "height": 1120
+  },
+  {
+   "file": "keris/keris-begriffe-des-kris-klingenbasis-a58fe4.jpg",
+   "source": "commons",
+   "title": "File:Begriffe des Kris, Klingenbasis.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Begriffe_des_Kris%2C_Klingenbasis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12089887",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Parts of the keris 2",
+   "sha256": "f515b3c238cbc5e201390c23056dfb84c01e1861cfe205cff3887471db4a18c6",
+   "width": 768,
+   "height": 944
+  },
+  {
+   "file": "keris/keris-begriffe-des-kris-querst-ck-15aeff.jpg",
+   "source": "commons",
+   "title": "File:Begriffe des Kris, Querstück.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Begriffe_des_Kris%2C_Querst%C3%BCck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12089920",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Parts of the keris 4",
+   "sha256": "e2121fed16658e144f75781cac85c737679360e1c027aca803f90b4e88d98272",
+   "width": 768,
+   "height": 960
+  },
+  {
+   "file": "keris/keris-begriffe-des-kris-scheide-d341c5.jpg",
+   "source": "commons",
+   "title": "File:Begriffe des Kris, Scheide.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Begriffe_des_Kris%2C_Scheide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12089931",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Parts of the keris 5",
+   "sha256": "49ee6a5c4b3222c078bd293a38f69090d4b7fa431d4e135d54d9affbcaf9bcbd",
+   "width": 704,
+   "height": 832
+  },
+  {
+   "file": "keris/keris-keris-mendak-4e9052.jpg",
+   "source": "commons",
+   "title": "File:Keris Mendak.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Keris_Mendak.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12112253",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Keris Mendak with part names",
+   "sha256": "556d3823bd1f33d2cd51094bb01984cb332bddb762245c3331049c832d8454fb",
+   "width": 704,
+   "height": 560
+  },
+  {
+   "file": "keris/keris-benamungen-des-kris-heft-001-593cb4.jpg",
+   "source": "commons",
+   "title": "File:Benamungen des Kris-Heft 001.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Benamungen_des_Kris-Heft_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=12122569",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "MittlererWeg",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Parts of the keris hilt",
+   "sha256": "a53897aaef4a2dff7b82f83d501121920463b321e07842bab38f2a078e9a79d4",
+   "width": 544,
+   "height": 656
+  },
+  {
+   "file": "keris/keris-jualan-keris-3a756a.jpg",
+   "source": "commons",
+   "title": "File:Jualan keris.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jualan_keris.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=27696805",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ma Hzi Wong at Malay Wikipedia",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กริช",
+   "alt_en": "Keris / kris (the heirloom dagger) — Keris yang dijual di pasar tani.",
+   "sha256": "692a96b1b419069f7a2b2d5496715c78c67227b380685f61ab56f94ce48850c7",
+   "width": 1536,
+   "height": 2048
+  }
+ ],
+ "text": {
+  "what_th": "มีดสั้นสองคมของโลกมลายู-ชวา โคนไม่สมมาตร ใบตรงหรือคดเลขคี่ ลายพามอร์จากเหล็กซ้อนชั้น ถือเป็นปูซากา (มรดกศักดิ์สิทธิ์) ที่มีทัวะห์หรือ “ผู้อยู่” ในเล่ม ล้างน้ำมันปีละครั้ง ห้ามชักเล่น ห้ามชี้",
+  "what_en": "The double-edged dagger of the Malay-Javanese world: asymmetric base, straight or odd-waved blade, pattern-welded pamor. Kept as pusaka — a sanctified heirloom held to carry tuah, and in Javanese belief an isi or presence of its own — washed and oiled once a year, never drawn idly, never pointed.",
+  "story_th": "ตำนานชวาเล่าถึงกริชที่ขยับได้เองและฆ่าคนได้ตามใจ เจ้าของทดสอบความเข้ากันโดยนอนหนุนกริชไว้ใต้หมอนแล้วดูความฝัน ฝันร้ายคือไม่ถูกโฉลก ทุกปีในเดือนซูรอ (มุฮัรรอม) จะทำ jamasan: ล้างน้ำมันเก่ากับสนิมด้วยน้ำมะนาว มะกรูด หรือน้ำมะพร้าว กัดด้วย warangan ให้พามอร์ขึ้น แล้วชโลมน้ำมันหอมมะลิหรือจันทน์ ช่างตีคือ empu ผู้ต้องมีทั้งฝีมือและบารมี ยูเนสโกขึ้นทะเบียนมรดกภูมิปัญญาปี ๒๕๕๑",
+  "story_en": "Javanese legend has keris that move of their own will and kill at will; an owner tested the match by sleeping with the blade under the pillow and reading the dream — bad dreams meant the blade should go. Every year in Sura (Muharram) the jamasan strips old oil and rust with lime, noni or coconut water, re-etches the pamor with warangan, and lays down fresh jasmine or sandalwood oil. The empu who forged it was expected to be a spiritual as much as a technical master; pamor once used meteoric iron, now nickel. Pointing a keris at someone is held to foretell their death, which is why silat players touch the tip to the ground before a demonstration. UNESCO listed it in 2008.",
+  "keeping_th": "vault ไม่มีหมวด “ปูซากา” — ไม่ใช่เทพที่บูชา ไม่ใช่ผีที่เลี้ยง ไม่ใช่หุ่นที่ปลุก — จึงปล่อยหมวดว่าง ที่เจ้าของทำ: เก็บในที่สูง ล้าง-ชโลมน้ำมันปีละครั้ง (jamasan) ห้ามชักเล่น ห้ามชี้ ถ้าฝันร้ายให้ส่งต่อ",
+  "keeping_en": "Class null: the vault has no pusaka category — the keris is neither a venerated deva, a fed ghost, nor an animated servant, and khong_thammachat (inherent power) misses the isi belief. What the keeper owes is nonetheless specific: a high resting place, the yearly jamasan wash and oiling, never drawn for show, never pointed, and passed on if the dreams say the match is wrong. A keris whose history is unknown is, in its own tradition, a keris you sleep on before you keep."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-kris",
+  "s:id-wiki-keris",
+  "s:commons-kris"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-kris"
+  },
+  "fields": {
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:id-wiki-keris",
+    "note": "jamasan and empu detail from id.wikipedia; dream test and pointing taboo from en.wikipedia"
+   },
+   "axes": {
+    "tier": "inference",
+    "source": "s:vault-classes",
+    "note": "null: no pusaka class in the vault"
+   },
+   "form.wearable_en": {
+    "tier": "cited",
+    "source": "s:id-wiki-keris"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-kris",
+    "note": "licences checked per file 2026-09-02: CC BY-SA 4.0 / CC BY-SA 3.0 / CC0"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

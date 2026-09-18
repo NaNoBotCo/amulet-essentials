@@ -1,0 +1,214 @@
+{
+ "schema": 1,
+ "id": "somdet-chitralada",
+ "level": "variant",
+ "parent": "phra-somdet",
+ "names": {
+  "th": "พระสมเด็จจิตรลดา",
+  "roman": "phra somdet chitralada",
+  "en": "Phra Somdej Chitralada (the royal somdej)",
+  "aliases": {
+   "th": [
+    "สมเด็จจิตรลดา",
+    "พระกำลังแผ่นดิน"
+   ],
+   "roman": [
+    "somdej jitlada",
+    "somdet chitlada",
+    "phra kamlang phaendin"
+   ],
+   "en": [
+    "Jitlada amulet",
+    "King Rama IX somdej"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_phong",
+   "phong_phuttakhun",
+   "kesa"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "แผ่นผงอัดทรงสามเหลี่ยมหน้าจั่ว องค์พระนั่งสมาธิบนฐานบัวเก้ากลีบ สีน้ำตาลถึงเขียวเข้ม",
+  "shape_en": "An isosceles-triangle pressed tablet; the Buddha sits in meditation on a nine-petal lotus. Brown, tan, reddish-brown, dark brown or dark green",
+  "size_mm": [
+   20,
+   30,
+   null
+  ],
+  "wearable_th": "ห้อยคอ เลี่ยมกรอบ",
+  "wearable_en": "Worn at the neck, framed",
+  "obverse_th": "พระพุทธรูปปางสมาธิ ฐานบัวเก้ากลีบ ลักษณะคล้ายพระพุทธนวราชบพิตร",
+  "obverse_en": "Buddha in meditation on a nine-petal lotus, in the manner of Phra Phuttha Nawarat Bophit",
+  "reverse_th": "เรียบ",
+  "reverse_en": "Plain",
+  "notes_en": "Two sizes: large 20 × 30 mm, small 12 × 19 mm; size_mm gives the large. Depth not stated in the source."
+ },
+ "iconography": [
+  {
+   "th": "ปางสมาธิ",
+   "en": "meditation posture"
+  },
+  {
+   "th": "ฐานบัวเก้ากลีบ",
+   "en": "nine-petal lotus base"
+  },
+  {
+   "th": "ทรงสามเหลี่ยม",
+   "en": "triangular tablet"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช (รัชกาลที่ ๙) ทรงกดพิมพ์ด้วยพระหัตถ์",
+  "maker_en": "King Bhumibol Adulyadej (Rama IX), who pressed each piece by hand",
+  "era_th": "พ.ศ. ๒๕๐๘–๒๕๑๓",
+  "era_en": "BE 2508–2513 (1965–1970)",
+  "place_th": "พระตำหนักจิตรลดารโหฐาน กรุงเทพฯ",
+  "place_en": "Chitralada Villa, Bangkok — the name says where",
+  "first_attested": "BE 2508 (1965), start of distribution, per th.wikipedia พระสมเด็จจิตรลดา"
+ },
+ "diagnostics": [
+  {
+   "th": "ทรงสามเหลี่ยมหน้าจั่ว ไม่ใช่สี่เหลี่ยมอย่างพระสมเด็จทั่วไป",
+   "en": "An isosceles triangle, not the rectangle of the parent kind",
+   "source": "s:th-wiki-somdet-chitralada",
+   "tier": "cited"
+  },
+  {
+   "th": "ฐานบัวเก้ากลีบ นับได้",
+   "en": "A nine-petal lotus base; count the petals",
+   "source": "s:th-wiki-somdet-chitralada",
+   "tier": "cited"
+  },
+  {
+   "th": "สองขนาดเท่านั้น ใหญ่ ๒ × ๓ ซม. เล็ก ๑.๒ × ๑.๙ ซม.",
+   "en": "Two sizes only: 20 × 30 mm and 12 × 19 mm",
+   "source": "s:th-wiki-somdet-chitralada",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อสีน้ำตาลถึงเขียวเข้ม มีมวลสารหลากหลาย ไม่ใช่ผงขาว",
+   "en": "Brown to dark-green body with mixed inclusions, never the white somdej powder",
+   "source": "s:th-wiki-somdet-chitralada",
+   "tier": "cited"
+  },
+  {
+   "th": "ผู้รับได้รับเอกสารระบุชื่อ วันที่ และหมายเลข พร้อมรูปถ่าย",
+   "en": "Each recipient was given a certificate with name, date, serial number and photograph; the paper is part of the type",
+   "source": "s:th-wiki-somdet-chitralada",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จทั่วไปสี่เหลี่ยม ผงขาว ในซุ้ม · จิตรลดาสามเหลี่ยม เนื้อเข้ม ไม่มีซุ้ม",
+   "tell_en": "The parent kind is a white rectangle with the Buddha in an arch; the Chitralada is a dark triangle on a lotus with no arch"
+  },
+  {
+   "id": "phra-nang-phaya",
+   "tell_th": "นางพญาก็สามเหลี่ยม แต่เป็นเนื้อดินเผากรุพิษณุโลก ปางมารวิชัย",
+   "tell_en": "Nang Phaya is also triangular but is a fired-clay cache find from Phitsanulok in the earth-touching pose; the Chitralada is a 1960s powder tablet in meditation"
+  },
+  {
+   "id": "phra-phong-suphan",
+   "tell_th": "ผงสุพรรณสามเหลี่ยม เนื้อดิน กรุสุพรรณบุรี",
+   "tell_en": "Phong Suphan is a triangular clay cache tablet from Suphan Buri; the material and the century separate them"
+  }
+ ],
+ "market": {
+  "search": [
+   "จิตรลดา"
+  ],
+  "excludes": [],
+  "tier": "sian"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Phra Somdej jitlada (Buddha).jpg"
+  ],
+  "wanted_en": "Obverse and reverse of both sizes with a scale. The 2559 temple issue on Commons titled ทรงจิตรลดา is a later piece in the shape, not the royal one, and is not listed"
+ },
+ "images": [
+  {
+   "file": "somdet-chitralada/somdet-chitralada-phra-somdej-jitlada-buddha-8cc277.jpg",
+   "source": "commons",
+   "title": "File:Phra Somdej jitlada (Buddha).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Phra_Somdej_jitlada_%28Buddha%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7819524",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระสมเด็จจิตรลดา",
+   "alt_en": "Phra Somdej Chitralada (the royal somdej) — Phra Somdej jitlada (Buddha) made by King Bhumibol",
+   "sha256": "ec86160f5a0d760df7b111ea45505cab72d5966c7db42318d420173b8d89f39f",
+   "width": 1664,
+   "height": 2687,
+   "primary": true
+  }
+ ],
+ "text": {
+  "what_th": "พระสมเด็จทรงสามเหลี่ยมที่รัชกาลที่ ๙ ทรงสร้างและกดพิมพ์ด้วยพระหัตถ์ พระราชทานแก่ทหาร ตำรวจ ข้าราชการ และประชาชน ระหว่าง พ.ศ. ๒๕๐๘–๒๕๑๓ พร้อมเอกสารกำกับ",
+  "what_en": "The triangular somdej King Rama IX made and hand-pressed at Chitralada, given between 1965 and 1970 to soldiers, police, officials and civilians, each with a certificate.",
+  "story_th": "มวลสารมีผงจากพระพิมพ์ต่างๆ ดอกไม้แห้งจากมาลัยที่ทูลเกล้าฯ ถวาย เส้นพระเจ้า ดอกไม้จากเครื่องราชอิสริยาภรณ์ ดินและสมุนไพรจากสังเวชนียสถานในอินเดียและลังกา วัตถุมงคลจากทุกจังหวัด และน้ำจากแหล่งน้ำศักดิ์สิทธิ์ที่ใช้ในพระราชพิธีบรมราชาภิเษก ทรงกดพิมพ์เองจนดึก มีพิมพ์เล็ก ๔๐ องค์พระราชทานพระราชโอรสธิดา",
+  "story_en": "The mass pressed into it lists powder from various votive tablets, dried flowers from garlands presented to the King, strands of the royal hair, flowers from the regalia, soil and herbs from the Buddhist sites of India and Sri Lanka, sacred material from every Thai province, and water from the auspicious sources used at the coronation. The King pressed each piece himself, often late into the evening. Forty small pieces were made for the royal children; the rest went out with a certificate naming recipient, date and number.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง เอกสารกำกับคือส่วนหนึ่งของประวัติ",
+  "keeping_en": "Nobody home, nothing owed; a phra khrueang. The certificate travels with the piece and is its provenance."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:th-wiki-somdet-chitralada",
+  "s:commons-amulets-th"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-somdet-chitralada"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "inference",
+    "note": "given to soldiers and police; functions inferred from that, not stated in the source"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "no holding_key entry; sian tier because pieces move by certificate, not retail"
+   },
+   "form.reverse_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

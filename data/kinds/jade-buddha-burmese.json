@@ -1,0 +1,631 @@
+{
+ "schema": 1,
+ "id": "jade-buddha-burmese",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระหยกพม่า",
+  "roman": "kyauk sein hpaya",
+  "en": "Burmese jadeite Buddha pendant",
+  "aliases": {
+   "th": [
+    "จี้หยกพม่า",
+    "พระหยก",
+    "หยกพม่าแท้",
+    "พระหยกเจไดต์"
+   ],
+   "roman": [
+    "phra yok phama",
+    "jade Buddha",
+    "Burma jade Buddha",
+    "jadeite Buddha pendant"
+   ],
+   "en": [
+    "jade Buddha pendant",
+    "Burma jade amulet",
+    "jadeite Buddha"
+   ]
+  },
+  "other_scripts": {
+   "my": "ကျောက်စိမ်းဘုရား"
+  }
+ },
+ "region": [
+  "mm"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "chok_lap",
+   "khlaeo_khlat"
+  ],
+  "materials": [],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "จี้แกะสลักจากหยกเจไดต์ องค์พระนั่งหรือพระสังกัจจายน์ สีเขียว ขาว ม่วง มักเจาะรูร้อยเชือกหรือเลี่ยมทอง",
+  "shape_en": "A carved jadeite pendant — a seated Buddha, sometimes a Sangkachai or a reclining figure — green, white or lavender, drilled for a cord or set in a gold bail. Carved, not moulded; no two identical.",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอด้วยเชือกหรือเลี่ยมทอง",
+  "wearable_en": "Hung at the neck on a cord or in a gold frame",
+  "obverse_th": "องค์พระนูน",
+  "obverse_en": "The figure in relief",
+  "reverse_th": "เรียบขัดมัน",
+  "reverse_en": "Flat and polished",
+  "notes_en": "Materials axis left empty: the vault has no key for jade. The material is the record — jadeite, not nephrite, and untreated (A), bleached-and-polymer (B) or dyed (C)."
+ },
+ "iconography": [
+  {
+   "th": "พระพุทธรูปนั่งสมาธิ",
+   "en": "seated Buddha in meditation"
+  },
+  {
+   "th": "พระสังกัจจายน์",
+   "en": "Sangkachai, common in Thai listings of Burmese jade"
+  },
+  {
+   "th": "พระนอน",
+   "en": "reclining Buddha"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ช่างแกะหยกมัณฑะเลย์และตลาดหยก",
+  "maker_en": "Mandalay lapidaries and the Mandalay jade market; King Mindon (1857–78) let Chinese lapidaries set up there to work stone between Burma and China",
+  "era_th": "เหมืองผากันต์ รัฐกะฉิ่น",
+  "era_en": "Stone from the Hpakant mines, Kachin State, 350 km north of Mandalay on the Uyu River; Chinese sources note Burmese jadeite from the 10th century",
+  "place_th": "ผากันต์ (แหล่งหิน) และมัณฑะเลย์ (แกะสลัก)",
+  "place_en": "Hpakant (stone) and Mandalay (carving and trade)",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "หยกเจไดต์ผิวขัดเป็นมันวาวแบบแก้ว หยกเนไฟรต์มันแบบน้ำมัน เจไดต์หนักกว่า",
+   "en": "Jadeite polishes to a vitreous lustre; nephrite polishes oily. Jadeite is denser and has the higher refractive index",
+   "source": "s:en-wiki-jadeite",
+   "tier": "cited"
+  },
+  {
+   "th": "เขียวจักรพรรดิมาจากโครเมียม สีในก้อนเดียวมักไม่สม่ำเสมอ",
+   "en": "Imperial green comes from traces of chromium, and colour in a single stone is usually uneven; a flat, even green across the whole pendant is the thing to look at twice",
+   "source": "s:th-wiki-jade",
+   "tier": "cited"
+  },
+  {
+   "th": "เกรด A ธรรมชาติ · B ฟอกและอัดเรซิน · C ย้อมสี · B+C ทั้งสองอย่าง",
+   "en": "A untreated; B bleached and polymer-impregnated; C dyed; B+C both. Under a loupe dye pools in fractures, and polymer dulls the lustre",
+   "source": "s:th-wiki-jade",
+   "tier": "cited"
+  },
+  {
+   "th": "ตลาดมัณฑะเลย์ส่องด้วยไฟ UV",
+   "en": "Mandalay traders inspect rough with a portable UV torch; polymer in B jade fluoresces where natural stone stays dull",
+   "source": "s:tradition",
+   "tier": "inference"
+  },
+  {
+   "th": "แกะสลัก ไม่ใช่พิมพ์ — ไม่มีตะเข็บแม่พิมพ์ รอยเครื่องมือมองเห็นใต้แว่น",
+   "en": "Carved, not pressed: no mould seam, and tool marks read under the loupe. A moulded 'jade' with a seam is glass or resin",
+   "source": "s:vault-materials",
+   "tier": "inference"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "kuan-im",
+   "tell_th": "เจ้าแม่กวนอิมหยกเป็นรูปสตรียืนถือแจกัน · พระหยกพม่าเป็นพระพุทธรูป",
+   "tell_en": "Jade Guanyin pendants show a standing woman with a vase; a Burmese jade Buddha is a Buddha. Same stone, same trade, different figure and class."
+  },
+  {
+   "id": "pixiu",
+   "tell_th": "ปี่เซียะเป็นสัตว์หยก · พระหยกเป็นพระ",
+   "tell_en": "A pixiu is a jade beast for wealth; this is a Buddha for veneration."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อเป็นโลหะหล่อ มีตะเข็บ · พระหยกแกะจากหิน",
+   "tell_en": "A cast figure is metal with a seam; a jade Buddha is carved stone with tool marks."
+  }
+ ],
+ "market": {
+  "search": [
+   "หยกพม่า"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Jade market in Mandalay (Myanmar)",
+   "Category:Jadeite"
+  ],
+  "commons_files": [
+   "File:Unfinished Jadeite rock with jade Buddha.jpg",
+   "File:Mandalay-Jademarkt-40-Jade-gje.jpg",
+   "File:Mandalay-Jademarkt-44-Juwelier-gje.jpg",
+   "File:MandalayJadeInspection.jpg",
+   "File:Jadeite Sodium aluminum silicate Burma 3025.jpg",
+   "File:Burmese jadeite faceted stones - - Burke Museum.jpg"
+  ],
+  "wanted_en": "No free photograph of a wearable Burmese jade Buddha pendant exists on Commons as of 2026-09-02; the listed files show a museum Buddha on rough jadeite, the Mandalay market, and raw Burmese stone. Needed: one pendant straight on with its bail, and a loupe frame of a dyed fracture."
+ },
+ "images": [
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-unfinished-jadeite-rock-with-jade-buddha-4d448f.jpg",
+   "source": "commons",
+   "title": "File:Unfinished Jadeite rock with jade Buddha.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Unfinished_Jadeite_rock_with_jade_Buddha.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7041422",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Lilaac",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Unprocessed Jadeite rock with a finished Jade Buddha on its side, from China, on public display at Museum of Natural His",
+   "sha256": "c9939c50ed8b7a5574e363d9073e75bba49a7608bd27a2d479192224619187bb",
+   "width": 3357,
+   "height": 2233,
+   "primary": true
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-jadeite-sodium-aluminum-silicate-burma-3-34de54.jpg",
+   "source": "commons",
+   "title": "File:Jadeite Sodium aluminum silicate Burma 3025.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jadeite_Sodium_aluminum_silicate_Burma_3025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=1956113",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Dave Dyet(http://www.shutterstone.com, http://www.dyet.com)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Image of jadeite (also known as sodium aluminum silicate), a pyroxene mineral. This sample was excavated in northern Mya",
+   "sha256": "5b88e1167cb9c3181a88bae55b4f7d58e48ef13fa00959345ad51f4042a235d9",
+   "width": 637,
+   "height": 543
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-40-jade-gje-f630cd.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-40-Jade-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Mandalay-Jademarkt-40-Jade-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634159",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "b07e56490606464c2ae3c85a8c46acfdafbc5aea5937cebb3891a1e59bb2ebaf",
+   "width": 3592,
+   "height": 2547
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-44-juwelier-gje-d700b0.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-44-Juwelier-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Mandalay-Jademarkt-44-Juwelier-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634160",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "ed2941193dc7b2d1109dfe9eadf5aa8535ecd38f6729696a81d45f2f900c18e4",
+   "width": 4319,
+   "height": 3100
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalayjadeinspection-f86a76.jpg",
+   "source": "commons",
+   "title": "File:MandalayJadeInspection.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/MandalayJadeInspection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=77336686",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Etan J. Tal",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade rock inspection with a portable UV LED torch in Mandalay Jade Market.",
+   "sha256": "66febb0f928ca19080e0eeb0d192c3bc823eee32483a470a197cd813559dee64",
+   "width": 4127,
+   "height": 2782
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-burmese-jadeite-faceted-stones-burke-mus-b0047b.jpg",
+   "source": "commons",
+   "title": "File:Burmese jadeite faceted stones - - Burke Museum.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Burmese_jadeite_faceted_stones_-_-_Burke_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=85158883",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Joe Mabel",
+   "credit": "Photo by Joe Mabel",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Burmese jadeite faceted stones (Myanmar). Burke Museum, University of Washington, Seattle, Washington. Acquisition numbe",
+   "sha256": "3cd6e8c385fc2f89d9a767b3b3373dca8cfc1a67daaf6ed5979689de12c68028",
+   "width": 1315,
+   "height": 1296
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-06-schleifer-gje-0b70a2.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-06-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Mandalay-Jademarkt-06-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634130",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade market in Mandalay in Myanmar.",
+   "sha256": "8246ffcf326b6c9aeba17da9855a3b5e1be8b703898d6d2ec8ae504c1d17cf11",
+   "width": 3853,
+   "height": 2369
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-04-kontrolle-gje-51a37a.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-04-Kontrolle-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Mandalay-Jademarkt-04-Kontrolle-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634131",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "ac67c09434637e624933a20aa5afe3915e512b3aa7c7d7c367cae47e1381d0bb",
+   "width": 4227,
+   "height": 3039
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-02-gje-59d75b.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-02-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Mandalay-Jademarkt-02-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634132",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "53ded5407d259fac278b9ab676558d2118cbca89646671de1b84c254ec6b9180",
+   "width": 4327,
+   "height": 3086
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-10-schleifer-haende-g-246f77.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-10-Schleifer-Haende-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Mandalay-Jademarkt-10-Schleifer-Haende-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634135",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade market in Mandalay in Myanmar.",
+   "sha256": "b91367fd908874693992cc5469049544eb8f9c4aa2e39a5313c8558efee14bd4",
+   "width": 4688,
+   "height": 3082
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-08-schleifer-gje-128655.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-08-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Mandalay-Jademarkt-08-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634136",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade market in Mandalay in Myanmar.",
+   "sha256": "562ecb03faeced36e8f3996c9083277e8594c751f34bd77ae8df758c8073f330",
+   "width": 4449,
+   "height": 3074
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-12-schleifer-gje-8aa7a6.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-12-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Mandalay-Jademarkt-12-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634137",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "829ff4847ed4260ca45e5b08b100ae35ec86c192f81194cadca46229bd30a962",
+   "width": 5184,
+   "height": 3456
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-14-schleifer-gje-5e0516.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-14-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Mandalay-Jademarkt-14-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634139",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "74232cf0abce0be191ab8cb8e167ba4c551921b83ff86019cc83957f2e47cafc",
+   "width": 5184,
+   "height": 3361
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-16-schleifer-gje-b9f82d.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-16-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mandalay-Jademarkt-16-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634140",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "82a0c5c594c0c978309b0c4c770f2846003b8d507a0668ddbadad2a86638edef",
+   "width": 5184,
+   "height": 3456
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-18-schleifer-gje-e52a74.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-18-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Mandalay-Jademarkt-18-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634141",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "e553c0cdd299f466aaf11e39c953946b640430311b82145d0ff4a34213bf7f9d",
+   "width": 4680,
+   "height": 3139
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-20-schleifer-gje-8e0cd1.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-20-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Mandalay-Jademarkt-20-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634142",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade market in Mandalay in Myanmar.",
+   "sha256": "df98d58021b89248f155e805d048cee55d811e89c9bc3617a501932b8a4b78dc",
+   "width": 4698,
+   "height": 3326
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-22-schleifer-gje-43b4c0.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-22-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Mandalay-Jademarkt-22-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634143",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "6d459675ac54f7d7ef0be3d4c650e6cd21ddeecf07d532af9839771fee6ab630",
+   "width": 2476,
+   "height": 1722
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-24-schleifer-gje-91505b.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-24-Schleifer-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Mandalay-Jademarkt-24-Schleifer-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634144",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — Jade market in Mandalay in Myanmar.",
+   "sha256": "59b8040e9d64d0c55bb48dccd9cea474a94adb2dc7934257c79e3f3e92505b56",
+   "width": 4633,
+   "height": 2848
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-26-zerleger-gje-7e0a82.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-26-Zerleger-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Mandalay-Jademarkt-26-Zerleger-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634146",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "9cdd80d6c9a50ed1c55f8128d490ed5f7adcc2e5a93dcf424a7322d4f0bf1815",
+   "width": 5012,
+   "height": 3308
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-28-betel-haendlerin-g-aba2f8.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-28-Betel-Haendlerin-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mandalay-Jademarkt-28-Betel-Haendlerin-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634147",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "cbae92990a7eb3b87d5cb798c0882f8d48320c09cdfe071793c4916d0f80fdd4",
+   "width": 4798,
+   "height": 3152
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-30-haendler-gje-c8377d.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-30-Haendler-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Mandalay-Jademarkt-30-Haendler-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634148",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "5f4fad4fec55a10878ad98704d91f1698dcc37da0f123d2e9c82e2752a7e3e78",
+   "width": 4719,
+   "height": 2595
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-32-haendler-gje-ce720e.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-32-Haendler-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Mandalay-Jademarkt-32-Haendler-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634149",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "a39d0a71138156d4d7b6128d7568f726cb609889d19e8fd5d507981c09e8f475",
+   "width": 4471,
+   "height": 3018
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-36-geld-gje-5a8737.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-36-Geld-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Mandalay-Jademarkt-36-Geld-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634151",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "8fe0d3b5982840cb4629d60eb4e289e934ef3033dfd41d9f165ac65e851afe20",
+   "width": 2895,
+   "height": 2121
+  },
+  {
+   "file": "jade-buddha-burmese/jade-buddha-burmese-mandalay-jademarkt-34-haendler-gje-dfb5fe.jpg",
+   "source": "commons",
+   "title": "File:Mandalay-Jademarkt-34-Haendler-gje.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mandalay-Jademarkt-34-Haendler-gje.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64634152",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Gerd Eichmann",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระหยกพม่า",
+   "alt_en": "Burmese jadeite Buddha pendant — ade market in Mandalay in Myanmar.",
+   "sha256": "48199e0e38a979c586355ebb4b7decca143d12117225d8212a67efc432f0ba18",
+   "width": 4145,
+   "height": 2804
+  }
+ ],
+ "text": {
+  "what_th": "จี้พระพุทธรูปแกะจากหยกเจไดต์พม่า หินจากเหมืองผากันต์ในรัฐกะฉิ่น แกะและขายที่มัณฑะเลย์ ตลาดไทยขายในชื่อ 'หยกพม่าแท้' เรื่องสำคัญคือเนื้อหิน — เจไดต์หรือเนไฟรต์ ธรรมชาติหรือย้อม",
+  "what_en": "A Buddha pendant carved from Burmese jadeite: stone from the Hpakant mines in Kachin State, cut and traded in Mandalay, sold in Thailand as 'genuine Burma jade'. A Buddha image with nobody home; the whole question is the stone — jadeite or nephrite, untreated or bleached and dyed.",
+  "story_th": "พม่าผลิตหยกเจไดต์คุณภาพสูงราวร้อยละ ๗๐ ของโลก จีนรู้จักหยกพม่ามาตั้งแต่ศตวรรษที่ ๑๐ พระเจ้าเฉียนหลงถึงกับทำสงครามเพื่อหยกเขียว พระเจ้ามินดงอนุญาตให้ช่างจีนตั้งโรงแกะที่มัณฑะเลย์ เหมืองผากันต์ถล่มซ้ำ ปี ๒๕๖๓ ตายกว่า ๑๗๐ คน หินที่สวมคอมีประวัตินี้ติดมา",
+  "story_en": "Myanmar supplies around seventy per cent of the world's high-quality jadeite. Chinese sources note Burmese stone from the tenth century; the Qianlong Emperor went to war for green jade; King Mindon let Chinese lapidaries set up in Mandalay, and the market there still grinds, polishes and inspects it by UV torch. Hpakant's landslides killed more than a hundred in 2015 and more than 170 in 2020. The Myanma Gems Enterprise grades imperial, commercial and utility jade, the last for carving. The pendant on a cord carries all of that.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ดูแลอย่างพระเครื่อง คำถามคือของแท้ไหมและหินอะไร",
+  "keeping_en": "Nobody home and nothing owed: a Buddha image, kept as any phra khrueang. The provenance question is authenticity and stone grade, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-jadeite",
+  "s:en-wiki-hpakant",
+  "s:en-wiki-jade-trade-myanmar",
+  "s:th-wiki-jade",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-jade-trade-myanmar"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.materials": {
+    "tier": "catalogue",
+    "source": "s:vault-materials",
+    "note": "empty: no jade key in the vault; see form.notes_en"
+   },
+   "names": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "Thai aliases from listing titles; roman is a Burmese gloss (kyauk sein = jade), tier inference"
+   },
+   "form": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "figure types from Thai listing titles; carving from Commons file descriptions"
+   },
+   "diagnostics": {
+    "tier": "cited",
+    "source": "s:th-wiki-jade",
+    "note": "jadeite/nephrite and A/B/C cited; UV and loupe readings inference"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "หยกพม่า in 4 titles; พระหยก in 1"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "listing copy promises luck and protection; hedged"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

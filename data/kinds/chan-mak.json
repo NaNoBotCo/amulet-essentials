@@ -1,0 +1,210 @@
+{
+ "schema": 1,
+ "id": "chan-mak",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ฉันหมาก",
+  "roman": "chan mak",
+  "en": "Chan mak (a monk's chewed betel quid)",
+  "aliases": {
+   "th": [
+    "ชานหมาก",
+    "ชานหมากหลวงปู่",
+    "ลูกอมชานหมาก",
+    "สมเด็จชานหมาก"
+   ],
+   "roman": [
+    "chan maak",
+    "charn mark",
+    "chaan mak"
+   ],
+   "en": [
+    "betel-quid relic",
+    "chewed betel amulet",
+    "the master's chewed betel"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "metta_maha_niyom",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_phong"
+  ],
+  "figures": [
+   "natural",
+   "pot"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "ก้อนชานหมากแห้ง รูปทรงไม่แน่นอน เส้นใยหมากกับปูนสีแดงน้ำตาล บางชิ้นลงรัก ปิดทอง ห่อแผ่นโลหะ หรือถักด้ายแล้วใส่ตลับ · แบบแปรรูปคือลูกอมและพระผงที่ผสมชานหมาก",
+  "shape_en": "A dried quid of irregular shape — areca fibre and lime, red-brown — sometimes lacquered, gilded, foil-wrapped or thread-bound, then cased. Derived forms: a ลูกอม ball of it in a binder, and pressed powder tablets with the quid in the mix.",
+  "size_mm": null,
+  "wearable_th": "ใส่ตลับห้อยคอ หรือเก็บไว้บูชา",
+  "wearable_en": "Cased and worn at the neck, or kept on the shrine",
+  "obverse_th": "ไม่มีด้านหน้าด้านหลัง เป็นก้อน",
+  "obverse_en": "No obverse or reverse; it is a lump",
+  "reverse_th": "",
+  "reverse_en": "",
+  "notes_en": "Spelling: the encyclopedic and market form is ชานหมาก (ชาน = chewed residue); ฉันหมาก, the holding key's form, reads as the clerical verb 'to take betel' and also circulates. Both are kept as names; market.search reuses the key's term verbatim. The materials axis has no key for a bodily relic; nuea_phong is given only for the pressed derivatives."
+ },
+ "iconography": [
+  {
+   "th": "ก้อนชานหมาก",
+   "en": "the quid itself; no image"
+  },
+  {
+   "th": "รัก ทอง แผ่นโลหะ หรือด้ายที่หุ้ม",
+   "en": "the lacquer, gilding, foil or thread that seals it (trade convention)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "ไม่มีวัดเดียว · วิกิพีเดียไทย: วัดจันทาวาส ตำบลท่าทอง อำเภอกาญจนดิษฐ์ สุราษฎร์ธานี (พระครูคลาย คนฺธสุธมฺโม) · วัดราชโยธา กรุงเทพฯ (หลวงปู่ทอง อายะนะ) · วัดชำปะง่าม (สมเด็จชานหมาก)",
+  "wat_en": "No single temple. Thai Wikipedia names Wat Chanthawat, Kanchanadit, Surat Thani (Phra Khru Khlai, abbot from 1972, whose famous item it is); Wat Ratchayotha, Bangkok (Luang Pu Thong Ayana, 1820–1937); and Wat Champa-ngam (สมเด็จชานหมาก tablets)",
+  "maker_th": "พระเกจิที่ฉันหมาก ผู้ใดก็ได้ที่ศิษย์เก็บชานหมากของท่านไว้ การ์ดอ้างอิงเอ่ยหลวงปู่สี และหลวงพ่อทบ ว่าราคาสูงสุด",
+  "maker_en": "Any revered betel-chewing monk whose disciples kept the quid; the reference card names Luang Pu See and Luang Pho Thob as the top of the price range",
+  "era_th": "การเคี้ยวหมากถูกรณรงค์ให้เลิกตั้งแต่ พ.ศ. ๒๔๘๓ ของที่มีอยู่จึงมาจากพระรุ่นนั้นและผู้เฒ่าชนบทหลังจากนั้นเป็นหลัก",
+  "era_en": "Betel chewing was campaigned against from 1940 and faded from the cities, so the supply is mostly monks of that generation and rural elders since — an inference from the betel article, not a dated claim",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ไม่ได้ทำเพื่อผู้สวมใส่ เป็นกาก ไม่ใช่ของออกพิมพ์ — ไม่มีรอยพิมพ์ ไม่มีตะเข็บ",
+   "en": "Not made for the wearer: a residue, not a mould product. No press marks, no seams",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เส้นใยหมากกับปูน สีแดงน้ำตาลจากปฏิกิริยาหมากพลูกับปูนแดง",
+   "en": "Areca fibre and lime, red-brown from the reaction of nut, leaf and red lime — the same stain that reddened chewers' teeth",
+   "source": "s:th-wiki-betel-chewing",
+   "tier": "cited"
+  },
+  {
+   "th": "มักลงรัก ปิดทอง ห่อแผ่นโลหะ หรือถักด้ายแล้วใส่ตลับ อ่านที่มาจากก้อนไม่ได้ บันทึกของวัดเท่านั้นที่ค้ำได้ — เช่นเดียวกับเกศาและจีวร",
+   "en": "Usually lacquered, gilded, foil-wrapped or thread-bound and cased. The attribution cannot be read off the object; only the temple's own record supports it — the same logic the materials axis applies to hair and robe relics",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ลูกอมชานหมาก และ สมเด็จชานหมาก เป็นของแปรรูป — พระผงที่มีชานหมากในชื่อคือพระผงที่ใส่ชานหมากเป็นมวลสาร ไม่ใช่ตัวกากเอง",
+   "en": "ลูกอมชานหมาก balls and สมเด็จชานหมาก tablets are derivatives: a pressed tablet with the word in its name is a powder amulet with quid as an ingredient, not the relic itself",
+   "source": "s:th-wiki-luang-pu-thong-ayana",
+   "tier": "cited"
+  },
+  {
+   "th": "ราคาเฉลี่ยสูงสุดในทุกหมวดที่สำรวจ (฿๓๐–๑๕,๕๐๐ เฉลี่ย ฿๗๘๕) แรงกดดันให้ทำเลียนแบบจึงสูง — ข้อความว่าด้วยหมวด ไม่ใช่ชิ้น",
+   "en": "Highest average listing price of any category surveyed (฿30–15,500, average ฿785), so the pressure to fabricate is high — a statement about the category, never about an object",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-somdet",
+   "tell_th": "สมเด็จชานหมากเป็นพระผงอัดพิมพ์ทรงสี่เหลี่ยมที่ใส่ชานหมากเป็นมวลสาร · ชานหมากแท้เป็นก้อนไม่มีพิมพ์",
+   "tell_en": "A สมเด็จชานหมาก is a pressed rectangular powder tablet with the quid as one ingredient; the relic proper is an unmoulded lump. Same class, different object"
+  },
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญพระเกจิเป็นโลหะปั๊มรูปท่าน บารมีเดียวกัน แต่เป็นของทำ · ชานหมากเป็นของจากตัวท่านเอง",
+   "tell_en": "A monk medallion is struck metal bearing his likeness — the same barami, but a made thing; the quid came from his own mouth. Portrait versus residue"
+  },
+  {
+   "id": "takrut",
+   "tell_th": "ตะกรุดเป็นแผ่นโลหะลงอักขระม้วนเป็นหลอด · ชานหมากที่ห่อแผ่นโลหะดูคล้าย แต่ข้างในเป็นก้อนกาก ไม่ใช่ยันต์",
+   "tell_en": "A takrut is an inscribed metal sheet rolled into a tube (class yantra_wattu); a foil-wrapped quid can look alike, but inside is residue, not a yantra, and the power claimed is the monk's body, not an inscription"
+  }
+ ],
+ "market": {
+  "search": [
+   "ฉันหมาก",
+   "ชานหมาก"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph of a chan mak found on Wikimedia Commons as of 2026-09-02; a search for ชานหมาก returns only powder tablets that list it as an ingredient. Needed: one cased quid straight on and one out of its case at scale, and a ลูกอมชานหมาก beside it for contrast."
+ },
+ "images": [],
+ "text": {
+  "what_th": "ชานหมากที่พระเกจิผู้เป็นที่เคารพเคี้ยวเอง ตากแห้งเก็บไว้ — พระธาตุจากร่างกายในความหมายตรงที่สุด ราคาในตลาดเป็นไปตามนั้น พลังคือบารมีของท่าน การเลี้ยงคือความเคารพธรรมดา",
+  "what_en": "A quid of betel a revered monk himself chewed, dried and kept — a bodily relic in the most literal sense, priced accordingly in the living market. Power is the master's barami; keeping is plain respect.",
+  "story_th": "หมากไทยประกอบด้วยใบพลู หมาก และปูนแดง บางทีเติมยาเส้น เคี้ยวแล้วเหลือกากสีแดงน้ำตาล ศิษย์เก็บกากที่ครูบาอาจารย์คายไว้ ตากแห้ง ลงรักหรือห่อ แล้วใส่ตลับ วิกิพีเดียไทยบันทึกว่าชานหมากเป็นวัตถุมงคลที่โด่งดังของพระครูคลาย วัดจันทาวาส สุราษฎร์ธานี และอยู่ในรายการของหลวงปู่ทอง อายะนะ วัดราชโยธา ร่วมกับลูกอมและพระผงพิมพ์สมเด็จ หลังรัฐรณรงค์เลิกหมาก พ.ศ. ๒๔๘๓ ของอย่างนี้ก็ยิ่งหายาก",
+  "story_en": "A Thai quid is betel leaf, areca nut and red lime, sometimes tobacco; chewed, it leaves a red-brown residue. Disciples kept what a master spat out, dried it, lacquered or wrapped it, and cased it. Thai Wikipedia records the quid as the famous item of Phra Khru Khlai of Wat Chanthawat in Surat Thani, and among the objects of Luang Pu Thong Ayana of Wat Ratchayotha, beside ลูกอม balls and somdet-form powder tablets. The state's 1940 campaign against betel made the habit, and so the supply, rarer. Nothing is inscribed and nothing is consecrated in the usual sense: the object is the monk's own body's trace, which is why the trade prices it above every manufactured category.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ถือด้วยความเคารพอย่างของจากตัวครูบาอาจารย์ คำถามเรื่องที่มาคือของแท้และราคา ไม่ใช่ความปลอดภัยทางวิญญาณ",
+  "keeping_en": "Nobody home, nothing owed; class phra_khrueang per the holding key. Handled with the respect due a master's bodily trace. Its provenance question is attribution and price, never spiritual safety — and attribution is the whole object, so the record that says whose it was is worth more than the lump."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:amulet-reference",
+  "s:th-wiki-wat-chanthawat",
+  "s:th-wiki-luang-pu-thong-ayana",
+  "s:th-wiki-betel-chewing",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "class and figures from the key; functions from card F·20; nuea_phong for derivatives only"
+   },
+   "names": {
+    "tier": "catalogue",
+    "source": "s:holding-key",
+    "note": "th form ฉันหมาก is the key's; ชานหมาก is the spelling Thai Wikipedia and the card use"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-betel-chewing",
+    "note": "named monks from s:th-wiki-wat-chanthawat and s:th-wiki-luang-pu-thong-ayana; the disciples-kept-it account is tradition"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-chanthawat",
+    "note": "Luang Pu See / Luang Pho Thob from card F·20; era_en is inference"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "holding_key term ฉันหมาก kept; ชานหมาก added because it is the encyclopedic and market spelling"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

@@ -1,0 +1,263 @@
+{
+ "schema": 1,
+ "id": "phra-nang-phaya",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระนางพญา",
+  "roman": "phra nang phaya",
+  "en": "Phra Nang Phaya (Phitsanulok triangular tablet)",
+  "aliases": {
+   "th": [
+    "นางพญา",
+    "พระนางพญาพิษณุโลก",
+    "ราชินีแห่งพระเครื่อง"
+   ],
+   "roman": [
+    "nang phaya",
+    "phra nang phya",
+    "nangphaya"
+   ],
+   "en": [
+    "Queen of Amulets"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "metta_maha_niyom",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "สามเหลี่ยมหน้าจั่ว เนื้อดินเผาหยาบ",
+  "shape_en": "An isosceles triangle of coarse fired clay",
+  "size_mm": [
+   20,
+   28,
+   5
+  ],
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "องค์พระปางมารวิชัย อกนูน แขนเรียว",
+  "obverse_en": "A Buddha in Maravijaya with a prominent chest and slender arms",
+  "reverse_th": "เรียบ มักเห็นรอยนิ้วมือ",
+  "reverse_en": "Plain; finger impressions are commonly visible",
+  "notes_en": "Size per Thai Wikipedia: roughly 2 cm base by 2.8 cm high; moulds vary."
+ },
+ "iconography": [
+  {
+   "th": "ปางมารวิชัย",
+   "en": "Maravijaya (calling the earth to witness)"
+  },
+  {
+   "th": "อกนูน แขนเรียว — ที่มาของฉายาราชินี",
+   "en": "full chest and slender arms, the source of the 'queen' epithet"
+  },
+  {
+   "th": "ทรงสามเหลี่ยม",
+   "en": "triangular field with no arch"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดนางพญา พิษณุโลก",
+  "wat_en": "Wat Nang Phaya, Phitsanulok",
+  "maker_th": "ผูกกับรัชสมัยสมเด็จพระนเรศวร (วิกิพีเดียไทย) หรือพระวิสุทธิกษัตรีย์ (วิกิพีเดียอังกฤษ)",
+  "maker_en": "Thai Wikipedia ties the making to King Naresuan's era; English Wikipedia credits Queen Wisutkasat. Treat the attribution as tradition.",
+  "era_th": "สมัยอยุธยา กรุแตกครั้งแรกราว พ.ศ. ๒๔๔๔",
+  "era_en": "Ayutthaya period; the cache first opened around 1901 (B.E. 2444), with later finds in B.E. 2512, 2530 and 2553 per Thai Wikipedia",
+  "place_th": "พิษณุโลก",
+  "place_en": "Phitsanulok",
+  "first_attested": "กรุแตก พ.ศ. 2444 (th.wikipedia)"
+ },
+ "diagnostics": [
+  {
+   "th": "พิมพ์หลักตามวิกิพีเดียไทย: พิมพ์ใหญ่ (อกนูนใหญ่) · เข่าโค้ง · เข่าตรง (ธรรมดา / มือตกเข่า) · สังฆาฏิ",
+   "en": "Principal moulds per Thai Wikipedia: Phim Yai (large chest), Khao Khong (curved knee), Khao Trong (straight knee, plain or hand-on-knee), Sangkhati (small)",
+   "source": "s:th-wiki-nang-phaya",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อดินหยาบที่สุดในเบญจภาคี มีเม็ดแร่และเม็ดสีปะปน",
+   "en": "The coarsest body of the five: mineral grit and coloured inclusions visible to the eye",
+   "source": "s:th-wiki-nang-phaya",
+   "tier": "cited"
+  },
+  {
+   "th": "สีผิวหลากหลาย แดงอิฐ เหลือง ดำ เขียว ตามไฟและกรุ",
+   "en": "Surface colour ranges from brick red through yellow to black and green; it follows kiln and cache, not mould",
+   "source": "s:th-wiki-nang-phaya",
+   "tier": "cited"
+  },
+  {
+   "th": "ด้านหลังมักมีรอยนิ้วมือและไคลขี้กรุ",
+   "en": "Reverse usually shows finger impressions and cache sediment (ไคลขี้กรุ)",
+   "source": "s:th-wiki-nang-phaya",
+   "tier": "cited"
+  },
+  {
+   "th": "อายุอ่านจากการหดตัวของดิน ไม่ใช่สนิม",
+   "en": "Age reads as shrinkage and crust, never patina: the clay axis's dating signal",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-phong-suphan",
+   "tell_th": "ทั้งคู่สามเหลี่ยมดินเผาปางมารวิชัย · ผงสุพรรณเนื้อละเอียดกว่า สุพรรณบุรี · นางพญาเนื้อหยาบ พิษณุโลก",
+   "tell_en": "Both are triangular fired-clay Maravijaya tablets. Phong Suphan has a finer body and comes from Suphan Buri; Nang Phaya is coarse and from Phitsanulok. Same class, nobody home in either."
+  },
+  {
+   "id": "phra-rot",
+   "tell_th": "พระรอดทรงสูงมน นั่งสมาธิ มีใบโพธิ์ · นางพญาสามเหลี่ยม มารวิชัย",
+   "tell_en": "Phra Rod is tall and rounded, in meditation with bodhi leaves; Nang Phaya is a triangle in Maravijaya."
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "นางพญาคือพระกรุที่มีชื่อ กรุวัดนางพญา",
+   "tell_en": "Nang Phaya is one named cache-find; phra kru is the category. The triangle, the coarse body and the Phitsanulok cache name this one."
+  }
+ ],
+ "market": {
+  "search": [
+   "นางพญา"
+  ],
+  "excludes": [
+   "นางพญาเสือโคร่ง"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:พระนางพญาองค์โต หล่อจากปัญจโลหะ.jpg",
+   "File:Benjapakee.png",
+   "File:Benjapakee 2.png"
+  ],
+  "wanted_en": "The only single-subject free file is a large cast replica at Wat Ratchaburana, Phitsanulok, not a tablet. Needed: a tablet obverse showing chest and arms, the reverse with finger impression, and an edge view of the coarse body."
+ },
+ "images": [
+  {
+   "file": "phra-nang-phaya/phra-nang-phaya-jpg-923d4b.jpg",
+   "source": "commons",
+   "title": "File:พระนางพญาองค์โต หล่อจากปัญจโลหะ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%99%E0%B8%B2%E0%B8%87%E0%B8%9E%E0%B8%8D%E0%B8%B2%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B9%82%E0%B8%95_%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%88%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B0.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=115850407",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระนางพญา",
+   "alt_en": "Phra Nang Phaya (Phitsanulok triangular tablet) — พระนางพญา (Phra Nang Phaya) องค์จำลองขนาดใหญ่โต ตั้งชั่วคราวอยู่ที่วัดราชบูรณะ พิษณุโลก ก่อนย้ายไปประดิษฐานในจุดที่วางแผ",
+   "sha256": "2aa6655d66c82e150e70be286cb066b21ba8c614773d26f27a8fc915d58e0dfb",
+   "width": 3024,
+   "height": 4032,
+   "primary": true
+  },
+  {
+   "file": "phra-nang-phaya/phra-nang-phaya-benjapakee-39c238.png",
+   "source": "commons",
+   "title": "File:Benjapakee.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102451956",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระนางพญา",
+   "alt_en": "Phra Nang Phaya (Phitsanulok triangular tablet) — Benjapakee",
+   "sha256": "37d56a6ad13fc672512bdc311f05baf0cfcc860703a74fcadffef7e7210e486e",
+   "width": 1644,
+   "height": 923
+  },
+  {
+   "file": "phra-nang-phaya/phra-nang-phaya-benjapakee-2-4e4d8b.png",
+   "source": "commons",
+   "title": "File:Benjapakee 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102452146",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระนางพญา",
+   "alt_en": "Phra Nang Phaya (Phitsanulok triangular tablet) — Benjapakee 2",
+   "sha256": "ba6ab231dcb9f68b7436961e57c9d1b46ebc87e6a6fd0568a53df2ab820a2850",
+   "width": 1647,
+   "height": 917
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ดินเผาทรงสามเหลี่ยมจากกรุวัดนางพญา พิษณุโลก ปางมารวิชัย อกนูน แขนเรียว วงการเรียกราชินีแห่งพระเครื่อง เป็นหนึ่งในเบญจภาคี ไม่มีผู้ใดสถิตอยู่",
+  "what_en": "A triangular fired-clay tablet from the cache at Wat Nang Phaya, Phitsanulok: a Maravijaya Buddha with a full chest and slender arms, the queen of amulets and one of the Benjaphakhi five. Nobody is home.",
+  "story_th": "วิกิพีเดียไทยว่าสร้างในสมัยอยุธยาเพื่อบำรุงขวัญทหาร กรุแตกครั้งแรกราว พ.ศ. ๒๔๔๔ ได้พระหลายหมื่นองค์ และมีกรุแตกซ้ำอีกหลายครั้งในภายหลัง มวลสารเป็นดินหยาบผสมเม็ดแร่ ว่าน และเกสรดอกไม้",
+  "story_en": "Thai Wikipedia places the making in the Ayutthaya period, as morale for soldiers as much as merit, and dates the first opening of the cache to about 1901, when tens of thousands of tablets came out; further finds followed in 1969, 1987 and 2010. The body is coarse clay with mineral grit, herbs and flower pollen mixed in. The chest and arms earned it the queen's title, and Triyampavai's five of around 1947 fixed it there.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is age and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:th-wiki-nang-phaya"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-nang-phaya"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "the trade's usual claim; not stated in the cited article"
+   },
+   "form.size_mm": {
+    "tier": "cited",
+    "source": "s:th-wiki-nang-phaya",
+    "note": "approx. 20 x 28 mm per the article; depth is inference"
+   },
+   "origin.maker_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "two Wikipedias disagree; recorded as tradition"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen by this record; นางพญาเสือโคร่ง is the wild Himalayan cherry"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

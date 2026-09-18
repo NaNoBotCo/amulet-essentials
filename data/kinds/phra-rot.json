@@ -1,0 +1,270 @@
+{
+ "schema": 1,
+ "id": "phra-rot",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระรอด",
+  "roman": "phra rot",
+  "en": "Phra Rod (Lamphun votive tablet)",
+  "aliases": {
+   "th": [
+    "พระรอดลำพูน",
+    "พระรอดมหาวัน",
+    "พระรอดวัดมหาวัน"
+   ],
+   "roman": [
+    "phra rod",
+    "phra rod lamphun",
+    "phra rot mahawan"
+   ],
+   "en": [
+    "Phra Rod Lamphun",
+    "the surviving one"
+   ]
+  }
+ },
+ "region": [
+  "th-north"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khlaeo_khlat",
+   "khong_kraphan",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "nuea_din"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "พระพิมพ์ดินเผาองค์เล็ก ทรงสูงมน ปลายบนแหลม",
+  "shape_en": "A small fired-clay tablet, tall and rounded with a pointed top; small enough to close in a fist",
+  "size_mm": [
+   15,
+   25,
+   6
+  ],
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn at the neck in a case",
+  "obverse_th": "องค์พระนั่งสมาธิบนฐาน มีใบโพธิ์ล้อมรอบ",
+  "obverse_en": "A seated Buddha in meditation on a base, ringed by bodhi leaves",
+  "reverse_th": "เรียบ นูนเล็กน้อย บางองค์มีรอยนิ้ว",
+  "reverse_en": "Plain and slightly convex; some carry a finger impression",
+  "notes_en": "Trade mould names (พิมพ์ใหญ่ กลาง เล็ก ต้อ ตื้น) are tradition, not cited here; size is a typical range, not measured."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระนั่งสมาธิ",
+   "en": "seated Buddha in meditation posture"
+  },
+  {
+   "th": "ใบโพธิ์ล้อมองค์พระ",
+   "en": "bodhi-leaf field surrounding the figure"
+  },
+  {
+   "th": "ศิลปะหริภุญชัย / ทวารวดีตอนปลาย",
+   "en": "Hariphunchai / late Dvaravati style"
+  }
+ ],
+ "origin": {
+  "wat_slug": "wat-mahawan-wanaram-phra-rod",
+  "wat_th": "วัดมหาวันวนาราม ลำพูน",
+  "wat_en": "Wat Mahawan Wanaram, Lamphun",
+  "maker_th": "ตำนานผูกกับพระนางจามเทวีและฤๅษีผู้สร้างเมือง",
+  "maker_en": "Legend ties the tablets to Queen Chamadevi and the hermits who founded Hariphunchai; no maker is documented",
+  "era_th": "สมัยหริภุญชัย (ทวารวดีตอนปลาย) — เก่าที่สุดในชุดเบญจภาคี",
+  "era_en": "Hariphunchai period, late Dvaravati; the oldest of the Benjaphakhi five per Thai Wikipedia",
+  "place_th": "ลำพูน",
+  "place_en": "Lamphun",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เนื้อดินเผาละเอียด แกร่ง สีหลากหลายตามไฟ (เขียว พิกุล แดง ขาว)",
+   "en": "Fine, hard-fired clay; colour varies with the firing (green, pikun-yellow, red, white), so colour alone settles nothing",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ใบโพธิ์รอบองค์พระเป็นเอกลักษณ์ของพิมพ์",
+   "en": "The bodhi-leaf field around the figure is the type's signature; count and spacing follow the mould",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "องค์เล็กกว่าพระเบญจภาคีองค์อื่น",
+   "en": "Smaller than the other four Benjaphakhi kinds; fits inside a closed hand",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  },
+  {
+   "th": "อายุอ่านจากการหดตัวของดินและคราบกรุ ไม่ใช่สนิม",
+   "en": "Age reads as shrinkage and cache crust (คราบกรุ), never as patina: the clay body's dating signal on the material axis",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "เป็นของโบราณควบคุม ของแท้แทบไม่ออกตลาดเปิด",
+   "en": "A controlled antiquity; the open retail market carries reproductions and temple re-issues of the form, which is a statement about the category",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-kru",
+   "tell_th": "พระรอดคือพระกรุชนิดหนึ่ง — กรุวัดมหาวัน ลำพูน เนื้อดินเผา มีใบโพธิ์ล้อม",
+   "tell_en": "Phra Rod is one named cache-find; phra kru is the whole category. Same class, same fired clay; the bodhi-leaf field and the Lamphun provenance name this one."
+  },
+  {
+   "id": "phra-sum-ko",
+   "tell_th": "ซุ้มกอมีซุ้มโค้งรูปตัว ก ศิลปะสุโขทัย กำแพงเพชร · พระรอดมีใบโพธิ์ ศิลปะหริภุญชัย",
+   "tell_en": "Sum Ko sits under an arch shaped like the letter ก in Sukhothai style from Kamphaeng Phet; Phra Rod is ringed by bodhi leaves in Hariphunchai style. Both fired clay, both nobody home."
+  },
+  {
+   "id": "phra-nang-phaya",
+   "tell_th": "นางพญาเป็นสามเหลี่ยม ปางมารวิชัย เนื้อหยาบ · พระรอดทรงสูงมน นั่งสมาธิ เนื้อละเอียด",
+   "tell_en": "Nang Phaya is a triangle in Maravijaya with a coarse body; Phra Rod is tall and rounded, in meditation, with a fine body."
+  }
+ ],
+ "market": {
+  "search": [
+   "พระรอด"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:Benjapakee.png",
+   "File:Benjapakee 2.png",
+   "File:Jinakāla Mālī Pakaraṇa (1958) - Mae Phra Rot, Wat Maha Wan, Lamphun.png"
+  ],
+  "wanted_en": "No free photograph of a Phra Rod on its own found on Wikimedia Commons as of 2026-09-02; the two Benjapakee group images are the only free files that include one. Needed: obverse straight on showing the bodhi-leaf field, reverse, and a side view for thickness, at matched scale beside a Sum Ko."
+ },
+ "images": [
+  {
+   "file": "phra-rot/phra-rot-benjapakee-39c238.png",
+   "source": "commons",
+   "title": "File:Benjapakee.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Benjapakee.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102451956",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระรอด",
+   "alt_en": "Phra Rod (Lamphun votive tablet) — Benjapakee",
+   "sha256": "37d56a6ad13fc672512bdc311f05baf0cfcc860703a74fcadffef7e7210e486e",
+   "width": 1644,
+   "height": 923,
+   "primary": true
+  },
+  {
+   "file": "phra-rot/phra-rot-benjapakee-2-4e4d8b.png",
+   "source": "commons",
+   "title": "File:Benjapakee 2.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Benjapakee_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=102452146",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระรอด",
+   "alt_en": "Phra Rod (Lamphun votive tablet) — Benjapakee 2",
+   "sha256": "ba6ab231dcb9f68b7436961e57c9d1b46ebc87e6a6fd0568a53df2ab820a2850",
+   "width": 1647,
+   "height": 917
+  },
+  {
+   "file": "phra-rot/phra-rot-jinak-la-m-l-pakara-a-1958-mae-phra-rot-064aa9.png",
+   "source": "commons",
+   "title": "File:Jinakāla Mālī Pakaraṇa (1958) - Mae Phra Rot, Wat Maha Wan, Lamphun.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Jinak%C4%81la_M%C4%81l%C4%AB_Pakara%E1%B9%87a_%281958%29_-_Mae_Phra_Rot%2C_Wat_Maha_Wan%2C_Lamphun.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=197017930",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Fine Arts Department",
+   "credit": "ชินกาลมาลีปกรณ์ (พ.ศ. ๒๕๐๑)",
+   "view": "other",
+   "alt_th": "พระรอด",
+   "alt_en": "Phra Rod (Lamphun votive tablet) — \"Mae Phra Rot\", Wat Maha Wan, Lamphun - image from \"Jinakāla Mālī Pakaraṇa\" (Fine Arts Department edition, published 195",
+   "sha256": "6735a767acce1a0a8f40c557d4424b4d2b5532e4f6bf6225a8d482e6384684d8",
+   "width": 580,
+   "height": 1346
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ดินเผาองค์เล็กจากกรุวัดมหาวัน ลำพูน องค์พระนั่งสมาธิในวงใบโพธิ์ เก่าที่สุดในชุดเบญจภาคี ชื่อ “รอด” คือรอดพ้นภัย ไม่มีผู้ใดสถิตอยู่ในองค์พระ",
+  "what_en": "A small fired-clay tablet from the cache at Wat Mahawan, Lamphun: a seated Buddha inside a ring of bodhi leaves, the oldest of the Benjaphakhi five. The name means the one who escapes harm. Nobody is home.",
+  "story_th": "ตำนานเล่าว่าสร้างในสมัยหริภุญชัยผูกกับพระนางจามเทวี เจดีย์วัดมหาวันเป็นที่บรรจุ วงการนับเป็นหนึ่งในเบญจภาคีตั้งแต่ตรียัมปวายจัดชุดราว พ.ศ. ๒๔๙๐ เชื่อกันว่าให้แคล้วคลาดและคงกระพัน",
+  "story_en": "The temple's own account ties the tablets to Queen Chamadevi and the Hariphunchai founding; the Wat Mahawan chedi is where they were deposited, and Thai Wikipedia places the making in the late Dvaravati period, older than anything else in the set. Triyampavai's Benjaphakhi of around 1947 put it beside the Somdej, and the trade has read the name as a promise ever since: escape from harm, safe passage, a body that cannot be cut. Genuine pieces are a controlled antiquity; what circulates openly is mostly the form re-pressed.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บูชาได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Safe to adopt with unknown history; its provenance question is age and authenticity, never spiritual safety."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:th-wiki-phra-khrueang",
+  "s:en-wiki-thai-amulet",
+  "s:tradition",
+  "s:th-wiki-wat-mahawan-lamphun",
+  "s:amulet-reference"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "axes.functions": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-mahawan-lamphun",
+    "note": "แคล้วคลาด and เมตตามหานิยม per the temple article; คงกระพัน per the reference card"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-wat-mahawan-lamphun"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-khrueang"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "typical range from handling descriptions, not measured on a reference piece"
+   },
+   "text.what_en": {
+    "tier": "tradition",
+    "source": "s:amulet-reference"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen by this record, not from holding_key"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

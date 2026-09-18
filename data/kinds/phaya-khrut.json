@@ -1,0 +1,616 @@
+{
+ "schema": 1,
+ "id": "phaya-khrut",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พญาครุฑ",
+  "roman": "phaya khrut",
+  "en": "Phaya Khrut (the garuda)",
+  "aliases": {
+   "th": [
+    "ครุฑ",
+    "พระครุฑ",
+    "ครุฑยุดนาค"
+   ],
+   "roman": [
+    "phaya krut",
+    "khrut",
+    "garuda"
+   ],
+   "en": [
+    "Garuda",
+    "king of birds",
+    "mount of Vishnu"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "khum_khrong",
+   "kan_phi",
+   "kha_khai",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "samrit"
+  ],
+  "figures": [
+   "deity",
+   "animal"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปครุฑกางปีก ครึ่งคนครึ่งนก หล่อโลหะ ตั้งแต่จี้เล็กจนถึงรูปตั้งบูชา",
+  "shape_en": "A winged man-bird with wings spread, cast in metal from small pendant to shelf standard; flat medallion and openwork pendant forms both occur",
+  "size_mm": null,
+  "wearable_th": "จี้ห้อยคอ แหวน หรือรูปตั้ง",
+  "wearable_en": "Worn as a pendant or ring, or stood on a shelf",
+  "obverse_th": "ครุฑยืนกางปีก มือทั้งสองชูขึ้น บางแบบจับนาค",
+  "obverse_en": "The garuda stands with wings spread and arms raised; some forms grip a naga (ครุฑยุดนาค)",
+  "reverse_th": "ยันต์ ชื่อวัด หรือเรียบ",
+  "reverse_en": "A yantra, the issuing temple, or plain",
+  "notes_en": "The reference cards record ivory-nut wood alongside metal; the vault key lists metal only."
+ },
+ "iconography": [
+  {
+   "th": "ครึ่งคนครึ่งนก กางปีก",
+   "en": "half man, half bird, wings spread"
+  },
+  {
+   "th": "ครุฑยุดนาค",
+   "en": "garuda seizing a naga in each hand (a classic sub-type)"
+  },
+  {
+   "th": "มงกุฎ เล็บ จะงอยปาก",
+   "en": "crown, talons, and a beak-like face"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "ครุฑเป็นตราแผ่นดินไทย รูปเคารพในวัดและวังมีมาแต่โบราณ",
+  "era_en": "The garuda is the royal and national emblem of Thailand and an old temple and palace motif; when it became a mass-market amulet is not something this record can date",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ปีกกางเป็นเครื่องหมายแรก — ยักษ์ไม่มีปีก",
+   "en": "Spread wings are the first mark; a yaksha has none",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หล่อโลหะเป็นหลัก มีทั้งจี้ทึบ จี้ฉลุ และรูปตั้ง",
+   "en": "Cast metal as a rule: solid pendant, openwork pendant, or standing figure",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตราครุฑของราชการและตราตั้งห้างร้านไม่ใช่วัตถุมงคล",
+   "en": "The state garuda on documents and the royal-warrant garuda over a shop door are emblems, not amulets — same bird, no consecration",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ประกาศขายมักอ้าง กันคุณไสย อำนาจ ค้าขาย",
+   "en": "Listings state warding off black magic and curses (กันคุณไสย), authority, and commerce; one of the highest-frequency motifs in the current market",
+   "source": "s:amulet-reference",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "thao-wessuwan",
+   "tell_th": "ครุฑมีปีก ยืนบนฐานหรือเหยียบนาค · เวสสุวรรณเป็นยักษ์ถือกระบอง",
+   "tell_en": "The garuda has wings and often a naga underfoot; Wessuwan is a wingless giant leaning on a club. Both devas, both cast metal."
+  },
+  {
+   "id": "salika",
+   "tell_th": "สาลิกาเป็นนกตัวเล็กธรรมดา เน้นเมตตา วาจา · ครุฑเป็นครึ่งคนครึ่งนก เน้นอำนาจ",
+   "tell_en": "The salika is a small natural bird, a charm of sweet speech; the garuda is a crowned man-bird of authority."
+  },
+  {
+   "id": "phra-rahu",
+   "tell_th": "ราหูเป็นหัวอมจันทร์ ไม่มีตัว มักแกะกะลา · ครุฑเต็มตัว กางปีก หล่อโลหะ",
+   "tell_en": "Rahu is a bodiless head swallowing the moon, usually carved in coconut shell; the garuda is a whole winged figure in metal."
+  },
+  {
+   "id": "rup-lo",
+   "tell_th": "รูปหล่อคือพระเกจิครองจีวร · ครุฑเป็นเทพมีปีก",
+   "tell_en": "A rup lo is a cast monk in robes; a garuda is a winged deva. Cast metal both, so the figure decides."
+  }
+ ],
+ "market": {
+  "search": [
+   "ครุฑ"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Garuda in Thailand"
+  ],
+  "commons_files": [
+   "File:Siam, garuda inginocchiato in anjalimudra, in bronzo, xix secolo.jpg",
+   "File:WLANL - jankie - Mythische vogel Garuda (Thailand), 20e eeuw.jpg",
+   "File:072 Garuda (9204330259).jpg",
+   "File:ครุฑ.jpg"
+  ],
+  "wanted_en": "Commons holds temple and museum garudas, no amulet. Needed: a pendant garuda obverse and reverse, and the openwork type beside the solid type"
+ },
+ "images": [
+  {
+   "file": "phaya-khrut/phaya-khrut-siam-garuda-inginocchiato-in-anjalimudra-358b7e.jpg",
+   "source": "commons",
+   "title": "File:Siam, garuda inginocchiato in anjalimudra, in bronzo, xix secolo.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Siam%2C_garuda_inginocchiato_in_anjalimudra%2C_in_bronzo%2C_xix_secolo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=96096469",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Sailko",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Art of Thailand in the Museo civico d'arte siamese Stefano Cardu",
+   "sha256": "e3953082afd567f9cb2b8275db5689347c95b29f0957d2494d60bdea6996dcf2",
+   "width": 1548,
+   "height": 3102,
+   "primary": true
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wlanl-jankie-mythische-vogel-garuda-thai-43a1f6.jpg",
+   "source": "commons",
+   "title": "File:WLANL - jankie - Mythische vogel Garuda (Thailand), 20e eeuw.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/WLANL_-_jankie_-_Mythische_vogel_Garuda_%28Thailand%29%2C_20e_eeuw.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7624120",
+   "license": "CC BY-SA 2.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+   "author": "jankie",
+   "credit": "Mythische vogel Garuda (Thailand), 20e eeuw",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Mythical bird Garuda (Thailand)\ntemple decoration\n1st half 20th century\ngold\nBirds are connected to the upperworld and t",
+   "sha256": "6f7c8fbfe184f5eff3b775cb694ad65f6ad01aeb0b4ee0b442e34809b904bce9",
+   "width": 1632,
+   "height": 1224
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-jpg-5ad20e.jpg",
+   "source": "commons",
+   "title": "File:ครุฑ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%E0%B8%84%E0%B8%A3%E0%B8%B8%E0%B8%91.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=31360124",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Fibo4me",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — \"ครุฑ\" ลักษณะเป็นนกอินทรี แปลงรูปเป็น ครุฑจับนาค สวมมงกุฎยอด\nพระเมรุและเครื่องประกอบพระเมรุในพระราชพิธีพระราชทานเพลิงพระ",
+   "sha256": "d352a24235cd173c1b770519aa74c3e09cdca3fd61512ed6cce6ebad45b9e95f",
+   "width": 2152,
+   "height": 2690
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-072-garuda-9204330259-d4bcc1.jpg",
+   "source": "commons",
+   "title": "File:072 Garuda (9204330259).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/072_Garuda_%289204330259%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=50796735",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Photo Dharma from Sadao, Thailand",
+   "credit": "072 Yakkha",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — 072 Garuda, Wat Sri Suphan, Chiang Mai",
+   "sha256": "fb23b21b18fd1fcb6c33b270283ce9580e543cb71d529ebaa834273e8c12b735",
+   "width": 3648,
+   "height": 2736
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-garudachmwchangkham0506-cdae6e.jpg",
+   "source": "commons",
+   "title": "File:Garudachmwchangkham0506.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Garudachmwchangkham0506.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2515464",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Fotograf / Photographer: Heinrich Damm (User:Hdamm, Hdamm at de.wikipedia.org)",
+   "credit": "Self-photographed",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Statue of Garuda in Wat Chang Kham, Chiang Mai, Thailand.",
+   "sha256": "af45508a41d46c24d60796d5e10cbe1a8e9003c5374f0b53dc6c6fd381d7b0b9",
+   "width": 673,
+   "height": 1038
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-garudawsuthat0107-062d76.jpg",
+   "source": "commons",
+   "title": "File:Garudawsuthat0107.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Garudawsuthat0107.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2515471",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Fotograf / Photographer: Heinrich Damm (User:Hdamm, Hdamm at de.wikipedia.org)",
+   "credit": "Self-photographed",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Painting of Garuda on entrance door to Ubosot, Wat Suthat, Bangkok, Thailand.",
+   "sha256": "8853fc582a9e4a6a933700a46433e6b8b682ca9d0c4a02ec543668e7f9e6d050",
+   "width": 683,
+   "height": 1024
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-bangkok-wat-suthat-017-d75d4b.jpg",
+   "source": "commons",
+   "title": "File:Bangkok wat suthat 017.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bangkok_wat_suthat_017.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3214120",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Mattana (มัทนา)",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Suthat, Bangkok, Thailand",
+   "sha256": "3a2e33092bc8a2f89a8cbb78bf0a263b1d8173073ef8d4cdd2e1fbb991f7468a",
+   "width": 1200,
+   "height": 900
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-prasat-yer-006-075ff9.jpg",
+   "source": "commons",
+   "title": "File:Prasat Yer-006.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Prasat_Yer-006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=6320963",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Prasat Yer, Thailand",
+   "sha256": "c3f5097b14dca66b201b24eaa0aa237138d6d641c9add5a2848e825436e0f306",
+   "width": 2592,
+   "height": 3888
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-prasat-sa-kamphaeng-yai-008-828b5d.jpg",
+   "source": "commons",
+   "title": "File:Prasat Sa Kamphaeng Yai-008.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Prasat_Sa_Kamphaeng_Yai-008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=6375018",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Prasat Sa Kamphaeng Yai, Thailand",
+   "sha256": "371402e82aab0fa08acd43f14b2059830f239cec3293c0a6f4e42f493f295d24",
+   "width": 2592,
+   "height": 3888
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-hat-yai-105-423-f6b834.jpg",
+   "source": "commons",
+   "title": "File:HAT YAI 105 423.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/HAT_YAI_105_423.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7792748",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hannah 50",
+   "credit": "Own work by uploader - LOKE SENG HON",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — A close-up shot of a red cloured Thai Garuda also known as Thai: ครุฑ krut. This garuda is one of the two statues found",
+   "sha256": "74bc9fa90307a17c747fc7b4fead5b8e6a69a7cf55878ca14990dc5944b11d84",
+   "width": 432,
+   "height": 644
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-garuda-hat-yai-07ba3a.jpg",
+   "source": "commons",
+   "title": "File:GARUDA HAT YAI.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/GARUDA_HAT_YAI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7792786",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Hannah 50",
+   "credit": "Own work by uploader - LOKE SENG HON",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — A red coloured Thai Garuda also best known as Thai: ครุฑ krut. This is one of the two garuda statues at the hilltip of H",
+   "sha256": "38603e6816394a9fb2281c90ed83bdabda37838f53e0da67fec2bd9619578045",
+   "width": 432,
+   "height": 644
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-king-rama-ii-s-privy-seal-at-wat-arun-160a03.jpg",
+   "source": "commons",
+   "title": "File:King Rama II's Privy Seal at Wat Arun.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/King_Rama_II%27s_Privy_Seal_at_Wat_Arun.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=7833438",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Xiengyod",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — ตราพระราชลัญจกรประจำพระองค์พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย (พระราชลัญจกรครุฑยุดนาค) ประดับรั้วเหล็กรอบบริเวณพระปรางค์ว",
+   "sha256": "1e289633f828adb6dd122602afcb16db512dce5151f6b55622f7531a03082506",
+   "width": 2448,
+   "height": 3264
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wat-trimitr-007-771284.jpg",
+   "source": "commons",
+   "title": "File:Wat Trimitr-007.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Wat_Trimitr-007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=10950025",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Trimitr, Bangkok, Thailand",
+   "sha256": "31ea79b13938bed6ce4107e19a95964c2b300a85cf0c44261732243a5f45e746",
+   "width": 5184,
+   "height": 3456
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wat-mahathat-worawihan-petchaburi-034-68ab61.jpg",
+   "source": "commons",
+   "title": "File:Wat Mahathat Worawihan (Petchaburi)-034.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Wat_Mahathat_Worawihan_%28Petchaburi%29-034.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11111931",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Mahathat Worawihan is a buddhist temple located in the province of Phetchaburi, Thailand",
+   "sha256": "6e288db0516cc4b7cca009a459fb7179124f06fff4030289427d8a0a8d19b5f5",
+   "width": 3888,
+   "height": 2592
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wat-mahathat-worawihan-petchaburi-035-e6db87.jpg",
+   "source": "commons",
+   "title": "File:Wat Mahathat Worawihan (Petchaburi)-035.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Wat_Mahathat_Worawihan_%28Petchaburi%29-035.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11111933",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Mahathat Worawihan is a buddhist temple located in the province of Phetchaburi, Thailand",
+   "sha256": "e6e6a0561942f6e18414c1395a6c85bd4e825f582a814b15f09f4073ce23a067",
+   "width": 3888,
+   "height": 2592
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wat-mahathat-worawihan-petchaburi-044-5a2bba.jpg",
+   "source": "commons",
+   "title": "File:Wat Mahathat Worawihan (Petchaburi)-044.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Wat_Mahathat_Worawihan_%28Petchaburi%29-044.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11112031",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Mahathat Worawihan is a buddhist temple located in the province of Phetchaburi, Thailand",
+   "sha256": "529d36f85cdf887cc9a914533de1833a036243807b19470cca1167557b54e051",
+   "width": 2592,
+   "height": 3888
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-wat-samrong-kiat-019-0a2e6d.jpg",
+   "source": "commons",
+   "title": "File:Wat Samrong Kiat-019.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Wat_Samrong_Kiat-019.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=11658740",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "Ddalbiez",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Wat Samrong Kiat is a buddhist temple located in the province of Sisaket, Thailand",
+   "sha256": "07056e67103fe5ffab98ca04f88ef613a098b3a4f58f1158dececc2844399b49",
+   "width": 3450,
+   "height": 5174
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-chakri-maha-prasat-hall-garuda-0308bb.jpg",
+   "source": "commons",
+   "title": "File:Chakri Maha Prasat Hall Garuda.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Chakri_Maha_Prasat_Hall_Garuda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=17853284",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Gremel Madolora",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Photo of Garuda on the south hall of Dusit Maha Prasat Throne Hall, Grand Palace, Bangkok, Thailand",
+   "sha256": "bc6997f78e06cd7f143a6da435db0f1544a96646c447154efc9503fc8db75d05",
+   "width": 852,
+   "height": 1280
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-3-840bb5.jpg",
+   "source": "commons",
+   "title": "File:จิตรกรรมฝาผนัง วัดระฆังโฆสิตาราม (3).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%9D%E0%B8%B2%E0%B8%9C%E0%B8%99%E0%B8%B1%E0%B8%87_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%A3%E0%B8%B0%E0%B8%86%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%86%E0%B8%AA%E0%B8%B4%E0%B8%95%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35566231",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "e82a92a95c06c15dbd595869b52ffb6b2fbe003db7741c0241656826224d0dca",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-14-bce21a.jpg",
+   "source": "commons",
+   "title": "File:วัดสิงห์ เขตจอมทอง กรุงเทพมหานคร (14).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%88%E0%B8%AD%E0%B8%A1%E0%B8%97%E0%B8%AD%E0%B8%87_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=51350170",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "3102028348d7e39b5bbac17bc42993b186673473257f3976f498d71e0c4e30b1",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-jim-thompson-museum-img-7168-605b1d.jpg",
+   "source": "commons",
+   "title": "File:Jim Thompson Museum IMG 7168.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Jim_Thompson_Museum_IMG_7168.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=53124149",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Bjoertvedt",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — Thai artwork of unknown age, Jim Thompson House collection, Bangkok",
+   "sha256": "9b4f6170c6e2a0dde86083de35c9058c7498b6466808dc542bd09d12ba475f6b",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-chao-sam-phraya-museum-2017-02-13-013-a6e964.jpg",
+   "source": "commons",
+   "title": "File:Chao Sam Phraya Museum - 2017-02-13 (013).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Chao_Sam_Phraya_Museum_-_2017-02-13_%28013%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56263362",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — * Place: Building 1, Chao Sam Phraya National Museum, Phra Nakhon Si Ayutthaya Province, Thailand\nItems: Terracotta garu",
+   "sha256": "a751425d3df6631b31ea909ac18e34aee76fcc215d029b8a1fb353721879e80c",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-chao-sam-phraya-museum-2017-02-13-033-07b73c.jpg",
+   "source": "commons",
+   "title": "File:Chao Sam Phraya Museum - 2017-02-13 (033).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Chao_Sam_Phraya_Museum_-_2017-02-13_%28033%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56264511",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — * Place: Building 1, Chao Sam Phraya National Museum, Phra Nakhon Si Ayutthaya Province, Thailand\nItems: Garuda bow of a",
+   "sha256": "805d11c12fb9869a6a611c0c182c04eafe020ef8d9c431922ce903a1c79528e9",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "phaya-khrut/phaya-khrut-chao-sam-phraya-museum-2017-02-13-034-b31e66.jpg",
+   "source": "commons",
+   "title": "File:Chao Sam Phraya Museum - 2017-02-13 (034).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Chao_Sam_Phraya_Museum_-_2017-02-13_%28034%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=56264513",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พญาครุฑ",
+   "alt_en": "Phaya Khrut (the garuda) — * Place: Building 1, Chao Sam Phraya National Museum, Phra Nakhon Si Ayutthaya Province, Thailand\nItems: Garuda bow of a",
+   "sha256": "1c3db39f859cf74aadb095337a0ccea559e0c5c1d28fa4ad34e7b3ba1b4ff108",
+   "width": 3024,
+   "height": 4032
+  }
+ ],
+ "text": {
+  "what_th": "พญาครุฑ ราชาแห่งนก กางปีก — อำนาจ แคล้วคลาด และหนี้ที่ไม่กล้าตามมา หล่อโลหะตั้งแต่จี้จนถึงรูปตั้ง เป็นเทพที่บูชาผ่านวัตถุ ไม่ต้องเลี้ยง",
+  "what_en": "The king of birds, wings spread — authority, safe passage, and debt that dares not follow. Cast in metal from pendant to standard.",
+  "story_th": "ครุฑเป็นพาหนะของพระนารายณ์ และเป็นตราแผ่นดิน ในวงการวัตถุมงคลผู้ค้ากล่าวถึงอำนาจบารมี ค้าขายคล่อง และที่ย้ำบ่อยคือกันคุณไสย ตามชั้นของหมวด ผู้บูชาถวายความเคารพและเครื่องสักการะ ไม่ใช่การเลี้ยงผี",
+  "story_en": "The garuda is Vishnu's mount and the emblem of the Thai state, which is why the same bird sits on a passport and on a pendant. In the trade it is sold for commanding presence, for commerce that moves, and — the claim listings repeat most — for warding off black magic and curses. The vault places it with Wessuwan and Rahu: a deva venerated through the object, owed respect, not a raised ghost that eats. What the tradition calls the garuda's power is authority; the keeper borrows the bird's rank.",
+  "keeping_th": "เทพสถิตในความหมายของการบูชา ถวายความเคารพและเครื่องสักการะ ไม่ต้องเลี้ยง วางลงได้",
+  "keeping_en": "Deva tier: veneration, not feeding. Respect and small offerings; can be set down. Provenance sensitivity medium — ask, but no history follows it the way a spirit-object's does."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:amulet-reference"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "axes.functions": {
+    "tier": "tradition",
+    "source": "s:amulet-reference",
+    "note": "authority has no vocab key; kan_phi stands in for กันคุณไสย"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

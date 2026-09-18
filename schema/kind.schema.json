@@ -1,0 +1,203 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wichaa.net/schema/amulet-kind.schema.json",
+  "title": "Amulet kind record",
+  "description": "One record per kind of sacred object (พระเครื่อง / เครื่องราง). The emic term is the identity; English is a gloss. Every field carries provenance (record default + per-field override). Keys beginning with x_ are free extension slots and are never rejected.",
+  "type": "object",
+  "required": ["schema", "id", "level", "names", "region", "axes", "form", "text", "sources", "provenance", "confidence", "updated"],
+  "additionalProperties": false,
+  "patternProperties": {
+    "^x_": {}
+  },
+  "properties": {
+    "schema": {"type": "integer", "const": 1},
+    "id": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
+    "level": {"type": "string", "enum": ["kind", "variant", "run"]},
+    "parent": {"type": ["string", "null"], "description": "id of the parent record for variant/run levels (พิมพ์ belongs to a รุ่น, a รุ่น to a kind)"},
+    "names": {
+      "type": "object",
+      "required": ["th", "roman", "en"],
+      "additionalProperties": false,
+      "properties": {
+        "th": {"type": "string", "minLength": 1},
+        "roman": {"type": "string", "minLength": 1},
+        "en": {"type": "string", "minLength": 1},
+        "aliases": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "th": {"type": "array", "items": {"type": "string"}},
+            "roman": {"type": "array", "items": {"type": "string"}},
+            "en": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "other_scripts": {"type": "object", "additionalProperties": {"type": "string"}, "description": "BCP-47 keyed names in other scripts: km, lo, my, ms, zh"}
+      }
+    },
+    "region": {"type": "array", "minItems": 1, "items": {"type": "string"}, "description": "open list, validated against data/vocab/regions.json with a warning not an error"},
+    "axes": {
+      "type": "object",
+      "required": ["class"],
+      "additionalProperties": false,
+      "properties": {
+        "class": {"type": ["string", "null"], "description": "vault classes.md key; null = the vocabulary refuses to place it (that refusal is data)"},
+        "functions": {"type": "array", "items": {"type": "string"}},
+        "materials": {"type": "array", "items": {"type": "string"}},
+        "figures": {"type": "array", "items": {"type": "string"}, "description": "holding_key figure keys: buddha monk deity human animal phallic object none"}
+      }
+    },
+    "form": {
+      "type": "object",
+      "required": ["type"],
+      "additionalProperties": false,
+      "properties": {
+        "type": {"type": "string", "enum": ["tablet", "figure", "medallion", "coin", "tube", "cloth", "blade", "shell", "oil", "wax", "plant", "natural", "locket", "bead", "ring", "vessel", "other"]},
+        "shape_th": {"type": "string"},
+        "shape_en": {"type": "string"},
+        "size_mm": {"type": ["array", "null"], "items": {"type": ["number", "null"]}, "minItems": 3, "maxItems": 3, "description": "[width, height, depth] typical; null entries allowed"},
+        "wearable_th": {"type": "string"},
+        "wearable_en": {"type": "string"},
+        "obverse_th": {"type": "string"},
+        "obverse_en": {"type": "string"},
+        "reverse_th": {"type": "string"},
+        "reverse_en": {"type": "string"},
+        "notes_en": {"type": "string"},
+        "notes_th": {"type": "string"}
+      }
+    },
+    "iconography": {"type": "array", "items": {"$ref": "#/$defs/bitext"}},
+    "origin": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "wat_slug": {"type": ["string", "null"], "description": "manuscript-wiki/data/wats-detail.json key when known"},
+        "wat_th": {"type": "string"},
+        "wat_en": {"type": "string"},
+        "maker_th": {"type": "string"},
+        "maker_en": {"type": "string"},
+        "era_th": {"type": "string"},
+        "era_en": {"type": "string"},
+        "place_th": {"type": "string"},
+        "place_en": {"type": "string"},
+        "first_attested": {"type": "string", "description": "earliest dated attestation you can NAME; blank if none"}
+      }
+    },
+    "diagnostics": {
+      "type": "array",
+      "description": "type-level marks a reader can check with eye or loupe. Never a genuineness claim about an object.",
+      "items": {
+        "type": "object",
+        "required": ["en"],
+        "additionalProperties": false,
+        "properties": {
+          "th": {"type": "string"},
+          "en": {"type": "string"},
+          "source": {"type": "string"},
+          "tier": {"$ref": "#/$defs/tier"}
+        }
+      }
+    },
+    "confusable_with": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "tell_en"],
+        "additionalProperties": false,
+        "properties": {
+          "id": {"type": "string"},
+          "tell_th": {"type": "string"},
+          "tell_en": {"type": "string"}
+        }
+      }
+    },
+    "market": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "search": {"type": "array", "items": {"type": "string"}, "description": "listing-title terms; counts come from catalog.db at build"},
+        "excludes": {"type": "array", "items": {"type": "string"}, "description": "delete-then-test collision strings (axis_match rule)"},
+        "tier": {"type": "string", "enum": ["retail", "sian", "both", "none", "unknown"]}
+      }
+    },
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "commons_categories": {"type": "array", "items": {"type": "string"}},
+        "commons_files": {"type": "array", "items": {"type": "string"}},
+        "wanted_en": {"type": "string", "description": "what a photograph of this kind must show to be useful"}
+      }
+    },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["file", "source", "license", "view"],
+        "additionalProperties": false,
+        "properties": {
+          "file": {"type": "string", "description": "path relative to data/images/"},
+          "source": {"type": "string", "enum": ["commons", "own", "contributed", "museum", "flickr", "diagram"]},
+          "title": {"type": "string"},
+          "url": {"type": "string"},
+          "page_url": {"type": "string"},
+          "license": {"type": "string"},
+          "license_url": {"type": "string"},
+          "author": {"type": "string"},
+          "credit": {"type": "string"},
+          "view": {"type": "string", "enum": ["obverse", "reverse", "side", "in-situ", "group", "detail", "diagram", "other"]},
+          "alt_th": {"type": "string"},
+          "alt_en": {"type": "string"},
+          "sha256": {"type": "string"},
+          "width": {"type": "integer"},
+          "height": {"type": "integer"},
+          "primary": {"type": "boolean"}
+        }
+      }
+    },
+    "text": {
+      "type": "object",
+      "required": ["what_en"],
+      "additionalProperties": false,
+      "properties": {
+        "what_th": {"type": "string"},
+        "what_en": {"type": "string", "minLength": 20},
+        "story_th": {"type": "string"},
+        "story_en": {"type": "string"},
+        "keeping_th": {"type": "string"},
+        "keeping_en": {"type": "string"}
+      }
+    },
+    "sources": {"type": "array", "minItems": 1, "items": {"type": "string"}, "description": "ids from data/sources/sources.json"},
+    "provenance": {
+      "type": "object",
+      "required": ["default"],
+      "additionalProperties": false,
+      "properties": {
+        "default": {"$ref": "#/$defs/prov"},
+        "fields": {"type": "object", "additionalProperties": {"$ref": "#/$defs/prov"}, "description": "per-field override keyed by dotted path, e.g. form.size_mm"}
+      }
+    },
+    "confidence": {"type": "string", "enum": ["high", "medium", "low"]},
+    "needs_verification": {"type": "boolean"},
+    "updated": {"type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"}
+  },
+  "$defs": {
+    "bitext": {
+      "type": "object",
+      "required": ["en"],
+      "additionalProperties": false,
+      "properties": {"th": {"type": "string"}, "en": {"type": "string"}}
+    },
+    "tier": {"type": "string", "enum": ["catalogue", "cited", "tradition", "inference", "field"]},
+    "prov": {
+      "type": "object",
+      "required": ["tier"],
+      "additionalProperties": false,
+      "properties": {
+        "tier": {"$ref": "#/$defs/tier"},
+        "source": {"type": "string"},
+        "note": {"type": "string"}
+      }
+    }
+  }
+}

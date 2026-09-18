@@ -1,0 +1,250 @@
+{
+ "schema": 1,
+ "id": "khun-phaen",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ขุนแผน",
+  "roman": "khun phaen",
+  "en": "Khun Phaen tablet",
+  "aliases": {
+   "th": [
+    "พระขุนแผน",
+    "ขุนแผนพลายกุมาร"
+   ],
+   "roman": [
+    "khun paen",
+    "khun pan",
+    "khun phaen phlai kuman"
+   ],
+   "en": [
+    "Khun Paen amulet"
+   ]
+  }
+ },
+ "region": [
+  "th-central"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "maha_saneh",
+   "metta_maha_niyom",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_phong",
+   "nuea_din"
+  ],
+  "figures": [
+   "buddha"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "พระพิมพ์ทรงห้าเหลี่ยม องค์พระประทับนั่งในซุ้มเรือนแก้ว",
+  "shape_en": "A pressed tablet, typically five-sided, with a seated Buddha inside a ruean kaeo arch",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn cased at the neck",
+  "obverse_th": "องค์พระนั่งสมาธิหรือมารวิชัยในซุ้มเรือนแก้ว บางพิมพ์มีรูปกุมารประกอบ",
+  "obverse_en": "A Buddha in meditation or maravijaya inside the arch; some moulds add a kuman figure",
+  "reverse_th": "เรียบ หรือฝังตะกรุด หรือมีรอยจาร",
+  "reverse_en": "Plain, or with an embedded takrut or hand-incised yantra",
+  "notes_en": "The vault measured the seam: of 389 listings naming กุมาร, 106 are ขุนแผน. Buddha-amulet form; upkeep is an amulet's, the provenance question depends on the making. The hybrid is measured, not forced."
+ },
+ "iconography": [
+  {
+   "th": "องค์พระในซุ้มเรือนแก้ว",
+   "en": "a Buddha inside a ruean kaeo (jewelled-house) arch"
+  },
+  {
+   "th": "รูปกุมารเล็กข้างองค์พระ (บางพิมพ์)",
+   "en": "a small kuman beside or below the Buddha (some moulds)"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ตั้งชื่อตามขุนแผน ตัวเอกเสภาขุนช้างขุนแผน; สายที่วงการยกให้: หลวงพ่อกวย วัดโฆสิตาราม ชัยนาท (พลายกุมาร) และหลวงปู่ทิม วัดละหารไร่",
+  "maker_en": "Named for Khun Phaen, the epic's charm-master. The reference cards single out Luang Pho Kuai of Wat Khositaram, Chainat (Khun Phaen Phlai Kuman) and Luang Pu Thim of Wat Lahan Rai as the trade's benchmark lines",
+  "era_th": "เสภาพิมพ์ครั้งแรก พ.ศ. ๒๔๑๕; พระพิมพ์ทรงนี้วงการถือว่ามีกรุสมัยอยุธยา (สุพรรณบุรี) ก่อนชื่อจะติด",
+  "era_en": "Epic first printed 1872; the trade holds that the tablet form predates the name, from Ayutthaya-period caches in the Suphanburi area — unverified here",
+  "place_th": "สุพรรณบุรี · ชัยนาท · ระยอง (ตามสาย)",
+  "place_en": "Suphanburi, Chainat, Rayong by line",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ซุ้มเรือนแก้วทรงห้าเหลี่ยม ไม่ใช่ซุ้มครอบแก้วสี่เหลี่ยมของพระสมเด็จ",
+   "en": "A five-sided ruean kaeo arch, not the straight-edged rectangle and bell-glass arch of a somdet",
+   "source": "s:amulet-reference",
+   "tier": "tradition"
+  },
+  {
+   "th": "บางพิมพ์มีรูปกุมารร่วมกับองค์พระ",
+   "en": "Some moulds show a kuman figure with the Buddha — the epic's Golden Child on the tablet",
+   "source": "s:en-wiki-thai-amulet",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อผงหรือเนื้อดิน; มวลสารที่ผสมมักไม่แสดงบนผิว บางองค์มีก้อนบรรจุด้านหลัง",
+   "en": "Powder or fired-clay body; the trade looks for a distinct-coloured plug at the back or flecks in the body, but what went in does not reliably show on the surface",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ด้านหลังมักฝังตะกรุดหรือจารมือ",
+   "en": "Reverse often carries an embedded takrut or a hand-incised yantra",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ชื่อรุ่นบอกมวลสาร: คำในชื่อรุ่นคือคำประกาศของผู้ขายว่าใส่อะไรลงไป อ่านชื่อก่อนดูผิว",
+   "en": "The line name declares the material: the words in the title are the seller's own statement of what went in. Read the name before the surface",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-somdet",
+   "tell_th": "พระสมเด็จสี่เหลี่ยม ซุ้มครอบแก้ว เนื้อขาว · ขุนแผนห้าเหลี่ยม ซุ้มเรือนแก้ว",
+   "tell_en": "A somdet is a straight-edged rectangle with a bell-glass arch and a white body; a khun phaen is five-sided with a ruean kaeo arch. Same class by form, different provenance question."
+  },
+  {
+   "id": "kuman-thong",
+   "tell_th": "กุมารทองเป็นรูปเด็กที่ต้องเลี้ยง · ขุนแผนเป็นพระพิมพ์ที่บูชาอย่างพระเครื่อง",
+   "tell_en": "A kuman thong is a child figure you feed; a khun phaen is a Buddha tablet kept like any amulet. The scanner tags both 'kuman' because the word is present; the class is not the same."
+  },
+  {
+   "id": "phra-phong-suphan",
+   "tell_th": "ผงสุพรรณเป็นพระกรุเนื้อดินทรงสามเหลี่ยม ไม่มีซุ้มเรือนแก้ว",
+   "tell_en": "Phra Phong Suphan is a triangular fired-clay cache tablet without the ruean kaeo arch; both are Suphanburi names, which is the confusion"
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุขุนแผนเป็นของกรุเก่าเนื้อดิน · ขุนแผนวัดสร้างใหม่เนื้อผง มวลสารต่างกัน",
+   "tell_en": "A cache-find khun phaen is old fired clay with nobody home; a modern temple khun phaen is powder with its own material story — the name is shared, the material story is not"
+  }
+ ],
+ "market": {
+  "search": [
+   "ขุนแผน"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Khun Paen Wat Bang Krang.png",
+   "File:Luang Phor Suang Khun Paen.png"
+  ],
+  "wanted_en": "Obverse straight on showing the arch, and a reverse showing the powder plug or takrut. The two Commons files give the obverse of a Wat Bang Krang piece and a Luang Phor Suang piece; no reverse yet."
+ },
+ "images": [
+  {
+   "file": "khun-phaen/khun-phaen-khun-paen-wat-bang-krang-dd5c5d.png",
+   "source": "commons",
+   "title": "File:Khun Paen Wat Bang Krang.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Khun_Paen_Wat_Bang_Krang.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99829395",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ขุนแผน",
+   "alt_en": "Khun Phaen tablet — Khun Paen Wat Bang Krang. Buddhist amulets from Thailand.",
+   "sha256": "17f9386728e454c3d7aef3080f735f4e712029d167b3b561103935a0eb6e1a07",
+   "width": 1470,
+   "height": 911,
+   "primary": true
+  },
+  {
+   "file": "khun-phaen/khun-phaen-luang-phor-suang-khun-paen-0fa54b.png",
+   "source": "commons",
+   "title": "File:Luang Phor Suang Khun Paen.png",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Luang_Phor_Suang_Khun_Paen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=99853135",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Somdej.watrakang",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ขุนแผน",
+   "alt_en": "Khun Phaen tablet — Luang Phor Suang Khun Paen with tiny Relics",
+   "sha256": "d512b7fcc15c598fb79a105e145746fbc0897a4c813868e6da99ab9f1e9174c4",
+   "width": 1473,
+   "height": 922
+  }
+ ],
+ "text": {
+  "what_th": "พระพิมพ์ในซุ้มเรือนแก้ว ตั้งชื่อตามขุนแผนผู้เชี่ยวชาญวิชาในเสภา — พระเครื่ององค์เดียวที่เรื่องมวลสารสำคัญเท่ากับพิมพ์ทรง บางองค์เป็นผงล้วน บางองค์ผสมมวลสารอื่น และผิวไม่บอก",
+  "what_en": "A pressed tablet in the classic arch — named for the epic's charm-master, and the one amulet whose material story matters as much as its form. Some are pure powder; some are worked with other material, and the difference does not show on the surface.",
+  "story_th": "ขุนแผนในเสภาเป็นผู้เชี่ยวชาญยันต์ คาถา และเลี้ยงกุมารทองจากลูกในครรภ์นางบัวคลี่ พระพิมพ์ที่ใช้ชื่อเขาจึงถูกสร้างเป็นพระเครื่องเสน่ห์ บางสายระบุว่าเนื้อมีมวลสาร 'พรายกุมาร' — นี่คือตะเข็บระหว่างหมวด คลังนับได้: ในรายการที่กล่าวถึงกุมาร ๓๘๙ รายการ เป็นขุนแผน ๑๐๖ รายการ ตะเข็บนี้วัดมา ไม่ได้บังคับ",
+  "story_en": "Khun Phaen in the epic is the master of yantra and katha who raises a kuman thong from his own stillborn son; the tablet that borrows his name is made as a charm of attraction, and some lines state that 'prai kuman' material went into the body — that single fact is the seam between classes. The vault counted the seam rather than deciding it: of 389 listings naming กุมาร, 106 are ขุนแผน. The reference cards name Luang Pho Kuai's Khun Phaen Phlai Kuman as the trade's benchmark line. The hybrid is measured, not forced; a future class that splits form from material would resolve it, and this record does not pre-empt that.",
+  "keeping_th": "บูชาอย่างพระเครื่อง ไม่ต้องเลี้ยง — แต่ถามว่าอะไรอยู่ในเนื้อ เพราะความไวต่อประวัติอยู่ระดับกลางถึงสูงตามมวลสาร",
+  "keeping_en": "Kept as an amulet: nobody to feed. But ask what went into the batch — the vault rates its provenance sensitivity medium to high because of the material, even though its upkeep is an amulet's."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:en-wiki-khun-chang-khun-phaen",
+  "s:en-wiki-thai-amulet",
+  "s:amulet-reference",
+  "s:commons-amulets-th",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "389/106 count from classes.md fuzzy-edges section; epic: s:en-wiki-khun-chang-khun-phaen; benchmark line: s:amulet-reference card A·04"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.notes_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "origin.maker_en": {
+    "tier": "tradition",
+    "source": "s:amulet-reference"
+   },
+   "origin.era_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Ayutthaya cache origin is trade lore; no cache or date named"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "media": {
+    "tier": "catalogue",
+    "source": "s:commons-amulets-th"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

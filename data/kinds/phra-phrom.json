@@ -1,0 +1,619 @@
+{
+ "schema": 1,
+ "id": "phra-phrom",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระพรหม",
+  "roman": "phra phrom",
+  "en": "Four-faced Brahma pendant",
+  "aliases": {
+   "th": [
+    "ท้าวมหาพรหม",
+    "พรหมสี่หน้า",
+    "พระพรหมเอราวัณ"
+   ],
+   "roman": [
+    "thao maha phrom",
+    "phra prom",
+    "phrom si na"
+   ],
+   "en": [
+    "Phra Phrom",
+    "Erawan Brahma",
+    "Four-Face Buddha (Chinese-market misnomer)"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "metta_maha_niyom",
+   "chok_lap",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_loha",
+   "thonglueang",
+   "nuea_phong"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหล่อสี่หน้าแปดกรประทับนั่ง หรือเหรียญ",
+  "shape_en": "Cast figure with four faces and eight arms, seated; also struck medallions showing the four faces",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ หรือตั้งบูชา",
+  "wearable_en": "Worn at the neck in a case, or set on a shrine",
+  "obverse_th": "สี่พักตร์ แปดกร ถือคัมภีร์ ลูกประคำ หม้อน้ำ ดอกบัว เป็นต้น",
+  "obverse_en": "Four faces, eight arms holding scripture, rosary, water vessel, lotus and the rest of the standard set",
+  "reverse_th": "ยันต์หรือชื่อวัด",
+  "reverse_en": "Yantra or issuing wat",
+  "notes_en": "The four-faced Erawan image became the template most Thai Brahma pendants copy (Thai Wikipedia)."
+ },
+ "iconography": [
+  {
+   "th": "สี่พักตร์",
+   "en": "four faces, one to each direction"
+  },
+  {
+   "th": "แปดกร ถือคัมภีร์ ลูกประคำ หม้อน้ำ ดอกบัว",
+   "en": "eight arms with scripture, rosary, water vessel and lotus among the attributes"
+  },
+  {
+   "th": "หงส์ พาหนะ",
+   "en": "the swan (hong) as vehicle, on larger images"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "รูปต้นแบบ: กรมศิลปากร (ช่างปั้น จิตร พิมพ์โกวิท) สร้างให้ศาลท้าวมหาพรหม โรงแรมเอราวัณ พ.ศ. 2499",
+  "maker_en": "The template image was made by the Fine Arts Department (sculptor Chit Phimkowit) for the Erawan Hotel shrine, installed 9 November 1956; pendants are issued by many wats",
+  "era_th": "ศาลตั้ง พ.ศ. 2499 ความนิยมทั่วประเทศตามมา",
+  "era_en": "Shrine founded 1956 after construction troubles at the hotel; nationwide popularity follows it",
+  "place_th": "แยกราชประสงค์ กรุงเทพฯ",
+  "place_en": "Ratchaprasong intersection, Bangkok",
+  "first_attested": "1956 — the Erawan shrine image (en/th Wikipedia)"
+ },
+ "diagnostics": [
+  {
+   "th": "สี่หน้า แปดกร — หน้าเดียวคือเทพองค์อื่น",
+   "en": "Four faces and eight arms; a single-faced seated deity is another god",
+   "source": "s:th-wiki-phra-phrom",
+   "tier": "cited"
+  },
+  {
+   "th": "รูปแบบเอราวัณ: ประทับนั่ง มงกุฎยอดแหลม",
+   "en": "Erawan-pattern: seated, tall pointed crown — the shape most pendants copy",
+   "source": "s:th-wiki-phra-phrom",
+   "tier": "cited"
+  },
+  {
+   "th": "ชื่อ “พระพรหม” ชนกับสมณศักดิ์ (พระพรหมมุนี พระพรหมวชิร...) ในรายการขาย",
+   "en": "The word พระพรหม also begins many monastic titles (พระพรหมมุนี, พระพรหมวชิร…); a listing with a monk's name after it is a monk medallion, not Brahma",
+   "source": "s:catalog-db",
+   "tier": "inference"
+  },
+  {
+   "th": "ตลาดจีนเรียก “สี่หน้าพุทธ” ทั้งที่เป็นพรหม",
+   "en": "Sold to Chinese-speaking buyers as 'Four-Face Buddha'; the object is Brahma regardless of the label",
+   "source": "s:tradition",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-phikkhanet",
+   "tell_th": "พระพิฆเนศเศียรช้าง · พระพรหมสี่หน้าคน",
+   "tell_en": "Ganesha has an elephant head; Brahma has four human faces. Same class, same keeping."
+  },
+  {
+   "id": "thao-wessuwan",
+   "tell_th": "ท้าวเวสสุวรรณหน้ายักษ์ถือกระบอง ยืน · พระพรหมสี่หน้านั่ง",
+   "tell_en": "Wessuwan is a standing giant with a club; Brahma sits with four faces"
+  },
+  {
+   "id": "phra-kring",
+   "tell_th": "พระกริ่งเป็นพระพุทธรูปเล็กมีเม็ดกริ่งข้างใน หน้าเดียว",
+   "tell_en": "A phra kring is a small Buddha with a rattle inside, one face, class phra_khrueang — nobody home"
+  }
+ ],
+ "market": {
+  "search": [
+   "พระพรหม",
+   "ท้าวมหาพรหม"
+  ],
+  "excludes": [
+   "พระพรหมมุนี",
+   "พระพรหมวชิร",
+   "พระพรหมวัชร",
+   "พระพรหมคุณาภรณ์",
+   "พระพรหมบัณฑิต",
+   "พระพรหมมังคลาจารย์",
+   "พระพรหมโมลี",
+   "พระพรหมเวที",
+   "พระพรหมสิทธิ",
+   "พระพรหมจริยาจารย์"
+  ],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Erawan Shrine"
+  ],
+  "commons_files": [
+   "File:เทวรูป พระพรหม Brahma.jpg",
+   "File:Lord Brahma Shrine of Erawan Hotel (13).jpg",
+   "File:Lord Brahma Shrine of Erawan Hotel (48).jpg",
+   "File:Bangkok ErawanShrine1.jpg",
+   "File:Erawan-Schrein top.jpg"
+  ],
+  "wanted_en": "Free files show the Erawan image and shrine. Needed: a Brahma pendant obverse showing all four faces, and its reverse."
+ },
+ "text": {
+  "what_th": "จี้หรือรูปหล่อพระพรหมสี่หน้า เทพผู้ลิขิตชะตาและประทานพร รูปแบบที่ทั้งประเทศทำตามคือองค์ท้าวมหาพรหมที่ศาลโรงแรมเอราวัณ",
+  "what_en": "A pendant or small cast image of four-faced Brahma, the god Thais credit with writing destiny and granting wishes. The template nearly every pendant copies is the Erawan Hotel shrine image at Ratchaprasong.",
+  "story_th": "โรงแรมเอราวัณสร้างไม่ราบรื่น พลเรือตรีหลวงสุวิชานแพทย์แนะให้ตั้งศาลพระพรหม กรมศิลปากรปั้นองค์ปูนปลาสเตอร์ปิดทอง ประดิษฐาน 9 พฤศจิกายน 2499 ศาลถูกทุบด้วยค้อนปี 2549 และโดนระเบิดปี 2558 แต่กลับมาเปิดในสองวัน คนแก้บนด้วยละครรำและช้างไม้",
+  "story_en": "The Erawan Hotel's construction went badly until an astrologer-admiral advised a Brahma shrine; the Fine Arts Department made a gilded plaster image, installed 9 November 1956. A man smashed it with a hammer in 2006 and a replacement went in that May; a bomb killed twenty at the shrine in August 2015 and it reopened in two days. Worshippers pay vows with hired dancers and wooden elephants, and the pendant trade copies that seated four-faced form.",
+  "keeping_th": "บูชาด้วยดอกไม้ ธูป และการแก้บน ไม่ต้องเลี้ยง ไม่ใช่ผี",
+  "keeping_en": "Kept by veneration: flowers, incense, a vow kept. Not fed, not a ghost; offerings and respect are the whole relationship."
+ },
+ "sources": [
+  "s:th-wiki-phra-phrom",
+  "s:th-wiki-erawan-shrine",
+  "s:en-wiki-erawan-shrine",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-erawan-shrine"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-phra-phrom"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-erawan-shrine",
+    "note": "dates and events; the last clause is tradition"
+   },
+   "axes.class": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "excludes are monastic titles beginning พระพรหม, seen colliding on Commons and in listings"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": false,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "phra-phrom/phra-phrom-brahma-e36d00.jpg",
+   "source": "commons",
+   "title": "File:เทวรูป พระพรหม Brahma.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/%E0%B9%80%E0%B8%97%E0%B8%A7%E0%B8%A3%E0%B8%B9%E0%B8%9B_%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%A3%E0%B8%AB%E0%B8%A1_Brahma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=35441487",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — This is a photo of a monument in Thailand identified by the ID",
+   "sha256": "e797e226e93485d2ce542581db2dbcf0c84a86418c3b68c3ee62e33329c08664",
+   "width": 720,
+   "height": 960,
+   "primary": true
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-schrein-top-6af8a4.jpg",
+   "source": "commons",
+   "title": "File:Erawan-Schrein top.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Erawan-Schrein_top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=651851",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Fles",
+   "credit": "German Wikipedia",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan shrine in Bangkok, Thailand; view from entrance to the SkyTrain station. Originally uploaded to German wikipedia.",
+   "sha256": "0e5f629d1d29cb9f722f79527ac647add80db2aa46f492f7c1b65ed5e3a4879b",
+   "width": 1024,
+   "height": 683
+  },
+  {
+   "file": "phra-phrom/phra-phrom-bangkok-erawanshrine1-9927f5.jpg",
+   "source": "commons",
+   "title": "File:Bangkok ErawanShrine1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bangkok_ErawanShrine1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38195360",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ThailandPhoto",
+   "credit": "Work created under contract with the Department of Tourism, Ministry of Tourism and Sports. Published with author's permission",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine, also called “Phra Prom Erawan”, is located at the front of Grand Hyatt Erawan Hotel, at the Ratchaprasong",
+   "sha256": "ea8935eb6c6f52e770d12033f336870fff111f11b5805657c386caff313143a9",
+   "width": 2573,
+   "height": 1712
+  },
+  {
+   "file": "phra-phrom/phra-phrom-lord-brahma-shrine-of-erawan-hotel-13-65b28d.jpg",
+   "source": "commons",
+   "title": "File:Lord Brahma Shrine of Erawan Hotel (13).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lord_Brahma_Shrine_of_Erawan_Hotel_%2813%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147249301",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant",
+   "sha256": "93401bf41d0efe8b336e34338dde471c840425d8bed443246d8992733b17d338",
+   "width": 3240,
+   "height": 4320
+  },
+  {
+   "file": "phra-phrom/phra-phrom-lord-brahma-shrine-of-erawan-hotel-48-80d190.jpg",
+   "source": "commons",
+   "title": "File:Lord Brahma Shrine of Erawan Hotel (48).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lord_Brahma_Shrine_of_Erawan_Hotel_%2848%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147249340",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant",
+   "sha256": "5b23d17653677e7e96b78e78dcf8404c5c6d4aacf34455f7ec036141b62da731",
+   "width": 4592,
+   "height": 3448
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-dance-48d3dd.jpg",
+   "source": "commons",
+   "title": "File:Erawan dance.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Erawan_dance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=815874",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Lerdsuwa",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Traditional Thai dance performed for Brahma god at Erawan Shrine, Bangkok, Thailand.",
+   "sha256": "90942153a796748ea7f79ba89a508d48d0809c88381132bcf846f32691b2d5a2",
+   "width": 1076,
+   "height": 1432
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-6fcfee.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Erawan_Shrine.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=939405",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Terence Ong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine, Bangkok.",
+   "sha256": "09ce4a40981d5223e03df4271996e65e2e0f6f1a4ddf56918dfe8bea5b376e5b",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-3-f39980.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine 3.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Erawan_Shrine_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=939490",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Terence Ong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine, Bangkok.",
+   "sha256": "a21790fc55a9c4c97f00da4c3fc81bafe35a8467529496a6ad4232802c7f65aa",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-5-8af4b1.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine 5.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Erawan_Shrine_5.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=939517",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Terence Ong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine, Bangkok.",
+   "sha256": "238bb0c63fba468f07a4b7c20226b1a829dd90159cbbd8e669eaf8c27bbab369",
+   "width": 1600,
+   "height": 1200
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-6-bf9188.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine 6.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Erawan_Shrine_6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=939529",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Terence Ong",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine, Bangkok.",
+   "sha256": "1752515c9a09fab2288a3c9df73e875dec96e709d82691126e92778b70895f52",
+   "width": 1200,
+   "height": 1600
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-from-pedestrian-walkway-3e8cac.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine from pedestrian walkway.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Erawan_Shrine_from_pedestrian_walkway.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5634497",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "BrokenSphere",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — The Erawan Shrine in Bangkok, Thailand as seen from a pedestrian walkway.",
+   "sha256": "ea3ed82739414173338292391eef54ec270490043dcbc4b13d65915b92ea8a74",
+   "width": 2272,
+   "height": 1704
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-schrein-rueck-2cf858.jpg",
+   "source": "commons",
+   "title": "File:Erawan-Schrein rueck.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Erawan-Schrein_rueck.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18997364",
+   "license": "CC BY-SA 3.0",
+   "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "author": "Fles",
+   "credit": "Self-photographed",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Der Erawan-Schrein",
+   "sha256": "3b83e0f257ae93d344ac1e8bf8ee120d8ab802cefa99904440a20d6372f04457",
+   "width": 1166,
+   "height": 928
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-panoramio-dcaa03.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Erawan_Shrine_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=53925738",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Adriaan Castermans",
+   "credit": "https://web.archive.org/web/20161102234742/http://www.panoramio.com/photo/58110110",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine",
+   "sha256": "2e7595251449c3da70ba2b641d8266ad168aa309d7536ad2863f38e7635d0e62",
+   "width": 4320,
+   "height": 3240
+  },
+  {
+   "file": "phra-phrom/phra-phrom-grand-hyatt-erawan-bangkok-f5d495.jpg",
+   "source": "commons",
+   "title": "File:Grand Hyatt Erawan, Bangkok.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Grand_Hyatt_Erawan%2C_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=59860480",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Supanut Arunoprayote",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Grand Hyatt Erawan, Bangkok",
+   "sha256": "21c5a9fe6ce97756b51133a45a746e8e5dd63edc01276b66a94b00d9742b450f",
+   "width": 6000,
+   "height": 4000
+  },
+  {
+   "file": "phra-phrom/phra-phrom-4y1a1026-worshippers-at-erawan-shrine-33-cb75c0.jpg",
+   "source": "commons",
+   "title": "File:4Y1A1026 Worshippers at Erawan shrine (33528531071).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/4Y1A1026_Worshippers_at_Erawan_shrine_%2833528531071%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=61352761",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Ninara from Helsinki, Finland",
+   "credit": "4Y1A1026 Worshippers at Erawan shrine",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Worshippers at the Erawan Shrine in Bangkok",
+   "sha256": "b6602c6573b9eec4876dcf6406f05bccff7f2402cc083744be6f286ac7546a87",
+   "width": 2999,
+   "height": 1999
+  },
+  {
+   "file": "phra-phrom/phra-phrom-dance-offering-at-erawan-shrine-bangkok-3773da.jpg",
+   "source": "commons",
+   "title": "File:Dance offering at Erawan Shrine, Bangkok (32844253793).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Dance_offering_at_Erawan_Shrine%2C_Bangkok_%2832844253793%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=61352897",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Ninara from Helsinki, Finland",
+   "credit": "4Y1A1017 Bangkok",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — A worshipper prays to the statue of Brahma at the Erawan Shrine (not shown), as a troupe of dancers perform a dance as a",
+   "sha256": "ffde16d71922cb38d0bffb6408540f4600806d3acc55c9767de589eb47175002",
+   "width": 2799,
+   "height": 2142
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-at-night-0d5b2a.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine at Night.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Erawan_Shrine_at_Night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=63522977",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Zhou Guanhuai",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine in Bangkok, Thailand. At night of Oct 6th, 2017.",
+   "sha256": "4ab822c55008c6908139e23c5b5b8eacfcb118f385755e508b0ebd4b3ea4c00e",
+   "width": 2272,
+   "height": 1704
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-at-bangkok-93c9a6.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine at Bangkok.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Erawan_Shrine_at_Bangkok.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64026155",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Koala0090",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — ​伊拉旺神壇",
+   "sha256": "3e7ddee36d4e74897d35d7668ecc7fd3963fc06aee6e4f78556b027d07c9de64",
+   "width": 2592,
+   "height": 4608
+  },
+  {
+   "file": "phra-phrom/phra-phrom-a-thai-student-pouring-holy-water-57996d.jpg",
+   "source": "commons",
+   "title": "File:A Thai student pouring Holy water.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Thai_student_pouring_Holy_water.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=74904544",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — A Thai student pouring the holy water on his two hands at Erawan shrine",
+   "sha256": "69eb25ae918edbb72c5cb0ab7ff081ceeb3661d074c49eb547de685637f260fa",
+   "width": 1355,
+   "height": 825
+  },
+  {
+   "file": "phra-phrom/phra-phrom-bangkok-protests-15-october-2020-ratchap-97825c.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Protests 15 October 2020 Ratchaprasong Bangkok 01.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bangkok_Protests_15_October_2020_Ratchaprasong_Bangkok_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=95209362",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ฮินะจังปลดแอก",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Thai youths' protest 2020 at Ratchaprasong intersection Bangkok on 15 Oct 2020",
+   "sha256": "5ab9128208b16fa83d8d0ec1ddeef8fee761832d9e67ba44a69871d2bd64310f",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phra-phrom/phra-phrom-bangkok-protests-15-october-2020-ratchap-38ac80.jpg",
+   "source": "commons",
+   "title": "File:Bangkok Protests 15 October 2020 Ratchaprasong Bangkok 04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bangkok_Protests_15_October_2020_Ratchaprasong_Bangkok_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=95209366",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "ฮินะจังปลดแอก",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Thai youths' protest 2020 at Ratchaprasong intersection Bangkok on 15 Oct 2020",
+   "sha256": "d0659b5d360042e0c89e3e2a3920712f2f9e21e16a51633169dc8960ffda9701",
+   "width": 3520,
+   "height": 1980
+  },
+  {
+   "file": "phra-phrom/phra-phrom-erawan-shrine-bangkok-2021-may-87bee3.jpg",
+   "source": "commons",
+   "title": "File:Erawan Shrine Bangkok 2021 May.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Erawan_Shrine_Bangkok_2021_May.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=105621983",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Chainwit.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant — Erawan Shrine",
+   "sha256": "7301bbd251babd8ce81ffe0cfe3cb8758d7c3b1854db465a1d48fee05e481552",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "phra-phrom/phra-phrom-lord-brahma-shrine-of-erawan-hotel-1-ddf64b.jpg",
+   "source": "commons",
+   "title": "File:Lord Brahma Shrine of Erawan Hotel (1).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Lord_Brahma_Shrine_of_Erawan_Hotel_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147249263",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant",
+   "sha256": "fc956da0b695e341309a5755ec22f0bf777630611150fca70ab4a3f738fdf70b",
+   "width": 3216,
+   "height": 4288
+  },
+  {
+   "file": "phra-phrom/phra-phrom-lord-brahma-shrine-of-erawan-hotel-2-ec4b6f.jpg",
+   "source": "commons",
+   "title": "File:Lord Brahma Shrine of Erawan Hotel (2).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lord_Brahma_Shrine_of_Erawan_Hotel_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=147249265",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "กสิณธร ราชโอรส",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระพรหม",
+   "alt_en": "Four-faced Brahma pendant",
+   "sha256": "d1da4b3c0ac62da1c9090fb290067e7c1e12726b29415dd6c6d8f780b4adf2eb",
+   "width": 3216,
+   "height": 4288
+  }
+ ]
+}

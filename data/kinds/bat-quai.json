@@ -1,0 +1,349 @@
+{
+ "schema": 1,
+ "id": "bat-quai",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "กระจกยันต์แปดทิศ",
+  "roman": "bát quái",
+  "en": "Bagua mirror",
+  "aliases": {
+   "th": [
+    "ยันต์แปดทิศ",
+    "กระจกแปดเหลี่ยม",
+    "โป๊ยข่วย",
+    "ปากว้า"
+   ],
+   "roman": [
+    "gương bát quái",
+    "bagua jing",
+    "pat kwa",
+    "poi kwai"
+   ],
+   "en": [
+    "eight-trigram mirror",
+    "feng shui mirror",
+    "pa kua mirror"
+   ]
+  },
+  "other_scripts": {
+   "vi": "gương bát quái",
+   "zh": "八卦鏡"
+  }
+ },
+ "region": [
+  "vn",
+  "diaspora"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong"
+  ],
+  "materials": [],
+  "figures": [
+   "none"
+  ]
+ },
+ "form": {
+  "type": "other",
+  "shape_th": "กรอบแปดเหลี่ยม (บางทีกลม) มีตรีลักษณ์ ๘ ล้อมกระจกกลางที่แบน นูน หรือเว้า",
+  "shape_en": "An octagonal, sometimes round, frame carrying the eight trigrams around a central mirror that is flat, convex or concave; wood, plastic or brass frame, painted red, yellow and green",
+  "size_mm": null,
+  "wearable_th": "ไม่ใส่ตัว แขวนเหนือประตูด้านนอกหันออก",
+  "wearable_en": "Not worn. Hung above the front door or a window on the outside, facing outward, and never indoors; this is what separates it from every worn amulet in the catalogue",
+  "obverse_th": "กระจกกลาง ล้อมด้วยตรีลักษณ์ ๘ บางแบบมีหยินหยาง",
+  "obverse_en": "Central mirror ringed by the eight trigrams, sometimes with a yin-yang at the centre instead",
+  "reverse_th": "เรียบ หรือมีตะขอแขวน",
+  "reverse_en": "Plain, or carrying the hanging hook",
+  "notes_en": "Vault materials do not name mirror glass or painted wood; the axis is left empty. Song-dynasty cast-bronze bagua mirrors exist in museums but are a different object from the modern door remedy."
+ },
+ "iconography": [
+  {
+   "th": "ตรีลักษณ์ ๘: เฉียน ตุ้ย หลี เจิ้น ซวิ่น ข่าน เกิ้น คุน",
+   "en": "The eight trigrams: ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷"
+  },
+  {
+   "th": "กระจกกลาง",
+   "en": "Central mirror, flat / convex / concave"
+  },
+  {
+   "th": "หยินหยาง (บางแบบ)",
+   "en": "Yin-yang disc in some variants"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "ร้านฮวงจุ้ยและโรงงาน ไม่ผูกวัด",
+  "maker_en": "Feng shui shops and factories; no temple or maker attached",
+  "era_th": "ตรีลักษณ์ ๘ โยงถึงฝูซี ในตำนาน กระจกประตูเป็นของใช้สมัยใหม่",
+  "era_en": "The trigrams are attributed in legend to Fuxi; the door mirror as an inexpensive self-administered remedy is modern and undated in the sources",
+  "place_th": "จีน แพร่ทั่วเอเชียตะวันออกเฉียงใต้",
+  "place_en": "China, spread wherever Chinese houses are",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "กระจกสามแบบ: แบนสะท้อน นูนกระจาย เว้าดูดซับ",
+   "en": "Three mirror types with three stated jobs: flat reflects, convex disperses, concave absorbs or converges",
+   "source": "s:en-wiki-bagua",
+   "tier": "cited"
+  },
+  {
+   "th": "แขวนเหนือประตูหรือหน้าต่างด้านนอก หันออก ไม่แขวนในบ้าน",
+   "en": "Hung above the front door or window, facing out; never installed indoors. It is a feng shui remedy against sha qi from a road or a building corner, not an instrument",
+   "source": "s:en-wiki-bagua",
+   "tier": "cited"
+  },
+  {
+   "th": "ทรงแปดเหลี่ยมแทนแปดทิศ บางแบบกลม",
+   "en": "Octagonal for the eight directions; round examples exist",
+   "source": "s:zh-wiki-bagua-jing",
+   "tier": "cited"
+  },
+  {
+   "th": "แบบใหม่ในไต้หวันใช้กระจกสี่เหลี่ยมพิมพ์ยันต์แปดทิศและฮู้เต๋าแทน",
+   "en": "A newer variant is a square mirror printed with the trigrams and Daoist charm-script, cheaper to make than the true octagon; seen in a Commons photograph from Taipei",
+   "source": "s:tradition",
+   "tier": "inference"
+  },
+  {
+   "th": "หันไปทางบ้านเพื่อนบ้านถือว่าเป็นการรุกราน — ฮ่องกงมี 'สงครามกระจก'",
+   "en": "Pointing one at a neighbour's house reads as hostile; Hong Kong has documented mirror feuds. Useful for reading why one is angled the way it is",
+   "source": "s:en-wiki-bagua",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "pha-yan",
+   "tell_th": "ผ้ายันต์ใส่ตัวหรือติดในบ้าน กระจกแปดทิศแขวนนอกบ้านหันออกเท่านั้น",
+   "tell_en": "Both are impersonal inscribed objects, but a yantra cloth is worn or hung inside; the bagua mirror is architectural, outside, facing away from the house."
+  },
+  {
+   "id": "fu-talisman",
+   "tell_th": "ฮู้กระดาษติดเหนือประตูเดียวกัน แต่เป็นกระดาษเขียน ไม่มีกระจก",
+   "tell_en": "A paper fu is pasted above the same door, but it is written paper, burnable and replaceable; the mirror is a permanent fixture."
+  },
+  {
+   "id": "pixiu",
+   "tell_th": "ปี่เซียะเป็นรูปสัตว์ตั้งหน้าร้านหรือใส่ตัว มีคนบูชา กระจกไม่มีใครบูชา",
+   "tell_en": "A pixiu is a beast figure at the shop door or on the wrist and receives offerings; nobody makes offerings to a mirror."
+  }
+ ],
+ "market": {
+  "search": [
+   "กระจกยันต์แปดทิศ",
+   "กระจกแปดเหลี่ยม",
+   "โป๊ยข่วย"
+  ],
+  "excludes": [
+   "พวงกุญแจ"
+  ],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [
+   "File:Three Types of Modern Bagua Mirror Talismans.jpg",
+   "File:BaGua Mirror Hang on Top of Door at Songshan District, Taipei 20170917.jpg",
+   "File:Bagua mirror - Arlington, MA.jpg",
+   "File:Luopan-bagua1.jpg",
+   "File:Bagua mirror.jpg",
+   "File:Taijitu and demon warding mirror.jpg",
+   "File:Münster, Hollenbeckerstraße 24, Feng-Shui-Bagua-Spiegel -- 2026 -- 0573.jpg",
+   "File:Luopan-bagua2.jpg"
+  ],
+  "wanted_en": "One in place over a Vietnamese or Thai-Chinese shophouse door, and a straight-on of the concave type. Category:Bagua mirrors is empty on Commons as of 2026-09-02."
+ },
+ "text": {
+  "what_th": "กระจกในกรอบแปดเหลี่ยมมีตรีลักษณ์ ๘ ล้อม แขวนเหนือประตูด้านนอกหันออกเพื่อสะท้อนสิ่งไม่ดี ไม่ใช่ของใส่ตัว เวียดนามเรียก gương bát quái ไทยเรียกกระจกยันต์แปดทิศหรือโป๊ยข่วย พลังอยู่ที่แผนภาพ ไม่มีผู้สถิต",
+  "what_en": "A mirror in an octagonal frame of the eight trigrams, hung outside above the door and facing away, to turn back harmful qi from a road or a building edge. Not worn, not venerated: an impersonal diagram doing a job at the threshold. Vietnamese gương bát quái, Thai กระจกยันต์แปดทิศ.",
+  "story_th": "ตรีลักษณ์ ๘ มาจากอี้จิง โยงถึงฝูซี กระจกประตูเป็นวิธีแก้ฮวงจุ้ยราคาถูกที่เจ้าของบ้านทำเอง แบนสะท้อน นูนกระจาย เว้าดูดซับ แขวนนอกบ้านเท่านั้น หันใส่บ้านเพื่อนบ้านถือว่าท้าทาย",
+  "story_en": "The trigrams come from the Yijing and are credited in legend to Fuxi. The door mirror is the cheapest feng shui remedy there is, chosen and hung by the householder without a master: flat to reflect, convex to scatter, concave to absorb. It goes outside and only outside. Because it works by sending harm back where it came from, angling one at a neighbour is a provocation, and Hong Kong has recorded mirror feuds fought house against house. On Lazada Thailand it sells beside pendant versions of the same diagram, which are worn and are a different object.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ติดแล้วปล่อยไว้ เปลี่ยนเมื่อแตก",
+  "keeping_en": "Nobody home, nothing owed. It hangs and is left alone; a cracked one is replaced. The only care the trade names is not to bring it indoors and not to aim it at people."
+ },
+ "sources": [
+  "s:en-wiki-bagua",
+  "s:zh-wiki-bagua-jing",
+  "s:catalog-db",
+  "s:vault-classes",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-bagua"
+  },
+  "fields": {
+   "axes": {
+    "tier": "inference",
+    "note": "yantra_wattu by analogy: power in the diagram, no resident; the vault does not name the mirror"
+   },
+   "names.th": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "Lazada titles: กระจกยันต์แปดทิศ ยันต์8ทิศ กระจกแปดเหลี่ยม โป๊ยข่วย"
+   },
+   "form.shape_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "frame materials and colours from the trade"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "6 titles on ยันต์แปดทิศ as of 2026-09-02, most of them pendants; the mirror-specific terms are used here"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02",
+ "images": [
+  {
+   "file": "bat-quai/bat-quai-three-types-of-modern-bagua-mirror-talis-599dd4.jpg",
+   "source": "commons",
+   "title": "File:Three Types of Modern Bagua Mirror Talismans.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Three_Types_of_Modern_Bagua_Mirror_Talismans.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=188158250",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Physicist1204",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — Three variants of modern bagua mirror talismans. From left to right: Flat variant (with embossed trigrams on a metallic",
+   "sha256": "93e4d2baa013c3e2a8d335ffb578e46418f7a5a749dd4edffad5fe56f6f64c1c",
+   "width": 1920,
+   "height": 798,
+   "primary": true
+  },
+  {
+   "file": "bat-quai/bat-quai-taijitu-and-demon-warding-mirror-fb891c.jpg",
+   "source": "commons",
+   "title": "File:Taijitu and demon warding mirror.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Taijitu_and_demon_warding_mirror.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3512500",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "gitane",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — Taijitu within a frame of trigrams and a demon warding mirror, these charms photographed above a window in in a resident",
+   "sha256": "97ff2258d887c451be000333d52a0f1064aef7884bcd2e6c13c2eb86abcef9f2",
+   "width": 768,
+   "height": 1024
+  },
+  {
+   "file": "bat-quai/bat-quai-bagua-mirror-eacb83.jpg",
+   "source": "commons",
+   "title": "File:Bagua mirror.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Bagua_mirror.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5020480",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Fengshuimestari",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — A simple bagua mirror",
+   "sha256": "c41a7a86a86ee99b7b4759e8121295a108aabda8bf4bd4cf5346145fa213ccc3",
+   "width": 465,
+   "height": 465
+  },
+  {
+   "file": "bat-quai/bat-quai-luopan-bagua1-31e18c.jpg",
+   "source": "commons",
+   "title": "File:Luopan-bagua1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Luopan-bagua1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5020492",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Fengshuimestari",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — A convex bagua mirror with luopan rings.",
+   "sha256": "05a904bfeeec79b906893b261e0c2831fbf100fe5be4c14940b26aa961516a15",
+   "width": 1532,
+   "height": 1487
+  },
+  {
+   "file": "bat-quai/bat-quai-bagua-mirror-hang-on-top-of-door-at-song-6a1068.jpg",
+   "source": "commons",
+   "title": "File:BaGua Mirror Hang on Top of Door at Songshan District, Taipei 20170917.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/BaGua_Mirror_Hang_on_Top_of_Door_at_Songshan_District%2C_Taipei_20170917.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62617841",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "玄史生",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — ​臺北市松山區國宅一樓住戶門楣，用以辟邪的八卦鏡。臺灣傳統的八卦鏡是正八角形，但因加工不易，近年也有如照所示，於方鏡印上八卦與道家符咒的簡易型。",
+   "sha256": "ecc71c393a910e601b2c0b7ebff3f8d2090c5acb704570d48334ba72fb04ac11",
+   "width": 4032,
+   "height": 3024
+  },
+  {
+   "file": "bat-quai/bat-quai-bagua-mirror-arlington-ma-d1f02f.jpg",
+   "source": "commons",
+   "title": "File:Bagua mirror - Arlington, MA.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bagua_mirror_-_Arlington%2C_MA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=150395238",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Daderot",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — Bagua mirror - Arlington, Massachusetts, USA.",
+   "sha256": "0482ac89f64a51b6f1c6e9843c6bc54c9ca55494f7d4e22ad1aeb9fe28252014",
+   "width": 1978,
+   "height": 1975
+  },
+  {
+   "file": "bat-quai/bat-quai-luopan-bagua2-236deb.jpg",
+   "source": "commons",
+   "title": "File:Luopan-bagua2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Luopan-bagua2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=5020498",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Fengshuimestari",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — The back of a bagua mirror.",
+   "sha256": "a24a20a41516dfa27052c12137df398b9a25571e6173ac30304895da018a08cb",
+   "width": 1533,
+   "height": 1487
+  },
+  {
+   "file": "bat-quai/bat-quai-m-nster-hollenbeckerstra-e-24-feng-shui-dd97aa.jpg",
+   "source": "commons",
+   "title": "File:Münster, Hollenbeckerstraße 24, Feng-Shui-Bagua-Spiegel -- 2026 -- 0573.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/M%C3%BCnster%2C_Hollenbeckerstra%C3%9Fe_24%2C_Feng-Shui-Bagua-Spiegel_--_2026_--_0573.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=186805825",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Dietmar Rabich",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "กระจกยันต์แปดทิศ",
+   "alt_en": "Bagua mirror — Feng Shui Bagua mirror above the front door of the house at Hollenbeckerstraße 24, Münster, North Rhine-Westphalia, Germ",
+   "sha256": "9bc82d906bb0c2fd13a6546b51954a0cb50a675152aedd6ba159191e2d638bb1",
+   "width": 4684,
+   "height": 4684
+  }
+ ]
+}

@@ -1,0 +1,1162 @@
+{
+ "note": "Every record cites ids from this registry. type: vault | catalogue | treatise | wikipedia | commons | web | book | field. license is the source's own licence for its TEXT/IMAGES, recorded so a build can say what may be quoted and what may only be cited.",
+ "sources": [
+  {
+   "id": "s:vault-classes",
+   "type": "vault",
+   "title": "wichaa-vault _meta/vocab/classes.md — class axis (resident / upkeep / provenance_sensitivity)",
+   "url": "",
+   "license": "own",
+   "note": "asserted knowledge; per-entry confidence + needs_verification"
+  },
+  {
+   "id": "s:vault-materials",
+   "type": "vault",
+   "title": "wichaa-vault _meta/vocab/materials.md — เนื้อ material axis",
+   "url": "",
+   "license": "own"
+  },
+  {
+   "id": "s:vault-functions",
+   "type": "vault",
+   "title": "wichaa-vault _meta/vocab/functions.md — function axis",
+   "url": "",
+   "license": "own"
+  },
+  {
+   "id": "s:holding-key",
+   "type": "vault",
+   "title": "manuscript-wiki/data/holding_key.json — the 36-kind identification key behind wichaa.net/holding",
+   "url": "https://wichaa.net/holding/",
+   "license": "own"
+  },
+  {
+   "id": "s:amulet-reference",
+   "type": "vault",
+   "title": "amulet-reference.html — 22 specimen cards, 7 formula cards, 112-term market taxonomy (2026-07)",
+   "url": "",
+   "license": "own",
+   "note": "each card tagged Catalogue / Tradition / Inference in the original"
+  },
+  {
+   "id": "s:ms6983",
+   "type": "treatise",
+   "title": "ตำราสร้างเครื่องรางของขลัง — amulet-making treatise, manuscript 6983, bilingual transcription (170 pp, 160 formulas)",
+   "url": "https://wichaa.net/read?id=6983",
+   "license": "contributed volume; katha not proofed by a scholar",
+   "note": "cite as s:ms6983#L<line> of the .bilingual.md"
+  },
+  {
+   "id": "s:catalog-db",
+   "type": "catalogue",
+   "title": "manuscript-crawler catalog.db — items table, 13,020 Lazada TH listings (method=commerce) + 6,990 manuscripts",
+   "url": "",
+   "license": "crawled; counts and price spreads only, never listing text"
+  },
+  {
+   "id": "s:th-wiki-somdet-rakhang",
+   "type": "wikipedia",
+   "title": "พระสมเด็จวัดระฆัง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระสมเด็จวัดระฆัง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-phra-khrueang",
+   "type": "wikipedia",
+   "title": "พระเครื่อง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระเครื่อง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-nang-phaya",
+   "type": "wikipedia",
+   "title": "พระนางพญา — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระนางพญา",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-pidta",
+   "type": "wikipedia",
+   "title": "พระปิดตา — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระปิดตา",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-kring",
+   "type": "wikipedia",
+   "title": "พระกริ่ง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระกริ่ง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-somdet-chitralada",
+   "type": "wikipedia",
+   "title": "พระสมเด็จจิตรลดา — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระสมเด็จจิตรลดา",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-kuman-thong",
+   "type": "wikipedia",
+   "title": "Kuman thong — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kuman_thong",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-palad-khik",
+   "type": "wikipedia",
+   "title": "Palad khik — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-takrut",
+   "type": "wikipedia",
+   "title": "Takrut — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-jatukham",
+   "type": "wikipedia",
+   "title": "Jatukham Rammathep — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jatukham_Rammathep",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-thai-amulet",
+   "type": "wikipedia",
+   "title": "Thai Buddha amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:commons-amulets-th",
+   "type": "commons",
+   "title": "Wikimedia Commons — Category:Amulets of Thailand (and subcategories)",
+   "url": "https://commons.wikimedia.org/wiki/Category:Amulets_of_Thailand",
+   "license": "per file; only CC0 / PD / CC BY / CC BY-SA files are harvested"
+  },
+  {
+   "id": "s:tradition",
+   "type": "book",
+   "title": "General knowledge of the Thai / Lanna amulet tradition (model training + secondary literature), hedged — never a specific date, title or scholar unless separately cited",
+   "url": "",
+   "license": "n/a"
+  },
+  {
+   "id": "s:field-nan",
+   "type": "field",
+   "title": "Nan Peacock — own handling, purchases, and conversations with sellers and sians (Chiang Mai, 2026)",
+   "url": "",
+   "license": "own"
+  },
+  {
+   "id": "s:th-wiki-takrut",
+   "type": "wikipedia",
+   "title": "ตะกรุด — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ตะกรุด",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-bia-kae",
+   "type": "wikipedia",
+   "title": "เบี้ยแก้ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/เบี้ยแก้",
+   "license": "CC BY-SA 4.0",
+   "note": "stub; flagged uncited on-wiki"
+  },
+  {
+   "id": "s:th-wiki-mit-mo",
+   "type": "wikipedia",
+   "title": "มีดหมอ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/มีดหมอ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-khwai-thanu",
+   "type": "wikipedia",
+   "title": "ควายธนู — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ควายธนู",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-lek-yan",
+   "type": "wikipedia",
+   "title": "เลขยันต์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/เลขยันต์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-prachiat",
+   "type": "wikipedia",
+   "title": "ประเจียด — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ผ้าประเจียด",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-pla-taphian",
+   "type": "wikipedia",
+   "title": "Pla taphian — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pla_taphian",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-kuman-thong",
+   "type": "wikipedia",
+   "title": "กุมารทอง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/กุมารทอง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-nam-man-phrai",
+   "type": "wikipedia",
+   "title": "น้ำมันพราย — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/น้ำมันพราย",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-khun-chang-khun-phaen",
+   "type": "wikipedia",
+   "title": "Khun Chang Khun Phaen — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khun_Chang_Khun_Phaen",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-hu-yan",
+   "type": "wikipedia",
+   "title": "พระหูยาน — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระหูยาน",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-khanaen",
+   "type": "wikipedia",
+   "title": "พระคะแนน — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระคะแนน",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-mahawan-lamphun",
+   "type": "wikipedia",
+   "title": "วัดมหาวัน (จังหวัดลำพูน) — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดมหาวัน_(จังหวัดลำพูน)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-mahathat-suphan",
+   "type": "wikipedia",
+   "title": "วัดพระศรีรัตนมหาธาตุ (จังหวัดสุพรรณบุรี) — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดพระศรีรัตนมหาธาตุ_(จังหวัดสุพรรณบุรี)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-phra-borommathat-kamphaeng",
+   "type": "wikipedia",
+   "title": "วัดพระบรมธาตุ (จังหวัดกำแพงเพชร) — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดพระบรมธาตุ_(จังหวัดกำแพงเพชร)",
+   "license": "CC BY-SA 4.0",
+   "note": "cited for the 1849 relic find only; says nothing about the tablets"
+  },
+  {
+   "id": "s:th-wiki-chedi",
+   "type": "wikipedia",
+   "title": "เจดีย์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/เจดีย์",
+   "license": "CC BY-SA 4.0",
+   "note": "cited for the custom of depositing พระพิมพ์ in the กรุ"
+  },
+  {
+   "id": "s:en-wiki-luang-pu-thuat",
+   "type": "wikipedia",
+   "title": "Luang Pu Thuat — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luang_Pu_Thuat",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-nang-kwak",
+   "type": "wikipedia",
+   "title": "Nang Kwak — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nang_Kwak",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-vessavana",
+   "type": "wikipedia",
+   "title": "Vessavana — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vessavana",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-rahu",
+   "type": "wikipedia",
+   "title": "Rahu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rahu",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-sivali",
+   "type": "wikipedia",
+   "title": "Sivali — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sivali",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-thao-wessuwan",
+   "type": "wikipedia",
+   "title": "ท้าวเวสวัณ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ท้าวเวสสุวรรณ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-jatukham",
+   "type": "wikipedia",
+   "title": "จตุคามรามเทพ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/จตุคามรามเทพ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-nang-kwak",
+   "type": "wikipedia",
+   "title": "นางกวัก — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/นางกวัก",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-palad-khik",
+   "type": "wikipedia",
+   "title": "ปลัดขิก — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ปลัดขิก",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-chedi-ai-khai",
+   "type": "wikipedia",
+   "title": "วัดเจดีย์ (ไอ้ไข่) — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดเจดีย์_(ไอ้ไข่)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-maha-wetsandon",
+   "type": "wikipedia",
+   "title": "มหาเวสสันดรชาดก — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/มหาเวสสันดรชาดก",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-vessantara-jataka",
+   "type": "wikipedia",
+   "title": "Vessantara Jataka — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vessantara_Jataka",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-pom-raman",
+   "type": "wikipedia",
+   "title": "วัดป้อมรามัญ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดป้อมรามัญ",
+   "license": "CC BY-SA 4.0",
+   "note": "names a มณฑปพ่อปู่ชูชก; the only on-wiki venue for Chuchok veneration found"
+  },
+  {
+   "id": "s:th-wiki-wat-chanthawat",
+   "type": "wikipedia",
+   "title": "วัดจันทาวาส — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดจันทาวาส",
+   "license": "CC BY-SA 4.0",
+   "note": "names ชานหมาก as the abbot's famous วัตถุมงคล"
+  },
+  {
+   "id": "s:th-wiki-luang-pu-thong-ayana",
+   "type": "wikipedia",
+   "title": "หลวงปู่ทอง อายะนะ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/หลวงปู่ทอง_อายะนะ",
+   "license": "CC BY-SA 4.0",
+   "note": "lists ชานหมาก among his วัตถุมงคล"
+  },
+  {
+   "id": "s:th-wiki-betel-chewing",
+   "type": "wikipedia",
+   "title": "การเคี้ยวหมากในประเทศไทย — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/การเคี้ยวหมากในประเทศไทย",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-lek-lai",
+   "type": "wikipedia",
+   "title": "เหล็กไหล — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/เหล็กไหล",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-rai-taeng-thong",
+   "type": "wikipedia",
+   "title": "วัดไร่แตงทอง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดไร่แตงทอง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-saiyasat",
+   "type": "wikipedia",
+   "title": "ไสยศาสตร์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ไสยศาสตร์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-weikza",
+   "type": "wikipedia",
+   "title": "Weikza — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Weikza",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bo-min-gaung",
+   "type": "wikipedia",
+   "title": "Bo Min Gaung — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bo_Min_Gaung",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bo-bo-aung",
+   "type": "wikipedia",
+   "title": "Bo Bo Aung — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bo_Bo_Aung",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-nat-spirit",
+   "type": "wikipedia",
+   "title": "Nat (spirit) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nat_(spirit)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-mahagiri",
+   "type": "wikipedia",
+   "title": "Mahagiri — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mahagiri",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-thagyamin",
+   "type": "wikipedia",
+   "title": "Thagyamin — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thagyamin",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bo-bo-gyi",
+   "type": "wikipedia",
+   "title": "Bo Bo Gyi — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bo_Bo_Gyi",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-jadeite",
+   "type": "wikipedia",
+   "title": "Jadeite — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jadeite",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-hpakant",
+   "type": "wikipedia",
+   "title": "Hpakant — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hpakant",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-jade-trade-myanmar",
+   "type": "wikipedia",
+   "title": "Jade trade in Myanmar — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_trade_in_Myanmar",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-yantra-tattooing",
+   "type": "wikipedia",
+   "title": "Yantra tattooing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:my-wiki-bo-min-gaung",
+   "type": "wikipedia",
+   "title": "ဘိုးမင်းခေါင် — ဝီကီပီးဒီးယား",
+   "url": "https://my.wikipedia.org/wiki/ဘိုးမင်းခေါင်",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:my-wiki-nat",
+   "type": "wikipedia",
+   "title": "နတ် — ဝီကီပီးဒီးယား",
+   "url": "https://my.wikipedia.org/wiki/နတ်",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:my-wiki-weizzadhara",
+   "type": "wikipedia",
+   "title": "ဝိဇ္ဇာဓိုရ် — ဝီကီပီးဒီးယား",
+   "url": "https://my.wikipedia.org/wiki/ဝိဇ္ဇာဓိုရ်",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:my-wiki-in-talisman",
+   "type": "wikipedia",
+   "title": "အင်း(လက်ဖွဲ့) — ဝီကီပီးဒီးယား",
+   "url": "https://my.wikipedia.org/wiki/အင်း(လက်ဖွဲ့)",
+   "license": "CC BY-SA 4.0",
+   "note": "stub; grid of numerals and letters under ဂမ္ဘီရပညာရပ်"
+  },
+  {
+   "id": "s:th-wiki-jade",
+   "type": "wikipedia",
+   "title": "หยก — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/หยก",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-kris",
+   "type": "wikipedia",
+   "title": "Kris — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kris",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:id-wiki-keris",
+   "type": "wikipedia",
+   "title": "Keris — Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Keris",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:id-wiki-jimat",
+   "type": "wikipedia",
+   "title": "Jimat — Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Jimat",
+   "license": "CC BY-SA 4.0",
+   "note": "short; carries the Baju Rajah photograph"
+  },
+  {
+   "id": "s:ms-wiki-azimat",
+   "type": "wikipedia",
+   "title": "Azimat (Tangkal) — Wikipedia Bahasa Melayu",
+   "url": "https://ms.wikipedia.org/wiki/Azimat",
+   "license": "CC BY-SA 4.0",
+   "note": "ms 'Tangkal' redirects here; general amulet article, thin on Malay practice"
+  },
+  {
+   "id": "s:en-wiki-tawiz",
+   "type": "wikipedia",
+   "title": "Ta'wiz — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ta%27wiz",
+   "license": "CC BY-SA 4.0",
+   "note": "names jimat / azimat / tangkal as the Southeast Asian equivalents"
+  },
+  {
+   "id": "s:en-wiki-magic-square",
+   "type": "wikipedia",
+   "title": "Magic square — Wikipedia (wafq al-a'dad section)",
+   "url": "https://en.wikipedia.org/wiki/Magic_square",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-susuk",
+   "type": "wikipedia",
+   "title": "Susuk — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Susuk",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:id-wiki-susuk",
+   "type": "wikipedia",
+   "title": "Susuk — Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Susuk",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ms-wiki-susuk",
+   "type": "wikipedia",
+   "title": "Susuk — Wikipedia Bahasa Melayu",
+   "url": "https://ms.wikipedia.org/wiki/Susuk",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-jenglot",
+   "type": "wikipedia",
+   "title": "Jenglot — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jenglot",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:id-wiki-jenglot",
+   "type": "wikipedia",
+   "title": "Jenglot — Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Jenglot",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bezoar",
+   "type": "wikipedia",
+   "title": "Bezoar — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bezoar",
+   "license": "CC BY-SA 4.0",
+   "note": "for the guliga / geliga side of mustika only"
+  },
+  {
+   "id": "s:id-wiki-tato",
+   "type": "wikipedia",
+   "title": "Tato — Wikipedia bahasa Indonesia (one-line definition of rajah)",
+   "url": "https://id.wikipedia.org/wiki/Tato",
+   "license": "CC BY-SA 4.0",
+   "note": "no id/ms/en Wikipedia article on rajah-the-talisman exists as of 2026-09-02; this is the only on-wiki definition"
+  },
+  {
+   "id": "s:commons-kris",
+   "type": "commons",
+   "title": "Wikimedia Commons — Category:Kris (and subcategories)",
+   "url": "https://commons.wikimedia.org/wiki/Category:Kris",
+   "license": "per file; only CC0 / PD / CC BY / CC BY-SA files are listed"
+  },
+  {
+   "id": "s:th-wiki-phirot",
+   "type": "wikipedia",
+   "title": "พิรอด — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พิรอด",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-sai-sin",
+   "type": "wikipedia",
+   "title": "สายสิญจน์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/สายสิญจน์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-pra-jiad",
+   "type": "wikipedia",
+   "title": "Pra Jiad — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pra_Jiad",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-mongkhon",
+   "type": "wikipedia",
+   "title": "Mongkhon — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mongkhon",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-baci",
+   "type": "wikipedia",
+   "title": "Baci — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Baci",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-luang-pho-pan-bang-hia",
+   "type": "wikipedia",
+   "title": "พระครูพิพัฒนิโรธกิจ (ปาน) — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระครูพิพัฒนิโรธกิจ_(ปาน)",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-sak-yant",
+   "type": "wikipedia",
+   "title": "การสักยันต์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/การสักยันต์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-pho-rattanaram",
+   "type": "wikipedia",
+   "title": "วัดโพธิ์รัตนาราม — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดโพธิ์รัตนาราม",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-bang-pakok",
+   "type": "wikipedia",
+   "title": "วัดบางปะกอก — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดบางปะกอก",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-wat-phra-khong-ruesi",
+   "type": "wikipedia",
+   "title": "วัดพระคงฤๅษี — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/วัดพระคงฤๅษี",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-phikkhanet",
+   "type": "wikipedia",
+   "title": "พระพิฆเนศ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระพิฆเนศ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-phra-phrom",
+   "type": "wikipedia",
+   "title": "พระพรหม — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระพรหม",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-erawan-shrine",
+   "type": "wikipedia",
+   "title": "ศาลท้าวมหาพรหม โรงแรมเอราวัณ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ศาลท้าวมหาพรหม_โรงแรมเอราวัณ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-erawan-shrine",
+   "type": "wikipedia",
+   "title": "Erawan Shrine — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Erawan_Shrine",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-kuan-im",
+   "type": "wikipedia",
+   "title": "กวนอิม — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/กวนอิม",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-guanyin",
+   "type": "wikipedia",
+   "title": "Guanyin — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Guanyin",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-hanuman",
+   "type": "wikipedia",
+   "title": "หนุมาน — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/หนุมาน",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-sak-yan",
+   "type": "wikipedia",
+   "title": "การสักยันต์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/การสักยันต์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-nak",
+   "type": "wikipedia",
+   "title": "นาค — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/นาค",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-naga",
+   "type": "wikipedia",
+   "title": "Nāga — Wikipedia (Thailand section)",
+   "url": "https://en.wikipedia.org/wiki/Nāga",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-lanna-art",
+   "type": "wikipedia",
+   "title": "ศิลปะล้านนา — วิกิพีเดีย (ศิลปะเชียงแสน redirects here)",
+   "url": "https://th.wikipedia.org/wiki/ศิลปะล้านนา",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-phra-sihing",
+   "type": "wikipedia",
+   "title": "พระพุทธสิหิงค์ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระพุทธสิหิงค์",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-tai-tham",
+   "type": "wikipedia",
+   "title": "อักษรธรรมล้านนา — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/อักษรธรรมล้านนา",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-tai-tham",
+   "type": "wikipedia",
+   "title": "Tai Tham script — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tai_Tham_script",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wichaa-yant",
+   "type": "web",
+   "title": "WICHAA — ยันต์ · The yant designs (36 designs, 63 plates, four treatise volumes; sibling index)",
+   "url": "https://wichaa.net/yant/",
+   "license": "own"
+  },
+  {
+   "id": "s:en-wiki-fulu",
+   "type": "wikipedia",
+   "title": "Fulu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:zh-wiki-fulu",
+   "type": "wikipedia",
+   "title": "符籙 — 維基百科",
+   "url": "https://zh.wikipedia.org/wiki/符籙",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:vi-wiki-phu-luc",
+   "type": "wikipedia",
+   "title": "Phù lục — Wikipedia tiếng Việt",
+   "url": "https://vi.wikipedia.org/wiki/Phù_lục",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:vi-wiki-bua-ho-menh",
+   "type": "wikipedia",
+   "title": "Bùa hộ mệnh — Wikipedia tiếng Việt",
+   "url": "https://vi.wikipedia.org/wiki/Bùa_hộ_mệnh",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-vietnamese-folk-religion",
+   "type": "wikipedia",
+   "title": "Vietnamese folk religion — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vietnamese_folk_religion",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-pixiu",
+   "type": "wikipedia",
+   "title": "Pixiu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pixiu",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:zh-wiki-pixiu",
+   "type": "wikipedia",
+   "title": "貔貅 — 維基百科",
+   "url": "https://zh.wikipedia.org/wiki/貔貅",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-pixiu",
+   "type": "wikipedia",
+   "title": "ปี่เซียะ — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ปี่เซียะ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:vi-wiki-ty-huu",
+   "type": "wikipedia",
+   "title": "Tỳ hưu — Wikipedia tiếng Việt",
+   "url": "https://vi.wikipedia.org/wiki/Tỳ_hưu",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-tua-pek-kong",
+   "type": "wikipedia",
+   "title": "Tua Pek Kong — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tua_Pek_Kong",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-tudigong",
+   "type": "wikipedia",
+   "title": "Tudigong — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tudigong",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-pun-thao-kong",
+   "type": "wikipedia",
+   "title": "ปุนเถ่ากง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ปุนเถ่ากง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:vi-wiki-mieu-nhi-phu",
+   "type": "wikipedia",
+   "title": "Miếu Nhị Phủ — Wikipedia tiếng Việt",
+   "url": "https://vi.wikipedia.org/wiki/Miếu_Nhị_Phủ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-chinese-folk-religion-sea",
+   "type": "wikipedia",
+   "title": "Chinese folk religion in Southeast Asia — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_folk_religion_in_Southeast_Asia",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bagua",
+   "type": "wikipedia",
+   "title": "Bagua — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bagua",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:zh-wiki-bagua-jing",
+   "type": "wikipedia",
+   "title": "八卦鏡 — 維基百科",
+   "url": "https://zh.wikipedia.org/wiki/八卦鏡",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:zh-wiki-ba-da-shou-hu-shen",
+   "type": "wikipedia",
+   "title": "八大守護神 — 維基百科",
+   "url": "https://zh.wikipedia.org/wiki/八大守護神",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:ja-wiki-shugo-honzon",
+   "type": "wikipedia",
+   "title": "守護本尊 — ウィキペディア",
+   "url": "https://ja.wikipedia.org/wiki/守護本尊",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-pang-phra-phuttharup",
+   "type": "wikipedia",
+   "title": "ปางพระพุทธรูป — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/ปางพระพุทธรูป",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-phra-bang",
+   "type": "wikipedia",
+   "title": "Phra Bang — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phra_Bang",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-phra-bang",
+   "type": "wikipedia",
+   "title": "พระบาง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/พระบาง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:lo-wiki-pha-bang",
+   "type": "wikipedia",
+   "title": "ພະບາງ — ວິກິພີເດຍ",
+   "url": "https://lo.wikipedia.org/wiki/ພະບາງ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:km-wiki-preah-bang",
+   "type": "wikipedia",
+   "title": "ព្រះបាង — វិគីភីឌា",
+   "url": "https://km.wikipedia.org/wiki/ព្រះបាង",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:lo-wiki-haw-pha-bang",
+   "type": "wikipedia",
+   "title": "ຫໍພະບາງ — ວິກິພີເດຍ",
+   "url": "https://lo.wikipedia.org/wiki/ຫໍພະບາງ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fr-wiki-palais-royal-luang-prabang",
+   "type": "wikipedia",
+   "title": "Palais royal de Luang Prabang — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Palais_royal_de_Luang_Prabang",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:fr-wiki-luang-prabang",
+   "type": "wikipedia",
+   "title": "Luang Prabang — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Luang_Prabang",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-luang-prabang",
+   "type": "wikipedia",
+   "title": "Luang Prabang — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luang_Prabang",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-lan-xang",
+   "type": "wikipedia",
+   "title": "Lan Xang — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lan_Xang",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-lao-buddhist-sculpture",
+   "type": "wikipedia",
+   "title": "Lao Buddhist sculpture — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lao_Buddhist_sculpture",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-buddhism-laos",
+   "type": "wikipedia",
+   "title": "Buddhism in Laos — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddhism_in_Laos",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-khmer-script",
+   "type": "wikipedia",
+   "title": "Khmer script — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khmer_script",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-khom-thai-script",
+   "type": "wikipedia",
+   "title": "Khom Thai script — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khom_Thai_script",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-khom-thai",
+   "type": "wikipedia",
+   "title": "อักษรขอมไทย — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/อักษรขอมไทย",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:km-wiki-yantra",
+   "type": "wikipedia",
+   "title": "យ័ន្ត — វិគីភីឌា",
+   "url": "https://km.wikipedia.org/wiki/យ័ន្ត",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:km-wiki-gatha",
+   "type": "wikipedia",
+   "title": "គាថា — វិគីភីឌា",
+   "url": "https://km.wikipedia.org/wiki/គាថា",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:km-wiki-krama",
+   "type": "wikipedia",
+   "title": "ក្រមា — វិគីភីឌា",
+   "url": "https://km.wikipedia.org/wiki/ក្រមា",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-krama",
+   "type": "wikipedia",
+   "title": "Krama — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Krama",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-yantra-cloth",
+   "type": "wikipedia",
+   "title": "Yantra cloth — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_cloth",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-southern-esoteric-buddhism",
+   "type": "wikipedia",
+   "title": "Southern Esoteric Buddhism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Southern_Esoteric_Buddhism",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-achar-khmer",
+   "type": "wikipedia",
+   "title": "Achar (Khmer lay ritualist) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Achar_Khmer",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-kru-khmer",
+   "type": "wikipedia",
+   "title": "Kru Khmer (traditional healers) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kru_Khmer",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-bokator",
+   "type": "wikipedia",
+   "title": "Bokator — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bokator",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-cambodian-art",
+   "type": "wikipedia",
+   "title": "Cambodian art — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cambodian_art",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-khmer-empire",
+   "type": "wikipedia",
+   "title": "Khmer Empire — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khmer_Empire",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-mucalinda",
+   "type": "wikipedia",
+   "title": "Mucalinda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mucalinda",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-buddhism-cambodia",
+   "type": "wikipedia",
+   "title": "Buddhism in Cambodia — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddhism_in_Cambodia",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-douglas-latchford",
+   "type": "wikipedia",
+   "title": "Douglas Latchford — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Douglas_Latchford",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:en-wiki-prakhon-chai-district",
+   "type": "wikipedia",
+   "title": "Prakhon Chai district — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prakhon_Chai_district",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-tham-lao",
+   "type": "wikipedia",
+   "title": "อักษรธรรมลาว — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/อักษรธรรมลาว",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:lo-wiki-to-tham-lao",
+   "type": "wikipedia",
+   "title": "ໂຕທຳລາວ — ວິກິພີເດຍ",
+   "url": "https://lo.wikipedia.org/wiki/ໂຕທຳລາວ",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:th-wiki-cha-ping",
+   "type": "wikipedia",
+   "title": "จะปิ้ง — วิกิพีเดีย",
+   "url": "https://th.wikipedia.org/wiki/จะปิ้ง",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:smvk-vanadis-1887",
+   "type": "web",
+   "title": "Statens museer för världskultur (Museum of Ethnography, Stockholm) — objects bought in Bangkok 1887 on the Vanadis circumnavigation, series 1887.08.3791–4102, via Europeana",
+   "url": "https://www.europeana.eu/en/search?query=%22Prydnad%20(amulett)%22",
+   "license": "CC0 1.0 (images and metadata)",
+   "note": "the museum's own catalogue words: 'Prydnad (amulett) av mässing' — an ornament (amulet) of brass, heart-shaped for girls, shield-shaped for boys"
+  }
+ ]
+}

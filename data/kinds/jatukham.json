@@ -1,0 +1,216 @@
+{
+ "schema": 1,
+ "id": "jatukham",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "จตุคามรามเทพ",
+  "roman": "chatukham ramthep",
+  "en": "Jatukham Rammathep",
+  "aliases": {
+   "th": [
+    "จตุคาม",
+    "องค์จตุคาม",
+    "ท้าวจตุคาม ท้าวรามเทพ"
+   ],
+   "roman": [
+    "jatukam ramathep",
+    "jatukham",
+    "chatukham"
+   ],
+   "en": [
+    "Jatukam Ramathep",
+    "the wealth guardian"
+   ]
+  }
+ },
+ "region": [
+  "th-south"
+ ],
+ "axes": {
+  "class": "thep_thewada",
+  "functions": [
+   "chok_lap",
+   "kha_khai",
+   "khum_khrong"
+  ],
+  "materials": [
+   "nuea_phong",
+   "nuea_waan",
+   "nuea_loha"
+  ],
+  "figures": [
+   "deity"
+  ]
+ },
+ "form": {
+  "type": "medallion",
+  "shape_th": "เหรียญกลมขนาดใหญ่ ราว ๕ ซม. เนื้อผงว่านหรือโลหะ เทพนั่งกลาง ล้อมด้วยราหู ๘ ตนหรือ ๑๒ นักษัตร",
+  "shape_en": "A large round disc, about 5 cm across, in pressed herbal powder or cast metal; a seated deva at the centre ringed by eight Rahu heads or the twelve zodiac animals",
+  "size_mm": [
+   50,
+   50,
+   6
+  ],
+  "wearable_th": "ห้อยคอในกรอบ ขนาดใหญ่กว่าพระเครื่องทั่วไปมาก",
+  "wearable_en": "Worn at the neck in a frame, far larger than an ordinary amulet",
+  "obverse_th": "เทพสี่กรนั่งสมาธิถืออาวุธ ล้อมด้วยราหู ๘ ตน (รุ่นแรก) หรือนักษัตร",
+  "obverse_en": "A four-armed deva seated in meditation holding divine weapons, encircled by eight Rahus (first run) or the zodiac",
+  "reverse_th": "หลักเมืองนครศรีธรรมราช",
+  "reverse_en": "The Nakhon Si Thammarat city pillar",
+  "notes_en": "Nearly a thousand variations were issued in the 2006–07 boom; the disc form and the seated deva are constant, the ring and the reverse vary."
+ },
+ "iconography": [
+  {
+   "th": "เทพสี่กร นั่งสมาธิ ถืออาวุธ",
+   "en": "four-armed deva seated in meditation with weapons"
+  },
+  {
+   "th": "ราหู ๘ ตนล้อมรอบ",
+   "en": "eight Rahu heads around the rim (the 1987 'sun-moon Rahu' type)"
+  },
+  {
+   "th": "๑๒ นักษัตร",
+   "en": "the twelve zodiac animals around the rim"
+  },
+  {
+   "th": "หลักเมืองด้านหลัง",
+   "en": "city pillar on the reverse"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดพระมหาธาตุวรมหาวิหาร นครศรีธรรมราช",
+  "wat_en": "Wat Phra Mahathat Woramahawihan, Nakhon Si Thammarat",
+  "maker_th": "พล.ต.ต. ขุนพันธรักษ์ราชเดช เป็นผู้มีบทบาทหลักในรุ่นแรก",
+  "maker_en": "Pol. Maj. Gen. Khun Phantharak Ratchadet had the central role in the first run",
+  "era_th": "รุ่นแรก พ.ศ. ๒๕๓๐ ในพิธีดวงเมือง กระแสสูงสุด พ.ศ. ๒๕๔๙–๒๕๕๐ หลังงานศพขุนพันธ์",
+  "era_en": "First run 1987 (BE 2530) at the city-horoscope ceremony; the boom peaked in 2006–07 after Khun Phantharak's cremation",
+  "place_th": "นครศรีธรรมราช",
+  "place_en": "Nakhon Si Thammarat, southern Thailand",
+  "first_attested": "1987 (BE 2530), first run per th.wikipedia and en.wikipedia"
+ },
+ "diagnostics": [
+  {
+   "th": "ขนาด — เหรียญกลมราว ๕ ซม. ใหญ่กว่าพระเครื่องทั่วไป",
+   "en": "Size: a disc around 5 cm, larger than ordinary amulets; a small Jatukham is a later variant or a locket",
+   "source": "s:th-wiki-jatukham",
+   "tier": "cited"
+  },
+  {
+   "th": "เทพนั่งกลาง มีวงล้อม — ราหู ๘ ตน หรือนักษัตร",
+   "en": "A seated deva at the centre with a ring: eight Rahus on the first type, zodiac animals on many later ones",
+   "source": "s:en-wiki-jatukham",
+   "tier": "cited"
+  },
+  {
+   "th": "หลังเป็นหลักเมือง",
+   "en": "City pillar on the reverse",
+   "source": "s:th-wiki-jatukham",
+   "tier": "cited"
+  },
+  {
+   "th": "เนื้อผงว่านและโลหะ รุ่นและพิมพ์นับพัน จึงต้องอ่านชื่อรุ่นที่เหรียญ",
+   "en": "Herbal powder and metal bodies across nearly a thousand variations, so the run name on the disc carries more than the form",
+   "source": "s:en-wiki-jatukham",
+   "tier": "cited"
+  },
+  {
+   "th": "ศิลปะศรีวิชัย",
+   "en": "Srivijaya-style modelling of the figure",
+   "source": "s:en-wiki-jatukham",
+   "tier": "cited"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-rahu",
+   "tell_th": "ราหูเดี่ยวเป็นหัวอมดวง มักแกะกะลา · จตุคามเป็นเหรียญกลมใหญ่ที่มีราหูเล็ก ๘ ตนล้อมเทพ",
+   "tell_en": "A Rahu amulet is one head swallowing a disc, usually in shell; the Jatukham is a big disc where eight small Rahus ring a seated deva."
+  },
+  {
+   "id": "thao-wessuwan",
+   "tell_th": "เวสสุวรรณเป็นยักษ์ยืนถือกระบอง · จตุคามเป็นเทพนั่งสี่กรบนเหรียญ",
+   "tell_en": "Wessuwan is a standing giant with a club; Jatukham is a seated four-armed deva on a disc."
+  },
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญพระเกจิเป็นรูปพระภิกษุ ขนาดเหรียญปกติ · จตุคามเป็นเทพ ขนาดใหญ่",
+   "tell_en": "A monk medallion shows a monk at coin size; the Jatukham shows a deva at twice that."
+  },
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "หลวงปู่ทวดเป็นพระภิกษุภาคใต้ · จตุคามเป็นเทพภาคใต้ ทั้งคู่จากนครศรีธรรมราชกับสงขลา",
+   "tell_en": "Both are southern; Luang Pu Thuat is a monk in robes, Jatukham a crowned deva."
+  }
+ ],
+ "market": {
+  "search": [
+   "จตุคาม"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free photograph of the amulet on Wikimedia Commons as of 2026-09-02 (searches for Jatukham, Jatukam and จตุคามรามเทพ return the provincial seal and temple views only). Needed: a 1987-type disc obverse and reverse, and a boom-era variant beside it at matched scale"
+ },
+ "images": [],
+ "text": {
+  "what_th": "เหรียญกลมใหญ่รูปเทพผู้รักษาวัดพระมหาธาตุ นครศรีธรรมราช — ท้าวจตุคามและท้าวรามเทพ ภายหลังนับเป็นองค์เดียว กระแส พ.ศ. ๒๕๕๐ ทำให้เป็นวัตถุมงคลแห่งชาติชั่วคราว เป็นเทพที่บูชา ไม่ต้องเลี้ยง",
+  "what_en": "A large disc bearing the guardian devas of Wat Phra Mahathat, Nakhon Si Thammarat — Thao Jatukham and Thao Rammathep, later read as one being. The 2007 boom made it a national wealth phenomenon for a season; a deva venerated through the object, nothing to feed.",
+  "story_th": "จตุคามและรามเทพเป็นเทพผู้รักษาพระบรมธาตุ นครศรีธรรมราช ตำนานว่าเป็นอดีตกษัตริย์ศรีวิชัยผู้บำเพ็ญโพธิสัตว์ รุ่นแรกสร้าง พ.ศ. ๒๕๓๐ ในพิธีดวงเมือง โดยขุนพันธรักษ์ราชเดชมีบทบาทหลัก เป็นพระผงสุริยันจันทรามีราหู ๘ ตนล้อม เมื่อขุนพันธ์ถึงแก่กรรมต้น พ.ศ. ๒๕๕๐ ราคาเหรียญรุ่นแรกจาก ๔๙ บาทพุ่งถึงหลักสิบล้าน มีการสร้างเกือบพันรุ่น เงินหมุนเวียนราว ๒๒,๐๐๐ ล้านบาท เกิดเหตุเบียดเสียดถึงตายและคดีฆ่ากัน แล้วตลาดก็ทรุด",
+  "story_en": "Jatukham and Rammathep are the guardian devas of the Great Relic at Nakhon Si Thammarat, held in legend to be a Srivijaya king who became a bodhisattva; the four in the name (จตุ) were once four directional guardians. The first run was pressed in 1987 for the city-horoscope ceremony with the police general Khun Phantharak Ratchadet at its centre: a sun-moon powder disc ringed by eight Rahus. When he was cremated early in 2007 the country bought everything with the name on it — the 49-baht first-run disc was quoted in the tens of millions, nearly a thousand variations were issued, an estimated 22 billion baht changed hands, a woman died in a crush at a temple release, and there were killings over pieces. Then it cooled, which is the part of the story a buyer should know.",
+  "keeping_th": "เทพสถิตในความหมายของการบูชา ถวายความเคารพและเครื่องสักการะ ไม่เลี้ยง วางลงได้ คำถามเรื่องประวัติคือรุ่นและราคา",
+  "keeping_en": "Deva tier: veneration, not feeding; can be set down. Its provenance question is which run and what it cost, not who kept it."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:en-wiki-jatukham",
+  "s:th-wiki-jatukham",
+  "s:amulet-reference",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:en-wiki-jatukham"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "inference",
+    "note": "holding_key carries no jatukham entry; written from s:en-wiki-jatukham + s:amulet-reference A·05"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "form.size_mm": {
+    "tier": "cited",
+    "source": "s:th-wiki-jatukham",
+    "note": "about 5 cm diameter; depth inferred"
+   },
+   "origin": {
+    "tier": "cited",
+    "source": "s:th-wiki-jatukham"
+   },
+   "market": {
+    "tier": "inference",
+    "note": "search term chosen here; not in holding_key"
+   },
+   "names.aliases": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   }
+  }
+ },
+ "confidence": "high",
+ "needs_verification": false,
+ "updated": "2026-09-02"
+}

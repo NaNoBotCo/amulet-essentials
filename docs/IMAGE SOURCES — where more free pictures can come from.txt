@@ -1,0 +1,41 @@
+IMAGE SOURCES — WHERE MORE FREE PICTURES CAN COME FROM        built 2026-09-03
+Primary data: data/analysis/image_sources.json
+
+RULE
+    Accepted licences: CC0, public domain, CC BY, CC BY-SA. NC and ND refused.
+
+WHAT EACH SOURCE ACTUALLY GAVE (measured, not assumed)
+    Wikimedia Commons    9,387 free files searched, 55 leads eyeballed,
+                         33 pictures kept for 13 kinds. THE vein. Automatic
+                         matching is unsafe: waan hit Cantonese street names,
+                         rajah a pitcher plant, bua a Swedish church.
+    Europeana            One real find: the Stockholm Museum of Ethnography's
+                         1887 Bangkok purchases, CC0 - six child's modesty
+                         plates (new kind, จะปิ้ง), a takrut pair on its cord,
+                         a tied stack of yantra sheets.
+    Smithsonian (key)    Zero. CC0 hits are Chinese steles and Buddha heads.
+    Met, Cleveland,      Zero beyond kris, which is already capped.
+    Wellcome, Archive
+    Wikidata depicts     Zero. Label lookup lands on the wrong entities.
+    Openverse / Flickr   THE UNTAPPED POOL. Counts before the block: thai
+                         amulet 32, amulet thailand 40, phra somdej 37,
+                         พระสมเด็จ 21, tha phra chan 19, burmese nat 70,
+                         jimat 22, nang kwak 7, takrut 7. Anonymous use is
+                         blocked after ~25 calls; a registered key is free.
+
+THE ONE CHORE THAT MATTERS
+    Register for an Openverse key (or a Flickr key): a free form and one
+    email click. It unlocks amateur photographs of amulets in hand and on
+    stalls - exactly what a Google Lens arrival's photo looks like. If it is
+    never done, nothing breaks; the 30 picture-less kinds stay at zero until
+    you photograph them yourself.
+
+OTHER FORKS (your call, not done)
+    Unsplash / Pexels / Pixabay keys - free-to-use but not CC; the site's
+        promise would need rewording.
+    British Museum, Science Museum Group - CC BY-NC-SA; museum-grade Thai
+        amulets; NC conflicts with dealer-paid claims on the register.
+    Coedès 1926 plates - public domain in Thailand and the US, not the EU
+        until 2040.
+    Your own photographs - the strongest bank possible; the only source for
+        the 30 kinds nobody has photographed freely.

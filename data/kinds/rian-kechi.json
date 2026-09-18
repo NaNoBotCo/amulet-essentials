@@ -1,0 +1,398 @@
+{
+ "schema": 1,
+ "id": "rian-kechi",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "เหรียญพระเกจิ",
+  "roman": "rian phra kechi",
+  "en": "monk medallion",
+  "aliases": {
+   "th": [
+    "เหรียญหลวงพ่อ",
+    "เหรียญหลวงปู่",
+    "เหรียญรุ่นแรก",
+    "เหรียญปั๊ม",
+    "เหรียญเสมา"
+   ],
+   "roman": [
+    "rian",
+    "rian luang pho",
+    "rian roon raek"
+   ],
+   "en": [
+    "monk coin",
+    "guru monk medal",
+    "first-batch medal"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "metta_maha_niyom",
+   "khlaeo_khlat",
+   "khum_khrong"
+  ],
+  "materials": [
+   "thongdaeng",
+   "thonglueang",
+   "ngoen",
+   "thongkham",
+   "naak",
+   "nuea_loha"
+  ],
+  "figures": [
+   "monk"
+  ]
+ },
+ "form": {
+  "type": "medallion",
+  "shape_th": "เหรียญปั๊มโลหะ กลม รูปไข่ หรือทรงเสมา มีหูห่วงด้านบน",
+  "shape_en": "A die-struck metal medallion, round, oval or sema-leaf shaped, with a loop at the top",
+  "size_mm": [
+   25,
+   35,
+   2
+  ],
+  "wearable_th": "ห้อยคอโดยตรงหรือเลี่ยมกรอบ",
+  "wearable_en": "Hung directly from a chain by its loop, or framed",
+  "obverse_th": "รูปเหมือนพระเกจิครึ่งองค์หรือเต็มองค์ ชื่อ วัด",
+  "obverse_en": "Bust or full seated portrait of the monk, with his name and temple",
+  "reverse_th": "ยันต์ อักขระขอม ปี พ.ศ. ชื่อรุ่น",
+  "reverse_en": "A yantra or Khom letters, the year in BE, and often the batch name",
+  "notes_en": "Size is a common range; commemorative pieces run larger. The shape names (กลม, รูปไข่, เสมา) are trade terms for the blank."
+ },
+ "iconography": [
+  {
+   "th": "รูปเหมือนพระเกจิ",
+   "en": "portrait of a named monk"
+  },
+  {
+   "th": "อักษรบอกชื่อ วัด และ พ.ศ.",
+   "en": "lettering naming monk, temple and year"
+  },
+  {
+   "th": "ยันต์ด้านหลัง",
+   "en": "a yantra on the reverse"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "วัดและสำนักทั่วประเทศ ออกเป็นรุ่น",
+  "maker_en": "Issued by temples nationwide in named batches (รุ่น)",
+  "era_th": "ยุครัตนโกสินทร์ตอนกลางถึงปัจจุบัน",
+  "era_en": "Mid-Rattanakosin to the present; the trade dates the struck-portrait form to the reign of Rama V",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Nationwide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "ปั๊ม ไม่ใช่หล่อ — ขอบคม ลายละเอียด ด้านหลังแบน",
+   "en": "Struck, not cast: crisp edges, fine relief, a flat back. Casting texture points to a rup lo or a cast copy",
+   "source": "s:vault-materials",
+   "tier": "catalogue"
+  },
+  {
+   "th": "ตัวหนังสือบอกชื่อ วัด ปี — เหรียญบอกอายุตัวเอง",
+   "en": "The lettering names the monk, temple and BE year; the most datable of forms, the coin itself says when",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หูห่วงเชื่อมหรือปั๊มในตัว ขอบมีรอยตัด",
+   "en": "A loop, either struck integral or soldered, and a cut or milled rim",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "เนื้อทองแดง ทองเหลือง เงิน นาค ทองคำ หรือกะไหล่ — เนื้อบอกลำดับราคาในรุ่นเดียวกัน",
+   "en": "Copper, brass, silver, naak, gold, or gilt (กะไหล่) over base metal; within one batch the metal orders the price",
+   "source": "s:vault-materials",
+   "tier": "tradition"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "rup-lo",
+   "tell_th": "เหรียญแบน ปั๊ม มีหู · รูปหล่อลอยองค์ สามมิติ",
+   "tell_en": "A medallion is flat and struck with a loop; a rup lo is a three-dimensional casting of the same monk"
+  },
+  {
+   "id": "locket",
+   "tell_th": "ล็อกเก็ตเป็นรูปถ่ายใต้กระจกหรือเรซิน หลังอุดผง · เหรียญเป็นโลหะปั๊มทั้งชิ้น",
+   "tell_en": "A locket carries a photograph under glass or resin with material packed behind it; a medallion is solid struck metal front to back"
+  },
+  {
+   "id": "luang-pu-thuat",
+   "tell_th": "หลวงปู่ทวดมีเหรียญของตัวเอง แต่รุ่นต้นเป็นเนื้อว่านและหลังเตารีดหล่อ",
+   "tell_en": "Luang Pu Thuat pieces include medallions, but the canonical early runs are pressed wan tablets and cast 'flat-iron back' figures; a medallion of him is a rian kechi of one monk"
+  },
+  {
+   "id": "jatukham",
+   "tell_th": "จตุคามเป็นเหรียญเทพ ขนาดใหญ่ · เหรียญเกจิเป็นรูปพระสงฆ์",
+   "tell_en": "A Jatukham is a large deity medallion; a rian kechi shows a monk"
+  }
+ ],
+ "market": {
+  "search": [
+   "เหรียญหลวง",
+   "เหรียญรุ่น"
+  ],
+  "excludes": [],
+  "tier": "both"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Buddhist amulets of Thailand"
+  ],
+  "commons_files": [
+   "File:หลวงพ่อแฉ่งรุ่น1 1.jpg",
+   "File:หลวงพ่อแฉ่งรุ่น1 2.jpg",
+   "File:หลวงพ่อแฉ่งรุ่น2.jpg",
+   "File:พระครูญาณสาคร 2.jpg",
+   "File:เหรียญ หลวงพ่อสุด วัดกาหลง ยันต์ตะกร้อ.jpg",
+   "File:หลวงปู่หลิว วัดไร่แตงทอง เหรียญ รุ่นสบายใจ.jpg",
+   "File:เหรียญ-รุ่นแรก-หลวงปู่อ่ำ-ปญฺญาวุฑฺโฒ.jpg",
+   "File:Budd1177.jpg",
+   "File:เหรียญเสมาเงินลงยารุ่นแรก.jpg",
+   "File:เหรียญเสมาเนื้อเงินลงยารุ่นแรก.jpg"
+  ],
+  "wanted_en": "An obverse/reverse pair of one medallion with the loop and rim in view. The 'Vajirañāṇasaṃvara' CC BY set shows Buddha-image amulets (Phra Phairi Phinat, Somdet), not monk portraits, so it is not listed here"
+ },
+ "images": [
+  {
+   "file": "rian-kechi/rian-kechi-1-1-d60a67.jpg",
+   "source": "commons",
+   "title": "File:หลวงพ่อแฉ่งรุ่น1 1.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%89%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%991_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=20327911",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Vesh P.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญหลวงพ่อแฉ่ง สำเภาเงิน รุ่น 1 พ.ศ.2494 ด้านหน้า",
+   "sha256": "25ade87edec6f5e573549aadb1758faa4816b16aa81c4270dcbbef23c231376c",
+   "width": 1441,
+   "height": 2161,
+   "primary": true
+  },
+  {
+   "file": "rian-kechi/rian-kechi-budd1177-167db9.jpg",
+   "source": "commons",
+   "title": "File:Budd1177.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Budd1177.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=16544583",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Natachai ch",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญหลวงพ่อธรรมศาสน์รุ่นแรก",
+   "sha256": "3f002ea3f49381bcbd90a627abc733f9f1b11cda932e34733e9ce1a880d399d8",
+   "width": 250,
+   "height": 180
+  },
+  {
+   "file": "rian-kechi/rian-kechi-2-b22c68.jpg",
+   "source": "commons",
+   "title": "File:พระครูญาณสาคร 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%A3%E0%B8%B9%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=20327339",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Vesh P.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — ด้านหลังเหรียญเงิน รุ่น 2 สร้างแจกงานแซยิด อายุ 84 วันที่ 3 ก.ค. 2506",
+   "sha256": "1921c4d7d8f81911f357e4a7379414d29ed1d338b4186b63e3caee0e466e6ce4",
+   "width": 299,
+   "height": 448
+  },
+  {
+   "file": "rian-kechi/rian-kechi-2-0661ff.jpg",
+   "source": "commons",
+   "title": "File:หลวงพ่อแฉ่งรุ่น2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%89%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%992.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=20327384",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Vesh P.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — ด้านหน้า เหรียญเงิน รุ่น 2",
+   "sha256": "d0753ac56a75996a1c93900c5c0a6627596d5ff641ebd9c5c41a208e291b0b78",
+   "width": 299,
+   "height": 448
+  },
+  {
+   "file": "rian-kechi/rian-kechi-1-2-112f35.jpg",
+   "source": "commons",
+   "title": "File:หลวงพ่อแฉ่งรุ่น1 2.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%89%E0%B9%88%E0%B8%87%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%991_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=20327910",
+   "license": "CC BY-SA 3.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+   "author": "Vesh P.",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญหลวงพ่อแฉ่ง สำเภาเงิน รุ่น 1 พ.ศ.2494 ด้านหลัง",
+   "sha256": "798c4ce0b25772f8a096a337e729aa3b17a602226417c103d39e62541d4933e9",
+   "width": 1441,
+   "height": 2161
+  },
+  {
+   "file": "rian-kechi/rian-kechi-jpg-0a7170.jpg",
+   "source": "commons",
+   "title": "File:เหรียญ-รุ่นแรก-หลวงปู่อ่ำ-ปญฺญาวุฑฺโฒ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81-%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B9%88%E0%B8%B3-%E0%B8%9B%E0%B8%8D%E0%B8%BA%E0%B8%8D%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%91%E0%B8%BA%E0%B9%82%E0%B8%92.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=121731398",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Sookjitt",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญรุ่นแรก หลวงปู่อ่ำ ปญฺญาวุฑฺโฒ \nวัดโคเขตตาราม อ.น้ำโสม จ.อุดรธานี",
+   "sha256": "5efe216ec7b551f66b35452c9d4aa3573d0a6cc8aaf51db194c275d0913ddce4",
+   "width": 1000,
+   "height": 700
+  },
+  {
+   "file": "rian-kechi/rian-kechi-jpg-7f44cb.jpg",
+   "source": "commons",
+   "title": "File:เหรียญ หลวงพ่อสุด วัดกาหลง ยันต์ตะกร้อ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D_%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B8%E0%B8%94_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%87_%E0%B8%A2%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B9%89%E0%B8%AD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=142477299",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Pra25satawat",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญ หลวงพ่อสุด วัดกาหลง ยันต์ตะกร้อ ปี พ.ศ.2517 เหรียญเลื่อนสมณศักดิ์ พิมพ์พัดยศ",
+   "sha256": "3f3c627eac341f225bfd6f1a597d77878b599e408ff04e3b12836fe1e9e27250",
+   "width": 1500,
+   "height": 828
+  },
+  {
+   "file": "rian-kechi/rian-kechi-jpg-bd65e7.jpg",
+   "source": "commons",
+   "title": "File:หลวงปู่หลิว วัดไร่แตงทอง เหรียญ รุ่นสบายใจ.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%9B%E0%B8%B9%E0%B9%88%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%A7_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%84%E0%B8%A3%E0%B9%88%E0%B9%81%E0%B8%95%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87_%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D_%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B9%83%E0%B8%88.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=143831266",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Pra25satawat",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — LuangPU LIU",
+   "sha256": "38c33f3285a09d210decf2a4e62cc0c00325fb4ccb59573aba28dcb0d840f547",
+   "width": 1203,
+   "height": 1439
+  },
+  {
+   "file": "rian-kechi/rian-kechi-jpg-cc8c94.jpg",
+   "source": "commons",
+   "title": "File:เหรียญเสมาเงินลงยารุ่นแรก.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=116666470",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Arminuae",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญเสมารุ่นแรกปี 59",
+   "sha256": "228bc29553eeee3a422fc3fc3dc49253e177f92a30a91e90496b8e0247ca8102",
+   "width": 1536,
+   "height": 2048
+  },
+  {
+   "file": "rian-kechi/rian-kechi-jpg-93bd52.jpg",
+   "source": "commons",
+   "title": "File:เหรียญเสมาเนื้อเงินลงยารุ่นแรก.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%8D%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%A5%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A3%E0%B8%81.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=116666521",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "Arminuae",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "เหรียญพระเกจิ",
+   "alt_en": "monk medallion — เหรียญเสมารุ่นแรก",
+   "sha256": "cc04ed5753bac2975059dc5f9d351ae6d63fd22713b8b93c5821eff01c7caa55",
+   "width": 1536,
+   "height": 2048
+  }
+ ],
+ "text": {
+  "what_th": "เหรียญโลหะปั๊มรูปเหมือนพระเกจิ มีชื่อ วัด และปีที่สร้าง ออกเป็นรุ่น เป็นพระเครื่องที่บอกอายุตัวเองชัดที่สุด ไม่มีผู้อยู่ พลังอยู่ที่บารมีของท่านและการปลุกเสก",
+  "what_en": "A struck coin-form medallion carrying a revered monk's portrait, name and temple, usually dated to the batch (รุ่น). The most datable of all forms — the coin itself says when.",
+  "story_th": "วัดออกเหรียญเป็นรุ่นในวาระต่างๆ เช่น งานทำบุญอายุ งานฉลอง หรือรุ่นแรกของหลวงพ่อ วงการนับรุ่นแรกเป็นรุ่นที่แพงที่สุด และเรียงราคาตามเนื้อ ทองคำ เงิน นาค ทองแดง ในรุ่นเดียวกัน",
+  "story_en": "Temples strike medallions in batches for an occasion — a birthday merit-making, a consecration, a building fund — and the first batch of a monk (รุ่นแรก) is the one the trade prices highest. Within a batch the metal sets the order: gold, silver, naak, then copper or gilt. One free Commons piece is a 2506 silver reverse struck for an abbot's 84th birthday; another is a Wat Kalong medallion with the takraw-ball yantra. The form gives the market its clearest dating, which is why so many copies are of medallions.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "keeping_en": "Nobody home, nothing owed; a phra khrueang. Provenance question is authenticity and batch."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:commons-amulets-th",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "form.size_mm": {
+    "tier": "inference",
+    "note": "common pendant range; commemoratives larger"
+   },
+   "origin.era_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "Rama V dating is trade lore, not cited"
+   },
+   "text.story_en": {
+    "tier": "tradition",
+    "source": "s:tradition",
+    "note": "the two named Commons pieces: s:commons-amulets-th file descriptions"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

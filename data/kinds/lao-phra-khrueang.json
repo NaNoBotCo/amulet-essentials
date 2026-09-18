@@ -1,0 +1,356 @@
+{
+ "schema": 1,
+ "id": "lao-phra-khrueang",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "พระเครื่องลาว",
+  "roman": "pha khueang lao",
+  "en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues)",
+  "aliases": {
+   "th": [
+    "พระลาว",
+    "พระล้านช้าง",
+    "พระเครื่องหลวงพระบาง",
+    "พระเครื่องเวียงจันทน์"
+   ],
+   "roman": [
+    "phra khrueang lao",
+    "phra lao",
+    "Lan Xang amulet"
+   ],
+   "en": [
+    "Lao amulet",
+    "Lan Xang-style Buddha amulet"
+   ]
+  },
+  "other_scripts": {
+   "lo": "ພະເຄື່ອງ"
+  }
+ },
+ "region": [
+  "la",
+  "th-isan"
+ ],
+ "axes": {
+  "class": "phra_khrueang",
+  "functions": [
+   "khum_khrong",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "samrit",
+   "thonglueang",
+   "nuea_loha",
+   "nuea_phong"
+  ],
+  "figures": [
+   "buddha",
+   "monk"
+  ]
+ },
+ "form": {
+  "type": "tablet",
+  "shape_th": "พระพิมพ์ เหรียญ หรือรูปหล่อเล็กที่วัดลาวออก — พระยืนพระหัตถ์แนบลำตัว (ปางขอฝน) พระบางจำลอง หรือพระเถระลาว — ใส่ตลับห้อยคอ",
+  "shape_en": "Tablets, medallions and small casts issued by Lao temples: the standing Buddha with arms straight at the sides ('calling for rain'), copies of the Phra Bang, or Lao monks — cased at the neck like a Thai amulet.",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ",
+  "wearable_en": "Worn cased at the neck",
+  "obverse_th": "องค์พระหรือพระเถระ",
+  "obverse_en": "A Buddha or a monk",
+  "reverse_th": "ยันต์ตัวธรรมหรือชื่อวัด",
+  "reverse_en": "A Tham-script yantra or the temple's name",
+  "notes_en": "Form type 'tablet' is the majority case; medallion and figure issues exist. The reverse description is the model's expectation, not a citation."
+ },
+ "iconography": [
+  {
+   "th": "พระยืนพระหัตถ์แนบลำตัว ปางขอฝน",
+   "en": "standing Buddha with arms at the sides, palms back — the rain-calling gesture that is distinctively Lao"
+  },
+  {
+   "th": "พระยืนยกสองพระหัตถ์ (แบบพระบาง)",
+   "en": "standing Buddha with both palms forward, after the Phra Bang"
+  },
+  {
+   "th": "พระนั่งมารวิชัยแบบล้านช้าง",
+   "en": "seated earth-touching Buddha of the Lan Xang type"
+  },
+  {
+   "th": "นาคปรก",
+   "en": "naga-sheltered Buddha, very common in Lao art"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "วัดในหลวงพระบางและเวียงจันทน์ (เชียงทอง วัดใหม่ วัดองค์ตื้อ)",
+  "wat_en": "Temples of Luang Prabang and Vientiane — Wat Xieng Thong, Wat Mai, Wat Ong Teu among the named ones",
+  "maker_th": "วัดลาวออกให้ อ้างอิงพระบูชาล้านช้าง",
+  "maker_en": "Issued by Lao temples; the models are the Lan Xang altar bronzes",
+  "era_th": "พระบูชาล้านช้างตั้งแต่ศตวรรษที่ 14 · พระเครื่องแบบห้อยคอเป็นของสมัยใหม่",
+  "era_en": "Lan Xang altar images from the fourteenth century (the Vat Manorom colossus is held the oldest); the worn amulet as a Lao temple product is modern, on the Thai pattern",
+  "place_th": "หลวงพระบาง เวียงจันทน์",
+  "place_en": "Luang Prabang and Vientiane",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "สำริดลาว (สำริด) มักผสมโลหะมีค่า บางองค์ทองแดง-ทองคำสูงจนออกสีทองหม่น",
+   "en": "Lao bronze, samrit, often carries precious metal; some images run high in copper and gold and read as a muted gold colour",
+   "source": "s:en-wiki-lao-buddhist-sculpture",
+   "tier": "cited"
+  },
+  {
+   "th": "พระยืนแขนแนบลำตัว ชายจีวรบานออก — ท่าขอฝนเป็นมุทราลาวโดยเฉพาะ",
+   "en": "A standing figure with arms falling straight and the robe flaring at the hem is the Lao rain-calling type; the Walters torso records exactly that outline",
+   "source": "s:en-wiki-buddhism-laos",
+   "tier": "cited"
+  },
+  {
+   "th": "พระพุทธรูปใหญ่หล่อเป็นส่วนแล้วประกอบ — ของเล็กหล่อชิ้นเดียว",
+   "en": "Colossal Lao bronzes were cast in parts and assembled; a small piece is one pour, so a seam on a pendant is a mould line, not a Lao construction mark",
+   "source": "s:en-wiki-lao-buddhist-sculpture",
+   "tier": "cited"
+  },
+  {
+   "th": "ด้านหลังมักเป็นตัวธรรม ไม่ใช่ตัวขอม",
+   "en": "Reverse script, where present, is usually Tham rather than Khom — the Lao sacred hand",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "inference"
+  },
+  {
+   "th": "รูปแบบเหรียญและพระผงตามอย่างไทย — คำว่า ลาว/หลวงพระบาง/เวียงจันทน์ ไม่ปรากฏในชื่อสินค้าลาซาด้าไทยเลย",
+   "en": "Medallion and powder formats follow the Thai amulet industry; no Lazada TH listing title in catalog.db carries ลาว, หลวงพระบาง or เวียงจันทน์",
+   "source": "s:catalog-db",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-bang-pendant",
+   "tell_th": "พระบางจำลองเป็นพระเครื่องลาวชนิดหนึ่งที่มีต้นแบบชัด — ยืนยกสองพระหัตถ์",
+   "tell_en": "A Phra Bang pendant is one Lao amulet with a named model: standing, both palms forward. Anything else Lao is this broader kind."
+  },
+  {
+   "id": "phra-chiang-saen",
+   "tell_th": "พระเชียงแสนเป็นสำริดล้านนา · ล้านช้างสืบสายเดียวกันแต่พระพักตร์และชายจีวรต่าง",
+   "tell_en": "Chiang Saen is the Lanna bronze; Lan Xang descends from the same line but the face and the flared robe differ, and the rain-calling stance is Lao only."
+  },
+  {
+   "id": "rian-kechi",
+   "tell_th": "เหรียญเกจิไทยมีชื่อพระและวัดไทย · เหรียญลาวจารึกอักษรลาวหรือตัวธรรม",
+   "tell_en": "A Thai monk medallion names a Thai monk and temple; a Lao issue is lettered in Lao or Tham script."
+  },
+  {
+   "id": "phra-kru",
+   "tell_th": "พระกรุอีสาน (เช่น นาคปรกกรุนาดูน) เป็นของเก่าจากกรุ · พระเครื่องลาวเป็นของวัดออกใหม่",
+   "tell_en": "An Isan cache find such as the Na Dun naga-sheltered tablets is old and excavated; a Lao temple amulet is a recent issue. Crust versus shine."
+  }
+ ],
+ "market": {
+  "search": [],
+  "excludes": [],
+  "tier": "unknown"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Wat Sisaket"
+  ],
+  "commons_files": [
+   "File:Lan Xang - Seated Buddha - bronze.jpg",
+   "File:Seated Buddha touching the earth (Laos) (11265536596).jpg",
+   "File:Laotian - Head and Torso of a Standing Buddha - Walters 542759.jpg",
+   "File:Bouddha Mettakaruna-Mudra.JPG",
+   "File:Bouddha Abhaya-Mudra.JPG",
+   "File:Broken Buddha statues at Wat Sisaket.jpg"
+  ],
+  "wanted_en": "No free photograph of a Lao worn amulet exists on Commons as of 2026-09-02; the files are the Lan Xang altar bronzes the amulets copy (17th-century seated Buddhas, a standing torso, Ho Phra Keo images, and the Vientiane bronzes broken in 1826–28). Needed: a cased Lao temple issue obverse and reverse, and a Luang Prabang market table."
+ },
+ "images": [
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-lan-xang-seated-buddha-bronze-7488aa.jpg",
+   "source": "commons",
+   "title": "File:Lan Xang - Seated Buddha - bronze.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Lan_Xang_-_Seated_Buddha_-_bronze.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=44431228",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Jnzl's Public Domain Photos",
+   "credit": "https://www.flickr.com/photos/surveying/11265588223/",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — Seated Buddha touching the earth, bronze, 17th century Lan Xang period, Laos",
+   "sha256": "1406871041683971a6d3987c97704bcd33d5e66232f514d3c1527341b76025b0",
+   "width": 2304,
+   "height": 3456,
+   "primary": true
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-bouddha-abhaya-mudra-0538e9.jpg",
+   "source": "commons",
+   "title": "File:Bouddha Abhaya-Mudra.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Bouddha_Abhaya-Mudra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=533779",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Unknown authorUnknown author",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — Museum of Ho Phra Keo (Vientiane, Laos). Bouddha statue, bronze XVIII th century (outside gallery).\nMyself-made picture.",
+   "sha256": "030e6e5c2f06054813c35167d5cd11b02a8cccfee56567655bbd991c4720d593",
+   "width": 664,
+   "height": 1504
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-bouddha-mettakaruna-mudra-e361a7.jpg",
+   "source": "commons",
+   "title": "File:Bouddha Mettakaruna-Mudra.JPG",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Bouddha_Mettakaruna-Mudra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=533787",
+   "license": "CC BY 2.5",
+   "license_url": "https://creativecommons.org/licenses/by/2.5",
+   "author": "Siren-Com",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — Buddha \"Standing\": the Buddha stands quietly before going out, this reflects that he has complete awareness of what he i",
+   "sha256": "ed2cddaa5f3140a4420092007a6884e09f6a3ba1cd01e9025006d9fcbdbf10e5",
+   "width": 706,
+   "height": 1510
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-laotian-head-and-torso-of-a-standing-bud-084d05.jpg",
+   "source": "commons",
+   "title": "File:Laotian - Head and Torso of a Standing Buddha - Walters 542759.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Laotian_-_Head_and_Torso_of_a_Standing_Buddha_-_Walters_542759.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=18763506",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Laotian (?)",
+   "credit": "Walters Art Museum:  Home page  Info about artwork",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — Originally the arms of this large and striking image fell at the side, and the sides of the robe flared outward at the b",
+   "sha256": "6b01ab4d3ece438d7c215e49ffb4f53b186b573cffeaa5ba460e763e6401c4a1",
+   "width": 768,
+   "height": 1376
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-wat-sisaket-panoramio-89bc88.jpg",
+   "source": "commons",
+   "title": "File:Wat Sisaket - panoramio.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Wat_Sisaket_-_panoramio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=54864496",
+   "license": "CC BY 3.0",
+   "license_url": "https://creativecommons.org/licenses/by/3.0",
+   "author": "satori.corvus",
+   "credit": "https://web.archive.org/web/20161025095540/http://www.panoramio.com/photo/75654183",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — Wat Sisaket",
+   "sha256": "f33b04c35039f1a353dfc29eec0100d25482db1a64f38bf4095b7e833dc6ad59",
+   "width": 1620,
+   "height": 2160
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-seated-buddha-touching-the-earth-laos-11-03b378.jpg",
+   "source": "commons",
+   "title": "File:Seated Buddha touching the earth (Laos) (11265536596).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Seated_Buddha_touching_the_earth_%28Laos%29_%2811265536596%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=64886445",
+   "license": "CC BY 2.0",
+   "license_url": "https://creativecommons.org/licenses/by/2.0",
+   "author": "Jnzl's Photos",
+   "credit": "Seated Buddha touching the earth (Laos)",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — 17th century, bronze",
+   "sha256": "feaeca3a08e7c13f1521bd33cf4e40fb01bfd9351c051a52e2d2438d804ce9e3",
+   "width": 3042,
+   "height": 1923
+  },
+  {
+   "file": "lao-phra-khrueang/lao-phra-khrueang-broken-buddha-statues-at-wat-sisaket-d82536.jpg",
+   "source": "commons",
+   "title": "File:Broken Buddha statues at Wat Sisaket.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Broken_Buddha_statues_at_Wat_Sisaket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=87147879",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Mx. Granger",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "พระเครื่องลาว",
+   "alt_en": "Lao Buddha amulet (Luang Prabang and Vientiane temple issues) — A collection of 18th-century bronze Buddha statues from temples in Vientiane, damaged when Laos was invaded in 1826-1828",
+   "sha256": "d5c07657cdbce93e5a636246a58952bfed6cc10a9034bee915b981626ce6964f",
+   "width": 4096,
+   "height": 3072
+  }
+ ],
+ "text": {
+  "what_th": "พระเครื่องที่วัดลาวออก — พระพิมพ์ เหรียญ รูปหล่อเล็ก — ต้นแบบคือพระบูชาล้านช้าง เช่นพระยืนปางขอฝนและพระบาง ไม่มีผู้อยู่ ไม่ต้องเลี้ยง",
+  "what_en": "Amulets issued by Lao temples — tablets, medallions, small casts — modelled on the Lan Xang altar bronzes: the rain-calling standing Buddha, the Phra Bang, the seated earth-toucher. Nobody home, nothing owed.",
+  "story_th": "ศิลปะพุทธลาวหล่อสำริดเป็นหลัก มีทองและเงินด้วย พระใหญ่หล่อเป็นส่วนแล้วประกอบ พระพักตร์และท่าขอฝนเป็นเอกลักษณ์ พระสำคัญได้แก่พระบาง พระใส (ทองคำ ศตวรรษที่ 16 อยู่หนองคาย) และพระองค์ตื้อเวียงจันทน์ พระเครื่องแบบห้อยคอเป็นของสมัยใหม่ตามอย่างไทย และหลัง ค.ศ. 1975 การนับถือผีถูกรัฐกดแต่ยังอยู่คู่พุทธ",
+  "story_en": "Lao Buddhist sculpture is mostly bronze with gold and silver beside it; the great images were cast in parts and assembled, and the Lao gave the Buddha gestures of their own, calling for rain and lying down to welcome death. The named palladia — the Phra Bang, the sixteenth-century gold Phra Sai now in Nong Khai, the colossal Phra Ong Teu in Vientiane — are the models. The worn amulet as a temple product is recent and follows the Thai industry's formats; after 1975 spirit practice was pressed by the state but stayed woven into Lao Buddhism, and the amulet lives in that weave.",
+  "keeping_th": "ไม่มีผู้อยู่ บูชาตามปกติ ไม่ต้องเซ่น",
+  "keeping_en": "Impersonal: ordinary veneration, nothing fed. The provenance question is which temple issued it and when."
+ },
+ "sources": [
+  "s:vault-classes",
+  "s:en-wiki-lao-buddhist-sculpture",
+  "s:en-wiki-buddhism-laos",
+  "s:en-wiki-mucalinda",
+  "s:en-wiki-lan-xang",
+  "s:th-wiki-lek-yan",
+  "s:catalog-db",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "tradition",
+   "source": "s:tradition",
+   "note": "the amulet as a Lao temple product is the model's reading; the sculpture facts are cited"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:en-wiki-buddhism-laos",
+    "note": "naga entry from s:en-wiki-mucalinda"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-lao-buddhist-sculpture"
+   },
+   "origin.wat_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-buddhism-laos",
+    "note": "temples named there; their amulet issues are not"
+   },
+   "names.other_scripts": {
+    "tier": "inference",
+    "note": "Lao spelling of the Thai loan; no Lao Wikipedia article carries the term"
+   },
+   "text.story_en": {
+    "tier": "cited",
+    "source": "s:en-wiki-lao-buddhist-sculpture",
+    "note": "with s:en-wiki-buddhism-laos"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:catalog-db",
+    "note": "0 listing titles with ลาว / หลวงพระบาง / เวียงจันทน์ on 2026-09-02"
+   },
+   "media": {
+    "tier": "cited",
+    "note": "licences checked on Commons 2026-09-02"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

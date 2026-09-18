@@ -1,0 +1,319 @@
+{
+ "schema": 1,
+ "id": "pha-yan",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "ผ้ายันต์",
+  "roman": "pha yan",
+  "en": "Pha yan (yantra cloth)",
+  "aliases": {
+   "th": [
+    "ผ้าประเจียด",
+    "ประเจียด",
+    "เสื้อยันต์"
+   ],
+   "roman": [
+    "pha yant",
+    "pha prachiat",
+    "prajiad"
+   ],
+   "en": [
+    "yantra cloth",
+    "yant cloth",
+    "prajiad armband"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": "yantra_wattu",
+  "functions": [
+   "khum_khrong",
+   "khlaeo_khlat",
+   "khong_kraphan",
+   "kan_phi",
+   "metta_maha_niyom"
+  ],
+  "materials": [
+   "pha_yan"
+  ],
+  "figures": [
+   "cloth"
+  ]
+ },
+ "form": {
+  "type": "cloth",
+  "shape_th": "ผ้าผืนสี่เหลี่ยม ขาว แดง หรือเหลือง เขียนยันต์ด้วยหมึกดำ ตั้งแต่ผืนเล็กพับใส่กระเป๋าถึงผืนใหญ่แขวนเหนือประตู",
+  "shape_en": "A square or rectangular cloth — white, red or yellow — drawn in black ink with grids, figures and Khom script. Pocket squares, arm- and head-bands (prachiat), door hangings, and shirts sewn from small pieces (suea yan).",
+  "size_mm": null,
+  "wearable_th": "พับใส่กระเป๋า พันแขน พันศีรษะ หรือแขวนไว้ที่บ้าน",
+  "wearable_en": "Folded in a pocket, tied round the arm or head, or hung in the house over a door",
+  "obverse_th": "ยันต์และอักขระขอม มักมีรูปพระ ฤๅษี หนุมาน หรือสัตว์กลางผืน",
+  "obverse_en": "The yantra and Khom text; often a Buddha, a lersi, Hanuman or an animal at centre",
+  "reverse_th": "เรียบ หรือพิมพ์ทะลุ",
+  "reverse_en": "Plain, or the print showing through",
+  "notes_en": "Modern temple issues are screen-printed in one colour; the treatise's cloths are drawn by hand, and the eight-direction cloth it names is a ceiling canopy for inscribing takrut, not a wearable."
+ },
+ "iconography": [
+  {
+   "th": "ยันต์ตรีนิสิงเห",
+   "en": "Trinisinghe yantra — against ghosts and demons per the prachiat article"
+  },
+  {
+   "th": "ยันต์แปดทิศ",
+   "en": "eight-direction yantra; the treatise hangs it as a white ceiling cloth while inscribing"
+  },
+  {
+   "th": "ยันต์มหาสะท้อน",
+   "en": "Maha Saton reflecting yantra"
+  },
+  {
+   "th": "รูปพระ ฤๅษี หนุมาน กลางผืน",
+   "en": "a Buddha, lersi or Hanuman figure at centre on temple issues"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "วิกิพีเดียไทยว่าสมเด็จพระเจ้าตากสินแจกผ้าประเจียดแก่แม่ทัพราว พ.ศ. ๒๓๑๒ และรัชกาลที่ ๑ แจกทหารราว พ.ศ. ๒๓๒๘",
+  "era_en": "Thai Wikipedia has King Taksin handing prachiat to his commanders around 1769 and Rama I to his soldiers around 1785; both dates unverified against a primary",
+  "place_th": "ทั่วประเทศ",
+  "place_en": "Country-wide",
+  "first_attested": ""
+ },
+ "diagnostics": [
+  {
+   "th": "เป็นผืนผ้าแบน ไม่ม้วน — ถ้าม้วนเป็นหลอดคือตะกรุด",
+   "en": "A flat cloth. Rolled into a tube it becomes a takrut; the medium is the tell",
+   "source": "s:vault-classes",
+   "tier": "catalogue"
+  },
+  {
+   "th": "สีผ้าที่พบ: ขาว แดง เหลือง หมึกดำ",
+   "en": "White, red or yellow ground with black ink or pencil per the prachiat article; the ground colour is not a rule",
+   "source": "s:th-wiki-prachiat",
+   "tier": "cited"
+  },
+  {
+   "th": "อักขระขอมภาคกลาง อักษรธรรมล้านนาและอีสาน อักษรไทยภาคใต้",
+   "en": "Script places it: Khom in the centre, Tham in the north and northeast, Thai script in the south",
+   "source": "s:th-wiki-lek-yan",
+   "tier": "cited"
+  },
+  {
+   "th": "ของวัดยุคใหม่พิมพ์สกรีนสีเดียว ของเก่าเขียนมือ เส้นไม่เท่ากัน",
+   "en": "Modern temple issues are screen-printed in one colour with even lines; hand-drawn cloths show uneven strokes and ink pooling",
+   "source": "s:tradition",
+   "tier": "tradition"
+  },
+  {
+   "th": "ผ้าที่ห่อหุ่นพยนต์ไม่ใช่ผ้ายันต์ในฐานะของชิ้นเอง",
+   "en": "A yantra cloth wrapping an effigy is part of that object, and takes that object's class",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "takrut",
+   "tell_th": "ผ้ายันต์แบน ตะกรุดม้วน หมวดเดียวกัน",
+   "tell_en": "Flat versus rolled. Same class, same keeping; only the form differs."
+  },
+  {
+   "id": "hun-phayon",
+   "tell_th": "หุ่นพยนต์เป็นรูปคนที่ผ้ายันต์ห่ออยู่ ต้องเซ่น ผ้ายันต์เปล่าไม่ต้อง",
+   "tell_en": "A hun phayon is a figure that a yantra cloth may wrap, and it is fed; the bare cloth is not. If there is a body inside the cloth, it is not this record."
+  }
+ ],
+ "market": {
+  "search": [
+   "ผ้ายันต์"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [
+   "Category:Yantra in Thailand"
+  ],
+  "commons_files": [
+   "File:Yant Paed Tidt.jpg",
+   "File:Yantric Matrices04.jpg",
+   "File:ตรีนิสิงเห.jpg",
+   "File:マハーサトン・ヤントラ： Maha Saton Yantra.jpg",
+   "File:Siam Society - Bangkok - 2017-07-25 (080).jpg"
+  ],
+  "wanted_en": "The free files are yantra designs and printed sheets, not photographs of a cloth in use. Needed: a printed temple cloth flat, a hand-drawn prachiat tied on an arm, and a door hanging in situ."
+ },
+ "images": [
+  {
+   "file": "pha-yan/pha-yan-yant-paed-tidt-067498.jpg",
+   "source": "commons",
+   "title": "File:Yant Paed Tidt.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Yant_Paed_Tidt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=2732154",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Sakyant at English Wikipedia",
+   "credit": "Transferred from en.wikipedia to Commons.",
+   "view": "other",
+   "alt_th": "ผ้ายันต์",
+   "alt_en": "Pha yan (yantra cloth) — Yant Paed Tidt",
+   "sha256": "9d4b67ddd945355419fa7462bdddbd98e87a583805bdabb4963ae88662c1ce17",
+   "width": 539,
+   "height": 646,
+   "primary": true
+  },
+  {
+   "file": "pha-yan/pha-yan-yantric-matrices04-f774fb.jpg",
+   "source": "commons",
+   "title": "File:Yantric Matrices04.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yantric_Matrices04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=3713973",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Pawyi Lee photo of poster by หลวงปู่พรหมมา เซมจาโร",
+   "credit": "Khun Pm Beauty Shop, Nanaphan Sq, Yasothon, Thailand. Poster from สำนักสงฆ์สวนหินผานางคอย อ.ษรีเมืองใกม่ จ.อุบลราชะานี\n\nSilver image of poster's author is here http://www.krusiam.com/shop/takhli/product/detail.asp?ProductID=P0035934",
+   "view": "other",
+   "alt_th": "ผ้ายันต์",
+   "alt_en": "Pha yan (yantra cloth) — Photo of มหายันต์พันล้าน Yantric diagrams",
+   "sha256": "ec7d1e06e80b19c6aa1eedc47eeb88448bf7ade6ec8deffeb780793625e03791",
+   "width": 2979,
+   "height": 1875
+  },
+  {
+   "file": "pha-yan/pha-yan-maha-saton-yantra-a44959.jpg",
+   "source": "commons",
+   "title": "File:マハーサトン・ヤントラ： Maha Saton Yantra.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/%E3%83%9E%E3%83%8F%E3%83%BC%E3%82%B5%E3%83%88%E3%83%B3%E3%83%BB%E3%83%A4%E3%83%B3%E3%83%88%E3%83%A9%EF%BC%9A_Maha_Saton_Yantra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=38333063",
+   "license": "CC BY-SA 4.0",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+   "author": "叡智探求者",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์",
+   "alt_en": "Pha yan (yantra cloth) — マハーサトン・ヤントラ　（Maha　Saton　Yantra）　タイ王国の仏教寺院のある高僧関係者の中で注目を集めている非物質世界の御守り。　いつから、いつまでという具体的な年数は不明だが、過去数百年間、その存在は消え失せていて、最近再び、",
+   "sha256": "1aab0afa639a877519edb24c4d781e7e41599aea1219650c2240f71213e1cd27",
+   "width": 305,
+   "height": 432
+  },
+  {
+   "file": "pha-yan/pha-yan-siam-society-bangkok-2017-07-25-080-7712dd.jpg",
+   "source": "commons",
+   "title": "File:Siam Society - Bangkok - 2017-07-25 (080).jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Siam_Society_-_Bangkok_-_2017-07-25_%28080%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=62443103",
+   "license": "CC0",
+   "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "author": "Iudexvivorum",
+   "credit": "Own work",
+   "view": "other",
+   "alt_th": "ผ้ายันต์",
+   "alt_en": "Pha yan (yantra cloth) — * Place: Siam Society Headquarters, Bangkok, Thailand.\nItems: Yantra mystic sheets.",
+   "sha256": "34c6eb1758f17b72e992af0f2c7dc2850448e8bc970ffbaf719cae1ee0e82e51",
+   "width": 3024,
+   "height": 4032
+  },
+  {
+   "file": "pha-yan/pha-yan-jpg-eef016.jpg",
+   "source": "commons",
+   "title": "File:ตรีนิสิงเห.jpg",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%AB.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+   "page_url": "https://commons.wikimedia.org/w/index.php?curid=89578400",
+   "license": "Public domain",
+   "license_url": "",
+   "author": "Unknown authorUnknown author",
+   "credit": "http://www.lucky4u.org/product/104/%E0%B8%95%E0%B8%B0%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%A3%E0%B8%A1%E0%B8%B5-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B9%80%E0%B8%AB",
+   "view": "other",
+   "alt_th": "ผ้ายันต์",
+   "alt_en": "Pha yan (yantra cloth) — Trinisinghe yantra, consists of diagonal grid and numbers.",
+   "sha256": "ae653e8dd28d9d4928289333aeb4bea9c5756a61f8988089a266c1e793e92d4d",
+   "width": 1318,
+   "height": 1295
+  },
+  {
+   "file": "pha-yan/pha-yan-museum-skiva-amulett-93f747.jpg",
+   "source": "museum",
+   "title": "skiva, amulett",
+   "url": "https://collections.smvk.se/carlotta-em/web/image/zoom/4524606/dia-68.329.jpg",
+   "page_url": "https://www.europeana.eu/item/91619/SMVK_EM_objekt_1301548?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+   "license": "CC0",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "author": "Statens museer för världskultur (Museum of Ethnography, Stockholm)",
+   "credit": "Vanadis expedition purchase, Bangkok 1887",
+   "view": "group",
+   "alt_th": "ปึกแผ่นยันต์ลงรักแดงมัดเชือก ซื้อที่บางกอก พ.ศ. ๒๔๓๐",
+   "alt_en": "Pha yan (yantra cloth) — A tied stack of square red-lacquered sheets catalogued in 1887 as \"sheet, amulet\" — read here as yantra sheets (ผ้ายันต์ / ประเจียด); the museum does not say, so this is an inference",
+   "sha256": "93f747e995df39115109d1afd5bc56cc809338c31dd5cc7a268ba856fec5efea"
+  }
+ ],
+ "text": {
+  "what_th": "ผ้าผืนสี่เหลี่ยมหรือธงที่เขียนตาราง รูป และอักขระ แขวนเหนือประตู พับใส่กระเป๋า หรือพันตัว ลายยันต์มีดัชนีของตัวเองที่ /yant",
+  "what_en": "A cloth square or banner drawn with grids, figures and script — hung over a door, folded into a pocket, or worn. The drawn designs have their own index here: /yant.",
+  "story_th": "ตำราไม่มีบทสร้างผ้ายันต์โดยตรง แต่ใช้ผ้ายันต์เป็นเครื่องมือ: ดาดเพดานด้วยผ้าขาวลงยันต์แปดทิศเมื่อลงตะกรุดโทนในโบสถ์ และคาถาปลุกใหญ่นับ ผ้าประเจียด ไว้ในบรรดาของที่ปลุกให้คงทนแคล้วคลาด วิกิพีเดียไทยว่าประเจียดเป็นผ้าผูกศีรษะ คอ แขน สีขาว แดง เหลือง ที่กษัตริย์แจกทหารก่อนออกศึก และยังใช้ในมวยไทยและกระบี่กระบอง",
+  "story_en": "The treatise has no recipe for the cloth itself; it uses one. A white cloth bearing the eight-direction yantra is stretched as a ceiling while a takrut is inscribed in the ordination hall, and the great waking-katha lists the prachiat among the things it rouses to endure and evade. Thai Wikipedia describes the prachiat as a white, red or yellow cloth tied at head, neck or arm, handed to soldiers by Taksin and Rama I before battle, and still worn by Muay Thai and krabi-krabong fighters. The temple-issue cloth hung over a shop door is the same object at rest.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง แขวนหรือพกได้โดยไม่ต้องรู้ประวัติ",
+  "keeping_en": "Nobody home, nothing owed. Hang it or carry it with unknown history; its question is only whose hand drew it."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:ms6983",
+  "s:th-wiki-prachiat",
+  "s:th-wiki-lek-yan",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-prachiat"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.story_en": {
+    "tier": "catalogue",
+    "source": "s:ms6983",
+    "note": "canopy at L4464; waking-katha at L2932"
+   },
+   "form.notes_en": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "iconography": {
+    "tier": "cited",
+    "source": "s:th-wiki-lek-yan"
+   },
+   "origin.era_en": {
+    "tier": "cited",
+    "source": "s:th-wiki-prachiat",
+    "note": "dates as given on-wiki, not checked"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}

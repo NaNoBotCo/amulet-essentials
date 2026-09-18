@@ -1,0 +1,201 @@
+{
+ "schema": 1,
+ "id": "lek-lai",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "เหล็กไหล",
+  "roman": "lek lai",
+  "en": "Lek lai (living iron)",
+  "aliases": {
+   "th": [
+    "เหล็กไหลเงินยวง",
+    "เหล็กไหลเพชรดำ",
+    "เหล็กไหลท้องปลาไหล",
+    "เหล็กไหลปีกแมลงทับ",
+    "รังเหล็กไหล",
+    "ขี้เหล็กไหล"
+   ],
+   "roman": [
+    "leklai",
+    "lek-lai",
+    "lekhlai"
+   ],
+   "en": [
+    "living metal",
+    "cave iron",
+    "batu serandak (Malay)"
+   ]
+  },
+  "other_scripts": {
+   "ms": "batu serandak"
+  }
+ },
+ "region": [
+  "th",
+  "my"
+ ],
+ "axes": {
+  "class": "khong_thammachat",
+  "functions": [
+   "khong_kraphan",
+   "maha_ut",
+   "khlaeo_khlat"
+  ],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": [
+   "natural"
+  ]
+ },
+ "form": {
+  "type": "natural",
+  "shape_th": "ก้อนหรือแท่งโลหะสีดำอมน้ำเงิน ผิวมันวาว มักใส่ตลับหรือบรรจุในตะกรุด",
+  "shape_en": "A dark, blue-black metallic mass or rod with a lustrous surface, usually cased or sealed in a tube for wearing",
+  "size_mm": null,
+  "wearable_th": "ห้อยคอในตลับ หรือฝังในตะกรุด",
+  "wearable_en": "Worn cased at the neck or sealed inside a takrut tube",
+  "notes_en": "materials uses the vault's 'metal, unspecified' key on purpose: the vocabulary has no lek-lai key and the tradition itself disagrees about what the substance is."
+ },
+ "iconography": [
+  {
+   "th": "ไม่มีรูป — ก้อนโลหะดำ",
+   "en": "no figure; a dark metal mass"
+  }
+ ],
+ "origin": {
+  "wat_slug": null,
+  "wat_th": "",
+  "wat_en": "",
+  "maker_th": "",
+  "maker_en": "",
+  "era_th": "",
+  "era_en": "",
+  "place_th": "ถ้ำ ตามความเชื่อ — ไทยและมาเลเซีย",
+  "place_en": "Caves, per the belief; Thailand and Malaysia (Malay batu serandak)",
+  "first_attested": "พจนานุกรมฉบับราชบัณฑิตยสถาน พ.ศ. 2525 entry, per Thai Wikipedia; the treatise quotes the 2542 edition's definition of เครื่องราง, which names เหล็กไหล"
+ },
+ "diagnostics": [
+  {
+   "th": "วิกิพีเดียไทยแบ่งสามชั้น: เหล็กไหล (มันวาว ยืดได้ด้วยไฟ) · รังเหล็กไหล (ด้านกว่า ยืดไม่ได้) · ขี้เหล็กไหล (คล้ายขี้ผึ้ง ดำด้าน เปราะ)",
+   "en": "Thai Wikipedia grades three tiers: lek lai proper (lustrous, drawn out by fire), rang lek lai 'the nest' (duller, does not draw), and khi lek lai 'the residue' (wax-like, matte black, brittle)",
+   "source": "s:th-wiki-lek-lai",
+   "tier": "cited"
+  },
+  {
+   "th": "ชื่อชนิดตามสี: เงินยวง เพชรดำ ท้องปลาไหล ปีกแมลงทับ",
+   "en": "Named varieties by colour: เงินยวง silver, เพชรดำ black diamond, ท้องปลาไหล eel-belly, ปีกแมลงทับ beetle-wing, among others in the article",
+   "source": "s:th-wiki-lek-lai",
+   "tier": "cited"
+  },
+  {
+   "th": "ประกายรุ้งบนผิวคือการแทรกสอดของฟิล์มบาง ตามคำอธิบายเชิงวิทยาศาสตร์ในบทความ",
+   "en": "An iridescent rainbow sheen is thin-film interference, per the article's sceptical section, which names low-melting metals and alloys (gallium, mercury), meteorite and silicates as what samples turn out to be",
+   "source": "s:th-wiki-lek-lai",
+   "tier": "cited"
+  },
+  {
+   "th": "ตำนานให้ตัดด้วยน้ำผึ้งและไฟ: ทาน้ำผึ้ง ลนไฟให้ยืดเป็นเส้นจนขาด คนธรรมดาตัดไม่ได้",
+   "en": "The lore's harvest: honey is smeared near it and fire played on it until it stretches to the honey as a thread and parts; ordinary people cannot take it, and it shocks the hand",
+   "source": "s:th-wiki-lek-lai",
+   "tier": "cited"
+  },
+  {
+   "th": "ราชบัณฑิตยสถานยกเหล็กไหลเป็นตัวอย่างของ เครื่องราง คู่กับตะกรุดและผ้ายันต์ คาถาปลุกเสือในตำราก็ปลุก เครื่องเหล็กไหลแลทองแดง",
+   "en": "The Royal Institute Dictionary lists lek lai beside takrut and yantra cloth as its examples of เครื่องราง; the treatise quotes that definition, and its tiger-waking katha wakes 'the lek lai and copper things' too",
+   "source": "s:ms6983",
+   "tier": "catalogue"
+  },
+  {
+   "th": "หมวดที่ของปลอมชอบที่สุด — คำเตือนเรื่องหมวด ไม่ใช่เรื่องชิ้น",
+   "en": "The holding key calls it the category every faker loves; a caution about the category, never about a piece",
+   "source": "s:holding-key",
+   "tier": "catalogue"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "khot-kala",
+   "tell_th": "คดกะลาเป็นก้อนแข็งในมะพร้าว ไม่มีประกายโลหะ · เหล็กไหลเป็นโลหะดำมันวาว",
+   "tell_en": "A khot is a stone-hard nodule from inside a coconut with no metallic sheen; lek lai is a lustrous dark metal. Both natural class, found not made."
+  },
+  {
+   "id": "bia-kae",
+   "tell_th": "เบี้ยแก้เป็นหอยเบี้ยบรรจุปรอทปิดด้วยชันโดยพระ — ของทำ · เหล็กไหลอ้างว่าพบ",
+   "tell_en": "A bia kae is a cowrie sealed over quicksilver by a monk — a made object; lek lai claims to be found. Listings pair them because both are 'living' fillings for a case."
+  },
+  {
+   "id": "dat-lone",
+   "tell_th": "เหล็กไหลเป็นของที่ 'พบ' ตามถ้ำและตัดด้วยน้ำผึ้งกับไฟ · ดั๊ตโลนของพม่าเป็นของที่ 'หุง' ขึ้นตามวิชาไวซา",
+   "tell_en": "Lek lai is found — harvested from cave rock with honey and fire, class khong_thammachat; the Burmese dat-lone is made — fired by a weikza practitioner from metals and mercury. Found or fired is the question that separates them."
+  }
+ ],
+ "market": {
+  "search": [
+   "เหล็กไหล"
+  ],
+  "excludes": [],
+  "tier": "retail"
+ },
+ "media": {
+  "commons_categories": [],
+  "commons_files": [],
+  "wanted_en": "No free Commons file found on 2026-09-02 (searches 'Lek lai' and เหล็กไหล return unrelated files; no Category:Lek lai). Wanted: a cased specimen with a scale bar, and a 'nest' piece beside a 'residue' piece."
+ },
+ "images": [],
+ "text": {
+  "what_th": "โลหะดำมันวาวที่เชื่อว่ามีชีวิต ตัดจากถ้ำด้วยพิธี ว่ากินน้ำผึ้งและกันคมอาวุธ ฤทธิ์อยู่ในตัวของมันเอง เป็นหมวดที่ของปลอมชอบที่สุด ซึ่งเป็นคำเตือนในตัว",
+  "what_en": "A dark lustrous metal the tradition holds to be alive — drawn from caves by rite, said to drink honey and turn aside blades. Power inherent in the thing itself; the category every faker loves, which is its own caution.",
+  "story_th": "ความเชื่อว่าเหล็กไหลอยู่ในถ้ำ มีเทวดา ผีป่า พญานาค หรือยักษ์รักษา คนธรรมดาตัดไม่ได้ ต้องมีบุญหรือวิชาอาคม ผู้ตัดทาน้ำผึ้งแล้วลนไฟจนเหล็กไหลยืดมาถึงน้ำผึ้งเป็นเส้นแล้วขาด ใครมีติดตัว มีด ปืน ดินระเบิดใช้ไม่ได้ วิกิพีเดียไทยแบ่งสามชั้น ตั้งชื่อชนิดตามสี อ้างพจนานุกรม พ.ศ. ๒๕๒๕ แล้วอธิบายเชิงวิทยาศาสตร์ว่าเป็นโลหะจุดหลอมต่ำ อุกกาบาต หรือซิลิเกต ประกายรุ้งเกิดจากฟิล์มบาง",
+  "story_en": "The lore puts it in caves under the guard of devas, forest spirits, naga or giants; only merit or wichaa lets a person take it, and the harvest is done with honey smeared nearby and fire played on the mass until it stretches to the honey as a thread and parts. Near its keeper, the belief goes, blades, guns and gunpowder fail. Thai Wikipedia grades it — the metal, its 'nest', its 'residue' — names varieties by colour, dates the dictionary entry to B.E. 2525, and then explains the samples as low-melting metals or alloys, meteorite or silicate, with the rainbow sheen as thin-film interference. Both halves belong in the record.",
+  "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บางสายถวายน้ำผึ้งตามตำนาน — เป็นมารยาทจากเรื่องเล่า ไม่ใช่กฎของหมวด",
+  "keeping_en": "Nobody home, nothing owed by the class. Some keepers offer honey because the lore says it drinks it; that is a courtesy from the story, not an upkeep the vocabulary records. Safe to adopt with unknown history; the risk is the price, not the spirit."
+ },
+ "sources": [
+  "s:holding-key",
+  "s:vault-classes",
+  "s:vault-materials",
+  "s:vault-functions",
+  "s:ms6983",
+  "s:th-wiki-lek-lai",
+  "s:tradition"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:th-wiki-lek-lai"
+  },
+  "fields": {
+   "axes": {
+    "tier": "catalogue",
+    "source": "s:vault-classes"
+   },
+   "text.what_en": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "text.keeping_en": {
+    "tier": "catalogue",
+    "source": "s:vault-classes",
+    "note": "honey offering: tradition"
+   },
+   "market": {
+    "tier": "catalogue",
+    "source": "s:holding-key"
+   },
+   "form": {
+    "tier": "tradition",
+    "source": "s:tradition"
+   },
+   "names.aliases": {
+    "tier": "cited",
+    "source": "s:th-wiki-lek-lai",
+    "note": "variety names from the article; romanisations inference"
+   }
+  }
+ },
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-02"
+}
