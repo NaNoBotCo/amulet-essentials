@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it as below."
+title: "Amulet Essentials"
+abstract: "A pan-Southeast-Asian amulet catalogue: 87 kinds in their own languages, 637 free pictures with verified licences, on-device photo identification, and a price analysis of 15,300 listings. Live at wichaa.net/amulets"
+type: software
+authors:
+  - name: "NaN"
+    website: "https://github.com/NaNoBotCo"
+repository-code: "https://github.com/NaNoBotCo/amulet-essentials"
+url: "https://nanobotco.github.io/amulet-essentials/"
+license:
+  - CC-BY-SA-4.0
+  - AGPL-3.0-or-later
+date-released: "2026-09-18"
