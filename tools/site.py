@@ -347,7 +347,7 @@ def kind_page(rec: dict, by_id: dict, sources: dict) -> str:
 
     # diagnostics
     if rec.get("diagnostics"):
-        parts.append("<h2>What to look at · จุดสังเกต</h2><p class=\"mute\">Type-level marks a reader can check by eye or loupe. Never a claim that any one object is genuine.</p><table>")
+        parts.append("<h2>What to look at · จุดสังเกต</h2><p class=\"mute\">Type-level marks a reader can check by eye or loupe.</p><table>")
         for dg in rec["diagnostics"]:
             parts.append(f'<tr><td><span class="th" lang="th">{E(dg.get("th",""))}</span><br><span lang="en">{E(dg["en"])}</span></td><td style="width:30%">{tier_chip(dg.get("tier",""), dg.get("source",""))}</td></tr>')
         parts.append("</table>")
@@ -584,14 +584,14 @@ def identify_page(sha_map: dict) -> str:
 <p id="status" class="tierline" aria-live="polite">…</p>
 <progress id="bar" max="100" hidden></progress>
 <p class="mute" lang="th">เลือกได้หลายรูป · เทียบในเครื่องคุณเอง รูปไม่ถูกส่งไปไหน · ตอบเป็น<em>ชนิด</em> ไม่ใช่แท้หรือไม่แท้</p>
-<p class="mute" lang="en">Many at once · compared on your own device, nothing uploaded · answers with the <em>kind</em>, never whether a piece is genuine.</p>
+<p class="mute" lang="en">Many at once, compared on your own device · answers with the <em>kind</em>.</p>
 <section id="haul" hidden>
   <h2 id="haulhead"></h2>
   <ul id="haullist" class="dirlist"></ul>
   <p><button id="copy" type="button" class="ghost">📋 คัดลอกสรุป · copy summary</button> <button id="share" type="button" class="ghost">↗ แชร์ · share</button> <button id="clear" type="button" class="ghost">🗑 ล้างทั้งหมด · clear all</button></p>
 </section>
 <div id="shots" class="shots"></div>
-<p class="legend">Photos and results stay in this browser only (IndexedDB), until you clear them. The recogniser (CLIP ViT-B/32, about 22 MB) downloads once and is cached; after that this page works offline. Install the site (Add to Home Screen) and it appears in your phone's Share sheet. Resemblance is to the catalogue's reference pictures — the kind, never the authenticity.</p>
+<p class="legend">Photos and results stay in this browser only (IndexedDB), until you clear them. The recogniser (CLIP ViT-B/32, about 22 MB) downloads once and is cached; after that this page works offline. Install the site (Add to Home Screen) and it appears in your phone's Share sheet. Resemblance is to the catalogue's reference pictures.</p>
 <script>window.IDENT={json.dumps({"imgBase": IMAGE_BASE, "siteUrl": SITE_URL})};(function(){{var u=new URL(location.href);var k=u.searchParams.get("kind");if(k)window.IDENT.kind=k;}})();</script>
 <script>{js}</script>
 """
@@ -607,7 +607,7 @@ button.ghost{font:inherit;padding:.5rem .9rem;border-radius:10px;border:2px soli
 @media (prefers-reduced-motion: no-preference){.drop .big{transition:transform .15s}.drop .big:hover{transform:translateY(-2px)}}
 """
     return page(f"Photograph it — {SITE_NAME_EN}", body, 1,
-                "Photograph an amulet, or choose many from your gallery, and see which kinds each resembles — on your own device, nothing uploaded. Names the kind, never the authenticity.",
+                "Photograph an amulet, or choose many from your gallery, and see which kinds each resembles, on your own device.",
                 [{"@context": "https://schema.org", "@type": "WebApplication", "name": "Photograph it · ส่องภาพ", "applicationCategory": "UtilitiesApplication",
                   "operatingSystem": "Any", "browserRequirements": "Requires JavaScript; works offline after first use", "url": f"{SITE_URL}/identify/",
                   "description": "On-device reverse-image identification of the KIND of Thai and Southeast Asian amulet, against free-licensed reference pictures.", "isAccessibleForFree": True}],
@@ -676,7 +676,7 @@ def llms_txt(recs: list[dict]) -> str:
              f"- [Sources registry]({SITE_URL}/api/sources.json)", f"- [Full text of every record]({SITE_URL}/llms-full.txt)", "", "## Kinds"]
     for r in sorted(recs, key=lambda r: r["names"]["roman"]):
         lines.append(f"- [{r['names']['th']} · {r['names']['en']}]({SITE_URL}/kind/{r['id']}/): {r['text']['what_en']}")
-    lines += ["", "## Optional", f"- [Search page]({SITE_URL}/search/) — Thai/English, fuzzy, compound-aware", f"- [Photograph it]({SITE_URL}/identify/) — reverse-image identification of the kind (never authenticity)", f"- [What sets the price]({SITE_URL}/value/) — the factors that assign cash value, ranked, with the market tiers; data at {SITE_URL}/api/value_factors.json", f"- [Atom feed]({SITE_URL}/feed.xml)", f"- [Sitemap]({SITE_URL}/sitemap.xml)"]
+    lines += ["", "## Optional", f"- [Search page]({SITE_URL}/search/) — Thai/English, fuzzy, compound-aware", f"- [Photograph it]({SITE_URL}/identify/) — reverse-image identification of the kind", f"- [What sets the price]({SITE_URL}/value/) — the factors that assign cash value, ranked, with the market tiers; data at {SITE_URL}/api/value_factors.json", f"- [Atom feed]({SITE_URL}/feed.xml)", f"- [Sitemap]({SITE_URL}/sitemap.xml)"]
     return "\n".join(lines) + "\n"
 
 

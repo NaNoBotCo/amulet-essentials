@@ -124,7 +124,7 @@ def render(vf: dict, ps: dict | None = None) -> str:
     parts.append(bars(fw, "weight", lbl, max_v=100, sub=lambda r: r.get("confidence")))
     parts.append(table(fw, [("rank", "#"), ("label_th", "ปัจจัย"), ("label_en", "factor"), ("weight", "weight"), ("confidence", "confidence"), ("basis", "basis")]))
 
-    parts.append('<h2>How much each factor can move a price · ช่วงตัวคูณ</h2><p class="mute">Log scale. The low and high multiplier the sources give for the same object with and without the factor. Authenticity is a gate, not a slider.</p>')
+    parts.append('<h2>How much each factor can move a price · ช่วงตัวคูณ</h2><p class="mute">Log scale. The low and high multiplier the sources give for the same object with and without the factor.</p>')
     parts.append(log_ranges([r for r in fw if r.get("multiplier_low") and r.get("multiplier_high")], "multiplier_low", "multiplier_high", lbl, unit="×"))
     parts.append(table(fw, [("label_en", "factor"), ("multiplier_low", "low ×"), ("multiplier_high", "high ×"), ("evidence_count", "evidence")]))
 

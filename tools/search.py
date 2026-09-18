@@ -114,7 +114,7 @@ class Searcher:
             return []
         # A vector search always returns something. Keep only neighbours that stand out
         # from the field: within a margin of the best and above the corpus mean by a
-        # clear step — an honest "nothing close" beats four polite non-answers.
+        # clear step. A plain "nothing close" beats four polite non-answers.
         if len(scored) < 5:
             return top
         mean = sum(s for _, s in scored) / len(scored)

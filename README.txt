@@ -53,16 +53,16 @@ PHOTOGRAPH IT (the sian's reverse-image habit, pointed at our bank)
 ------------------------------------------------------------------
 ON THE LIVE SITE the recogniser runs in the reader's browser (transformers.js,
 CLIP ViT-B/32 quantized, ~22 MB downloaded once and cached; then offline).
-Photos never leave the phone. Many at once from the gallery, or the camera;
-drag-drop and paste on a desktop; Share-to-app on Android. A day's haul stays
-in the browser (IndexedDB) with corrections and a copyable summary.
+Many at once from the gallery, or the camera; drag-drop and paste on a desktop;
+Share-to-app on Android. A day's haul stays in the browser (IndexedDB) with
+corrections and a copyable summary.
   node tools/bank_browser.mjs      build/bank_browser.json — the bank for the
                                    browser, embedded with the SAME model the page
                                    runs (npm install once). site.py copies it to
                                    /identify/bank.json. Re-run after new pictures.
 Labels are calibrated on the browser path: a bank picture re-embedded in the
 page scores 0.87 against itself, the nearest other kind ~0.67; "strong" needs
-0.82 and a 0.04 margin over the runner-up. Never a verdict on authenticity.
+0.82 and a 0.04 margin over the runner-up.
 
 LOCALLY (CLI and tools/serve.py):
   .venv/bin/python tools/vision.py --build      CLIP image index over data/images
@@ -70,8 +70,7 @@ LOCALLY (CLI and tools/serve.py):
   .venv/bin/python tools/serve.py               adds POST /api/identify; the site's
                                                 /identify/ page and the phone Share
                                                 sheet (installed PWA, Android) use it
-It names the KIND by resemblance to free-licensed reference pictures. It never
-says a piece is genuine; every page that shows an answer says so. Scores:
+It names the KIND by resemblance to free-licensed reference pictures. Scores:
 an in-bank picture reads 1.0, random noise read 0.56, so "weak" begins there.
 
 Every picture also gets its own landing page (/kind/<id>/image/<n>/) with

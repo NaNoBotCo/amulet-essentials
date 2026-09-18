@@ -79,8 +79,6 @@ itself, the nearest other kind about 0.67. Strong needs ≥0.82 with a margin �
 likely needs ≥0.74 with ≥0.015. Score is `0.65·best + 0.35·mean(top3)` per kind —
 max alone let a 344-picture kind win by lottery, mean alone demoted true matches.
 
-It names the kind. It does not judge genuineness, and every surface says so.
-
 ## /value
 
 `tools/price_charts.py` draws the price analysis as inline SVG, from

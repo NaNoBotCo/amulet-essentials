@@ -4,7 +4,7 @@
 Generic searches — พระพิมพ์, เหรียญพระ, รูปหล่อ, วัตถุมงคล, "Thai votive tablet", the
 Tropenmuseum uploads — return files whose titles name a kind the per-kind hunt never
 queried for, or name it in a form the hunt did not try. This pass scores every pooled
-file against EVERY record with the hunt's relevance rule (a name or alias of the kind in
+file against every record with the hunt's relevance rule (a name or alias of the kind in
 the title or description) and hands it to the single best record when exactly one kind is
 named. A file that names two kinds is left alone: it is a group photograph, and a group
 photograph is evidence for nobody (the dedupe rule).

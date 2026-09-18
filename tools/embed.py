@@ -3,8 +3,8 @@
 
 Backends (pick with --backend, default auto):
   local  minishlab/potion-multilingual-128M via model2vec in .venv — distilled from bge-m3,
-         runs offline on this laptop, no account, no quota. The resilient default.
-  cf     @cf/baai/bge-m3 on Cloudflare Workers AI through the crawler's cfauth — the model
+         runs offline on this laptop. The resilient default.
+  cf     @cf/baai/bge-m3 on Cloudflare Workers AI, which needs the crawler's cfauth — the model
          wichaa.net/search already uses, so vectors made here can later join that index.
 
 The vectors file records the model name. search.py refuses to mix a query embedded with

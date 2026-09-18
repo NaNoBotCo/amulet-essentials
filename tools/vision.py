@@ -5,14 +5,11 @@ A sian's first move with an unknown piece is to photograph it and run the photo 
 reverse-image search. This is that, over OUR labelled image bank, answering with kinds and
 their records instead of shopping links.
 
-How: CLIP ViT-B/32 (ONNX via fastembed, runs offline in .venv, no account) embeds every
+How: CLIP ViT-B/32 (ONNX via fastembed, runs offline in .venv) embeds every
 harvested image; a query photo is embedded the same way and compared. Per kind we take the
 best-matching picture. Kinds with no picture yet fall back to a TEXT prototype ("a photo of
 a <kind>, <what it is>") embedded by the matching CLIP text tower, marked `via: text`, so a
-kind is never invisible just because nobody has photographed it under a free licence.
-
-It identifies the KIND. It never says a piece is genuine, and the page that shows the
-answer says so.
+kind stays findable even when nobody has photographed it under a free licence.
 
     .venv/bin/python tools/vision.py --build              # build/image_vectors.json (resumable)
     .venv/bin/python tools/vision.py photo.jpg [-n 5]     # identify
@@ -86,7 +83,7 @@ def build(vis: Vision | None = None) -> dict:
         vecs = vis.embed_images([p for _, p in todo])
         for (meta, _), v in zip(todo, vecs):
             items.append({**meta, "v": v})
-    # text prototypes for EVERY kind — the fallback when no picture exists, and a tie-breaker when one does
+    # text prototypes for every kind — the fallback when no picture exists, and a tie-breaker when one does
     prompts = {r["id"]: f"a photo of a {r['names']['en']}, a Thai amulet: {r['text']['what_en'][:160]}" for r in recs}
     protos = old.get("prototypes") or {}
     need = [k for k, pr in prompts.items() if protos.get(k, {}).get("prompt") != pr]
@@ -165,7 +162,7 @@ class Identifier:
         near = sorted(({"file": it["file"], "kind": it["kind"], "score": round(sum(a * b for a, b in zip(q, it["v"])), 4), "license": it.get("license", "")}
                        for it in self.idx["items"]), key=lambda r: -r["score"])[:8]
         return {"model": self.idx["model"], "by_image": top_img, "by_text": top_txt, "nearest_pictures": near,
-                "note": "Identifies the KIND by resemblance to free-licensed reference pictures. Never a statement that a piece is genuine."}
+                "note": "Identifies the KIND by resemblance to free-licensed reference pictures."}
 
 
 def main() -> int:

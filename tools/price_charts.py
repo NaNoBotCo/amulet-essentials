@@ -268,8 +268,8 @@ def keyword_ladder(keywords: list[dict], overall: dict, width=760) -> str:
 # --------------------------------------------------------------- factor scatter
 
 def factor_scatter(fw: list[dict], width=760) -> str:
-    """The trade's own factors: how much weight each carries against how far it can move a
-    price. Authenticity sits alone in the corner — it is a gate, not a slider."""
+    """The trade's own factors: how much weight each carries against how far it can move
+    a price. Genuineness is an outlier."""
     pts = [f for f in fw if f.get("weight") and f.get("multiplier_high")]
     if len(pts) < 4:
         return ""

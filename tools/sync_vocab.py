@@ -2,9 +2,9 @@
 """sync_vocab.py — snapshot the wichaa vault vocabularies into data/vocab/*.json.
 
 The vault (wichaa-vault/_meta/vocab/{classes,materials,functions}.md) is the
-asserted layer for class / material / function. This project never edits it;
-it reads it and keeps a JSON snapshot so validation and builds work when the
-vault is absent (another machine, a moved folder, a future split).
+asserted layer for class / material / function. This reads the vault and keeps
+a JSON snapshot beside it, so validation and builds work when the vault is
+absent (another machine, a moved folder, a future split).
 
 The vault's YAML lives in ```yaml fences as a list of flat mappings with
 scalars, [inline, lists] and `>` folded text. That is all the parser here

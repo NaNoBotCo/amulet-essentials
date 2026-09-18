@@ -91,7 +91,7 @@ def main() -> int:
     prices = [p for _, p in rows]
     t0 = time.time()
 
-    # log-decade histogram, the honest shape of a market whose max is 11,600× its median
+    # log-decade histogram — the shape of a market whose max is 11,600× its median
     hist = []
     for d in range(0, 7):
         lo, hi = 10 ** d, 10 ** (d + 1)
