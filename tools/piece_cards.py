@@ -8,6 +8,7 @@ which keeps stacked tone marks.
 
     .venv/bin/python tools/piece_cards.py          # every piece + data/own/_index-card.jpg
     .venv/bin/python tools/piece_cards.py <id> …
+    .venv/bin/python tools/piece_cards.py --site <out.png>   # the /amulets master card
 """
 from __future__ import annotations
 
@@ -154,7 +155,30 @@ def index_card(recs: list[dict]) -> Path:
     return out
 
 
+def site_card(recs: list[dict], out: Path) -> Path:
+    """The /amulets master card (publishing/cards/amulets.png): the pieces in a ring, the counts."""
+    base = ground(3)
+    pick = ["ngang-gold", "garuda-round-case", "hun-payont-first", "jade-qilin-pendant", "turtle-medallion",
+            "hongshan-sun-gods", "khun-phaen-red-enamel", "naga-eye-four-nagas", "brass-rooster", "somdet-enamel-frame"]
+    chosen = [OWN / p / f"{p}-cutout.png" for p in pick if (OWN / p / f"{p}-cutout.png").exists()]
+    cx, cy = 900, 315
+    for i, p in enumerate(chosen):
+        ang = -math.pi / 2 + i * 2 * math.pi / len(chosen)
+        bx, by = int(cx + 222 * math.cos(ang)), int(cy + 222 * math.sin(ang))
+        float_cutout(base, Image.open(p).convert("RGBA"), (bx - 64, by - 64, bx + 64, by + 64))
+    kinds = json.loads((DATA.parent / "build" / "api" / "kinds.json").read_text(encoding="utf-8"))["kinds"]
+    n_pic = sum(len(k.get("images", [])) for k in kinds) + sum(len([m for m in r.get("media", []) if m["role"] == "photo"]) for r in recs)
+    text_block(base, "สารบบเครื่องราง", f"Amulet Essentials — {len(kinds)} kinds, {len(recs)} pieces, {n_pic:,} pictures, Thai and English",
+               "wichaa · วิชา", "wichaa.net/amulets")
+    base.save(out, "PNG", optimize=True)
+    return out
+
+
 def main() -> int:
+    if sys.argv[1:2] == ["--site"]:
+        recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(PIECES.glob("*.json"))]
+        print(site_card(recs, Path(sys.argv[2])))
+        return 0
     ids = set(sys.argv[1:])
     recs = [json.loads(p.read_text(encoding="utf-8")) for p in sorted(PIECES.glob("*.json"))]
     n = 0
