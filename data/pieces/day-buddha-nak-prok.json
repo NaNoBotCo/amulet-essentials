@@ -3,7 +3,7 @@
  "id": "day-buddha-nak-prok",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางนาคปรก",
+  "th": "พระประจำวันเสาร์ ปางนาคปรก",
   "en": "Buddha of the day: Seated under the naga's hood — the Saturday posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 8
+ "order": 8,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Seated under the naga's hood — the Saturday posture.jpg"
+ ]
 }

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "id": "boat-figure-silver",
+ "id": "nang-kwak-boat",
  "set": "pieces",
  "names": {
-  "th": "รูปหล่อบนเรือ",
-  "en": "Cast figure riding a boat"
+  "th": "นางกวักนั่งเรือ",
+  "en": "Nang Kwak in a boat"
  },
- "kind": null,
- "kind_how": null,
+ "kind": "nang-kwak",
+ "kind_how": "named by Nan",
  "photos": [
   "AF1QipPTWmts86NAGr8bWT90ymxOw5v4URo9BYy0R7Nl",
   "AF1QipNZuJDhgQ-wVETuLQFjZ_El3hSwncXk6rBpEdXC"
@@ -24,32 +24,35 @@
  "tier": "field",
  "media": [
   {
-   "file": "boat-figure-silver/boat-figure-silver-cutout.png",
+   "file": "nang-kwak-boat/nang-kwak-boat-cutout.png",
    "role": "cutout",
    "sha256": "40d248a6c8ad282ad82accf2cd46f870b50e582c96621a9aa6a82f660b0a8768",
    "width": 716,
    "height": 1600
   },
   {
-   "file": "boat-figure-silver/boat-figure-silver-cutout.webp",
+   "file": "nang-kwak-boat/nang-kwak-boat-cutout.webp",
    "role": "cutout_web",
    "sha256": "6fc9c7413c0281a55796bb98e59cc5958c18a357c31e5c08d22a74972a1e0084",
    "width": 403,
    "height": 900
   },
   {
-   "file": "boat-figure-silver/boat-figure-silver-1.jpg",
+   "file": "nang-kwak-boat/nang-kwak-boat-1.jpg",
    "role": "photo",
    "sha256": "688d7c70663901e77b9f7e52caf0491da739180afb6fdb72e4dd26d00b75d1f5",
    "width": 1500,
    "height": 2000
   },
   {
-   "file": "boat-figure-silver/boat-figure-silver-2.jpg",
+   "file": "nang-kwak-boat/nang-kwak-boat-2.jpg",
    "role": "photo",
    "sha256": "da771012f377993213c0f4c191f613f5cfa75a8e5d13d5f5cd9444c560c3514d",
    "width": 1080,
    "height": 1440
   }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Cast figure riding a boat (cutout).png"
  ]
 }

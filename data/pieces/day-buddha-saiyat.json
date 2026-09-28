@@ -3,7 +3,7 @@
  "id": "day-buddha-saiyat",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางไสยาสน์",
+  "th": "พระประจำวันอังคาร ปางไสยาสน์",
   "en": "Buddha of the day: Reclining — the Tuesday posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 3
+ "order": 3,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Reclining — the Tuesday posture.jpg"
+ ]
 }

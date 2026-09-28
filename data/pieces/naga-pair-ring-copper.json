@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "id": "copper-frame-ring-180",
+ "id": "naga-pair-ring-copper",
  "set": "pieces",
  "names": {
-  "th": "กรอบทองแดง ลายกนก",
-  "en": "Copper frame with kanok scrolls"
+  "th": "พญานาคทองแดงสองตัว ขดเป็นวง",
+  "en": "Two copper nagas encircled"
  },
- "kind": null,
- "kind_how": null,
+ "kind": "phaya-nak",
+ "kind_how": "named by Nan",
  "photos": [
   "AF1QipNs6g0OJYPQChlDnbHmZ3sAUz0QzHx-1LkCS1x_"
  ],
@@ -23,25 +23,28 @@
  "tier": "field",
  "media": [
   {
-   "file": "copper-frame-ring-180/copper-frame-ring-180-cutout.png",
+   "file": "naga-pair-ring-copper/naga-pair-ring-copper-cutout.png",
    "role": "cutout",
    "sha256": "0d3c4bafe44a8c2be94377117b81f0a3b0132b78b2749de5dff465cce511cd53",
    "width": 731,
    "height": 489
   },
   {
-   "file": "copper-frame-ring-180/copper-frame-ring-180-cutout.webp",
+   "file": "naga-pair-ring-copper/naga-pair-ring-copper-cutout.webp",
    "role": "cutout_web",
    "sha256": "3daf2e72b0af39e1bd6d265b379a858597d63d9fbc50840142d845a2d3284d93",
    "width": 731,
    "height": 489
   },
   {
-   "file": "copper-frame-ring-180/copper-frame-ring-180-1.jpg",
+   "file": "naga-pair-ring-copper/naga-pair-ring-copper-1.jpg",
    "role": "photo",
    "sha256": "f3cdd427abe7c3b230f430a382b20e2216956ae0f3f90a5b8170e298b100b6b9",
    "width": 1080,
    "height": 1440
   }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Copper frame with kanok scrolls (cutout).png"
  ]
 }

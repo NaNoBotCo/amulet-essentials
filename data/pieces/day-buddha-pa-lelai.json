@@ -3,7 +3,7 @@
  "id": "day-buddha-pa-lelai",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางป่าเลไลยก์",
+  "th": "พระประจำวันพุธกลางคืน ปางป่าเลไลยก์",
   "en": "Buddha of the day: Seated on a rock — the Wednesday-night posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 5
+ "order": 5,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Seated on a rock — the Wednesday-night posture.jpg"
+ ]
 }

@@ -3,7 +3,7 @@
  "id": "day-buddha-ramphueng",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางรำพึง",
+  "th": "พระประจำวันศุกร์ ปางรำพึง",
   "en": "Buddha of the day: Standing, hands crossed on the chest — the Friday posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 7
+ "order": 7,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Standing, hands crossed on the chest — the Friday posture.jpg"
+ ]
 }

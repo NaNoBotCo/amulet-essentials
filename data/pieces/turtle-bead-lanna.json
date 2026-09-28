@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "id": "brass-bead-228",
+ "id": "turtle-bead-lanna",
  "set": "pieces",
  "names": {
-  "th": "ลูกกลมทองเหลือง",
-  "en": "Round brass bead"
+  "th": "ลูกปัดเต่า ทองเหลืองหล่อ ล้านนา",
+  "en": "Lanna cast-brass turtle bead"
  },
  "kind": null,
  "kind_how": null,
@@ -21,7 +21,7 @@
  "tier": "field",
  "media": [
   {
-   "file": "brass-bead-228/brass-bead-228-1.jpg",
+   "file": "turtle-bead-lanna/turtle-bead-lanna-1.jpg",
    "role": "photo",
    "sha256": "a8aea33b999573baa8a0a95407bf8353a47f3dabc50a31d6469898f9d251e1b2",
    "width": 2000,

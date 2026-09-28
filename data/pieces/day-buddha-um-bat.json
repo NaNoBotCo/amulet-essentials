@@ -3,7 +3,7 @@
  "id": "day-buddha-um-bat",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางอุ้มบาตร",
+  "th": "พระประจำวันพุธกลางวัน ปางอุ้มบาตร",
   "en": "Buddha of the day: Standing with the alms bowl — the Wednesday-day posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 4
+ "order": 4,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Standing with the alms bowl — the Wednesday-day posture.jpg"
+ ]
 }

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "id": "seated-buddha-arch-104",
+ "id": "khun-phaen-style-steel-case",
  "set": "pieces",
  "names": {
-  "th": "พระนั่ง เนื้อดิน เลี่ยมซุ้ม",
-  "en": "Seated Buddha in clay, arched case"
+  "th": "พระพิมพ์ทรงขุนแผน เลี่ยมกรอบสแตนเลส",
+  "en": "Khun Phaen-style Buddha tablet in a steel case"
  },
- "kind": null,
- "kind_how": null,
+ "kind": "khun-phaen",
+ "kind_how": "named by Nan",
  "photos": [
   "AF1QipOukUh81X0YWHSZMIZAelvz8hon3kUPBrTp7ECO"
  ],
@@ -23,25 +23,28 @@
  "tier": "field",
  "media": [
   {
-   "file": "seated-buddha-arch-104/seated-buddha-arch-104-cutout.png",
+   "file": "khun-phaen-style-steel-case/khun-phaen-style-steel-case-cutout.png",
    "role": "cutout",
    "sha256": "de92566ce3d5c28ac2840865f3509848afd001d0c60a6c9aaeab1bbced110ed5",
    "width": 971,
    "height": 1600
   },
   {
-   "file": "seated-buddha-arch-104/seated-buddha-arch-104-cutout.webp",
+   "file": "khun-phaen-style-steel-case/khun-phaen-style-steel-case-cutout.webp",
    "role": "cutout_web",
    "sha256": "ad230cbc54ab4bf847c08d75270ab9088d767177ac71e3ca3ad8a2712c726b93",
    "width": 546,
    "height": 900
   },
   {
-   "file": "seated-buddha-arch-104/seated-buddha-arch-104-1.jpg",
+   "file": "khun-phaen-style-steel-case/khun-phaen-style-steel-case-1.jpg",
    "role": "photo",
    "sha256": "a9b9893eaeb76c988eea711e245e0438389f65c7d09227dc0a76f3cbf2f4b748",
    "width": 1500,
    "height": 2000
   }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Khun Phaen-style Buddha tablet in a steel case (cutout).png"
  ]
 }

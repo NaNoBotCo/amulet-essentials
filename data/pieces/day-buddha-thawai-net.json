@@ -3,7 +3,7 @@
  "id": "day-buddha-thawai-net",
  "set": "days",
  "names": {
-  "th": "พระประจำวัน ปางถวายเนตร",
+  "th": "พระประจำวันอาทิตย์ ปางถวายเนตร",
   "en": "Buddha of the day: Standing, hands crossed before him — the Sunday posture"
  },
  "kind": null,
@@ -28,5 +28,8 @@
    "height": 2000
   }
  ],
- "order": 1
+ "order": 1,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Standing, hands crossed before him — the Sunday posture.jpg"
+ ]
 }
