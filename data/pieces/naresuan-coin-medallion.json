@@ -1,10 +1,10 @@
 {
  "schema": 1,
- "id": "monk-medallion-42",
+ "id": "naresuan-coin-medallion",
  "set": "pieces",
  "names": {
-  "th": "เหรียญรูปพระสงฆ์ ห้อยคอ",
-  "en": "Monk medallion worn at the neck"
+  "th": "เหรียญสมเด็จพระนเรศวร",
+  "en": "King Naresuan coin medallion"
  },
  "kind": null,
  "kind_how": null,
@@ -22,14 +22,14 @@
  "tier": "field",
  "media": [
   {
-   "file": "monk-medallion-42/monk-medallion-42-1.jpg",
+   "file": "naresuan-coin-medallion/naresuan-coin-medallion-1.jpg",
    "role": "photo",
    "sha256": "6dcbcd9dcaa314131f8b1b8cd44a6de6f1bdf02fb2e335f9c4f8a5e8a375c9f8",
    "width": 1500,
    "height": 2000
   },
   {
-   "file": "monk-medallion-42/monk-medallion-42-2.jpg",
+   "file": "naresuan-coin-medallion/naresuan-coin-medallion-2.jpg",
    "role": "photo",
    "sha256": "0b7e3cc44e76ad9d3f97e8b94ee9a09835e24ea749fd33a20eed3e82c2af6d49",
    "width": 1500,

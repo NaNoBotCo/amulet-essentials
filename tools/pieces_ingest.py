@@ -12,7 +12,7 @@ sit in data/own_raw/ (gitignored: originals, full EXIF). This writes, per piece:
 
 and records them under `media` in the piece record (sha256, size, role). `hero` in the
 record says which Vision instances make the cutout: [1], [2], "all", or null for no cutout
-(a hand, a shirt or a coin would come with it).
+(a hand, a shirt or a coin would come with it). `rotate`: degrees clockwise.
 
     .venv/bin/python tools/pieces_ingest.py            # every piece, skipping done files
     .venv/bin/python tools/pieces_ingest.py --force <id> …
@@ -50,13 +50,15 @@ def raw_for(photo_id: str) -> Path | None:
     return None
 
 
-def save_photo(src: Path, dst: Path, edge: int = 2000):
+def save_photo(src: Path, dst: Path, edge: int = 2000, rotate: int = 0):
     im = ImageOps.exif_transpose(Image.open(src)).convert("RGB")
+    if rotate:
+        im = im.rotate(-rotate, expand=True)
     im.thumbnail((edge, edge), Image.LANCZOS)
     im.save(dst, "JPEG", quality=86, optimize=True, progressive=True)   # no exif= → none written
 
 
-def cut(src: Path, hero, png: Path, webp: Path):
+def cut(src: Path, hero, png: Path, webp: Path, rotate: int = 0):
     inst = "all" if hero == "all" else ",".join(str(i) for i in hero)
     with tempfile.TemporaryDirectory() as t:
         tmp = Path(t) / "c.png"
@@ -64,6 +66,8 @@ def cut(src: Path, hero, png: Path, webp: Path):
         if r.returncode or not tmp.exists():
             raise RuntimeError(f"cutout failed: {r.stdout} {r.stderr}")
         im = Image.open(tmp).convert("RGBA")
+    if rotate:
+        im = im.rotate(-rotate, expand=True)
     big = im.copy()
     big.thumbnail((1600, 1600), Image.LANCZOS)
     big.save(png, "PNG", optimize=True)
@@ -90,14 +94,14 @@ def ingest(rec: dict, force: bool) -> dict:
             if not src:
                 print(f"  ! {pid}: raw photo {ph} not in data/own_raw — skipped")
                 continue
-            save_photo(src, dst)
+            save_photo(src, dst, rotate=rec.get("rotate", 0))
         media.append(media_entry(dst, "photo"))
     if rec.get("hero"):
         png, webp = d / f"{pid}-cutout.png", d / f"{pid}-cutout.webp"
         if force or not (png.exists() and webp.exists()):
             src = raw_for(rec["photos"][0])
             if src:
-                cut(src, rec["hero"], png, webp)
+                cut(src, rec["hero"], png, webp, rotate=rec.get("rotate", 0))
         if png.exists():
             media.insert(0, media_entry(png, "cutout"))
             media.insert(1, media_entry(webp, "cutout_web"))

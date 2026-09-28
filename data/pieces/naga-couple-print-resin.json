@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "id": "painted-deities-oval-32",
+ "id": "naga-couple-print-resin",
  "set": "pieces",
  "names": {
-  "th": "ภาพเทพคู่ กรอบทองรูปไข่",
-  "en": "Painted pair of deities in a gold oval"
+  "th": "พญานาคคู่ ภาพพิมพ์คอมพิวเตอร์ หล่อเรซิน",
+  "en": "Naga couple: a pixelated computer printout set in resin"
  },
- "kind": null,
- "kind_how": null,
+ "kind": "phaya-nak",
+ "kind_how": "named by Nan",
  "photos": [
   "AF1QipNkn9zmDjEJL6zwYeUBd8t0iaUvj2IB5pshhntP"
  ],
@@ -21,7 +21,7 @@
  "tier": "field",
  "media": [
   {
-   "file": "painted-deities-oval-32/painted-deities-oval-32-1.jpg",
+   "file": "naga-couple-print-resin/naga-couple-print-resin-1.jpg",
    "role": "photo",
    "sha256": "e64df88c25b23fea062266e96ad98683ae9b50d02dd9bc7a6a24d5cc52039492",
    "width": 1500,

@@ -1,13 +1,13 @@
 {
  "schema": 1,
- "id": "photo-locket-112",
+ "id": "rama-9-monk-locket",
  "set": "pieces",
  "names": {
-  "th": "ล็อกเก็ตรูปพระสงฆ์",
-  "en": "Locket with a monk's photograph"
+  "th": "ล็อกเก็ต ในหลวงรัชกาลที่ ๙ ทรงผนวช",
+  "en": "Locket: King Rama IX as a monk"
  },
- "kind": "locket",
- "kind_how": "resembles",
+ "kind": null,
+ "kind_how": null,
  "photos": [
   "AF1QipNDdwznylVsZd9Rc8EKnGdZU38i3F69mrKHsDhI"
  ],
@@ -23,21 +23,21 @@
  "tier": "field",
  "media": [
   {
-   "file": "photo-locket-112/photo-locket-112-cutout.png",
+   "file": "rama-9-monk-locket/rama-9-monk-locket-cutout.png",
    "role": "cutout",
    "sha256": "da840d49331ac1dd7e909db7ad5148cf7594aeb39fa21cd39b5be79397b527ee",
    "width": 789,
    "height": 982
   },
   {
-   "file": "photo-locket-112/photo-locket-112-cutout.webp",
+   "file": "rama-9-monk-locket/rama-9-monk-locket-cutout.webp",
    "role": "cutout_web",
    "sha256": "9af3fb887b23252e6437cdeebba83db98c9bafcd0ba91a3df7d08173834073e3",
    "width": 723,
    "height": 900
   },
   {
-   "file": "photo-locket-112/photo-locket-112-1.jpg",
+   "file": "rama-9-monk-locket/rama-9-monk-locket-1.jpg",
    "role": "photo",
    "sha256": "afd4df8ed5612299fa478900d23385a6dd0f51e5798dee40deee17441242380d",
    "width": 1500,
