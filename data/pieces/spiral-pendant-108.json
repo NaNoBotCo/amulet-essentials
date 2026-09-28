@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "spiral-pendant-108",
+ "set": "pieces",
+ "names": {
+  "th": "จี้ลายก้นหอย",
+  "en": "Spiral pendant"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPsBq_RfAmjo83KKGKrHKjkXdzR0TsuQpGZeJWY"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "spiral-pendant-108/spiral-pendant-108-cutout.png",
+   "role": "cutout",
+   "sha256": "d6e6e656892a0fba36473981ec4d487abdca662cf08fb0116819901c25cbf267",
+   "width": 520,
+   "height": 740
+  },
+  {
+   "file": "spiral-pendant-108/spiral-pendant-108-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "802881ef6d762b6fb0ea773dbd2b22a2edcb6f5ce25924ac982458a74ec7fe36",
+   "width": 520,
+   "height": 740
+  },
+  {
+   "file": "spiral-pendant-108/spiral-pendant-108-1.jpg",
+   "role": "photo",
+   "sha256": "0913f6ffc2ca073d3de30b5496bafdaf2ae28aeb45dc39ffc275a5754f0e8ede",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

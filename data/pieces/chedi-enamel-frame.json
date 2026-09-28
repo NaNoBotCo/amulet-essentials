@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "chedi-enamel-frame",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์รูปเจดีย์ กรอบลงยา",
+  "en": "Chedi tablet in an enamel frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMF1DsQ5RPbxw4cPoIuT1GGAUpxVX4a_SbUzIV1"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-01",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "chedi-enamel-frame/chedi-enamel-frame-cutout.png",
+   "role": "cutout",
+   "sha256": "242ba3c7aece9510a843475f047863c691b0874dee8b8bea09e4d9a2968dae38",
+   "width": 837,
+   "height": 1600
+  },
+  {
+   "file": "chedi-enamel-frame/chedi-enamel-frame-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "e2c56c945f67c79f4a60370bbd7ebacfd15a136e41acd269b8e9efefb92fee00",
+   "width": 471,
+   "height": 900
+  },
+  {
+   "file": "chedi-enamel-frame/chedi-enamel-frame-1.jpg",
+   "role": "photo",
+   "sha256": "b2f5bf9765c32a0b9a39da966701c421e5765a123e338e78fc2c01a1d94bb44e",
+   "width": 1323,
+   "height": 2000
+  }
+ ]
+}

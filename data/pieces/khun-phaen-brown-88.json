@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "khun-phaen-brown-88",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ห้าเหลี่ยม เนื้อสีน้ำตาล",
+  "en": "Pentagonal tablet, brown"
+ },
+ "kind": "khun-phaen",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNFY2cxSeYiCx8zuHPSki7oxTdc3A3sA3jUlh3Q",
+  "AF1QipMqKGX5u_6332oMSNmya_G6WNZ5E-KI56MChFUl",
+  "AF1QipMUlukVsAWDE9txyd1UtVW80BO5K4c6VpwkemdG"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "khun-phaen-brown-88/khun-phaen-brown-88-cutout.png",
+   "role": "cutout",
+   "sha256": "51b4e2f9453380b549ba1712c29e8a6f6ca3027781c9bcc4511c46cc26ab9ca2",
+   "width": 1057,
+   "height": 1600
+  },
+  {
+   "file": "khun-phaen-brown-88/khun-phaen-brown-88-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "cfa95966bc41a13869bac1ad92d6e3ab7adcd853c33e429b854564b3ea1ccb25",
+   "width": 595,
+   "height": 900
+  },
+  {
+   "file": "khun-phaen-brown-88/khun-phaen-brown-88-1.jpg",
+   "role": "photo",
+   "sha256": "73437daeb6ba0e590aa7528b0d36c4c16c5ac844efff573660f0e88d19c00b42",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "khun-phaen-brown-88/khun-phaen-brown-88-2.jpg",
+   "role": "photo",
+   "sha256": "3dc0736fd9f4ba4710d1516193f44e1440fa71df4481543919028501bc183b8a",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "khun-phaen-brown-88/khun-phaen-brown-88-3.jpg",
+   "role": "photo",
+   "sha256": "b988eb1e152681ee57e8fe93308763ce956a524ef909e36f4ee6938e34471082",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -36,7 +36,7 @@ import tempfile
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import BUILD, IMAGES, PROJECTS, jload  # noqa: E402
+from common import BUILD, DATA, IMAGES, PROJECTS, jload  # noqa: E402
 
 R2_PUT_TREE = PROJECTS / "cloudflare-mirror" / "r2_put_tree.py"
 CARDS = PROJECTS / "manuscript-wiki" / "publishing" / "cards"
@@ -64,6 +64,17 @@ def stage_pictures(tmp: Path) -> int:
                 continue
             dst = tmp / f"{im['sha256']}{src.suffix.lower()}"
             if not dst.exists():
+                os.link(src, dst) if src.stat().st_dev == tmp.stat().st_dev else shutil.copy2(src, dst)
+                n += 1
+    # /pieces/: photographs, cutouts and share cards from data/own, same content-addressed store
+    import pieces as pieces_mod
+    prs = pieces_mod.load(DATA)
+    if prs:
+        pc = pieces_mod.Pieces(prs, {}, "", "", lambda d: "", None, {}, "", DATA / "own")
+        for m in pc.all_media():
+            src = DATA / "own" / m["file"]
+            dst = tmp / f"{m['sha256']}{src.suffix.lower()}"
+            if src.exists() and not dst.exists():
                 os.link(src, dst) if src.stat().st_dev == tmp.stat().st_dev else shutil.copy2(src, dst)
                 n += 1
     return n

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "plain-tablet-171",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์สี่เหลี่ยม",
+  "en": "Rectangular tablet"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOLf9zDr0jdoQMuPLplTScT3GPgebr62fFy19Ud"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "plain-tablet-171/plain-tablet-171-cutout.png",
+   "role": "cutout",
+   "sha256": "18d7dd40d5b40f67bb837d1f18a19e4c50f2e4cefd21dbebca1f503050ca6f0e",
+   "width": 1018,
+   "height": 1600
+  },
+  {
+   "file": "plain-tablet-171/plain-tablet-171-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d572583a8616cb5674e53bc7649d85012ea6472ec0f1a3b16d7f7bac7f3d6622",
+   "width": 572,
+   "height": 900
+  },
+  {
+   "file": "plain-tablet-171/plain-tablet-171-1.jpg",
+   "role": "photo",
+   "sha256": "3963a249e74e001be7c7060dbe8857aec271c1dfc1246d177b424e1f09d5b25a",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "clay-seated-figure-185",
+ "set": "pieces",
+ "names": {
+  "th": "รูปนั่ง เนื้อดิน แต้มชาด",
+  "en": "Seated clay figure with a red mark"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipP-ZP6qvZ1SVXKM6RcxA0xDv9HaNFtZmNqlnyya",
+  "AF1QipM4Oo3Wa0A4IH-J5ShqpDZsN2GKOAJsK0PwPlEI"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "clay-seated-figure-185/clay-seated-figure-185-cutout.png",
+   "role": "cutout",
+   "sha256": "8d28018c112d9274871d681b0accfac118b25e3b5d8ca545ded2548cadc1271f",
+   "width": 897,
+   "height": 1600
+  },
+  {
+   "file": "clay-seated-figure-185/clay-seated-figure-185-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "3c624c40d172707f323a1b91886e190a81cfcfcdf1badd5905442db6cb07610f",
+   "width": 505,
+   "height": 900
+  },
+  {
+   "file": "clay-seated-figure-185/clay-seated-figure-185-1.jpg",
+   "role": "photo",
+   "sha256": "46d3b198aea623a5705d782f2de2446818791495bf990198c267f1a590164ffd",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "clay-seated-figure-185/clay-seated-figure-185-2.jpg",
+   "role": "photo",
+   "sha256": "48f49fb2ab9d6603f95528161ee892a3d34773989d3ae039a3c89bde927bba1f",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "dark-stone-gold-122",
+ "set": "pieces",
+ "names": {
+  "th": "หินดำ ปิดทอง",
+  "en": "Dark stone with gold leaf"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNkq6E2n2qHwy4F56nha3fhwLJF_wj3m8i2riu3"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "dark-stone-gold-122/dark-stone-gold-122-cutout.png",
+   "role": "cutout",
+   "sha256": "8c987e6c87f0a323c87c30969ab046788d9bc8a77a429d065f3bc01a47254050",
+   "width": 1268,
+   "height": 1448
+  },
+  {
+   "file": "dark-stone-gold-122/dark-stone-gold-122-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "ef3c9e1eead0b7ffab44555f08584b1464c2aed69f468bedab6465962efc4c76",
+   "width": 788,
+   "height": 900
+  },
+  {
+   "file": "dark-stone-gold-122/dark-stone-gold-122-1.jpg",
+   "role": "photo",
+   "sha256": "699f3b639731123daf795e28ee76d58564f9f6c11fbcb0a666fac865b48991fb",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "id": "spiral-pendant-229",
+ "set": "pieces",
+ "names": {
+  "th": "จี้ลายก้นหอย ทองเหลือง",
+  "en": "Brass spiral pendant"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPcZ4OJ-8f1N9e8aivFmXKEvhy6jp2JTthBn5An"
+ ],
+ "hero": null,
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "spiral-pendant-229/spiral-pendant-229-1.jpg",
+   "role": "photo",
+   "sha256": "e55d0a5cfc37101c2dd82e6b3d84239daf2c42adf87d30002138f115b4ec402f",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "stone-serpent-109",
+ "set": "pieces",
+ "names": {
+  "th": "นาคหินแกะ",
+  "en": "Carved stone serpent"
+ },
+ "kind": "phaya-nak",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNZufSmfols3r-IotoCoHWwzwK9-Pxewqz5Bonk"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "stone-serpent-109/stone-serpent-109-cutout.png",
+   "role": "cutout",
+   "sha256": "17d2c99d1d0aeaf946c455738ef24de19e9773e2ddb85c1381b0d2b6d435c718",
+   "width": 1253,
+   "height": 1600
+  },
+  {
+   "file": "stone-serpent-109/stone-serpent-109-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "404d16b7296e899c7b64a25fd4b155641eacc2752c0c70571e74b097fd3624cb",
+   "width": 705,
+   "height": 900
+  },
+  {
+   "file": "stone-serpent-109/stone-serpent-109-1.jpg",
+   "role": "photo",
+   "sha256": "f4d70b6a1cd2fc371dc868d0cb86ca6634292c0683ead4ff056db3893dd74eeb",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

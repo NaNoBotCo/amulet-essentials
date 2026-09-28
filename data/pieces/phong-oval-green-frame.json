@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "phong-oval-green-frame",
+ "set": "pieces",
+ "names": {
+  "th": "พระผงรูปไข่ กรอบเขียว",
+  "en": "Oval powder tablet, green frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNe7Mmbrz-H5e0Z19G8hXZKsrpQ09I3plDYoJZO"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "phong-oval-green-frame/phong-oval-green-frame-cutout.png",
+   "role": "cutout",
+   "sha256": "88d2b3f5c0cecc06f495053de790db1e80eb0ad3fe56fe7cd8f30d8d5d48aa6c",
+   "width": 1600,
+   "height": 923
+  },
+  {
+   "file": "phong-oval-green-frame/phong-oval-green-frame-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "433fa79cc8194ad6d554bf5dda2d6368439187a55227a05a9816f4e9779687c8",
+   "width": 900,
+   "height": 519
+  },
+  {
+   "file": "phong-oval-green-frame/phong-oval-green-frame-1.jpg",
+   "role": "photo",
+   "sha256": "23a347de556c1cef6ccf6ce5a209bfe4e98290252f0105752fc648e78917f3eb",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "jade-pedestal-213",
+ "set": "pieces",
+ "names": {
+  "th": "หยกแกะ ทรงคอดกลาง",
+  "en": "Carved jade, waisted"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipP5sLVSiZhrKuAmrI2h5117_YakqkFmm6hHcm3g",
+  "AF1QipNS6i-memxIhsiGCcYgQesSGwvyx7LaVCdXG_fD"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-pedestal-213/jade-pedestal-213-cutout.png",
+   "role": "cutout",
+   "sha256": "0a274e399e527b92a503be1926160cc5b1b75ed4cd08bd79c34da8235dcda651",
+   "width": 1058,
+   "height": 1600
+  },
+  {
+   "file": "jade-pedestal-213/jade-pedestal-213-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "6ad40cddae5ebb55478d860e70de18c596155f8793f20ad000ea7b96bb9bb0b9",
+   "width": 595,
+   "height": 900
+  },
+  {
+   "file": "jade-pedestal-213/jade-pedestal-213-1.jpg",
+   "role": "photo",
+   "sha256": "60e8a9863dbae8c5e96699e0305a962204340ddf40ac50460eea4caa212a3fb1",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-pedestal-213/jade-pedestal-213-2.jpg",
+   "role": "photo",
+   "sha256": "63b597460bfb28eacc39c8f5cc0838b4ccf778c9bc6b520512ce3656abf81b8e",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

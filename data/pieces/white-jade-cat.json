@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "white-jade-cat",
+ "set": "pieces",
+ "names": {
+  "th": "แมวหยกขาว",
+  "en": "White jade cat"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPZj_PHiN8h88CdYbsTYwhnzcNMjLtIim4qYIXq",
+  "AF1QipOKMQ19p3rns5aGXiKrecImkaFdqifzXbyRKIqz"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "white-jade-cat/white-jade-cat-cutout.png",
+   "role": "cutout",
+   "sha256": "f53865ceee2e302998e0f3ebf01d7a112dec216b9d13fea827b391982cb2e0bc",
+   "width": 1237,
+   "height": 1600
+  },
+  {
+   "file": "white-jade-cat/white-jade-cat-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "8320881c2d3d47503944d659ba1ea1dc91fd81f1a667f3cc04f626da40f527d1",
+   "width": 696,
+   "height": 900
+  },
+  {
+   "file": "white-jade-cat/white-jade-cat-1.jpg",
+   "role": "photo",
+   "sha256": "356a02773e6bd76b9a0efb46e47bbf350c0ba46740f2925166ecaf51b16047ad",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "white-jade-cat/white-jade-cat-2.jpg",
+   "role": "photo",
+   "sha256": "ef9ebec1245b8a1a96eb00794cd83d85da09696daa95869835489b2629fc988e",
+   "width": 1080,
+   "height": 1440
+  }
+ ]
+}

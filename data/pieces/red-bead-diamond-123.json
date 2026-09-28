@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "red-bead-diamond-123",
+ "set": "pieces",
+ "names": {
+  "th": "ลูกแก้วแดง กรอบข้าวหลามตัด",
+  "en": "Red bead in a diamond frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPoy9NRV6orR7OgRVcTFe8R0-EIFUgYvjo0CAuT"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "red-bead-diamond-123/red-bead-diamond-123-cutout.png",
+   "role": "cutout",
+   "sha256": "3dd4a2c29527b4a0804a1c61b2fea57d01011f525e0522062c28721221542613",
+   "width": 1253,
+   "height": 1368
+  },
+  {
+   "file": "red-bead-diamond-123/red-bead-diamond-123-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "32978c8d13007c6765869f6a0bc019a187c833eedff853f0452b12851f6cfdd2",
+   "width": 824,
+   "height": 900
+  },
+  {
+   "file": "red-bead-diamond-123/red-bead-diamond-123-1.jpg",
+   "role": "photo",
+   "sha256": "1b7751d710194eeb0970340c50b471bf413fb2c5ad30561f9c01ee5a5a35981e",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "id": "day-buddha-saiyat",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวัน ปางไสยาสน์",
+  "en": "Buddha of the day: Reclining — the Tuesday posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOj0CkvnWh7hf0DFFILh1N1rbkvkehEoVmx4wN5"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-saiyat/day-buddha-saiyat-1.jpg",
+   "role": "photo",
+   "sha256": "f353dd908608539c37b106773f654aada52d83b1fb47969e6ec4aca7ed61cda1",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 3
+}

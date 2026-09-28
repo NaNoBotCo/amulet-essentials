@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "resin-charm-box-202",
+ "set": "pieces",
+ "names": {
+  "th": "เครื่องรางรวม หล่อเรซิน",
+  "en": "Small charms set in resin"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNhN4ErcnjyFVk01gwMBbZWJ9yJ1O4EZj_Sv7AB"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "resin-charm-box-202/resin-charm-box-202-cutout.png",
+   "role": "cutout",
+   "sha256": "1fb0f281b4935cd9b96426da263f2152411215537df1b5151de1d14f61181395",
+   "width": 1172,
+   "height": 1600
+  },
+  {
+   "file": "resin-charm-box-202/resin-charm-box-202-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "793de5bcbdacca6f623bb919e6aeedc7bb3512f8c23c1c3f0e1722cd66f7ed14",
+   "width": 659,
+   "height": 900
+  },
+  {
+   "file": "resin-charm-box-202/resin-charm-box-202-1.jpg",
+   "role": "photo",
+   "sha256": "d2f08a4e1d04d68e4e2b6a2d22919ad16eadedbcd690ce7a4baea31ffc0ae6e9",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

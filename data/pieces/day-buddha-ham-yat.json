@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "id": "day-buddha-ham-yat",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวัน ปางห้ามญาติ",
+  "en": "Buddha of the day: Standing, right palm raised — the Monday posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPacP4rPNSJA1SMGi_hUd_9X2Ccs_KSq6leKzLa"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-ham-yat/day-buddha-ham-yat-1.jpg",
+   "role": "photo",
+   "sha256": "1290b84e5e0f209300a0513108b12594834817e0446f647f11b8a19f5b1e2a78",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 2
+}

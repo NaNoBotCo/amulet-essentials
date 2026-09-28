@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "id": "day-buddha-um-bat",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวัน ปางอุ้มบาตร",
+  "en": "Buddha of the day: Standing with the alms bowl — the Wednesday-day posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNhXZVgsiSqC1SDldEiDOOvLdv9mSyAvZ3o3LGb"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-um-bat/day-buddha-um-bat-1.jpg",
+   "role": "photo",
+   "sha256": "cbf60fca93b7149652ec7e831bd9514c4253e1487e6d7f36bb67193468168284",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 4
+}

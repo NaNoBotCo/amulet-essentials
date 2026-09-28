@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "standing-figure-copper-medal",
+ "set": "pieces",
+ "names": {
+  "th": "เหรียญทองแดง รูปยืน",
+  "en": "Copper medal with a standing figure"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOY2tR-Mzu_gZOyMvr-1iKndIeabh8-3MQhqVAB"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "standing-figure-copper-medal/standing-figure-copper-medal-cutout.png",
+   "role": "cutout",
+   "sha256": "db688d6de520be7baf2725371137b7c8666f95d90593501ceb084c4de8524ac5",
+   "width": 1262,
+   "height": 1600
+  },
+  {
+   "file": "standing-figure-copper-medal/standing-figure-copper-medal-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "0e00e27f6ab2375f64a92ab819e75588b8a855b86a40179cd4b290c1f4a0070c",
+   "width": 710,
+   "height": 900
+  },
+  {
+   "file": "standing-figure-copper-medal/standing-figure-copper-medal-1.jpg",
+   "role": "photo",
+   "sha256": "d87ae6c12449346a573469c3d29a9e5278584d8e664d03b2b262ae7b7cdbc189",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

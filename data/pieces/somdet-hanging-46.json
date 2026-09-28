@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "somdet-hanging-46",
+ "set": "pieces",
+ "names": {
+  "th": "พระสมเด็จ เลี่ยมกรอบ",
+  "en": "Somdet tablet, framed"
+ },
+ "kind": "phra-somdet",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNbMO1vWTVMprcpS5N5iePthQUtYFA3DcE_Yb0D"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-08-26",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "somdet-hanging-46/somdet-hanging-46-cutout.png",
+   "role": "cutout",
+   "sha256": "0773dade8241b44ae2d4a6636d3df3aa36760b086d44a867082e47f41b862ab0",
+   "width": 1191,
+   "height": 1600
+  },
+  {
+   "file": "somdet-hanging-46/somdet-hanging-46-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "6a7799d16248d80a3e26b09b9e8a228a167ac92a6590be9d099e551f07d2e378",
+   "width": 670,
+   "height": 900
+  },
+  {
+   "file": "somdet-hanging-46/somdet-hanging-46-1.jpg",
+   "role": "photo",
+   "sha256": "fd8eee098b2bd83f0c3bd95ba72ccf9853c9bd54a36d642d444deb91bebe73d8",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

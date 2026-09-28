@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "ai-khai-gold-standing",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อยืน เท้าสะเอว",
+  "en": "Standing gilt figure, fists on hips"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMGeOHdoeCnWox68xycbMF_8MFq1z-pggLSjtwP",
+  "AF1QipOktl5mM8ZNZRr68q1ZqseK5qq4L4bZXQqiF9ZM",
+  "AF1QipMlyN2jm0wtuDulDY1OnOhYK1rwsAo6rsy7DvWX"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "ai-khai-gold-standing/ai-khai-gold-standing-cutout.png",
+   "role": "cutout",
+   "sha256": "ac0a5f8ef26869bbfe1640f84ff442872897f85c84eea972f91769d0b2ffca80",
+   "width": 706,
+   "height": 1600
+  },
+  {
+   "file": "ai-khai-gold-standing/ai-khai-gold-standing-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "f6be9998b91a3832cb722ff2c27bf1e2f1ff8d98a61b9ac487c6003e585efd38",
+   "width": 397,
+   "height": 900
+  },
+  {
+   "file": "ai-khai-gold-standing/ai-khai-gold-standing-1.jpg",
+   "role": "photo",
+   "sha256": "c7bbd9dbd2eac8fefb8258cf1e56ec399d5e93e2d9ecf105c359b44402a0c2ea",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "ai-khai-gold-standing/ai-khai-gold-standing-2.jpg",
+   "role": "photo",
+   "sha256": "8acb9dde61058bf2fff3ab6ae222f7efedf64e4894c3d8b305f9c516aa79e3ee",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "ai-khai-gold-standing/ai-khai-gold-standing-3.jpg",
+   "role": "photo",
+   "sha256": "0a2713a7d2f95a4463cab089347df1a6ec429a735b94149e94de6603b86017d9",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

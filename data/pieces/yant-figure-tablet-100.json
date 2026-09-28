@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "yant-figure-tablet-100",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ลายยันต์",
+  "en": "Tablet with a yantra figure"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPTjC14bmfyKIlEtJZW9MT7-ge-iwKEULCdjlXF"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "yant-figure-tablet-100/yant-figure-tablet-100-cutout.png",
+   "role": "cutout",
+   "sha256": "c4baac1323ae82d977027ca06a727ce4c0d019d0f91580525608beca58352458",
+   "width": 1216,
+   "height": 1600
+  },
+  {
+   "file": "yant-figure-tablet-100/yant-figure-tablet-100-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "44f3e87a6a4e345229555d9ab523d2cf96c76dc4800020fd3d775838a086e6ca",
+   "width": 684,
+   "height": 900
+  },
+  {
+   "file": "yant-figure-tablet-100/yant-figure-tablet-100-1.jpg",
+   "role": "photo",
+   "sha256": "27266a1ae86db9822824242e40a71ca848af9f6d7c1a2f56e06cb3a51c0ab4bb",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

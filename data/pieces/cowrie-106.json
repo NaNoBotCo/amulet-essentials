@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "cowrie-106",
+ "set": "pieces",
+ "names": {
+  "th": "เบี้ย",
+  "en": "Cowrie charm"
+ },
+ "kind": "bia-kae",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipO7xpkeGwCarnjVbRotkP_WO4DRcdTsbytkzC1D"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "cowrie-106/cowrie-106-cutout.png",
+   "role": "cutout",
+   "sha256": "feeb24bff032777b3ca277921bd44fff4def2388da9c72af646736d53181620e",
+   "width": 1029,
+   "height": 962
+  },
+  {
+   "file": "cowrie-106/cowrie-106-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "470229738b17fe0953c3080570f2dd8f841b6bffa8dd7149384ffe5e6b2b36aa",
+   "width": 900,
+   "height": 841
+  },
+  {
+   "file": "cowrie-106/cowrie-106-1.jpg",
+   "role": "photo",
+   "sha256": "e87ea57e4ae5b3550b15049c152c02609d33013e3495750303d628ca07fd5038",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

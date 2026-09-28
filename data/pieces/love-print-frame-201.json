@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "love-print-frame-201",
+ "set": "pieces",
+ "names": {
+  "th": "ภาพพิมพ์หญิงงาม กรอบม่วง",
+  "en": "Printed portrait of a woman, purple frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipN4ekHQrF7T71RVRFVBk4bvMDxgdSs-FnM4nE7g"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "love-print-frame-201/love-print-frame-201-cutout.png",
+   "role": "cutout",
+   "sha256": "734ad0e8f0bd73f2ee2b088ea651beb62e988caceca9301590b3347b7469c8ee",
+   "width": 1134,
+   "height": 1600
+  },
+  {
+   "file": "love-print-frame-201/love-print-frame-201-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "cae1b0e53051228898b186f893fa18e53f72894bb1ec0c65bef5ddaf3b5925a8",
+   "width": 638,
+   "height": 900
+  },
+  {
+   "file": "love-print-frame-201/love-print-frame-201-1.jpg",
+   "role": "photo",
+   "sha256": "b5a4d46a53726c9dbaae9af1808a858243021a736e4b9d799d95918432b7aa80",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

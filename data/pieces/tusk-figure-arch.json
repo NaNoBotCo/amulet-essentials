@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "tusk-figure-arch",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อกับเขี้ยวขาว เลี่ยมซุ้ม",
+  "en": "Cast figure with a white tusk, arched case"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNSDLiqq-B2akyzVBcGp2x89ObO4NzVb-ZrVzNk",
+  "AF1QipPEBTAnGERyeZUQZtrgFmGqf64TasA7uhFX1sSn"
+ ],
+ "hero": "all",
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "tusk-figure-arch/tusk-figure-arch-cutout.png",
+   "role": "cutout",
+   "sha256": "993a4bbb4b77740aebd266844e62f3dab111d46a23a4b26a624371a13f904397",
+   "width": 1570,
+   "height": 1600
+  },
+  {
+   "file": "tusk-figure-arch/tusk-figure-arch-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "ae9456cd54627e16e5235399c480345ae0836b547e66379e4927c67b34e3527f",
+   "width": 883,
+   "height": 900
+  },
+  {
+   "file": "tusk-figure-arch/tusk-figure-arch-1.jpg",
+   "role": "photo",
+   "sha256": "7ebe194102276cddd11c15410f51ab4840f06b7fc990658d1767e53d772ebd3c",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "tusk-figure-arch/tusk-figure-arch-2.jpg",
+   "role": "photo",
+   "sha256": "b51a059feba91b5ac1bd3a535d9db5b047c1974b0af7d5a4f089cf5c8dba7dea",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

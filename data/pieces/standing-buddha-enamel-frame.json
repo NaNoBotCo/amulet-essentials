@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "standing-buddha-enamel-frame",
+ "set": "pieces",
+ "names": {
+  "th": "พระยืน กรอบลงยา",
+  "en": "Standing Buddha in an enamel frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNsr_5zUnA-eRYTvywFp3BgtK4vYpaqvRHFZeco",
+  "AF1QipNP3jRZQuQix67-L8I99p88COgw45-FITia_Loc",
+  "AF1QipORb2iYhsjzguveE5X7QdEN_BeqEUJiHWGCsS3X"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-01",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "standing-buddha-enamel-frame/standing-buddha-enamel-frame-cutout.png",
+   "role": "cutout",
+   "sha256": "2a4eeaa9863f834305c25e40e0dbf7cca6e445ec0cc0b3e53446cebd2220f193",
+   "width": 836,
+   "height": 1600
+  },
+  {
+   "file": "standing-buddha-enamel-frame/standing-buddha-enamel-frame-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "3f939a02c9d6f2334a09f1d1a8d319cdf37184c0585821c8e9b2d2740d2e507b",
+   "width": 470,
+   "height": 900
+  },
+  {
+   "file": "standing-buddha-enamel-frame/standing-buddha-enamel-frame-1.jpg",
+   "role": "photo",
+   "sha256": "a70ef58304722342d771eed0bfd421ef6b98ec0345e15f3c19f2f2b09ab712ba",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "standing-buddha-enamel-frame/standing-buddha-enamel-frame-2.jpg",
+   "role": "photo",
+   "sha256": "2f008b3293982d2b40b0fd12e2152a72b52138afa0fb83075e37157eb2752d22",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "standing-buddha-enamel-frame/standing-buddha-enamel-frame-3.jpg",
+   "role": "photo",
+   "sha256": "9dd5e1834eac968def2fdf1f74c5aee10c7c4abf8c21955d60dbae7cc751be2f",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

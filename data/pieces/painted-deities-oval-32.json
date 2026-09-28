@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "id": "painted-deities-oval-32",
+ "set": "pieces",
+ "names": {
+  "th": "ภาพเทพคู่ กรอบทองรูปไข่",
+  "en": "Painted pair of deities in a gold oval"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNkn9zmDjEJL6zwYeUBd8t0iaUvj2IB5pshhntP"
+ ],
+ "hero": null,
+ "taken": "2026-08-11",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "painted-deities-oval-32/painted-deities-oval-32-1.jpg",
+   "role": "photo",
+   "sha256": "e64df88c25b23fea062266e96ad98683ae9b50d02dd9bc7a6a24d5cc52039492",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

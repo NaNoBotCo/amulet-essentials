@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "jade-elephant",
+ "set": "pieces",
+ "names": {
+  "th": "ช้างหยก",
+  "en": "Jade elephant"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPu1Kj_74-YG1BeOmVORcaX6VvFMYQ0QzP0eFRp",
+  "AF1QipP4hTWVEduzfgvQF2cX9WvKLZcWvBAyTiZYq0_-"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-elephant/jade-elephant-cutout.png",
+   "role": "cutout",
+   "sha256": "23bb02e7417af7fc586c8c7a831591e8d6621177ebaade83bfc75c99b4f51782",
+   "width": 1600,
+   "height": 1259
+  },
+  {
+   "file": "jade-elephant/jade-elephant-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "c82be01093b145ff7b4c4268bf96cb2c29759e6f4d692d0fa0663fffc9d14c8e",
+   "width": 900,
+   "height": 708
+  },
+  {
+   "file": "jade-elephant/jade-elephant-1.jpg",
+   "role": "photo",
+   "sha256": "128484db38c39e214bb173fac5da10188c970333f07688dee60f8aebdad4812b",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-elephant/jade-elephant-2.jpg",
+   "role": "photo",
+   "sha256": "858f738c2057f4db33ff6a871ba94871f1ee7826ec099d5ffa185178a026cbe5",
+   "width": 1440,
+   "height": 1080
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "tall-standing-buddha-118",
+ "set": "pieces",
+ "names": {
+  "th": "พระยืน กรอบทรงสูง",
+  "en": "Standing Buddha in a tall case"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNUFHBuzMtkc2U6qcIi5W-ptd8h7WZ6dN8prAgx"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "tall-standing-buddha-118/tall-standing-buddha-118-cutout.png",
+   "role": "cutout",
+   "sha256": "46f8bd601f1049166a5bec47de468f073e1f1f64162b52782f576f8737bd5de4",
+   "width": 682,
+   "height": 1600
+  },
+  {
+   "file": "tall-standing-buddha-118/tall-standing-buddha-118-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "3e17994e2d4cee6794f1212c1a3e26c55a35b8cca6ab2dd41d6711ffa5d3c7dd",
+   "width": 384,
+   "height": 900
+  },
+  {
+   "file": "tall-standing-buddha-118/tall-standing-buddha-118-1.jpg",
+   "role": "photo",
+   "sha256": "a81bf2673a2fc024ebc6815beec797b31ff52137bb6e7c9965bbad2b0c05978c",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

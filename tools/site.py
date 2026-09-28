@@ -26,6 +26,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import BUILD, DATA, IMAGES, VENDOR, jload  # noqa: E402
+import pieces as pieces_mod  # noqa: E402
 
 SITE = BUILD / "site"
 API = BUILD / "api"
@@ -46,6 +47,7 @@ FORM_TH = {"tablet": "พระพิมพ์/แผ่น", "figure": "รู�
            "natural": "ของธรรมชาติ", "locket": "ล็อกเก็ต", "bead": "ลูกประคำ", "ring": "แหวน", "vessel": "ภาชนะ", "other": "อื่น ๆ"}
 
 E = html.escape
+PIECES = None   # pieces_mod.Pieces, set in main() when data/pieces holds records
 
 
 def rel(depth: int) -> str:
@@ -119,7 +121,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 </head>
 <body>
 <header class="top"><a class="brand" href="{r}index.html"><span class="th">{SITE_NAME_TH}</span> · {SITE_NAME_EN}</a>
-<nav class="crumbs"><a href="{r}index.html">Directory</a> · <a href="{r}search/index.html">Search · ค้นหา</a> · <a href="{r}identify/index.html">Photograph it · ส่องภาพ</a> · <a href="{r}value/index.html">Price · ราคา</a> · <a href="{r}vocab/index.html">Vocabulary</a> · <a href="{r}sources/index.html">Sources</a> · <a href="{r}api/index.json">API</a> · <a href="{r}llms.txt">llms.txt</a></nav></header>
+<nav class="crumbs"><a href="{r}index.html">Directory</a> · <a href="{r}pieces/index.html"><span class="th">ชิ้นต่อชิ้น</span> · Pieces</a> · <a href="{r}search/index.html">Search · ค้นหา</a> · <a href="{r}identify/index.html">Photograph it · ส่องภาพ</a> · <a href="{r}value/index.html">Price · ราคา</a> · <a href="{r}vocab/index.html">Vocabulary</a> · <a href="{r}sources/index.html">Sources</a> · <a href="{r}api/index.json">API</a> · <a href="{r}llms.txt">llms.txt</a></nav></header>
 <main>
 {body}
 </main>
@@ -382,6 +384,8 @@ def kind_page(rec: dict, by_id: dict, sources: dict) -> str:
         parts.append(f'<h2>Pictures · ภาพ</h2><p class="mute">No free-to-use photograph yet. {E(want)}</p>')
 
     # sources + provenance
+    if PIECES:
+        parts.append(PIECES.kind_strip(rec["id"], d))
     parts.append("<h2>Sources · แหล่งที่มา</h2><ul>")
     for s in rec.get("sources", []):
         src = sources.get(s)
@@ -416,6 +420,7 @@ def directory_page(recs: list[dict], vocab: dict) -> str:
              f'<p class="lede">{len(recs)} kinds · {total_img} free-to-use pictures · Thai and English · every field says where it came from. '
              f'Start from the class — <em>is anyone home?</em> — because that is the one fact a sale listing never states.</p>',
              '<form class="search" action="search/index.html" method="get" role="search"><input type="search" name="q" placeholder="ค้นหา · search: ตะกรุด, takrut, something that guards a house…" aria-label="Search"><button type="submit">Search</button></form>',
+             PIECES.front_band() if PIECES else "",
              '<div class="dir">']
     for key in order:
         rs = sorted(groups.get(key, []), key=lambda r: r["names"]["roman"])
@@ -676,6 +681,8 @@ def llms_txt(recs: list[dict]) -> str:
              f"- [Sources registry]({SITE_URL}/api/sources.json)", f"- [Full text of every record]({SITE_URL}/llms-full.txt)", "", "## Kinds"]
     for r in sorted(recs, key=lambda r: r["names"]["roman"]):
         lines.append(f"- [{r['names']['th']} · {r['names']['en']}]({SITE_URL}/kind/{r['id']}/): {r['text']['what_en']}")
+    if PIECES:
+        lines += PIECES.llms_lines()
     lines += ["", "## Optional", f"- [Search page]({SITE_URL}/search/) — Thai/English, fuzzy, compound-aware", f"- [Photograph it]({SITE_URL}/identify/) — reverse-image identification of the kind", f"- [What sets the price]({SITE_URL}/value/) — the factors that assign cash value, ranked, with the market tiers; data at {SITE_URL}/api/value_factors.json", f"- [Atom feed]({SITE_URL}/feed.xml)", f"- [Sitemap]({SITE_URL}/sitemap.xml)"]
     return "\n".join(lines) + "\n"
 
@@ -733,7 +740,7 @@ def sitemap(recs: list[dict]) -> str:
         rec = by_url.get(u) or next((r for r in recs if u.startswith(f"{SITE_URL}/kind/{r['id']}/")), None)
         body.append(f"<url><loc>{E(u)}</loc><lastmod>{E(d)}</lastmod>" + "".join(img_xml(im, rec) for im in imgs if rec) + "</url>")
     return ('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
-            'xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' + "".join(body) + "</urlset>\n")
+            'xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">' + "".join(body) + (PIECES.sitemap_xml() if PIECES else "") + "</urlset>\n")
 
 
 def robots() -> str:
@@ -793,6 +800,10 @@ def main() -> int:
     t0 = time.time()
     recs = jload(API / "kinds.json")["kinds"]
     by_id = {r["id"]: r for r in recs}
+    global PIECES
+    prs = pieces_mod.load(DATA)
+    if prs:
+        PIECES = pieces_mod.Pieces(prs, by_id, SITE_URL, IMAGE_BASE, rel, page, AUTHOR, DATA_LICENSE, DATA / "own")
     sources = {s["id"]: s for s in jload(API / "sources.json")["sources"]}
     vocab = {a: {e["key"]: e for e in jload(API / "vocab" / f"{a}.json")["entries"]} for a in ("classes", "materials", "functions", "regions")}
     if SITE.exists():
@@ -825,6 +836,7 @@ def main() -> int:
             pd.mkdir(parents=True)
             (pd / "index.html").write_text(image_page(r, im, i, sources, by_id), encoding="utf-8")
             n_pages += 1
+    n_pieces = PIECES.render(SITE) if PIECES else 0
     # /value — the price analysis, drawn from data/analysis/value_factors.json when it exists
     vf_path = DATA / "analysis" / "value_factors.json"
     if vf_path.exists():
@@ -880,7 +892,7 @@ def main() -> int:
     (SITE / "feed.xml").write_text(feed(recs), encoding="utf-8")
     dumps(recs)
     size = sum(p.stat().st_size for p in SITE.rglob("*") if p.is_file()) / 1e6
-    print(f"site: {len(recs)} kind pages · {n_pages} picture pages · {n_img} images · {size:.1f} MB → {SITE}  ({time.time()-t0:.1f}s)  SITE_URL={SITE_URL}")
+    print(f"site: {len(recs)} kind pages · {n_pages} picture pages · {n_pieces} piece pages · {n_img} images · {size:.1f} MB → {SITE}  ({time.time()-t0:.1f}s)  SITE_URL={SITE_URL}")
     return 0
 
 

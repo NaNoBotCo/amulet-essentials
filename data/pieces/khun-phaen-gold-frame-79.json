@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "khun-phaen-gold-frame-79",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ห้าเหลี่ยม เลี่ยมกรอบใส",
+  "en": "Pentagonal tablet in a clear case"
+ },
+ "kind": "khun-phaen",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipOgydqhwcHwy5oEjrhi6KXZQLV9xr3mwPMgkBNY"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-01",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-cutout.png",
+   "role": "cutout",
+   "sha256": "75f01383005822d954ea321b3722ced95c7696d28b7c6a3d47454274ea4ae6ea",
+   "width": 1600,
+   "height": 1032
+  },
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "c0b60aee0d03589556421c11a6f5706975d882199bc3dba9a1c29d5b2204383e",
+   "width": 900,
+   "height": 581
+  },
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-1.jpg",
+   "role": "photo",
+   "sha256": "dff6bce8e9daacb9082baec29673afe30f393a80319effd208dc5f6cd388acfe",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

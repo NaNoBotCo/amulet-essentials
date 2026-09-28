@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "yant-tablet-red-frame",
+ "set": "pieces",
+ "names": {
+  "th": "แผ่นยันต์ กรอบแดง",
+  "en": "Yantra tablet, red frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipM-zzwCVy8m44H3tk53iCtPVOmOykgGnnbz-3i6"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "yant-tablet-red-frame/yant-tablet-red-frame-cutout.png",
+   "role": "cutout",
+   "sha256": "88f1f6f44fbfa63e176d0efa5e6175fa4f63e7e6416c630e63d39b478f014992",
+   "width": 1600,
+   "height": 1035
+  },
+  {
+   "file": "yant-tablet-red-frame/yant-tablet-red-frame-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "1d785855e68d5ab1f30110936f5022365d80c75f45e78c6cd3bd62cf6322d099",
+   "width": 900,
+   "height": 582
+  },
+  {
+   "file": "yant-tablet-red-frame/yant-tablet-red-frame-1.jpg",
+   "role": "photo",
+   "sha256": "1aa3a4d0860a4ca6c0ec496868a558a5cb13c2fd7ab344868bf08714c992a2ce",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

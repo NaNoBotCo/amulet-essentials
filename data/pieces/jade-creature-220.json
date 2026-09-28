@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "jade-creature-220",
+ "set": "pieces",
+ "names": {
+  "th": "สัตว์หยกแกะ",
+  "en": "Carved jade creature"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPQuZzUtviSIb-iaCrU1dsrVprphDHg_O-8-wQP",
+  "AF1QipMx80KNSU2HuHGmsF-VBg8N3x9lPPwyrwJRr07e"
+ ],
+ "hero": "all",
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-creature-220/jade-creature-220-cutout.png",
+   "role": "cutout",
+   "sha256": "a8d84a045b2fa3952320ca9c480eaf786d7929dd0efb1ef7abc9aebc975e1a92",
+   "width": 1600,
+   "height": 1326
+  },
+  {
+   "file": "jade-creature-220/jade-creature-220-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "30dd06cd69a34b60634ee70eee5bb3092f62585a5281bf4540a28f8e4b6a299a",
+   "width": 900,
+   "height": 746
+  },
+  {
+   "file": "jade-creature-220/jade-creature-220-1.jpg",
+   "role": "photo",
+   "sha256": "9048a20eedc60f88d2f1e9bc3815b6af6fca0d31a6a85864da2785fc8233145b",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-creature-220/jade-creature-220-2.jpg",
+   "role": "photo",
+   "sha256": "e7de9777c1933b75467c015a2e02e08aa317b41a28f1ec30cbcf3c06c4b31fef",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

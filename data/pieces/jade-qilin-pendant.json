@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "jade-qilin-pendant",
+ "set": "pieces",
+ "names": {
+  "th": "จี้หยก กิเลนทอง",
+  "en": "Jade pendant with a gold qilin"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMAQ8pMaYINoTBQJs6g0VnqoZzYlU4Mwwt_pcp1",
+  "AF1QipNwkM2Bxl27EKQspokn9WDmU-tCDl8H6ulDPKXZ",
+  "AF1QipONuxRanHz8mvS-qmF4A3u7ddE9aK1p2ESI-Rfq",
+  "AF1QipMzyQpGSiZ3e23Nm1k2hd-soT7yW0kZOuO0uwDS",
+  "AF1QipO2hjwBIBXO4_EtKzUYQYEFSs6i_qVvZrD1bIuZ",
+  "AF1QipPhdwywrEE6wqr2Q0gozlKVWnYZn_sC5Gi4-ivx",
+  "AF1QipOxb10bfdl1JNLgchxxNVa_pSaVAxtY-5pLzFi-",
+  "AF1QipNfWTmMjAJUvDDbAvn5F6HvFKDyInXmKIMfvPjP"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-cutout.png",
+   "role": "cutout",
+   "sha256": "06a06350535743c2b75ea9d4ae842d534d45adac09384768a4dc326acef990e4",
+   "width": 1233,
+   "height": 1600
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "f4842bceb39a03b5bcfef26a42568a58d51c7284b0fa5c974f6938934f370a27",
+   "width": 693,
+   "height": 900
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-1.jpg",
+   "role": "photo",
+   "sha256": "be9015e7266d2b37db9d221b2abb0a33a3c89e79fec1f531144e5fe3a6139fc9",
+   "width": 2000,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-2.jpg",
+   "role": "photo",
+   "sha256": "715a90c796d64012aa565997f786c1bb524c41904203dfb87b04f8b99f498fbd",
+   "width": 2000,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-3.jpg",
+   "role": "photo",
+   "sha256": "a212e40b695b88e9f337dfc9f855213046a34ec13a9dfed2e81822a79b0098e4",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-4.jpg",
+   "role": "photo",
+   "sha256": "138715b97ad958cd9b4edfcff76a82d3ef624d6ca701172c81704c02332c1b10",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-5.jpg",
+   "role": "photo",
+   "sha256": "5834bdfb9f127c74caa4f338f66e0c1dc27e59c9100b945e3e86663783eed88d",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-6.jpg",
+   "role": "photo",
+   "sha256": "22859c673bf629434ffa97d7b7a0dba4e72c8f3cf423a8341a23b59d2c33614f",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-7.jpg",
+   "role": "photo",
+   "sha256": "bef7e3a0a074a9885e39ad0e2910ed6236d67450b9f01ae0a9e2bb6c2d79278b",
+   "width": 2000,
+   "height": 2000
+  },
+  {
+   "file": "jade-qilin-pendant/jade-qilin-pendant-8.jpg",
+   "role": "photo",
+   "sha256": "3b98122c81566f96b6779e64141d2f0b51cffb3ffe6e0150d309887b290ba0b6",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

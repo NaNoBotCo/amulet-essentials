@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "jade-round-rim-168",
+ "set": "pieces",
+ "names": {
+  "th": "จี้หยก ขอบอักษร",
+  "en": "Jade pendant with a lettered rim"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipO-Elihad5hl4bjqt6UThfRx2b85W6jsdaOvCKz"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-round-rim-168/jade-round-rim-168-cutout.png",
+   "role": "cutout",
+   "sha256": "601653e9cda01eeca6a67324aa066b47ebaa01ecef978b77aa8ae08109eb111f",
+   "width": 1430,
+   "height": 1600
+  },
+  {
+   "file": "jade-round-rim-168/jade-round-rim-168-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "9dfa5d551bee473e001562399be89de73d062bc5176329a00a6af17bd5a1bc9d",
+   "width": 804,
+   "height": 900
+  },
+  {
+   "file": "jade-round-rim-168/jade-round-rim-168-1.jpg",
+   "role": "photo",
+   "sha256": "50f9e25896bb258f01697101757d10e53091ec1d21f263990b473c7d3e4dad9e",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

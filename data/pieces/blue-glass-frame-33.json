@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "id": "blue-glass-frame-33",
+ "set": "pieces",
+ "names": {
+  "th": "กรอบกระจกสีฟ้า",
+  "en": "Blue glass frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPlY-UkX5etSAHBjQr_auQCAaKEjGpqumS8jGiF"
+ ],
+ "hero": null,
+ "taken": "2026-08-12",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "blue-glass-frame-33/blue-glass-frame-33-1.jpg",
+   "role": "photo",
+   "sha256": "311586690905c6f2cf5178b2d925329b97acb7bd7cd2b25f0525d1d2b724b97f",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

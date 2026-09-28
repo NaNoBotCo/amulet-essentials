@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "id": "turtle-medallion",
+ "set": "pieces",
+ "names": {
+  "th": "เหรียญพญาเต่าเรือน",
+  "en": "Turtle medallion"
+ },
+ "kind": "phaya-tao-ruean",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipMM4AbD9YRasgACOiWoVa4sscwIkhj2h6KUL-V8",
+  "AF1QipNbkFNfMH5vRrN6ujCm9zOsNYtoGdxAE1x60Tkl"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "turtle-medallion/turtle-medallion-cutout.png",
+   "role": "cutout",
+   "sha256": "1b15812e3705d43ca09601038b009548e0940156617a0211c9c5ba570b6dfd3a",
+   "width": 574,
+   "height": 830
+  },
+  {
+   "file": "turtle-medallion/turtle-medallion-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "ab46602df827eeac851c7b49e032979a63b2447a427799bc6a6f8762f2815c69",
+   "width": 574,
+   "height": 830
+  },
+  {
+   "file": "turtle-medallion/turtle-medallion-1.jpg",
+   "role": "photo",
+   "sha256": "03179f4651d6284aa2f80855d2068c8eb84f566bda1ade4f7c3ed4b98f83b42e",
+   "width": 1080,
+   "height": 1440
+  },
+  {
+   "file": "turtle-medallion/turtle-medallion-2.jpg",
+   "role": "photo",
+   "sha256": "47f71af7c4452d71189e80d59d1633ff767aea72eec9f2fd6252acccb8d03caa",
+   "width": 1080,
+   "height": 1440
+  }
+ ]
+}

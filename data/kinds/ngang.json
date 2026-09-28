@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "ngang",
+ "level": "kind",
+ "parent": null,
+ "names": {
+  "th": "งั่ง",
+  "roman": "ngang",
+  "en": "Ngang",
+  "aliases": {
+   "th": [
+    "พระงั่ง"
+   ],
+   "roman": [
+    "phra ngang"
+   ],
+   "en": [
+    "Phra Ngang"
+   ]
+  }
+ },
+ "region": [
+  "th"
+ ],
+ "axes": {
+  "class": null,
+  "functions": [],
+  "materials": [
+   "nuea_loha"
+  ],
+  "figures": []
+ },
+ "form": {
+  "type": "figure",
+  "shape_th": "รูปหล่อนั่ง สวมชฎายอดแหลม ตาฝังพลอยสีแดง",
+  "shape_en": "A small seated cast figure in a tall pointed crown, the eyes set with red stones",
+  "notes_en": "Form read off the two pieces photographed here (bronze and gilt), not from a survey of the type."
+ },
+ "text": {
+  "what_th": "งั่ง ผีชั้นต่ำ โปรดการพนันและความบันเทิง",
+  "what_en": "Ngang: a low spirit who favors gambling and entertainment."
+ },
+ "sources": [
+  "s:field-nan",
+  "s:vault-classes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "field",
+   "source": "s:field-nan"
+  },
+  "fields": {
+   "axes": {
+    "tier": "field",
+    "source": "s:field-nan",
+    "note": "class left null: the vault's class vocabulary does not place it"
+   }
+  }
+ },
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-28"
+}

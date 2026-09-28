@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "id": "day-buddha-ramphueng",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวัน ปางรำพึง",
+  "en": "Buddha of the day: Standing, hands crossed on the chest — the Friday posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMynHvQxxo2g_0s_eQMU5zw7R6aS0GyPJUJZV3c"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-ramphueng/day-buddha-ramphueng-1.jpg",
+   "role": "photo",
+   "sha256": "07ead15dbb04ffb659c347f5905ff14ce3572bf8e755879dbf2cc2bd82a9e58d",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 7
+}

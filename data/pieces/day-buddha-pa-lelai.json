@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "id": "day-buddha-pa-lelai",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวัน ปางป่าเลไลยก์",
+  "en": "Buddha of the day: Seated on a rock — the Wednesday-night posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPuzITxk6uqxJPhS8HG3R9AewRBLaDWDMzixAcp"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-pa-lelai/day-buddha-pa-lelai-1.jpg",
+   "role": "photo",
+   "sha256": "8133f79a104a93666bbd092f16be7133e4b126e05ece3a35298ea0be08c74a95",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 5
+}

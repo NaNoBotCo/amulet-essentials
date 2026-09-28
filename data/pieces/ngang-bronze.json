@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "ngang-bronze",
+ "set": "pieces",
+ "names": {
+  "th": "งั่ง รูปหล่อสำริด ตาแดง",
+  "en": "Ngang, bronze, red eyes"
+ },
+ "kind": "ngang",
+ "kind_how": "named by Nan",
+ "photos": [
+  "AF1QipOiQYgLPSsQ_mQuKBTYZ6NCn2ooNEH9s6gyZtYH",
+  "AF1QipNobJVKdDA3Zl6NzJqSW-GLEN_W0LR4CUDPLlb9",
+  "AF1QipML8ZyAieZEJn7YZZc5_45asjTCBnbVGXBpvMIL"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-08-17",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "ngang-bronze/ngang-bronze-cutout.png",
+   "role": "cutout",
+   "sha256": "b07ebcb017f3f4d93ea6adc358ba2bdc9135b102e43d79ad97efbae328084438",
+   "width": 886,
+   "height": 1600
+  },
+  {
+   "file": "ngang-bronze/ngang-bronze-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "08dc58e31da1e88ee8bf36f02eb98845aa097de7a25b213616573f8e76104d1d",
+   "width": 499,
+   "height": 900
+  },
+  {
+   "file": "ngang-bronze/ngang-bronze-1.jpg",
+   "role": "photo",
+   "sha256": "8d8dbaa6603ca6555c910d59affc4ef6bff705b9532a24bcceb980c310117ef0",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "ngang-bronze/ngang-bronze-2.jpg",
+   "role": "photo",
+   "sha256": "9960ab7fe8ec48f48c2ee0c51b9e71020a5ca39d5b0d13897cf6ab5a506ff34e",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "ngang-bronze/ngang-bronze-3.jpg",
+   "role": "photo",
+   "sha256": "6e0bdd58e060d0fb8cf34db80471c12d286a14fc765dfb570d6a76ff9944c765",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

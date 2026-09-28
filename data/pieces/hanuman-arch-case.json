@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "hanuman-arch-case",
+ "set": "pieces",
+ "names": {
+  "th": "หนุมาน เลี่ยมซุ้ม",
+  "en": "Hanuman in an arched case"
+ },
+ "kind": "hanuman",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipOGXyzqKc78CX7peJAQ5ExZQMacnWZeC63SJbgk"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "hanuman-arch-case/hanuman-arch-case-cutout.png",
+   "role": "cutout",
+   "sha256": "a45a93493cabfd23adbd20e384f43959239845641da70419ec238258ae2a753f",
+   "width": 1142,
+   "height": 1600
+  },
+  {
+   "file": "hanuman-arch-case/hanuman-arch-case-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "e5121516b014db3159009e010d7b9dac812f6c50c84e057e999cbb89be904e0a",
+   "width": 642,
+   "height": 900
+  },
+  {
+   "file": "hanuman-arch-case/hanuman-arch-case-1.jpg",
+   "role": "photo",
+   "sha256": "b61d7eb78a11c0b7788329f2732b3f65d1d122a00b277d0ba0ad4309853dfbe7",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

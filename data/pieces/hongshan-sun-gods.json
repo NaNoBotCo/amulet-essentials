@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "hongshan-sun-gods",
+ "set": "pieces",
+ "names": {
+  "th": "รูปเทพสุริยะ แบบหงซาน",
+  "en": "Hongshan-style “sun god” figures"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOQuhO_4YKI5vnrLXIyp8tPlicDdzgbweMZmwCa"
+ ],
+ "hero": "all",
+ "taken": "2026-09-25",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "hongshan-sun-gods/hongshan-sun-gods-cutout.png",
+   "role": "cutout",
+   "sha256": "23f9988ced1081a85bb965688f688d4fd19a3b0c7dbc5aef7fa2cfb8ee1ea339",
+   "width": 1359,
+   "height": 1600
+  },
+  {
+   "file": "hongshan-sun-gods/hongshan-sun-gods-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "3f2b2375cb5b95c662b39272a8ca6bbdcae35e1863d53208cb3ac8cdcaafb989",
+   "width": 764,
+   "height": 900
+  },
+  {
+   "file": "hongshan-sun-gods/hongshan-sun-gods-1.jpg",
+   "role": "photo",
+   "sha256": "d9e152d33c1b4ec2506dfa1fa3ab169e4671f13b40a09cecab19d758d395e787",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "lersi-tablet-98",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์รูปนั่งชันเข่า",
+  "en": "Tablet, a figure seated with one knee raised"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNG8gfBLzuoThDJatlNWbyCMxApGUYqkZe-gxGA"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "lersi-tablet-98/lersi-tablet-98-cutout.png",
+   "role": "cutout",
+   "sha256": "a5b4702a5dd956f4d855aa8a4aee84515a3d9646927910aaff928085ab673033",
+   "width": 1007,
+   "height": 1600
+  },
+  {
+   "file": "lersi-tablet-98/lersi-tablet-98-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "db01da98fe126941c0157ead50b039d1601b61cb9b4d6879d4fb7430d7f851ad",
+   "width": 566,
+   "height": 900
+  },
+  {
+   "file": "lersi-tablet-98/lersi-tablet-98-1.jpg",
+   "role": "photo",
+   "sha256": "a3319992f51132ab224e40fb76d3e403237e563d4f53631cd82d4cc392a39490",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}
