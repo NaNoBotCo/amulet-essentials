@@ -84,7 +84,7 @@
  },
  "diagnostics": [
   {
-   "th": "ชื่อว่าผงแต่เนื้อเป็นดินเผา — กับดักชื่อที่แกนวัสดุเตือนไว้",
+   "th": "ชื่อว่าผงแต่เนื้อเป็นดินเผา — กับดักชื่อที่แกนวัสดุระบุไว้",
    "en": "Called phong but fired earth: the name is a trap the material axis names outright",
    "source": "s:vault-materials",
    "tier": "catalogue"

@@ -121,8 +121,8 @@
    "tier": "catalogue"
   },
   {
-   "th": "ตะกรุดที่ตำราให้ทำจากแผ่นวัสดุพิเศษเป็นข้อยกเว้นของหมวด — รูปเดียวกัน แต่การสร้างต่างกัน ถามว่าแผ่นคืออะไร",
-   "en": "Skin-rolled takrut are the class's stated exception: same form, different making. Ask what the sheet is",
+   "th": "ตะกรุดที่ตำราให้ทำจากแผ่นวัสดุพิเศษเป็นข้อยกเว้นของหมวด — รูปเดียวกัน แต่การสร้างต่างกัน แผ่นเป็นตัวแยก",
+   "en": "Skin-rolled takrut are the class's stated exception: same form, different making. The sheet tells them apart",
    "source": "s:vault-classes",
    "tier": "catalogue"
   }

@@ -93,10 +93,10 @@ def validate_all(strict=False) -> int:
         if not r.get("images"):
             warns.append(f"{tag}: no images yet")
     for w in warns:
-        print("warn ", w)
+        print("warn ", w)  # stylecheck: allow — validator output
     for e in errors:
         print("ERROR", e)
-    print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")
+    print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")  # stylecheck: allow — validator output
     if errors or (strict and warns):
         return 1
     return 0

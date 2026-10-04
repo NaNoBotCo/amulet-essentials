@@ -476,7 +476,7 @@ def vocab_page(vocab: dict) -> str:
             if axis == "classes":
                 extra = f'<br><span class="mute">resident {E(e.get("resident",""))} · upkeep {E(e.get("upkeep",""))} · provenance {E(e.get("provenance_sensitivity",""))}</span>'
             elif axis == "materials":
-                extra = f'<br><span class="mute">family {E(e.get("family",""))} · dating signal {E(e.get("dating_signal",""))} · counterfeit pressure {E(e.get("counterfeit_pressure",""))}</span>'
+                extra = f'<br><span class="mute">family {E(e.get("family",""))} · dating signal {E(e.get("dating_signal",""))} · counterfeit pressure {E(e.get("counterfeit_pressure",""))}</span>'  # stylecheck: allow — vocabulary field name
             parts.append(f'<tr id="{prefix}-{E(k)}"><th><span class="th">{E(e.get("term",""))}</span><br><span class="mute">{E(e.get("roman",""))} · {E(e.get("en_gloss",""))}</span></th><td>{E(e.get("definition",""))}{extra}</td></tr>')
         parts.append("</table>")
     parts.append('<h2>Regions · ถิ่น <span class="mute">(open list)</span></h2><ul>' + "".join(f'<li><span class="th">{E(e["th"])}</span> · {E(e["en"])} <span class="count">({E(k)})</span></li>' for k, e in vocab["regions"].items()) + "</ul>")
