@@ -588,7 +588,7 @@ def identify_page(sha_map: dict) -> str:
 </div>
 <p id="status" class="tierline" aria-live="polite">…</p>
 <progress id="bar" max="100" hidden></progress>
-<p class="mute" lang="th">เลือกได้หลายรูป · เทียบในเครื่องคุณเอง รูปไม่ถูกส่งไปไหน · ตอบเป็น<em>ชนิด</em> ไม่ใช่แท้หรือไม่แท้</p>
+<p class="mute" lang="th">เลือกได้หลายรูป · เทียบในเครื่องคุณเอง · ตอบเป็น<em>ชนิด</em> ไม่ใช่แท้หรือไม่แท้</p>
 <p class="mute" lang="en">Many at once, compared on your own device · answers with the <em>kind</em>.</p>
 <section id="haul" hidden>
   <h2 id="haulhead"></h2>
