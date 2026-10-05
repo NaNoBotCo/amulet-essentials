@@ -322,7 +322,7 @@
    "dating_signal": "wear",
    "counterfeit_pressure": "low",
    "seen": 281,
-   "definition": "Coconut shell, most often the single-eyed shell (กะลาตาเดียว) carved and inscribed. High occurrence in the corpus. Note that many กะลา hits are the carved ปลัดขิก form — cross-check the class axis, which deliberately leaves ปลัดขิก unassigned.",
+   "definition": "Coconut shell, most often the single-eyed shell (กะลาตาเดียว) carved and inscribed. High occurrence in the corpus. Many กะลา hits are the carved ปลัดขิก form, which the class axis leaves unassigned.",
    "members": [
     "กะลา",
     "กะลาตาเดียว"
@@ -339,7 +339,7 @@
    "dating_signal": "wear",
    "counterfeit_pressure": "medium",
    "seen": 9,
-   "definition": "Elephant ivory. Recorded because the tradition uses it and the corpus contains it. **Legal caution, not a value judgement:** ivory is regulated in Thailand under the Elephant Ivory Act B.E. 2558 and internationally under CITES. Any register entry naming this material should carry that notice, and the register should never facilitate its movement across a border.",
+   "definition": "Elephant ivory. Recorded because the tradition uses it and the corpus contains it. Ivory is regulated in Thailand under the Elephant Ivory Act B.E. 2558 and internationally under CITES.",
    "members": [
     "งาช้าง",
     "เนื้องา",
