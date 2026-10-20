@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "spider-oil-korat",
+ "set": "pieces",
+ "names": {
+  "th": "แมงมุมเรียกทรัพย์ บรรจุน้ำมัน จากโคราช",
+  "en": "Spider amulet for drawing wealth, oil-filled, from Korat"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMm6PZAXgecI34lJdcRqqFg_-jIBpuc823puhqi"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "spider-oil-korat/spider-oil-korat-cutout.png",
+   "role": "cutout",
+   "sha256": "3b4c56fcf3a916b5ecf7473a7ad89f27aa02b1083ad901a6c73cc5cec171e1b0",
+   "width": 505,
+   "height": 657
+  },
+  {
+   "file": "spider-oil-korat/spider-oil-korat-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "50604d9e1d5758ed16cb9804b7a65b75fa581377d1a1110db6b16f2ad6864be3",
+   "width": 505,
+   "height": 657
+  },
+  {
+   "file": "spider-oil-korat/spider-oil-korat-1.jpg",
+   "role": "photo",
+   "sha256": "e1dfa75a3687ae6e626cd99c5612d7ee1d64f27274e20cc5a94c146555703b3e",
+   "width": 1080,
+   "height": 1440
+  }
+ ]
+}

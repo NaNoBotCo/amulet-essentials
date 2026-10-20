@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "naga-coil-teardrop",
+ "set": "pieces",
+ "names": {
+  "th": "พญานาคขด ตลับหยดน้ำ",
+  "en": "Coiled naga in a teardrop case"
+ },
+ "kind": "phaya-nak",
+ "kind_how": "named by Nan",
+ "photos": [
+  "AF1QipNUZ0KmHOb3BM1Vo-ZRgJVd7iuJhShMw49Q2CK1"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "naga-coil-teardrop/naga-coil-teardrop-cutout.png",
+   "role": "cutout",
+   "sha256": "2013b2e1f84eadc48ed0aaf8df9414d4d1ed3da256115a7c3d1c79f2b1629cb8",
+   "width": 1078,
+   "height": 1600
+  },
+  {
+   "file": "naga-coil-teardrop/naga-coil-teardrop-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "f72e20549356174de3c2d6e860b0b791a7839ecccaacf9c953ad8865dce5dec4",
+   "width": 606,
+   "height": 900
+  },
+  {
+   "file": "naga-coil-teardrop/naga-coil-teardrop-1.jpg",
+   "role": "photo",
+   "sha256": "0e23c09e2f5b21ce26e3239ba0280ad0d7f26a85edadc32974b8f056e813c4c2",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Coiled naga in a teardrop case (cutout).png"
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "painted-gourd",
+ "set": "pieces",
+ "names": {
+  "th": "น้ำเต้า เขียนลาย",
+  "en": "Painted gourd"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPjLz9Ncja-dLAXnGOw8VBVIMtDIGc_Tz6YvwB8",
+  "AF1QipPyPZTjjtP9ULoVjdyXgrqGaqqRYlPaHSPa5IQw",
+  "AF1QipNowW7-NCmmKrK8hFnbVGFC5bj1CWwd8DOU14g1"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "painted-gourd/painted-gourd-cutout.png",
+   "role": "cutout",
+   "sha256": "a98d1a6694dead1e37b98e97e9e434cc18b3af1e76e84de6a458108cf894863b",
+   "width": 1248,
+   "height": 1492
+  },
+  {
+   "file": "painted-gourd/painted-gourd-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "bc299d63f4e684cd11c2029811347abdc369bd861f487ab175d434c2d87063d6",
+   "width": 753,
+   "height": 900
+  },
+  {
+   "file": "painted-gourd/painted-gourd-1.jpg",
+   "role": "photo",
+   "sha256": "396ff753349e18b1ae9d712d1f6a8bd3a1f38ae069ea8094acb3b3ad90a9d86f",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "painted-gourd/painted-gourd-2.jpg",
+   "role": "photo",
+   "sha256": "dfba7ff20ed235b78648e6c0530d2f493040eb4a5c2e41e005ad8bf1b7895d7b",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "painted-gourd/painted-gourd-3.jpg",
+   "role": "photo",
+   "sha256": "f8e16293f2c2c67b6e3fced46b53e168bdab21ad30c606a90922a2810fb30489",
+   "width": 447,
+   "height": 550
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Painted gourd (cutout).png"
+ ]
+}

@@ -108,8 +108,8 @@
    "tier": "catalogue"
   },
   {
-   "th": "หมวดที่ของปลอมชอบที่สุด — คำเตือนเรื่องหมวด ไม่ใช่เรื่องชิ้น",
-   "en": "The holding key calls it the category every faker loves; a caution about the category, never about a piece",
+   "th": "หมวดที่ของปลอมชอบที่สุด — พูดถึงหมวด ไม่ใช่ชิ้นใดชิ้นหนึ่ง",
+   "en": "The holding key calls it the category every faker loves; that describes the category, not any one piece",
    "source": "s:holding-key",
    "tier": "catalogue"
   }
@@ -145,12 +145,12 @@
  },
  "images": [],
  "text": {
-  "what_th": "โลหะดำมันวาวที่เชื่อว่ามีชีวิต ตัดจากถ้ำด้วยพิธี ว่ากินน้ำผึ้งและกันคมอาวุธ ฤทธิ์อยู่ในตัวของมันเอง เป็นหมวดที่ของปลอมชอบที่สุด ซึ่งเป็นคำเตือนในตัว",
-  "what_en": "A dark lustrous metal the tradition holds to be alive — drawn from caves by rite, said to drink honey and turn aside blades. Power inherent in the thing itself; the category every faker loves, which is its own caution.",
+  "what_th": "โลหะดำมันวาวที่เชื่อว่ามีชีวิต ตัดจากถ้ำด้วยพิธี ว่ากินน้ำผึ้งและกันคมอาวุธ ฤทธิ์อยู่ในตัวของมันเอง เป็นหมวดที่ของปลอมชอบที่สุด",
+  "what_en": "A dark lustrous metal the tradition holds to be alive — drawn from caves by rite, said to drink honey and turn aside blades. Power inherent in the thing itself; the category every faker loves.",
   "story_th": "ความเชื่อว่าเหล็กไหลอยู่ในถ้ำ มีเทวดา ผีป่า พญานาค หรือยักษ์รักษา คนธรรมดาตัดไม่ได้ ต้องมีบุญหรือวิชาอาคม ผู้ตัดทาน้ำผึ้งแล้วลนไฟจนเหล็กไหลยืดมาถึงน้ำผึ้งเป็นเส้นแล้วขาด ใครมีติดตัว มีด ปืน ดินระเบิดใช้ไม่ได้ วิกิพีเดียไทยแบ่งสามชั้น ตั้งชื่อชนิดตามสี อ้างพจนานุกรม พ.ศ. ๒๕๒๕ แล้วอธิบายเชิงวิทยาศาสตร์ว่าเป็นโลหะจุดหลอมต่ำ อุกกาบาต หรือซิลิเกต ประกายรุ้งเกิดจากฟิล์มบาง",
   "story_en": "The lore puts it in caves under the guard of devas, forest spirits, naga or giants; only merit or wichaa lets a person take it, and the harvest is done with honey smeared nearby and fire played on the mass until it stretches to the honey as a thread and parts. Near its keeper, the belief goes, blades, guns and gunpowder fail. Thai Wikipedia grades it — the metal, its 'nest', its 'residue' — names varieties by colour, dates the dictionary entry to B.E. 2525, and then explains the samples as low-melting metals or alloys, meteorite or silicate, with the rainbow sheen as thin-film interference. Both halves belong in the record.",
   "keeping_th": "ไม่มีผู้อยู่ ไม่ต้องเลี้ยง บางสายถวายน้ำผึ้งตามตำนาน — เป็นมารยาทจากเรื่องเล่า ไม่ใช่กฎของหมวด",
-  "keeping_en": "Nobody home, nothing owed by the class. Some keepers offer honey because the lore says it drinks it; that is a courtesy from the story, not an upkeep the vocabulary records. Safe to adopt with unknown history; the risk is the price, not the spirit."
+  "keeping_en": "Nobody home, nothing owed by the class. Some keepers offer honey because the lore says it drinks it; that is a courtesy from the story, not an upkeep the vocabulary records. The class attaches no spirit to a piece of unknown history."
  },
  "sources": [
   "s:holding-key",

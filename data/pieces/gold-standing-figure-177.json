@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "gold-standing-figure-177",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อยืน สวมหมวก",
+  "en": "Standing gilt figure in a helmet"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPIVhU1TrOv-0iVc-ZumFA4DBaehbU3TpE_Tuoy"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "gold-standing-figure-177/gold-standing-figure-177-cutout.png",
+   "role": "cutout",
+   "sha256": "fc03f1a4df741e2e991dfde35ad1388a5bf8f913c8d3ec687ec6c455f250f707",
+   "width": 754,
+   "height": 1600
+  },
+  {
+   "file": "gold-standing-figure-177/gold-standing-figure-177-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d472f812def7813b6c3952c1977ec8269681fe34abc1e73fea0c912808ed1371",
+   "width": 424,
+   "height": 900
+  },
+  {
+   "file": "gold-standing-figure-177/gold-standing-figure-177-1.jpg",
+   "role": "photo",
+   "sha256": "48701cf70a142493e305f8c92e578abdce68d38a29b12fea35de043df3bab3e2",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Standing gilt figure in a helmet (cutout).png"
+ ]
+}

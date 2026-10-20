@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "takrut-hemp-knot",
+ "set": "pieces",
+ "names": {
+  "th": "ตะกรุด กับเงื่อนป่าน",
+  "en": "Takrut with a hemp knot"
+ },
+ "kind": "takrut",
+ "kind_how": "named by Nan",
+ "photos": [
+  "AF1QipNkq6E2n2qHwy4F56nha3fhwLJF_wj3m8i2riu3"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "takrut-hemp-knot/takrut-hemp-knot-cutout.png",
+   "role": "cutout",
+   "sha256": "8c987e6c87f0a323c87c30969ab046788d9bc8a77a429d065f3bc01a47254050",
+   "width": 1268,
+   "height": 1448
+  },
+  {
+   "file": "takrut-hemp-knot/takrut-hemp-knot-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "ef3c9e1eead0b7ffab44555f08584b1464c2aed69f468bedab6465962efc4c76",
+   "width": 788,
+   "height": 900
+  },
+  {
+   "file": "takrut-hemp-knot/takrut-hemp-knot-1.jpg",
+   "role": "photo",
+   "sha256": "699f3b639731123daf795e28ee76d58564f9f6c11fbcb0a666fac865b48991fb",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Takrut with a hemp knot (cutout).png"
+ ]
+}

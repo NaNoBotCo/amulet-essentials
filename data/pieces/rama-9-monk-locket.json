@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "rama-9-monk-locket",
+ "set": "pieces",
+ "names": {
+  "th": "ล็อกเก็ต ในหลวงรัชกาลที่ ๙ ทรงผนวช",
+  "en": "Locket: King Rama IX as a monk"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNDdwznylVsZd9Rc8EKnGdZU38i3F69mrKHsDhI"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "rama-9-monk-locket/rama-9-monk-locket-cutout.png",
+   "role": "cutout",
+   "sha256": "da840d49331ac1dd7e909db7ad5148cf7594aeb39fa21cd39b5be79397b527ee",
+   "width": 789,
+   "height": 982
+  },
+  {
+   "file": "rama-9-monk-locket/rama-9-monk-locket-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "9af3fb887b23252e6437cdeebba83db98c9bafcd0ba91a3df7d08173834073e3",
+   "width": 723,
+   "height": 900
+  },
+  {
+   "file": "rama-9-monk-locket/rama-9-monk-locket-1.jpg",
+   "role": "photo",
+   "sha256": "afd4df8ed5612299fa478900d23385a6dd0f51e5798dee40deee17441242380d",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

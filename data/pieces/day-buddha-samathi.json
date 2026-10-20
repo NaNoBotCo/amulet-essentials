@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "id": "day-buddha-samathi",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวันพฤหัสบดี ปางสมาธิ",
+  "en": "Buddha of the day: Seated in meditation — the Thursday posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNQrTXoY7nJDk6SowopKG6s-0iFDPKvpfkRmDg0"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-samathi/day-buddha-samathi-1.jpg",
+   "role": "photo",
+   "sha256": "d8128c8968adceafc15c8914174573871c091ec20ab4fbef8ebd59baa3eac984",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 6,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Seated in meditation — the Thursday posture.jpg"
+ ]
+}

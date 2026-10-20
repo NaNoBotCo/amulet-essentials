@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "thao-wessuwan-arch",
+ "set": "pieces",
+ "names": {
+  "th": "ท้าวเวสสุวรรณ เลี่ยมซุ้ม",
+  "en": "Thao Wessuwan in an arched case"
+ },
+ "kind": "thao-wessuwan",
+ "kind_how": "named by Nan",
+ "photos": [
+  "AF1QipPbfJz9xD7Y9yY9T3YLO6Er5cVTkWiCCgH6A4uy"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "thao-wessuwan-arch/thao-wessuwan-arch-cutout.png",
+   "role": "cutout",
+   "sha256": "7451d4184b65712f4f57c0d08bd2e1f9dace4ceb3e811290f31022854f6718e0",
+   "width": 1036,
+   "height": 1600
+  },
+  {
+   "file": "thao-wessuwan-arch/thao-wessuwan-arch-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "4b65a5b67a37002b957fc5224c86635dd3ee227cd273d6237b9732f23573ad8d",
+   "width": 583,
+   "height": 900
+  },
+  {
+   "file": "thao-wessuwan-arch/thao-wessuwan-arch-1.jpg",
+   "role": "photo",
+   "sha256": "e8170de534c38a6937884a54fb02da52c82ff9ae2dd88d37390c77dd747bd7b3",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Thao Wessuwan in an arched case (cutout).png"
+ ]
+}

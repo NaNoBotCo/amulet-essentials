@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "phong-yant-plate-172",
+ "set": "pieces",
+ "names": {
+  "th": "แผ่นผง ลายยันต์ตาราง",
+  "en": "Powder plate with a grid yantra"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOx-KpmOQ_3bjGAOn_qkb6B4MrE5U5po7-rmz15"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "phong-yant-plate-172/phong-yant-plate-172-cutout.png",
+   "role": "cutout",
+   "sha256": "d86fadc5c64493b81c961c10c3e71c23802053eea6ab93669d62222de0e188db",
+   "width": 1448,
+   "height": 1600
+  },
+  {
+   "file": "phong-yant-plate-172/phong-yant-plate-172-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "b5e1f641947d5af9c774efffa1438139da37b12ca8386218ee96b63221365f0e",
+   "width": 815,
+   "height": 900
+  },
+  {
+   "file": "phong-yant-plate-172/phong-yant-plate-172-1.jpg",
+   "role": "photo",
+   "sha256": "6bffe47a06a3af21c2a9275f48925392e92849c8aeca2578d099bd285ca713c1",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Powder plate with a grid yantra (cutout).png"
+ ]
+}

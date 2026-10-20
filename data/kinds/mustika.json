@@ -88,7 +88,7 @@
   },
   {
    "th": "หินแร่ที่ขายเป็นมุสติกาคือหินอาเกต ควอตซ์ ธรรมดา — ชื่อ “มุสติกา” บอกเรื่องเล่า ไม่บอกชนิดหิน",
-   "en": "Mineral mustika are ordinary agate, quartz or pebble; the word names the story attached, not the stone. Ask the mineral question separately",
+   "en": "Mineral mustika are ordinary agate, quartz or pebble; the word names the story attached, not the stone. The mineral is a separate question",
    "source": "s:tradition",
    "tier": "tradition"
   },
@@ -103,7 +103,7 @@
   {
    "id": "lek-lai",
    "tell_th": "เหล็กไหลเป็นโลหะดำมันที่ถือว่ามีชีวิต · มุสติกาเป็นหิน ก้อน หรือเม็ดจากสัตว์ ทั้งคู่พลังในตัว ไม่ต้องเลี้ยง",
-   "tell_en": "Lek lai is a dark lustrous metal held to be alive; a mustika is a stone, nodule or animal concretion. Same class — power inherent in the thing — and the same buyer's caution."
+   "tell_en": "Lek lai is a dark lustrous metal held to be alive; a mustika is a stone, nodule or animal concretion. Same class — power inherent in the thing."
   },
   {
    "id": "dat-lone",
@@ -176,8 +176,8 @@
   "what_en": "A natural stone or nodule the Malay-Javanese world holds to carry its own tuah — a mineral, a bezoar cut from an animal (geliga), or a 'pearl' claimed from a plant or creature. Found, not made; usually ring-set. The Indonesian market adds a khodam, a resident spirit, which the vault's natural-talisman class does not carry — noted, not adopted.",
   "story_th": "เบซัวร์ (ภาษาเปอร์เซีย pād-zahr “แก้พิษ”) เคยเป็นสินค้าส่งออกจากภูมิภาคนี้ไปยุโรประหว่างราว ค.ศ. ๑๕๐๐–๑๗๐๐ โดยเชื่อว่าแก้พิษได้ทุกชนิด ก้อนจากเม่นในเอเชียตะวันออกเฉียงใต้มีค่าที่สุด และของปลอมก็ตามมาจนต้องทดสอบด้วยพิษ ในตลาดอินโดนีเซียปัจจุบันคำว่า mustika ขยายไปครอบหินทุกชนิดที่มีเรื่องเล่าว่าได้มาจากงู จากป่า จากฝัน หรือถูก “ดึง” มาโดยดุกุน",
   "story_en": "The bezoar — Persian pād-zahr, 'antidote' — went out of this region to Europe between about 1500 and 1700 as a universal poison cure, Southeast Asian porcupine stones the most prized, and counterfeits followed until buyers tested them with poisoned needles. On the modern Indonesian market the word mustika has widened to any stone with a story: taken from a snake, found in the forest, seen in a dream, or 'drawn' from the unseen by a dukun. The story is what is sold; the stone is what you get.",
-  "keeping_th": "หมวด khong_thammachat: พลังในตัว ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ประวัติไม่รู้ก็ไม่เป็นอันตราย ผู้ค้าบางรายให้เช็ดน้ำมันหรือจุดกำยาน — ธรรมเนียมร้าน ไม่ใช่หน้าที่ ถ้าผู้ขายอ้างว่ามี khodam ให้ถือว่านั่นคือคำอ้างที่ต้องถาม",
-  "keeping_en": "Filed as khong_thammachat: power inherent, nobody home, nothing owed, and an unknown history is a value question rather than a safety one. Some sellers prescribe oiling or incense — shop custom, not upkeep. A seller who says the stone carries a khodam has moved it out of this class by his own claim; that claim is the thing to ask about."
+  "keeping_th": "หมวด khong_thammachat: พลังในตัว ไม่มีผู้อยู่ ไม่ต้องเลี้ยง ประวัติไม่รู้ก็ไม่เป็นอันตราย ผู้ค้าบางรายให้เช็ดน้ำมันหรือจุดกำยาน — ธรรมเนียมร้าน ไม่ใช่หน้าที่ ผู้ขายที่อ้างว่ามี khodam ได้ย้ายหินออกจากหมวดนี้ด้วยคำอ้างของตัวเอง",
+  "keeping_en": "Filed as khong_thammachat: power inherent, nobody home, nothing owed, and an unknown history is a value question rather than a safety one. Some sellers prescribe oiling or incense — shop custom, not upkeep. A seller who says the stone carries a khodam has moved it out of this class by his own claim."
  },
  "sources": [
   "s:vault-classes",

@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "pearl-disc-116",
+ "set": "pieces",
+ "names": {
+  "th": "ตลับกลมฝังหิน",
+  "en": "Round case set with stones"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMKohFCKexQ3lQslMP3MdD3m8ddSKxSBWwJJ6cO"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "pearl-disc-116/pearl-disc-116-cutout.png",
+   "role": "cutout",
+   "sha256": "929d7c9f9658cbfc6adad2dfe64d76f273d82c12e7a970b6bbc4610d99b000dc",
+   "width": 547,
+   "height": 730
+  },
+  {
+   "file": "pearl-disc-116/pearl-disc-116-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "c4ef552cca8f55e8d1bbff9a717601ed4f65cebb27547429c634272f90b76582",
+   "width": 547,
+   "height": 730
+  },
+  {
+   "file": "pearl-disc-116/pearl-disc-116-1.jpg",
+   "role": "photo",
+   "sha256": "be4c276d8c7d1918cc27a404f49a5be6244aa2883e64182a4531601e3c7a88d7",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Round case set with stones (cutout).png"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "clay-seated-figure-113",
+ "set": "pieces",
+ "names": {
+  "th": "รูปนั่ง เนื้อดิน",
+  "en": "Seated clay figure"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNnPkL3aNXEo5chTPbkB4fvCvsFIGi7WoCu0yag"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "clay-seated-figure-113/clay-seated-figure-113-cutout.png",
+   "role": "cutout",
+   "sha256": "86ea60a6c9876927461db9fa16e251b5bfa22800da4d08e20a29dac96d8dbfca",
+   "width": 802,
+   "height": 1600
+  },
+  {
+   "file": "clay-seated-figure-113/clay-seated-figure-113-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "531885880f4ec8700532495779f73977ca599e0d75ac5665848f29e5c75280b8",
+   "width": 451,
+   "height": 900
+  },
+  {
+   "file": "clay-seated-figure-113/clay-seated-figure-113-1.jpg",
+   "role": "photo",
+   "sha256": "3fb552ffc021581795795d582fbceb315cad56225a95d30682c06293e5189a32",
+   "width": 2000,
+   "height": 1500
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Seated clay figure (cutout).png"
+ ]
+}

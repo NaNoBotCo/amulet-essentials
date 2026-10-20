@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "monk-portrait-coin-197",
+ "set": "pieces",
+ "names": {
+  "th": "เหรียญรูปพระสงฆ์ เลี่ยมกรอบ",
+  "en": "Monk portrait coin, framed"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNndWNv6LUBCAlTCjkcRlpPbTIAxPtqT05loWKQ"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "monk-portrait-coin-197/monk-portrait-coin-197-cutout.png",
+   "role": "cutout",
+   "sha256": "176a8e12ea79933dcfa34c8820629361739718c2e51bc3ae9bad145d5f18dda3",
+   "width": 526,
+   "height": 661
+  },
+  {
+   "file": "monk-portrait-coin-197/monk-portrait-coin-197-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "80682884184885bba165e94a8ea5a45c9bd0fe31e6f598a3d186d1a1bb872c1a",
+   "width": 526,
+   "height": 661
+  },
+  {
+   "file": "monk-portrait-coin-197/monk-portrait-coin-197-1.jpg",
+   "role": "photo",
+   "sha256": "50e39312c1f4d6b4b3047bf121686c0160ace4d81cd5bb52be62135fd1dfe2a5",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Monk portrait coin, framed (cutout).png"
+ ]
+}

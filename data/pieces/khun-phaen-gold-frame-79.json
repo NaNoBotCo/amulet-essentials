@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "id": "khun-phaen-gold-frame-79",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ห้าเหลี่ยม เลี่ยมกรอบใส",
+  "en": "Pentagonal tablet in a clear case"
+ },
+ "kind": "khun-phaen",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipOgydqhwcHwy5oEjrhi6KXZQLV9xr3mwPMgkBNY"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-01",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "rotate": 90,
+ "media": [
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-cutout.png",
+   "role": "cutout",
+   "sha256": "8130dec812501bebeccdbb97603176954ebee99c5d10312d54e38027f83dd872",
+   "width": 1032,
+   "height": 1600
+  },
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "fad3d10c4e7e7df6a8a79f76e93c7aa519c626edbc2e3f9e782d505aaf8aaf42",
+   "width": 581,
+   "height": 900
+  },
+  {
+   "file": "khun-phaen-gold-frame-79/khun-phaen-gold-frame-79-1.jpg",
+   "role": "photo",
+   "sha256": "5d2a22bd2851275878f050b2bb455e62c0f97f864c07e8927d4599195bf48e0a",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-01 - Pentagonal tablet in a clear case (cutout).png"
+ ]
+}

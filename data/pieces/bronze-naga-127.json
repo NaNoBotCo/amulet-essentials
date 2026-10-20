@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "bronze-naga-127",
+ "set": "pieces",
+ "names": {
+  "th": "พญานาคจิ๋ว",
+  "en": "Small bronze naga"
+ },
+ "kind": "phaya-nak",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNGiPMniURIoReydQfCmVNesBWPtpzEXNxg2iyT"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "bronze-naga-127/bronze-naga-127-cutout.png",
+   "role": "cutout",
+   "sha256": "4653dee4d5c0767140d711bb0759dbe090796f799acc90c5472c288efb7139c7",
+   "width": 912,
+   "height": 1344
+  },
+  {
+   "file": "bronze-naga-127/bronze-naga-127-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "07860d45376839b922a02130a4e1fc641ee643a58b426196a9b42d451254f2c9",
+   "width": 611,
+   "height": 900
+  },
+  {
+   "file": "bronze-naga-127/bronze-naga-127-1.jpg",
+   "role": "photo",
+   "sha256": "e279dbd78cb3f3fd6db3574b1f50aa51e5864a97986687e811499f71687993b8",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Small bronze naga (cutout).png"
+ ]
+}

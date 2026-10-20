@@ -1,0 +1,21 @@
+data/analysis/image_sources.json	automated matching is unsafe	operator note on the picture harvest
+data/images/_hunt/khiao-suea.json	Cheetahs hiss primarily as a defensive warning	Wikimedia Commons file description
+data/images/_hunt/luk-sakot.json	Please note that the beads and proteins	Wikimedia Commons file description
+data/images/_hunt/pha-yan.json	reads a warning sign in the street	Wikimedia Commons file description
+data/images/_hunt/pha-yan.json	Beware 011 (Trojan-1954)	Wikimedia Commons file title
+data/images/_hunt/phra-khanaen.json	Make sure to install it before editing	Wikimedia Commons file description
+data/images/_hunt/rup-lersi.json	You must promote another artist	Wikimedia Commons file description
+data/images/_hunt/suea-yan.json	Beware 011 (Trojan-1954)	Wikimedia Commons file title
+data/images/khmer-yantra-cloth/khmer-yantra-cloth-market-woman-in-camodia-with-krama-95ea4d.jpg.json	Personality rights warning	Wikimedia Commons category name
+data/images/sai-sin/sai-sin-jill-biden-visits-laos-july-2015-01-6f4855.jpg.json	Personality rights warning	Wikimedia Commons category name
+data/images/sai-sin/sai-sin-jill-biden-visits-laos-july-2015-02-6496ae.jpg.json	Personality rights warning	Wikimedia Commons category name
+data/images/sai-sin/sai-sin-marriage-in-thailand-abe78f.jpg.json	Personality rights warning	Wikimedia Commons category name
+data/kinds/hun-phayon.json	อย่าให้ถึงตาย	the manual's own words, quoted
+data/kinds/kuman-thong.json	warding disease and danger	the source's stated purposes, cited by page
+data/kinds/nang-kwak.json	ตำราสั่งอย่าให้ขาด	reports what the manual instructs
+data/kinds/rup-lersi.json	the katha wards off every danger	reports the method's claim
+data/kinds/suea-yan.json	th.wiki says only 'protection from danger'	reports Thai Wikipedia's claim
+data/vocab/regions.json	validate.py warns, it does not fail	operator note on the validator
+schema/kind.schema.json	with a warning not an error	schema description for developers
+schema/kind.schema.json	Never a genuineness claim about an object	schema description for developers
+data/kinds/susuk.json	it is not kept, it is worn inside	describes an implant, not a data pledge

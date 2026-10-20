@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "gold-figure-red-arch",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อทอง ซุ้มแดง",
+  "en": "Gilt figure in a red arch"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMexkd8CweeXPtj3jorMSZSi0yl-RBQ_ghJ3CkO",
+  "AF1QipOaUAZYbMV--_MKBy4HTyx0QSOy-RODdADM0wGz"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "gold-figure-red-arch/gold-figure-red-arch-cutout.png",
+   "role": "cutout",
+   "sha256": "311e648a80b4f64456e676c7795f25a238761fb6b68b39741394700673b56548",
+   "width": 945,
+   "height": 1600
+  },
+  {
+   "file": "gold-figure-red-arch/gold-figure-red-arch-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "114d5087310bb50cfed6ca0c82f0337742505ace2a039f88ddadad2d5c941232",
+   "width": 532,
+   "height": 900
+  },
+  {
+   "file": "gold-figure-red-arch/gold-figure-red-arch-1.jpg",
+   "role": "photo",
+   "sha256": "64c00477f4c26d330777d8002db1f4841133411c2596d2e4fde9c05ad3ceef4a",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "gold-figure-red-arch/gold-figure-red-arch-2.jpg",
+   "role": "photo",
+   "sha256": "5935b75d1c70b9672fbf4b4dd2f661187e58d9ea77cfba3d95874240cc5babf9",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Gilt figure in a red arch (cutout).png"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "ngang-gold",
+ "set": "pieces",
+ "names": {
+  "th": "งั่ง รูปหล่อทอง ตาแดง",
+  "en": "Ngang, gilt, red eyes"
+ },
+ "kind": "ngang",
+ "kind_how": "named by Nan",
+ "photos": [
+  "AF1QipOdP3XH9xqcy9y3XmXJRJVn47M5QHmtrozYQ6VC",
+  "AF1QipPL2MZOx2CkNJuZefNJbWJIK-zfhO2ZjRx4yDJg"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "ngang-gold/ngang-gold-cutout.png",
+   "role": "cutout",
+   "sha256": "04a9cd304d58dcb0779f0cf19ec40cffd92c08bf5ad45f5b1fcc67b89c839f16",
+   "width": 708,
+   "height": 1600
+  },
+  {
+   "file": "ngang-gold/ngang-gold-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "93c7fe2a9afcb34595f61967f9bb374ed01a990035bf6a57c15061dcfe1e6c35",
+   "width": 398,
+   "height": 900
+  },
+  {
+   "file": "ngang-gold/ngang-gold-1.jpg",
+   "role": "photo",
+   "sha256": "69813693182896ba5edb1ab0901035444000c9adf545131ff25dd998ec86f9f3",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "ngang-gold/ngang-gold-2.jpg",
+   "role": "photo",
+   "sha256": "8202c1789b31b16c4fafa267b00874d6ea50e2179a0b0860cd459e055d937874",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Ngang, gilt, red eyes (cutout).png"
+ ]
+}

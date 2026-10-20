@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "phong-round-figure",
+ "set": "pieces",
+ "names": {
+  "th": "พระผงกลม รูปนั่ง",
+  "en": "Round powder tablet, seated figure"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPyOjGfXxdmy5Zs4vELbWfqK_mEGi3-Q3a6ide3",
+  "AF1QipPd1SJ5S2-FlC6WaDcL5A8Nf5_8KzRnqM_ccUEm"
+ ],
+ "hero": "all",
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "phong-round-figure/phong-round-figure-cutout.png",
+   "role": "cutout",
+   "sha256": "82f2bae573d977e46950da1ea11681a46eedc6674e103d7f6ff493acbba338e4",
+   "width": 1410,
+   "height": 971
+  },
+  {
+   "file": "phong-round-figure/phong-round-figure-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "49ad1b5b51a1601436509dceda700d7f9fad37e56fe255ff60f438adf309921b",
+   "width": 900,
+   "height": 620
+  },
+  {
+   "file": "phong-round-figure/phong-round-figure-1.jpg",
+   "role": "photo",
+   "sha256": "ddd05d42253e5e08a0c9fbe7da42001ebcf1c06bc80f94f3ed965469ebe4fab1",
+   "width": 2000,
+   "height": 1500
+  },
+  {
+   "file": "phong-round-figure/phong-round-figure-2.jpg",
+   "role": "photo",
+   "sha256": "0195b5c7adf578ef22dcf5a0936d6c4ee47d00ae19f7a05ef8c4e70e5637ef4d",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

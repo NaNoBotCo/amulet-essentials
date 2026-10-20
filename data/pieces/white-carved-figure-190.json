@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "id": "white-carved-figure-190",
+ "set": "pieces",
+ "names": {
+  "th": "หินขาวแกะ",
+  "en": "White carved stone"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipPi0bOgsCckuNwK_BMTZxGn1uG_K2XpxeHlXZRf",
+  "AF1QipPJUOaZY1PjHCVodmd-hWugYJrVCqXqwMfgfCuE"
+ ],
+ "hero": null,
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "white-carved-figure-190/white-carved-figure-190-1.jpg",
+   "role": "photo",
+   "sha256": "d8875780e589d7eb54388da3754baff6f353eaead20655c7cb53420aa27ef1b0",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "white-carved-figure-190/white-carved-figure-190-2.jpg",
+   "role": "photo",
+   "sha256": "7556449121120454813ee88e1bf7209ba57ea882968bca6706a8d8cbf9f39269",
+   "width": 1080,
+   "height": 1440
+  }
+ ]
+}

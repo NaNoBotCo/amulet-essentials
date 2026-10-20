@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "id": "day-buddha-nak-prok",
+ "set": "days",
+ "names": {
+  "th": "พระประจำวันเสาร์ ปางนาคปรก",
+  "en": "Buddha of the day: Seated under the naga's hood — the Saturday posture"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOP-PPd94QxmyBl6JQW6h7FNaz__aZI6KxEkcbM"
+ ],
+ "hero": null,
+ "taken": "2026-08-29",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "tradition",
+ "media": [
+  {
+   "file": "day-buddha-nak-prok/day-buddha-nak-prok-1.jpg",
+   "role": "photo",
+   "sha256": "7f077a788b6da5f3823fa2610d3bfe5a307a272b283f183efdb9d9c816f297f4",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "order": 8,
+ "commons_files": [
+  "File:Buddha of the day, wood carving, 2026-08-29 - Seated under the naga's hood — the Saturday posture.jpg"
+ ]
+}

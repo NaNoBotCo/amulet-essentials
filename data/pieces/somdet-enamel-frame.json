@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "somdet-enamel-frame",
+ "set": "pieces",
+ "names": {
+  "th": "พระสมเด็จ กรอบลงยา",
+  "en": "Somdet in an enamel frame"
+ },
+ "kind": "phra-somdet",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNPraHdfsiX22vfQmhDxIZK8DAvUwF8p83IHnl5",
+  "AF1QipPG8_tbT7a3UqjyUU6VoX5FDOBAMkMq3fIjRApd"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "somdet-enamel-frame/somdet-enamel-frame-cutout.png",
+   "role": "cutout",
+   "sha256": "9f71f2a6e51ca3fa8f0d386575cd7339f7dec9b982f400f206984910c1eb8485",
+   "width": 1033,
+   "height": 1600
+  },
+  {
+   "file": "somdet-enamel-frame/somdet-enamel-frame-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "b9d7fafe98577bea8a07462c821c92c83c27e45d8a74f6c80b8a31784cf8490a",
+   "width": 581,
+   "height": 900
+  },
+  {
+   "file": "somdet-enamel-frame/somdet-enamel-frame-1.jpg",
+   "role": "photo",
+   "sha256": "7724d08ef4c345769cc655e7abed10c199d2640d8262f37e3452689b8fded635",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "somdet-enamel-frame/somdet-enamel-frame-2.jpg",
+   "role": "photo",
+   "sha256": "58448b9af3c00be5d69f020831c5da0a1113a9f1965a0e661566cc47988073fa",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Somdet in an enamel frame (cutout).png"
+ ]
+}

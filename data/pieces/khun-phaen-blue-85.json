@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "khun-phaen-blue-85",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ห้าเหลี่ยม เนื้อผงสีฟ้า",
+  "en": "Pentagonal tablet, blue-grey powder"
+ },
+ "kind": "khun-phaen",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipO7vAtXsA-XI1tLmSASocSJvS6ZmjhVOIJDezbE",
+  "AF1QipMqIF64asQNCqK_u4Bg-TJNrKtwALwI3BL_KrLA"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "khun-phaen-blue-85/khun-phaen-blue-85-cutout.png",
+   "role": "cutout",
+   "sha256": "e39f87c60f888f7a0b44586238a7a99915a6f54fb1d395f1241e681921c6370a",
+   "width": 1164,
+   "height": 1600
+  },
+  {
+   "file": "khun-phaen-blue-85/khun-phaen-blue-85-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "13dec9993e10e57cc7e0207bc9f78edf15b0fadf428a1ce6e6a6629c8b0a8622",
+   "width": 654,
+   "height": 900
+  },
+  {
+   "file": "khun-phaen-blue-85/khun-phaen-blue-85-1.jpg",
+   "role": "photo",
+   "sha256": "7762e84b39284e4f06ac588711339dbf6d7f8da51fb04e9a547fcf5cd6716c43",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "khun-phaen-blue-85/khun-phaen-blue-85-2.jpg",
+   "role": "photo",
+   "sha256": "1336b9b69ad613bd7c183bd3bb5f8b3a3779815e20b049166edd0198030a0121",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Pentagonal tablet, blue-grey powder (cutout).png"
+ ]
+}

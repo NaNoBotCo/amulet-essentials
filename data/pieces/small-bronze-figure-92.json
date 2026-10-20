@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "small-bronze-figure-92",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อจิ๋ว",
+  "en": "Tiny cast figure"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOWP8VQiqPpLgrIn9PunB7MIE4Oc20mJe1rVlCK"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "small-bronze-figure-92/small-bronze-figure-92-cutout.png",
+   "role": "cutout",
+   "sha256": "41e170d9e8ffbc2c028930e4845f1a988bc56323ed1abdc981dd178e25a67003",
+   "width": 985,
+   "height": 902
+  },
+  {
+   "file": "small-bronze-figure-92/small-bronze-figure-92-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d3cc1d136eb5583347434bd08e665c14d8f6807c960c696e599aaafb4a2bb3be",
+   "width": 900,
+   "height": 824
+  },
+  {
+   "file": "small-bronze-figure-92/small-bronze-figure-92-1.jpg",
+   "role": "photo",
+   "sha256": "08eedd009530a92ad724a3ef0a27df08e44512c55e4db8d93fd98768e911e870",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Tiny cast figure (cutout).png"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "jade-round-169",
+ "set": "pieces",
+ "names": {
+  "th": "จี้หยกกลม",
+  "en": "Round jade pendant"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipP_UwAb8mQHKid_n7RFDEjkFyz_TRd592krG9tX"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "jade-round-169/jade-round-169-cutout.png",
+   "role": "cutout",
+   "sha256": "a89de0aa88244fb1860842f77ea4df6022247fa82f860ca39a915f1462aed48e",
+   "width": 1400,
+   "height": 1600
+  },
+  {
+   "file": "jade-round-169/jade-round-169-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d73732d5076bf2e454863efa6e6ec574066c8631da105c4ded4833ed1ab85683",
+   "width": 788,
+   "height": 900
+  },
+  {
+   "file": "jade-round-169/jade-round-169-1.jpg",
+   "role": "photo",
+   "sha256": "e8721ac7bb759ea30917cc17d04d08137d5695a6d90b2f5aab912a7299f2dcee",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Round jade pendant (cutout).png"
+ ]
+}

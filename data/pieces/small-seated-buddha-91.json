@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "small-seated-buddha-91",
+ "set": "pieces",
+ "names": {
+  "th": "พระนั่ง ฐานลงสีฟ้า",
+  "en": "Small seated Buddha with blue inlay"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipOgK5P2hLSfSUqkHxu8FZWcCVG3j4k_AqGw0Jn5"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "small-seated-buddha-91/small-seated-buddha-91-cutout.png",
+   "role": "cutout",
+   "sha256": "c0c6d4d9fbca2342be0306aeec1295a2e8a292cfbe1c9d1282301b7fd902c427",
+   "width": 770,
+   "height": 1206
+  },
+  {
+   "file": "small-seated-buddha-91/small-seated-buddha-91-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "4f947e6ca4c0bb11c770d1b6598ac226dbb06c6f99324bdef2910918203b5067",
+   "width": 575,
+   "height": 900
+  },
+  {
+   "file": "small-seated-buddha-91/small-seated-buddha-91-1.jpg",
+   "role": "photo",
+   "sha256": "14fcca05eb5ee5cd021f64d98f1c207da46cc1f06352ed199c17296cf03d8785",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Small seated Buddha with blue inlay (cutout).png"
+ ]
+}

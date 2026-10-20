@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "brass-rooster",
+ "set": "pieces",
+ "names": {
+  "th": "ไก่ทองเหลือง",
+  "en": "Brass rooster"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipN5TA0phnMV-QEBx8sCTvtKcpvDpXLl-JGhm1q5",
+  "AF1QipNdIeTPTJ3ND83wsLuuqCpZxDIANbLUevvpVuzZ"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "brass-rooster/brass-rooster-cutout.png",
+   "role": "cutout",
+   "sha256": "143d079c32fc141b9a67651dccc9f2d26aade1b902eba5361b833a35fbc9c818",
+   "width": 1442,
+   "height": 1384
+  },
+  {
+   "file": "brass-rooster/brass-rooster-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "4c148252581fed27a1bebdea917c5a20fa051e98a98dbde5fa21f3d941db3de6",
+   "width": 900,
+   "height": 864
+  },
+  {
+   "file": "brass-rooster/brass-rooster-1.jpg",
+   "role": "photo",
+   "sha256": "c6c4835f00cbb30e77f9a1583ddb31b13f8e3e9c863b58c35ce4c2a014cad10a",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "brass-rooster/brass-rooster-2.jpg",
+   "role": "photo",
+   "sha256": "d2846a4e182c3723b1ddc9b479994a7e0819c7dc0997d4bd23b03e884ed439bf",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Brass rooster (cutout).png"
+ ]
+}

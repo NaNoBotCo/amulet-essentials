@@ -1,0 +1,74 @@
+{
+ "schema": 1,
+ "id": "gambling-amulet",
+ "set": "pieces",
+ "names": {
+  "th": "เครื่องรางสายพนัน หล่อเรซิน กรอบม่วง",
+  "en": "Gambling amulet: small charms set in resin, purple frame"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNhN4ErcnjyFVk01gwMBbZWJ9yJ1O4EZj_Sv7AB",
+  "AF1QipMA8w6AKufiSS4Ej6p7EgmRf_0U-J3g6aLfQ5nZ",
+  "AF1QipMlgfff1SyKwY8cTgTC3z06bvrioGSyKRk0j4sI",
+  "AF1QipPOKD-MZ8WyX6D2nA9oz48rYdZ30fC3jtdMJEE8"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "gambling-amulet/gambling-amulet-cutout.png",
+   "role": "cutout",
+   "sha256": "1fb0f281b4935cd9b96426da263f2152411215537df1b5151de1d14f61181395",
+   "width": 1172,
+   "height": 1600
+  },
+  {
+   "file": "gambling-amulet/gambling-amulet-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "793de5bcbdacca6f623bb919e6aeedc7bb3512f8c23c1c3f0e1722cd66f7ed14",
+   "width": 659,
+   "height": 900
+  },
+  {
+   "file": "gambling-amulet/gambling-amulet-1.jpg",
+   "role": "photo",
+   "sha256": "d2f08a4e1d04d68e4e2b6a2d22919ad16eadedbcd690ce7a4baea31ffc0ae6e9",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "gambling-amulet/gambling-amulet-2.jpg",
+   "role": "photo",
+   "sha256": "30b9c98501d3825c4cd43e6becf73896e96ca38d1a7fc13f15b9f40501a9606b",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "gambling-amulet/gambling-amulet-3.jpg",
+   "role": "photo",
+   "sha256": "5e2b317da5565206686bc6c960371d0168ac38420e39cbefe0926a12742a0307",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "gambling-amulet/gambling-amulet-4.jpg",
+   "role": "photo",
+   "sha256": "5cf7b3e31bff95a8ca68b78289cfd9a657ee57283dcb8fbedc574567238ccf86",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Gambling amulet small charms set in resin, purple frame (cutout).png"
+ ]
+}

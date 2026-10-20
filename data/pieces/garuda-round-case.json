@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "garuda-round-case",
+ "set": "pieces",
+ "names": {
+  "th": "พญาครุฑ ตลับกลม",
+  "en": "Garuda in a round case"
+ },
+ "kind": "phaya-khrut",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipMzGALbs8-AjJSmIUT5yqrNP0mxbiA6GmSKc9hu",
+  "AF1QipNAnEhM8wIejWisF0GAA77HZBPsFMr6HEsbkwWe"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "garuda-round-case/garuda-round-case-cutout.png",
+   "role": "cutout",
+   "sha256": "076fbfb7c67644173958b9f61b3fed97931ade0e2fd0bb842e58300955116d64",
+   "width": 1263,
+   "height": 1600
+  },
+  {
+   "file": "garuda-round-case/garuda-round-case-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "4ad5921fab971532eb886b77ddf7d6eb00ecbd0a2455991a03ce34122337b163",
+   "width": 710,
+   "height": 900
+  },
+  {
+   "file": "garuda-round-case/garuda-round-case-1.jpg",
+   "role": "photo",
+   "sha256": "79b34ca6f19f7828a2de8fd8e3c4af09bb68e0b07d31b5510e98b259c56ec551",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "garuda-round-case/garuda-round-case-2.jpg",
+   "role": "photo",
+   "sha256": "c03f61eeec175b426d6403b20e225561300cdccf706f27e0024f077ec026bd8f",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Garuda in a round case (cutout).png"
+ ]
+}

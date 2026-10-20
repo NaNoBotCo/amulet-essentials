@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "pink-jade-horse",
+ "set": "pieces",
+ "names": {
+  "th": "ม้าหยกชมพู",
+  "en": "Pink jade horse"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipP2EZF8ynyk5V-Mj_2HHjLUpDHDlPRBsOWTn1eB",
+  "AF1QipMb8g5a5dW6L0tKj9Qez-IqYCV-Qw4FFEVcGr43"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "pink-jade-horse/pink-jade-horse-cutout.png",
+   "role": "cutout",
+   "sha256": "3725982cc8325dfcfa39900c63bf2e09e564c400010daa9e00a51b46c6d9d177",
+   "width": 871,
+   "height": 970
+  },
+  {
+   "file": "pink-jade-horse/pink-jade-horse-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "f17bc34055024a9a44c0baf3f8cd4200d0e1dc2a924a810dfce26039df741c7d",
+   "width": 808,
+   "height": 900
+  },
+  {
+   "file": "pink-jade-horse/pink-jade-horse-1.jpg",
+   "role": "photo",
+   "sha256": "ad7def067cf16db01dc856ddf3e41da886ec1b92a990a03111656a1276a9c71c",
+   "width": 1440,
+   "height": 1080
+  },
+  {
+   "file": "pink-jade-horse/pink-jade-horse-2.jpg",
+   "role": "photo",
+   "sha256": "ed1c49fc58286bef58d20880e0e9503233b2495fddc2ca8f0eb24275ea83ef8b",
+   "width": 1440,
+   "height": 1080
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Pink jade horse (cutout).png"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "love-print-frame-227",
+ "set": "pieces",
+ "names": {
+  "th": "ภาพพิมพ์หญิงงาม",
+  "en": "Printed portrait of a woman"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipMtzcJET4hnNCUDkIuOsvHfRcylI3wPm3zkENnV"
+ ],
+ "hero": "all",
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "love-print-frame-227/love-print-frame-227-cutout.png",
+   "role": "cutout",
+   "sha256": "b029ed8d508ebdbc2c213d2843abaf1bbf1e34d11893d4bf96aeaea4ef793cdb",
+   "width": 1600,
+   "height": 1576
+  },
+  {
+   "file": "love-print-frame-227/love-print-frame-227-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "c369889f957eb0fe319ee6a12f962f932e3093087e60fed71aa837581e714a0f",
+   "width": 900,
+   "height": 886
+  },
+  {
+   "file": "love-print-frame-227/love-print-frame-227-1.jpg",
+   "role": "photo",
+   "sha256": "86cfcc984c80f4a82ec5f24194d8cdc6ccbecc18a24618311292404d9694e683",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "id": "khun-phaen-red-enamel",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์ห้าเหลี่ยม กรอบลงยาแดง",
+  "en": "Pentagonal tablet in a red enamel frame"
+ },
+ "kind": "khun-phaen",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipMmCGbsX2GF-s6c7zKBfoLk-hjS2rDSTgGeTQoG",
+  "AF1QipPfa24pFXWwMHNZ4i57gnTSzeYm6FsPHPi6qPhg",
+  "AF1QipMDq_vNv0kCe2eBUEGUdBxVAutHaUfQhFiVQY3e"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "khun-phaen-red-enamel/khun-phaen-red-enamel-cutout.png",
+   "role": "cutout",
+   "sha256": "67d3120599bdaafb6117ab228baa3f3ada27e52003d17f1d667a4c86eba0fc32",
+   "width": 1080,
+   "height": 1600
+  },
+  {
+   "file": "khun-phaen-red-enamel/khun-phaen-red-enamel-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d3ddf8c0a3e6f8098655d838807ad7e8f3381cdcf26487eeffd229cba66c90ec",
+   "width": 608,
+   "height": 900
+  },
+  {
+   "file": "khun-phaen-red-enamel/khun-phaen-red-enamel-1.jpg",
+   "role": "photo",
+   "sha256": "ecb9ae7804967a35a8d6c2e982081b6c48cc6723925b53b627716d7c2bfa54e9",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "khun-phaen-red-enamel/khun-phaen-red-enamel-2.jpg",
+   "role": "photo",
+   "sha256": "9b624f5078a3f60883cdc0fa23f7820d930aeeacda1e1fc8f3dc5213c1dcd165",
+   "width": 1500,
+   "height": 2000
+  },
+  {
+   "file": "khun-phaen-red-enamel/khun-phaen-red-enamel-3.jpg",
+   "role": "photo",
+   "sha256": "0657d01931c7b9b0266da70a3ee2e900165e16a439225c2c6997922374044ed9",
+   "width": 1500,
+   "height": 2000
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Pentagonal tablet in a red enamel frame (cutout).png"
+ ]
+}

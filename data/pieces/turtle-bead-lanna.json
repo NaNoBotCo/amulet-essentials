@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "id": "turtle-bead-lanna",
+ "set": "pieces",
+ "names": {
+  "th": "ลูกปัดเต่า ทองเหลืองหล่อ ล้านนา",
+  "en": "Lanna cast-brass turtle bead"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipN9rFsnf51c908tr7pZMPlVk-941mzPQMBM2-yZ"
+ ],
+ "hero": null,
+ "taken": "2026-09-20",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "turtle-bead-lanna/turtle-bead-lanna-1.jpg",
+   "role": "photo",
+   "sha256": "a8aea33b999573baa8a0a95407bf8353a47f3dabc50a31d6469898f9d251e1b2",
+   "width": 2000,
+   "height": 1500
+  }
+ ]
+}

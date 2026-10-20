@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "id": "gold-boat-boy",
+ "set": "pieces",
+ "names": {
+  "th": "เรือทอง เด็กนั่ง",
+  "en": "Gilt boat with a seated child"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipP5YeXfwbkOE2XV3U5PF-xOUedfWqlNbdObOAJY",
+  "AF1QipN-7Lnpjphte57kkN5RoZMEZWpKiRizU4DFV5Zv"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "gold-boat-boy/gold-boat-boy-cutout.png",
+   "role": "cutout",
+   "sha256": "8fdf144dfd906ef973a532b976cc6a2f8182d943f7c6b90045bae1625f57366d",
+   "width": 778,
+   "height": 494
+  },
+  {
+   "file": "gold-boat-boy/gold-boat-boy-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d010ab293dd0dc7ea4ad5bd217c344b3fbd4df9b7655643f3284cd33d9b196f1",
+   "width": 778,
+   "height": 494
+  },
+  {
+   "file": "gold-boat-boy/gold-boat-boy-1.jpg",
+   "role": "photo",
+   "sha256": "9dc0b507ed5cccf12c29c756a3fcacf1a40241b6ff9290bfb366fc247007383a",
+   "width": 1080,
+   "height": 1440
+  },
+  {
+   "file": "gold-boat-boy/gold-boat-boy-2.jpg",
+   "role": "photo",
+   "sha256": "d8a19a1fe5299f53452f57c4724decbf7e419d2b7d5af670771ae3a3207ad6ce",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Gilt boat with a seated child (cutout).png"
+ ]
+}

@@ -98,8 +98,8 @@
    "tier": "cited"
   },
   {
-   "th": "ตลาดไทยไม่มีคำเรียกตายตัว ของที่ขายว่า 'เหล็กไหลพม่า' ต้องถามว่าทำหรือขุด",
-   "en": "Thai listings have no fixed word for it; anything sold as 'Burmese lek lai' should be asked whether it was made or dug, because that is the whole difference",
+   "th": "ตลาดไทยไม่มีคำเรียกตายตัว ของที่ขายว่า 'เหล็กไหลพม่า' มีทั้งของทำและของขุด",
+   "en": "Thai listings have no fixed word for it; anything sold as 'Burmese lek lai' was either made or dug, and that is the whole difference",
    "source": "s:tradition",
    "tier": "tradition"
   }

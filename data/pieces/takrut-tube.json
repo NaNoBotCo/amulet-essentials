@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "takrut-tube",
+ "set": "pieces",
+ "names": {
+  "th": "ตะกรุด ในหลอดแก้ว",
+  "en": "Takrut in a glass tube"
+ },
+ "kind": "takrut",
+ "kind_how": "resembles",
+ "photos": [
+  "AF1QipNPNYUgmNWha01z2Jt1sLpyDwlrt-sUadXLBfew"
+ ],
+ "hero": [
+  2
+ ],
+ "taken": "2026-09-20",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "takrut-tube/takrut-tube-cutout.png",
+   "role": "cutout",
+   "sha256": "f4e9732ce8b623a8ad48f708e201346f59f4c96a44a43a57deb1806f292f4b77",
+   "width": 1600,
+   "height": 464
+  },
+  {
+   "file": "takrut-tube/takrut-tube-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "d362a92c4e3c333e3b804e460d79b79c6220f1348bb6916390d14237ea33e154",
+   "width": 900,
+   "height": 261
+  },
+  {
+   "file": "takrut-tube/takrut-tube-1.jpg",
+   "role": "photo",
+   "sha256": "6a3c91cfa451d446998669df086a33b28c005c9ccf34c878861eb1e9227f8fe8",
+   "width": 2000,
+   "height": 1500
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-20 - Takrut in a glass tube (cutout).png"
+ ]
+}

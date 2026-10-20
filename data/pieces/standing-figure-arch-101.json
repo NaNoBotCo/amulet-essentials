@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "standing-figure-arch-101",
+ "set": "pieces",
+ "names": {
+  "th": "รูปหล่อยืน เลี่ยมซุ้ม",
+  "en": "Standing cast figure in an arched case"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipNji7Izk6SIoLbvTZYBIAcgC9lNA2G4NVXigPzS"
+ ],
+ "hero": [
+  1
+ ],
+ "taken": "2026-09-02",
+ "commons": true,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "standing-figure-arch-101/standing-figure-arch-101-cutout.png",
+   "role": "cutout",
+   "sha256": "668212f42b16104de8d660b4743346fe65c07eaedfa20805dbd3262a95f5fc02",
+   "width": 406,
+   "height": 636
+  },
+  {
+   "file": "standing-figure-arch-101/standing-figure-arch-101-cutout.webp",
+   "role": "cutout_web",
+   "sha256": "2d059434bf6d3519b4fd7dfa4c494f774aebebbc38faee8f0820404392f648dc",
+   "width": 406,
+   "height": 636
+  },
+  {
+   "file": "standing-figure-arch-101/standing-figure-arch-101-1.jpg",
+   "role": "photo",
+   "sha256": "542098889f59d99b077666a5720d980b453963f484f1c4d92d7088abb68f2ea9",
+   "width": 1080,
+   "height": 1440
+  }
+ ],
+ "commons_files": [
+  "File:Thai amulet photographed 2026-09-02 - Standing cast figure in an arched case (cutout).png"
+ ]
+}

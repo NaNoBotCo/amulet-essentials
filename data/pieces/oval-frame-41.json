@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "id": "oval-frame-41",
+ "set": "pieces",
+ "names": {
+  "th": "พระพิมพ์รูปไข่ ห้อยคอ",
+  "en": "Oval tablet worn at the neck"
+ },
+ "kind": null,
+ "kind_how": null,
+ "photos": [
+  "AF1QipO-F4gbVEvvAfCt1gZPKV9BCZzGpFOo9bv4IMKN"
+ ],
+ "hero": null,
+ "taken": "2026-08-17",
+ "commons": false,
+ "text": {
+  "th": "",
+  "en": ""
+ },
+ "tier": "field",
+ "media": [
+  {
+   "file": "oval-frame-41/oval-frame-41-1.jpg",
+   "role": "photo",
+   "sha256": "2478de8fb62695f95aa2d099fad57d9e706fe881a8e3a6da6a4bd1369235b89b",
+   "width": 1500,
+   "height": 2000
+  }
+ ]
+}
